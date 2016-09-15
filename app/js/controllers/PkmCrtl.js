@@ -5,12 +5,21 @@ pkmApp.controller('PkmCtrl', function($scope, getData) {
   getPkm();
 
   function getPkm(){
-    getData.getPkm()
+    getData.getGen()
       .then(function (response){
-          $scope.pkmName = response.data.name;
+          $scope.pkmData = response.data;
+          $scope.pkmType = response.data.types;
+          $scope.pkmStat = response.data.stats;
       }, function(error){
-        $scope.status = 'unable to load pokemon data: ' + error.message;
+        $scope.status1 = 'unable to load data: ' + error.message;
       });
+    getData.getDesc()
+      .then(function(response){
+        $scope.pkmEntry = response.data.flavor_text_entries;
+        $scope.pkmSpecies = response.data.genera;
+      }), function(error){
+        $scope.status2 = 'unable to load data: ' + error.message;
+      }
   }
 
 
@@ -49,21 +58,5 @@ pkmApp.controller('PkmCtrl', function($scope, getData) {
   //     console.log($scope.listPkmId);
   //     console.log($scope.listPkm);
   //   });
-  // var baseUrl = 'http://pokeapi.co';
-  //   //temp pokemon ID
-  // var pkmID = 3;
-  // // $scope.pokeStat = '';
-  //   var pokeApi = $http.get(baseUrl + "/api/v2/pokemon/" + pkmID).then(function (response) {
-  //     $scope.pokeData = response.data;
-  //     $scope.pokeType = response.data.types;
-  //     $scope.pokeStat = response.data.stats;
 
 
-  // });
-  // // console.log($scope.pokeStat);
-
-
-  // $http.get(baseUrl + "/api/v2/pokemon-species/" +pkmID).then(function(response){
-  //   $scope.pokeEntry = response.data.flavor_text_entries; //flavor_text_entries is the description
-  //   $scope.pokeSpecies = response.data.genera;
-  // });

@@ -1,0 +1,40 @@
+@import 'https://fonts.googleapis.com/css?family=Muli';
+@import 'partials/variables';
+
+body{
+	font-family: 'Muli', sans-serif;
+}
+section{
+	padding:1em;
+	border:$border;
+}
+#pokemon-list{
+	flex:1 1;
+}
+#display{
+	list-style:none;
+	flex:3 1;
+
+	.name{
+		text-align:center;
+	}
+	.image{
+		flex: 1 1;
+		div{
+			display:flex; justify-content:center;
+		}
+	}
+	.pokemon-description{
+		flex: 3 1;
+		table{
+			display:flex; justify-content:center;
+			td{
+				width:8em;
+				text-align:center;
+				border: $border;
+			}
+		}
+		p{width:30em; align-self:center;}
+	}
+
+}

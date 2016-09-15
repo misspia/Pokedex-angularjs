@@ -1,0 +1,35 @@
+@import "https://fonts.googleapis.com/css?family=Muli";
+body {
+  font-family: 'Muli', sans-serif; }
+
+section {
+  padding: 1em;
+  border: solid 1px black; }
+
+#pokemon-list {
+  flex: 1 1; }
+
+#display {
+  list-style: none;
+  flex: 3 1; }
+  #display .name {
+    text-align: center; }
+  #display .image {
+    flex: 1 1; }
+    #display .image div {
+      display: flex;
+      justify-content: center; }
+  #display .pokemon-description {
+    flex: 3 1; }
+    #display .pokemon-description table {
+      display: flex;
+      justify-content: center; }
+      #display .pokemon-description table td {
+        width: 8em;
+        text-align: center;
+        border: solid 1px black; }
+    #display .pokemon-description p {
+      width: 30em;
+      align-self: center; }
+
+/*# sourceMappingURL=main.css.map */

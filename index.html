@@ -1,86 +1,45 @@
 <!DOCTYPE html>
-<html>
+<html  ng-app="Pokedex">
 <head>
 	<title>Pokedex</title>
-
-	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.3/foundation-flex.min.css">
+	<link rel="stylesheet" type="text/css" href="app/css/layout.css">
 	<link rel="stylesheet" type="text/css" href="app/css/main.css">
 </head>
-<body>
-
-<div ng-app="Pokedex" ng-controller="PkmCtrl" class="row">
-	<div id ="select" class="small-12 medium-4 large-4 columns">
-		<table>
-			
-		</table>
-	<span ng-repeat='i in listPkmId'>{{i}} </span><span ng-repeat="p in listPkm">{{p}} </span>		
-	</div>
-
-	<div id = "display" class="small-12 medium-8 large-8">
-		<div class="name"> {{pkmName}} <!-- {{pokeData.name | uppercase}} --></div>
-
-		<div class="row">
-			<div class="small-4 medium-5 large-5">
-				<div class="row sprite"><img src="http://www.pokestadium.com/sprites/xy/{{pokeData.name}}.gif"></div>
-				<div class="pokeid">#{{pokeData.id}} </div>
-				
-			</div>
-			<div class="small-8 medium-7 large-7">
-				<div class="row">
-					<table id="overview">
-						<tbody>
-							<tr>
-								<td> {{pokeSpecies[0].genus | uppercase}} </td>
-								<td>{{pokeData.height}} </td>
-								<td>{{pokeData.weight}} </td>
-							</tr>
-							<tr>
-								<td>SPECIES</td>
-								<td>HEIGHT</td>
-								<td>WEIGHT</td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
-				<div class="description row">
-					{{pokeEntry[1].flavor_text}}
-				</div>
-			</div>
-		</div>
-
-	    <span ng-repeat="type in pokeType">{{type.type.name}} </span>
-	    	
-<br><br><br>
-	    
-
-
-	    <table id="statTable">
-	    	<tbody>
-	    		<tr><td ng-repeat="stat in pokeStat"><div class="stat-{{stat.stat.name}} statBar"></div></td></tr>
-	    		<tr>
-	    			<td>SPD</td>
-	    			<td>SP DEF</td>
-	    			<td>SP ATK</td>
-	    			<td>DEF</td>
-	    			<td>ATK</td>
-	    			<td>SPD</td>
-	    			<!-- <td ng-repeat="stat in pokeStat">{{stat.stat.name | uppercase}}</td> -->
-	    		</tr>
-	    	</tbody>
-	    </table>
-	
-	<div ng-repeat="stat in pokeStat">
-	    	<div>{{stat.stat.name}}: {{stat.base_stat}}</div>
-	    </div>
-	</div>
-	
-   
-
-</div>
-
-
-
-
+<body class='row'>
+	<section id='pokemon-list' class='col'>testtest</section>
+	<section ng-controller="PkmCtrl" id='display' class= 'col'>
+		<ul class='row center name'><span>{{pkmData.id}}. {{pkmData.name | uppercase}}</span></ul>
+		<!-- BASIC INFO -->
+		<ul class='row'>
+			<li class='col image'>
+				<div><img src="http://www.pokestadium.com/sprites/xy/{{pkmData.name}}.gif"></div>
+				<!-- <p> </p> -->
+			</li>
+			<li class='col pokemon-description'>
+				<table>
+					<tr>
+						<td>{{pkmSpecies[0].genus}}</td>
+						<td>{{pkmData.height}}</td>
+						<td>{{pkmData.weight}}</td>
+					</tr>
+					<tr>
+						<td>SPECIES</td>
+						<td>HEIGHT</td>
+						<td>WEIGHT</td>
+					</tr>
+				</table>
+				<p class='row'>{{pkmEntry[1].flavor_text}} </p>
+			</li>
+		</ul>
+		<!-- GRAPH -->
+		<ul class='row'>
+			<li ng-repeat ='type in pkmType'>TYPE: {{type.type.name | uppercase}} </li>
+			<li >
+				<ul ng-repeat = 'stat in pkmStat'>
+					<li>{{stat.stat.name}}: {{stat.base_stat}} </li>
+				</ul>
+			</li>
+	</section>
 
 
 </body>
