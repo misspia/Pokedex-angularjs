@@ -4,48 +4,50 @@
 	<title>Pokedex</title>
 	<link rel="stylesheet" type="text/css" href="app/css/layout.css">
 	<link rel="stylesheet" type="text/css" href="app/css/main.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
 </head>
-<body class='row'>
-	<section id='pokemon-list' class='col'>testtest</section>
-	<section ng-controller="PkmCtrl" id='display' class= 'col'>
-		<ul class='row center name'><span>{{pkmData.id}}. {{pkmData.name | uppercase}}</span></ul>
-		<!-- BASIC INFO -->
-		<ul class='row'>
-			<li class='col image'>
-				<div><img src="http://www.pokestadium.com/sprites/xy/{{pkmData.name}}.gif"></div>
-				<!-- <p> </p> -->
-			</li>
-			<li class='col pokemon-description'>
-				<table>
-					<tr>
-						<td>{{pkmSpecies[0].genus}}</td>
-						<td>{{pkmData.height}}</td>
-						<td>{{pkmData.weight}}</td>
-					</tr>
-					<tr>
-						<td>SPECIES</td>
-						<td>HEIGHT</td>
-						<td>WEIGHT</td>
-					</tr>
-				</table>
-				<p class='row'>{{pkmEntry[1].flavor_text}} </p>
-			</li>
-		</ul>
-		<!-- GRAPH -->
-		<ul class='row'>
-			<li ng-repeat ='type in pkmType'>TYPE: {{type.type.name | uppercase}} </li>
-			<li >
-				<ul ng-repeat = 'stat in pkmStat'>
-					<li>{{stat.stat.name}}: {{stat.base_stat}} </li>
-				</ul>
-			</li>
-	</section>
-
-
+<body ng-controller="mainCtrl">
+	<ul class="row">
+		<li>
+			<ul id='pokemon-list' class='col'>
+				<li ng-repeat = "p in masterlist">
+					<ul class="row" ng-click = "getPkm(p.id)">
+						<li>{{p.id}}</li>
+						<li>{{p.name}} </li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<ul id='display' class= 'col'>
+				<li class='row center name'>
+					<span>{{pkmData.id}}. {{pkmData.name | uppercase}}</span>
+				</li>
+				<li class ='row center'>
+					<!-- <img src="http://www.pokestadium.com/sprites/xy/{{pkmData.name}}.gif"> -->
+				</li>
+				<li class='col pokemon-description'>
+					<table>
+						<tr>
+							<td>{{pkmSpecies[0].genus}}</td>
+							<td>{{pkmData.height}}</td>
+							<td>{{pkmData.weight}}</td>
+						</tr>
+						<tr>
+							<td>SPECIES</td>
+							<td>HEIGHT</td>
+							<td>WEIGHT</td>
+						</tr>
+					</table>
+					<p class='row'>{{pkmEntry[1].flavor_text}} </p>
+				</li>
+			</ul>
+		</li>
+	</ul>
 </body>
 </html>
 
 <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
 <script type="text/javascript" src="app/js/app.js"></script>
-<script type="text/javascript" src="app/js/controllers/PkmCrtl.js"></script>
+<script type="text/javascript" src="app/js/controllers/mainCrtl.js"></script>
 <script type="text/javascript" src="app/js/services/getData.js"></script>

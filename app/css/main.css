@@ -32,4 +32,10 @@ section {
       width: 30em;
       align-self: center; }
 
+#viz {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  background-color: white; }
+
 /*# sourceMappingURL=main.css.map */

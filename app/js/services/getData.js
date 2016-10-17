@@ -3,12 +3,15 @@ pkmApp.factory('getData', function($http){
 	var pkmID = 6;
   
   return{
-    getGen: function() {
-      return $http.get(baseUrl + '/api/v2/pokemon/' +pkmID);
+    masterList: function() {
+      return $http.get('../../../server/json/list.json');
     },
-    getDesc: function() {
-      return $http.get(baseUrl + '/api/v2/pokemon-species/' +pkmID);
-    } 
+    getGen: function(id) {
+      return $http.get(baseUrl + '/api/v2/pokemon/' + id);
+    },
+    getDesc: function(id) {
+      return $http.get(baseUrl + '/api/v2/pokemon-species/' + id);
+    }
   }; 
   	
 });
