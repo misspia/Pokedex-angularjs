@@ -1,0 +1,578 @@
+{
+    "id": "121",
+    "National №": "121",
+    "Type": [
+        "Water",
+        "Psychic"
+    ],
+    "Species": "Mysterious Pokémon",
+    "Height": "3′7″ (1.09m)",
+    "Weight": "176.4 lbs (80.0 kg)",
+    "Abilities": [
+        "Illuminate",
+        "Natural Cure"
+    ],
+    "Local №": [],
+    "Japanese": "Sutami",
+    "stats": {
+        "HP": {
+            "avg": "60",
+            "min": "230",
+            "max": "324"
+        },
+        "Attack": {
+            "avg": "75",
+            "min": "139",
+            "max": "273"
+        },
+        "Defense": {
+            "avg": "85",
+            "min": "157",
+            "max": "295"
+        },
+        "Sp. Atk": {
+            "avg": "100",
+            "min": "184",
+            "max": "328"
+        },
+        "Sp. Def": {
+            "avg": "85",
+            "min": "157",
+            "max": "295"
+        },
+        "Speed": {
+            "avg": "115",
+            "min": "211",
+            "max": "361"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-50",
+        "Water": "type-fx-cell type-fx-50",
+        "Electric": "type-fx-cell type-fx-200",
+        "Grass": "type-fx-cell type-fx-200",
+        "Ice": "type-fx-cell type-fx-50",
+        "Fighting": "type-fx-cell type-fx-50",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-100",
+        "Flying": "type-fx-cell type-fx-100",
+        "Psychic": "type-fx-cell type-fx-50",
+        "Bug": "type-fx-cell type-fx-200",
+        "Rock": "type-fx-cell type-fx-100",
+        "Ghost": "type-fx-cell type-fx-200",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-200",
+        "Steel": "type-fx-cell type-fx-50",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "22"
+            ],
+            "Move": [
+                "Hydro Pump",
+                "Rapid Spin",
+                "Recover",
+                "Swift",
+                "Water Gun",
+                "Confuse Ray"
+            ],
+            "Type": [
+                "Water",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Water",
+                "Ghost"
+            ],
+            "Cat.": [
+                "Special",
+                "Physical",
+                "Status",
+                "Special",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "110",
+                "20",
+                "-",
+                "60",
+                "40",
+                "-"
+            ],
+            "Acc.": [
+                "80",
+                "100",
+                "-",
+                "∞",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "set": []
+        },
+        "2": {
+            "title": "Pre-evolution moves",
+            "Move": [
+                "Brine",
+                "Bubble Beam",
+                "Camouflage",
+                "Cosmic Power",
+                "Gyro Ball",
+                "Harden",
+                "Light Screen",
+                "Minimize",
+                "Power Gem",
+                "Reflect Type",
+                "Tackle"
+            ],
+            "Type": [
+                "Water",
+                "Water",
+                "Normal",
+                "Psychic",
+                "Steel",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Rock",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Physical"
+            ],
+            "Power": [
+                "65",
+                "65",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "80",
+                "-",
+                "50"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "-",
+                "100",
+                "-",
+                "-",
+                "-",
+                "100",
+                "-",
+                "100"
+            ],
+            "Method": [
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "3",
+                "5"
+            ],
+            "Move": [
+                "Surf",
+                "Waterfall"
+            ],
+            "Type": [
+                "Water",
+                "Water"
+            ],
+            "Cat.": [
+                "Special",
+                "Physical"
+            ],
+            "Power": [
+                "90",
+                "80"
+            ],
+            "Acc.": [
+                "100",
+                "100"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "3",
+                "6",
+                "7",
+                "10",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "21",
+                "24",
+                "25",
+                "27",
+                "29",
+                "32",
+                "33",
+                "42",
+                "44",
+                "48",
+                "55",
+                "68",
+                "70",
+                "73",
+                "74",
+                "77",
+                "85",
+                "86",
+                "87",
+                "88",
+                "90",
+                "91",
+                "92",
+                "99",
+                "100"
+            ],
+            "Move": [
+                "Psyshock",
+                "Toxic",
+                "Hail",
+                "Hidden Power",
+                "Ice Beam",
+                "Blizzard",
+                "Hyper Beam",
+                "Light Screen",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Thunderbolt",
+                "Thunder",
+                "Return",
+                "Psychic",
+                "Double Team",
+                "Reflect",
+                "Facade",
+                "Rest",
+                "Round",
+                "Scald",
+                "Giga Impact",
+                "Flash",
+                "Thunder Wave",
+                "Gyro Ball",
+                "Psych Up",
+                "Dream Eater",
+                "Grass Knot",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Flash Cannon",
+                "Trick Room",
+                "Dazzling Gleam",
+                "Confide"
+            ],
+            "Type": [
+                "Psychic",
+                "Poison",
+                "Ice",
+                "Normal",
+                "Ice",
+                "Ice",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Water",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Water",
+                "Normal",
+                "Normal",
+                "Electric",
+                "Steel",
+                "Normal",
+                "Psychic",
+                "Grass",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Steel",
+                "Psychic",
+                "Fairy",
+                "Normal"
+            ],
+            "Cat.": [
+                "Special",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Special",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "80",
+                "-",
+                "-",
+                "60",
+                "90",
+                "110",
+                "150",
+                "-",
+                "-",
+                "-",
+                "-",
+                "90",
+                "110",
+                "-",
+                "90",
+                "-",
+                "-",
+                "70",
+                "-",
+                "60",
+                "80",
+                "150",
+                "-",
+                "-",
+                "-",
+                "-",
+                "100",
+                "-",
+                "-",
+                "-",
+                "-",
+                "80",
+                "-",
+                "80",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "90",
+                "-",
+                "100",
+                "100",
+                "70",
+                "90",
+                "-",
+                "-",
+                "-",
+                "100",
+                "100",
+                "70",
+                "100",
+                "100",
+                "-",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "90",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "90",
+                "-",
+                "-",
+                "100",
+                "-",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "5": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Double-Edge",
+                "Mimic",
+                "Avalanche",
+                "Natural Gift",
+                "Whirlpool",
+                "Rollout",
+                "Twister",
+                "Telekinesis"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Ice",
+                "Normal",
+                "Water",
+                "Rock",
+                "Dragon",
+                "Psychic"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Special",
+                "Physical",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "120",
+                "-",
+                "60",
+                "-",
+                "35",
+                "30",
+                "40",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "100",
+                "100",
+                "85",
+                "90",
+                "100",
+                "-"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — HM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 5 — TM"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "BlackWhite": [
+                "Route 13"
+            ],
+            "Black 2White 2": [
+                "Route 13",
+                "Undella Town",
+                "Humilau City"
+            ],
+            "XY": [
+                "Route 8 (Muraille Coast)"
+            ]
+        }
+    ]
+}

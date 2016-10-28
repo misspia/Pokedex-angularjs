@@ -1,0 +1,628 @@
+{
+    "id": "407",
+    "National №": "407",
+    "Type": [
+        "Grass",
+        "Poison"
+    ],
+    "Species": "Bouquet Pokémon",
+    "Height": "2′11″ (0.89m)",
+    "Weight": "32 lbs (14.5 kg)",
+    "Abilities": [
+        "Natural Cure",
+        "Poison Point"
+    ],
+    "Local №": [],
+    "Japanese": "Rozureido",
+    "stats": {
+        "HP": {
+            "avg": "60",
+            "min": "230",
+            "max": "324"
+        },
+        "Attack": {
+            "avg": "70",
+            "min": "130",
+            "max": "262"
+        },
+        "Defense": {
+            "avg": "65",
+            "min": "121",
+            "max": "251"
+        },
+        "Sp. Atk": {
+            "avg": "125",
+            "min": "229",
+            "max": "383"
+        },
+        "Sp. Def": {
+            "avg": "105",
+            "min": "193",
+            "max": "339"
+        },
+        "Speed": {
+            "avg": "90",
+            "min": "166",
+            "max": "306"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-200",
+        "Water": "type-fx-cell type-fx-50",
+        "Electric": "type-fx-cell type-fx-50",
+        "Grass": "type-fx-cell type-fx-25",
+        "Ice": "type-fx-cell type-fx-200",
+        "Fighting": "type-fx-cell type-fx-50",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-100",
+        "Flying": "type-fx-cell type-fx-200",
+        "Psychic": "type-fx-cell type-fx-200",
+        "Bug": "type-fx-cell type-fx-100",
+        "Rock": "type-fx-cell type-fx-100",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-50"
+    },
+    "description": "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "Move": [
+                "Grassy Terrain",
+                "Magical Leaf",
+                "Mega Drain",
+                "Poison Sting",
+                "Sweet Scent",
+                "Venom Drench",
+                "Weather Ball"
+            ],
+            "Type": [
+                "Grass",
+                "Grass",
+                "Grass",
+                "Poison",
+                "Normal",
+                "Poison",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Special"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "40",
+                "15",
+                "-",
+                "-",
+                "50"
+            ],
+            "Acc.": [
+                "-",
+                "∞",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Bullet Seed",
+                "Cotton Spore",
+                "Extrasensory",
+                "Giga Drain",
+                "Grass Whistle",
+                "Leaf Storm",
+                "Mind Reader",
+                "Natural Gift",
+                "Pin Missile",
+                "Razor Leaf",
+                "Seed Bomb",
+                "Sleep Powder",
+                "Spikes",
+                "Synthesis"
+            ],
+            "Type": [
+                "Grass",
+                "Grass",
+                "Psychic",
+                "Grass",
+                "Grass",
+                "Grass",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Grass",
+                "Grass",
+                "Grass",
+                "Ground",
+                "Grass"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "25",
+                "-",
+                "80",
+                "75",
+                "-",
+                "130",
+                "-",
+                "-",
+                "25",
+                "55",
+                "80",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "100",
+                "55",
+                "90",
+                "-",
+                "100",
+                "95",
+                "95",
+                "100",
+                "75",
+                "-",
+                "-"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Pre-evolution moves",
+            "Move": [
+                "Absorb",
+                "Aromatherapy",
+                "Giga Drain",
+                "Grass Whistle",
+                "Growth",
+                "Ingrain",
+                "Leech Seed",
+                "Petal Blizzard",
+                "Petal Dance",
+                "Stun Spore",
+                "Synthesis",
+                "Toxic",
+                "Toxic Spikes",
+                "Water Sport",
+                "Worry Seed"
+            ],
+            "Type": [
+                "Grass",
+                "Grass",
+                "Grass",
+                "Grass",
+                "Normal",
+                "Grass",
+                "Grass",
+                "Grass",
+                "Grass",
+                "Grass",
+                "Grass",
+                "Poison",
+                "Poison",
+                "Water",
+                "Grass"
+            ],
+            "Cat.": [
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "20",
+                "-",
+                "75",
+                "-",
+                "-",
+                "-",
+                "-",
+                "90",
+                "120",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "100",
+                "55",
+                "-",
+                "-",
+                "90",
+                "100",
+                "100",
+                "75",
+                "-",
+                "90",
+                "-",
+                "-",
+                "100"
+            ],
+            "Method": [
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "1"
+            ],
+            "Move": [
+                "Cut"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "50"
+            ],
+            "Acc.": [
+                "95"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "9",
+                "10",
+                "11",
+                "15",
+                "17",
+                "18",
+                "21",
+                "22",
+                "27",
+                "30",
+                "32",
+                "36",
+                "42",
+                "44",
+                "45",
+                "48",
+                "53",
+                "68",
+                "70",
+                "75",
+                "77",
+                "84",
+                "86",
+                "87",
+                "88",
+                "90",
+                "96",
+                "99",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Venoshock",
+                "Hidden Power",
+                "Sunny Day",
+                "Hyper Beam",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Solar Beam",
+                "Return",
+                "Shadow Ball",
+                "Double Team",
+                "Sludge Bomb",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Round",
+                "Energy Ball",
+                "Giga Impact",
+                "Flash",
+                "Swords Dance",
+                "Psych Up",
+                "Poison Jab",
+                "Grass Knot",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Nature Power",
+                "Dazzling Gleam",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Poison",
+                "Normal",
+                "Fire",
+                "Normal",
+                "Normal",
+                "Water",
+                "Normal",
+                "Grass",
+                "Normal",
+                "Ghost",
+                "Normal",
+                "Poison",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Grass",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Poison",
+                "Grass",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fairy",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Special",
+                "Status",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "65",
+                "60",
+                "-",
+                "150",
+                "-",
+                "-",
+                "-",
+                "120",
+                "-",
+                "80",
+                "-",
+                "90",
+                "70",
+                "-",
+                "-",
+                "60",
+                "90",
+                "150",
+                "-",
+                "-",
+                "-",
+                "80",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "80",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "100",
+                "-",
+                "90",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "90",
+                "100",
+                "-",
+                "-",
+                "100",
+                "100",
+                "90",
+                "-",
+                "-",
+                "-",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "5": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Captivate",
+                "Fury Cutter",
+                "Mud-Slap",
+                "Swift"
+            ],
+            "Type": [
+                "Normal",
+                "Bug",
+                "Ground",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Special",
+                "Special"
+            ],
+            "Power": [
+                "-",
+                "40",
+                "20",
+                "60"
+            ],
+            "Acc.": [
+                "100",
+                "95",
+                "100",
+                "∞"
+            ],
+            "Method": [
+                "Generation 4 — TM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "Black 2White 2": [
+                "Route 12",
+                "Lostlorn Forest",
+                "Victory Road"
+            ]
+        }
+    ]
+}

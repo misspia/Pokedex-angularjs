@@ -1,0 +1,654 @@
+{
+    "id": "007",
+    "National №": "007",
+    "Type": [
+        "Water"
+    ],
+    "Species": "Tiny Turtle Pokémon",
+    "Height": "1′8″ (0.51m)",
+    "Weight": "19.8 lbs (9.0 kg)",
+    "Abilities": [
+        "Torrent"
+    ],
+    "Local №": [],
+    "Japanese": "Zenigame",
+    "stats": {
+        "HP": {
+            "avg": "44",
+            "min": "198",
+            "max": "292"
+        },
+        "Attack": {
+            "avg": "48",
+            "min": "90",
+            "max": "214"
+        },
+        "Defense": {
+            "avg": "65",
+            "min": "121",
+            "max": "251"
+        },
+        "Sp. Atk": {
+            "avg": "50",
+            "min": "94",
+            "max": "218"
+        },
+        "Sp. Def": {
+            "avg": "64",
+            "min": "119",
+            "max": "249"
+        },
+        "Speed": {
+            "avg": "43",
+            "min": "81",
+            "max": "203"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-50",
+        "Water": "type-fx-cell type-fx-50",
+        "Electric": "type-fx-cell type-fx-200",
+        "Grass": "type-fx-cell type-fx-200",
+        "Ice": "type-fx-cell type-fx-50",
+        "Fighting": "type-fx-cell type-fx-100",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-100",
+        "Flying": "type-fx-cell type-fx-100",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-100",
+        "Rock": "type-fx-cell type-fx-100",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-50",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "4",
+                "7",
+                "10",
+                "13",
+                "16",
+                "19",
+                "22",
+                "25",
+                "28",
+                "31",
+                "34",
+                "37",
+                "40"
+            ],
+            "Move": [
+                "Tackle",
+                "Tail Whip",
+                "Water Gun",
+                "Withdraw",
+                "Bubble",
+                "Bite",
+                "Rapid Spin",
+                "Protect",
+                "Water Pulse",
+                "Aqua Tail",
+                "Skull Bash",
+                "Iron Defense",
+                "Rain Dance",
+                "Hydro Pump"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Water",
+                "Water",
+                "Water",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Water",
+                "Water",
+                "Normal",
+                "Steel",
+                "Water",
+                "Water"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Special"
+            ],
+            "Power": [
+                "50",
+                "-",
+                "40",
+                "-",
+                "40",
+                "60",
+                "20",
+                "-",
+                "60",
+                "90",
+                "130",
+                "-",
+                "-",
+                "110"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "90",
+                "100",
+                "-",
+                "-",
+                "80"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Aqua Jet",
+                "Aqua Ring",
+                "Aura Sphere",
+                "Brine",
+                "Dragon Pulse",
+                "Fake Out",
+                "Flail",
+                "Foresight",
+                "Haze",
+                "Mirror Coat",
+                "Mist",
+                "Mud Sport",
+                "Muddy Water",
+                "Refresh",
+                "Water Spout",
+                "Yawn"
+            ],
+            "Type": [
+                "Water",
+                "Water",
+                "Fighting",
+                "Water",
+                "Dragon",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Ice",
+                "Psychic",
+                "Ice",
+                "Ground",
+                "Water",
+                "Normal",
+                "Water",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Special",
+                "Special",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "40",
+                "-",
+                "80",
+                "65",
+                "85",
+                "40",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "90",
+                "-",
+                "150",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "∞",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "-",
+                "100",
+                "-",
+                "-",
+                "85",
+                "-",
+                "100",
+                "-"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Move Tutor moves",
+            "Move": [
+                "Water Pledge"
+            ],
+            "Type": [
+                "Water"
+            ],
+            "Cat.": [
+                "Special"
+            ],
+            "Power": [
+                "80"
+            ],
+            "Acc.": [
+                "100"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "3",
+                "4",
+                "5"
+            ],
+            "Move": [
+                "Surf",
+                "Strength",
+                "Waterfall"
+            ],
+            "Type": [
+                "Water",
+                "Normal",
+                "Water"
+            ],
+            "Cat.": [
+                "Special",
+                "Physical",
+                "Physical"
+            ],
+            "Power": [
+                "90",
+                "80",
+                "80"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "7",
+                "10",
+                "13",
+                "14",
+                "17",
+                "18",
+                "21",
+                "27",
+                "28",
+                "31",
+                "32",
+                "39",
+                "42",
+                "44",
+                "45",
+                "48",
+                "55",
+                "56",
+                "74",
+                "87",
+                "88",
+                "90",
+                "94",
+                "98",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hail",
+                "Hidden Power",
+                "Ice Beam",
+                "Blizzard",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Return",
+                "Dig",
+                "Brick Break",
+                "Double Team",
+                "Rock Tomb",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Round",
+                "Scald",
+                "Fling",
+                "Gyro Ball",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Rock Smash",
+                "Power-Up Punch",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Ice",
+                "Normal",
+                "Ice",
+                "Ice",
+                "Normal",
+                "Water",
+                "Normal",
+                "Normal",
+                "Ground",
+                "Fighting",
+                "Normal",
+                "Rock",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Water",
+                "Dark",
+                "Steel",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fighting",
+                "Fighting",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "60",
+                "90",
+                "110",
+                "-",
+                "-",
+                "-",
+                "-",
+                "80",
+                "75",
+                "-",
+                "60",
+                "70",
+                "-",
+                "-",
+                "60",
+                "80",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "40",
+                "40",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "-",
+                "100",
+                "100",
+                "70",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "95",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "-",
+                "-",
+                "100",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "5": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Body Slam",
+                "Counter",
+                "Defense Curl",
+                "Double-Edge",
+                "Dynamic Punch",
+                "Mega Kick",
+                "Mega Punch",
+                "Mimic",
+                "Seismic Toss",
+                "Captivate",
+                "Natural Gift",
+                "Whirlpool",
+                "Headbutt",
+                "Mud-Slap",
+                "Rollout"
+            ],
+            "Type": [
+                "Normal",
+                "Fighting",
+                "Normal",
+                "Normal",
+                "Fighting",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fighting",
+                "Normal",
+                "Normal",
+                "Water",
+                "Normal",
+                "Ground",
+                "Rock"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Special",
+                "Physical"
+            ],
+            "Power": [
+                "85",
+                "-",
+                "-",
+                "120",
+                "100",
+                "120",
+                "80",
+                "-",
+                "-",
+                "-",
+                "-",
+                "35",
+                "70",
+                "20",
+                "30"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "100",
+                "50",
+                "75",
+                "85",
+                "-",
+                "100",
+                "100",
+                "100",
+                "85",
+                "100",
+                "100",
+                "90"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — HM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "RedBlue": [
+                "Pallet Town"
+            ],
+            "Yellow": [
+                "Vermilion City"
+            ],
+            "FireRedLeafGreen": [
+                "Pallet Town"
+            ],
+            "HeartGoldSoulSilver": [
+                "Pallet Town"
+            ],
+            "XY": [
+                "Lumiose City"
+            ]
+        }
+    ]
+}

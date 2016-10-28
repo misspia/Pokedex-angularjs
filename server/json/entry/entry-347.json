@@ -1,0 +1,541 @@
+{
+    "id": "347",
+    "National №": "347",
+    "Type": [
+        "Rock",
+        "Bug"
+    ],
+    "Species": "Old Shrimp Pokémon",
+    "Height": "2′4″ (0.71m)",
+    "Weight": "27.6 lbs (12.5 kg)",
+    "Abilities": [
+        "Battle Armor"
+    ],
+    "Local №": [],
+    "Japanese": "Anopusu",
+    "stats": {
+        "HP": {
+            "avg": "45",
+            "min": "200",
+            "max": "294"
+        },
+        "Attack": {
+            "avg": "95",
+            "min": "175",
+            "max": "317"
+        },
+        "Defense": {
+            "avg": "50",
+            "min": "94",
+            "max": "218"
+        },
+        "Sp. Atk": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        },
+        "Sp. Def": {
+            "avg": "50",
+            "min": "94",
+            "max": "218"
+        },
+        "Speed": {
+            "avg": "75",
+            "min": "139",
+            "max": "273"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-50",
+        "Fire": "type-fx-cell type-fx-100",
+        "Water": "type-fx-cell type-fx-200",
+        "Electric": "type-fx-cell type-fx-100",
+        "Grass": "type-fx-cell type-fx-100",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-100",
+        "Poison": "type-fx-cell type-fx-50",
+        "Ground": "type-fx-cell type-fx-100",
+        "Flying": "type-fx-cell type-fx-100",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-100",
+        "Rock": "type-fx-cell type-fx-200",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-200",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "7",
+                "13",
+                "19",
+                "25",
+                "31",
+                "37",
+                "43",
+                "49",
+                "55",
+                "61"
+            ],
+            "Move": [
+                "Harden",
+                "Scratch",
+                "Mud Sport",
+                "Water Gun",
+                "Metal Claw",
+                "Protect",
+                "Ancient Power",
+                "Fury Cutter",
+                "Slash",
+                "Rock Blast",
+                "Crush Claw",
+                "X-Scissor"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Ground",
+                "Water",
+                "Steel",
+                "Normal",
+                "Rock",
+                "Bug",
+                "Normal",
+                "Rock",
+                "Normal",
+                "Bug"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Status",
+                "Special",
+                "Physical",
+                "Status",
+                "Special",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical"
+            ],
+            "Power": [
+                "-",
+                "40",
+                "-",
+                "40",
+                "50",
+                "-",
+                "60",
+                "40",
+                "70",
+                "25",
+                "75",
+                "80"
+            ],
+            "Acc.": [
+                "-",
+                "100",
+                "-",
+                "100",
+                "95",
+                "-",
+                "100",
+                "95",
+                "100",
+                "90",
+                "95",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Aqua Jet",
+                "Cross Poison",
+                "Curse",
+                "Iron Defense",
+                "Knock Off",
+                "Rapid Spin",
+                "Sand Attack",
+                "Screech",
+                "Water Pulse"
+            ],
+            "Type": [
+                "Water",
+                "Poison",
+                "Ghost",
+                "Steel",
+                "Dark",
+                "Normal",
+                "Ground",
+                "Normal",
+                "Water"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Special"
+            ],
+            "Power": [
+                "40",
+                "70",
+                "-",
+                "-",
+                "65",
+                "20",
+                "-",
+                "-",
+                "60"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "85",
+                "100"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "1"
+            ],
+            "Move": [
+                "Cut"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "50"
+            ],
+            "Acc.": [
+                "95"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "1",
+                "6",
+                "10",
+                "11",
+                "17",
+                "21",
+                "23",
+                "27",
+                "28",
+                "31",
+                "32",
+                "37",
+                "39",
+                "40",
+                "42",
+                "44",
+                "45",
+                "48",
+                "54",
+                "69",
+                "75",
+                "76",
+                "80",
+                "81",
+                "87",
+                "88",
+                "90",
+                "94",
+                "100"
+            ],
+            "Move": [
+                "Hone Claws",
+                "Toxic",
+                "Hidden Power",
+                "Sunny Day",
+                "Protect",
+                "Frustration",
+                "Smack Down",
+                "Return",
+                "Dig",
+                "Brick Break",
+                "Double Team",
+                "Sandstorm",
+                "Rock Tomb",
+                "Aerial Ace",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Round",
+                "False Swipe",
+                "Rock Polish",
+                "Swords Dance",
+                "Struggle Bug",
+                "Rock Slide",
+                "X-Scissor",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Rock Smash",
+                "Confide"
+            ],
+            "Type": [
+                "Dark",
+                "Poison",
+                "Normal",
+                "Fire",
+                "Normal",
+                "Normal",
+                "Rock",
+                "Normal",
+                "Ground",
+                "Fighting",
+                "Normal",
+                "Rock",
+                "Rock",
+                "Flying",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Rock",
+                "Normal",
+                "Bug",
+                "Rock",
+                "Bug",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fighting",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "60",
+                "-",
+                "-",
+                "-",
+                "50",
+                "-",
+                "80",
+                "75",
+                "-",
+                "-",
+                "60",
+                "60",
+                "70",
+                "-",
+                "-",
+                "60",
+                "40",
+                "-",
+                "-",
+                "50",
+                "75",
+                "80",
+                "-",
+                "-",
+                "-",
+                "40",
+                "-"
+            ],
+            "Acc.": [
+                "-",
+                "90",
+                "100",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "-",
+                "95",
+                "∞",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "-",
+                "-",
+                "100",
+                "90",
+                "100",
+                "90",
+                "-",
+                "-",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Body Slam",
+                "Double-Edge",
+                "Mimic",
+                "Captivate",
+                "Natural Gift",
+                "Headbutt",
+                "Mud-Slap",
+                "String Shot"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Ground",
+                "Bug"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "85",
+                "120",
+                "-",
+                "-",
+                "-",
+                "70",
+                "20",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "95"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "HeartGoldSoulSilver": [
+                "Pewter City"
+            ],
+            "BlackWhite": [
+                "Nacrene City"
+            ],
+            "XY": [
+                "Ambrette Town"
+            ]
+        }
+    ]
+}

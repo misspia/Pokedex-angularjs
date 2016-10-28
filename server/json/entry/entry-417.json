@@ -1,0 +1,526 @@
+{
+    "id": "417",
+    "National №": "417",
+    "Type": [
+        "Electric"
+    ],
+    "Species": "EleSquirrel Pokémon",
+    "Height": "1′4″ (0.41m)",
+    "Weight": "8.6 lbs (3.9 kg)",
+    "Abilities": [
+        "Pickup",
+        "Run Away"
+    ],
+    "Local №": [],
+    "stats": {
+        "HP": {
+            "avg": "60",
+            "min": "230",
+            "max": "324"
+        },
+        "Attack": {
+            "avg": "45",
+            "min": "85",
+            "max": "207"
+        },
+        "Defense": {
+            "avg": "70",
+            "min": "130",
+            "max": "262"
+        },
+        "Sp. Atk": {
+            "avg": "45",
+            "min": "85",
+            "max": "207"
+        },
+        "Sp. Def": {
+            "avg": "90",
+            "min": "166",
+            "max": "306"
+        },
+        "Speed": {
+            "avg": "95",
+            "min": "175",
+            "max": "317"
+        }
+    },
+    "typeDef": {},
+    "description": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "5",
+                "9",
+                "13",
+                "17",
+                "19",
+                "21",
+                "25",
+                "29",
+                "33",
+                "37",
+                "41",
+                "45",
+                "49"
+            ],
+            "Move": [
+                "Bide",
+                "Growl",
+                "Quick Attack",
+                "Charm",
+                "Spark",
+                "Endure",
+                "Nuzzle",
+                "Swift",
+                "Electro Ball",
+                "Sweet Kiss",
+                "Thunder Wave",
+                "Super Fang",
+                "Discharge",
+                "Last Resort",
+                "Hyper Fang"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fairy",
+                "Electric",
+                "Normal",
+                "Electric",
+                "Normal",
+                "Electric",
+                "Fairy",
+                "Electric",
+                "Normal",
+                "Electric",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Physical"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "40",
+                "-",
+                "65",
+                "-",
+                "20",
+                "60",
+                "-",
+                "-",
+                "-",
+                "-",
+                "80",
+                "140",
+                "80"
+            ],
+            "Acc.": [
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "∞",
+                "100",
+                "75",
+                "100",
+                "90",
+                "100",
+                "100",
+                "90"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Bestow",
+                "Bite",
+                "Charge",
+                "Covet",
+                "Defense Curl",
+                "Fake Tears",
+                "Flail",
+                "Flatter",
+                "Follow Me",
+                "Ion Deluge",
+                "Iron Tail",
+                "Rollout",
+                "Tail Whip"
+            ],
+            "Type": [
+                "Normal",
+                "Dark",
+                "Electric",
+                "Normal",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Electric",
+                "Steel",
+                "Rock",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "-",
+                "60",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "100",
+                "30",
+                "-"
+            ],
+            "Acc.": [
+                "-",
+                "100",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "-",
+                "-",
+                "75",
+                "90",
+                "100"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "1"
+            ],
+            "Move": [
+                "Cut"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "50"
+            ],
+            "Acc.": [
+                "95"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "10",
+                "16",
+                "17",
+                "18",
+                "21",
+                "24",
+                "25",
+                "27",
+                "28",
+                "32",
+                "42",
+                "44",
+                "45",
+                "48",
+                "49",
+                "56",
+                "57",
+                "70",
+                "72",
+                "73",
+                "86",
+                "87",
+                "88",
+                "89",
+                "90",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hidden Power",
+                "Light Screen",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Thunderbolt",
+                "Thunder",
+                "Return",
+                "Dig",
+                "Double Team",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Round",
+                "Echoed Voice",
+                "Fling",
+                "Charge Beam",
+                "Flash",
+                "Volt Switch",
+                "Thunder Wave",
+                "Grass Knot",
+                "Swagger",
+                "Sleep Talk",
+                "U-turn",
+                "Substitute",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Water",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Normal",
+                "Ground",
+                "Normal",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Dark",
+                "Electric",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Grass",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Physical",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "-",
+                "-",
+                "-",
+                "-",
+                "90",
+                "110",
+                "-",
+                "80",
+                "-",
+                "70",
+                "-",
+                "-",
+                "60",
+                "40",
+                "-",
+                "50",
+                "-",
+                "70",
+                "-",
+                "-",
+                "-",
+                "-",
+                "70",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "-",
+                "-",
+                "-",
+                "100",
+                "100",
+                "70",
+                "100",
+                "100",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "-",
+                "100",
+                "-",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Captivate",
+                "Natural Gift",
+                "Headbutt",
+                "Mud-Slap"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Ground"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "70",
+                "20"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "100"
+            ],
+            "Method": [
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "DiamondPearl": [
+                "Route 205",
+                "Fuego Ironworks",
+                "Valley Windworks"
+            ],
+            "Platinum": [
+                "Route 205",
+                "Valley Windworks"
+            ],
+            "XY": [
+                "Route 12 (Fourrage Road)"
+            ]
+        }
+    ]
+}

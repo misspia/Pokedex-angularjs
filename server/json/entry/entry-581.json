@@ -1,0 +1,498 @@
+{
+    "id": "581",
+    "National №": "581",
+    "Type": [
+        "Water",
+        "Flying"
+    ],
+    "Species": "White Bird Pokémon",
+    "Height": "4′3″ (1.30m)",
+    "Weight": "53.4 lbs (24.2 kg)",
+    "Abilities": [
+        "Big Pecks",
+        "Keen Eye"
+    ],
+    "Local №": [],
+    "Japanese": "Suwanna",
+    "stats": {
+        "HP": {
+            "avg": "75",
+            "min": "260",
+            "max": "354"
+        },
+        "Attack": {
+            "avg": "87",
+            "min": "161",
+            "max": "300"
+        },
+        "Defense": {
+            "avg": "63",
+            "min": "117",
+            "max": "247"
+        },
+        "Sp. Atk": {
+            "avg": "87",
+            "min": "161",
+            "max": "300"
+        },
+        "Sp. Def": {
+            "avg": "63",
+            "min": "117",
+            "max": "247"
+        },
+        "Speed": {
+            "avg": "98",
+            "min": "180",
+            "max": "324"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-50",
+        "Water": "type-fx-cell type-fx-50",
+        "Electric": "type-fx-cell type-fx-400",
+        "Grass": "type-fx-cell type-fx-100",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-50",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-0",
+        "Flying": "type-fx-cell type-fx-100",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-50",
+        "Rock": "type-fx-cell type-fx-200",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-50",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "3",
+                "6",
+                "9",
+                "13",
+                "15",
+                "19",
+                "21",
+                "24",
+                "27",
+                "30",
+                "34",
+                "40",
+                "47",
+                "55"
+            ],
+            "Move": [
+                "Defog",
+                "Water Gun",
+                "Water Sport",
+                "Wing Attack",
+                "Water Sport",
+                "Defog",
+                "Wing Attack",
+                "Water Pulse",
+                "Aerial Ace",
+                "Bubble Beam",
+                "Feather Dance",
+                "Aqua Ring",
+                "Air Slash",
+                "Roost",
+                "Rain Dance",
+                "Tailwind",
+                "Brave Bird",
+                "Hurricane"
+            ],
+            "Type": [
+                "Flying",
+                "Water",
+                "Water",
+                "Flying",
+                "Water",
+                "Flying",
+                "Flying",
+                "Water",
+                "Flying",
+                "Water",
+                "Flying",
+                "Water",
+                "Flying",
+                "Flying",
+                "Water",
+                "Flying",
+                "Flying",
+                "Flying"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Special",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "-",
+                "40",
+                "-",
+                "60",
+                "-",
+                "-",
+                "60",
+                "60",
+                "60",
+                "65",
+                "-",
+                "-",
+                "75",
+                "-",
+                "-",
+                "-",
+                "120",
+                "110"
+            ],
+            "Acc.": [
+                "-",
+                "100",
+                "-",
+                "100",
+                "-",
+                "-",
+                "100",
+                "100",
+                "∞",
+                "100",
+                "100",
+                "-",
+                "95",
+                "-",
+                "-",
+                "-",
+                "100",
+                "70"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Air Cutter",
+                "Brine",
+                "Gust",
+                "Lucky Chant",
+                "Me First",
+                "Mirror Move",
+                "Mud Sport",
+                "Steel Wing"
+            ],
+            "Type": [
+                "Flying",
+                "Water",
+                "Flying",
+                "Normal",
+                "Normal",
+                "Flying",
+                "Ground",
+                "Steel"
+            ],
+            "Cat.": [
+                "Special",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Physical"
+            ],
+            "Power": [
+                "60",
+                "65",
+                "40",
+                "-",
+                "-",
+                "-",
+                "-",
+                "70"
+            ],
+            "Acc.": [
+                "95",
+                "100",
+                "100",
+                "-",
+                "-",
+                "-",
+                "-",
+                "90"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "2",
+                "3"
+            ],
+            "Move": [
+                "Fly",
+                "Surf"
+            ],
+            "Type": [
+                "Flying",
+                "Water"
+            ],
+            "Cat.": [
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "90",
+                "90"
+            ],
+            "Acc.": [
+                "95",
+                "100"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "7",
+                "10",
+                "13",
+                "15",
+                "17",
+                "18",
+                "19",
+                "21",
+                "27",
+                "32",
+                "40",
+                "42",
+                "44",
+                "45",
+                "48",
+                "51",
+                "55",
+                "68",
+                "87",
+                "88",
+                "90",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hail",
+                "Hidden Power",
+                "Ice Beam",
+                "Hyper Beam",
+                "Protect",
+                "Rain Dance",
+                "Roost",
+                "Frustration",
+                "Return",
+                "Double Team",
+                "Aerial Ace",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Round",
+                "Steel Wing",
+                "Scald",
+                "Giga Impact",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Ice",
+                "Normal",
+                "Ice",
+                "Normal",
+                "Normal",
+                "Water",
+                "Flying",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Flying",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Steel",
+                "Water",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Physical",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "60",
+                "90",
+                "150",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "60",
+                "70",
+                "-",
+                "-",
+                "60",
+                "70",
+                "80",
+                "150",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "-",
+                "100",
+                "100",
+                "90",
+                "-",
+                "-",
+                "-",
+                "100",
+                "100",
+                "-",
+                "∞",
+                "100",
+                "-",
+                "100",
+                "100",
+                "90",
+                "100",
+                "90",
+                "90",
+                "-",
+                "-",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Pluck"
+            ],
+            "Type": [
+                "Flying"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "60"
+            ],
+            "Acc.": [
+                "100"
+            ],
+            "Method": [
+                "Generation 5 — TM"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "BlackWhite": [
+                "Marvelous Bridge"
+            ],
+            "Black 2White 2": [
+                "Marvelous Bridge"
+            ]
+        }
+    ]
+}

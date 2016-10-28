@@ -1,0 +1,604 @@
+{
+    "id": "322",
+    "National №": "322",
+    "Type": [
+        "Fire",
+        "Ground"
+    ],
+    "Species": "Numb Pokémon",
+    "Height": "2′4″ (0.71m)",
+    "Weight": "52.9 lbs (24.0 kg)",
+    "Abilities": [
+        "Oblivious",
+        "Simple"
+    ],
+    "Local №": [],
+    "Japanese": "Donmeru",
+    "stats": {
+        "HP": {
+            "avg": "60",
+            "min": "230",
+            "max": "324"
+        },
+        "Attack": {
+            "avg": "60",
+            "min": "112",
+            "max": "240"
+        },
+        "Defense": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        },
+        "Sp. Atk": {
+            "avg": "65",
+            "min": "121",
+            "max": "251"
+        },
+        "Sp. Def": {
+            "avg": "45",
+            "min": "85",
+            "max": "207"
+        },
+        "Speed": {
+            "avg": "35",
+            "min": "67",
+            "max": "185"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-50",
+        "Water": "type-fx-cell type-fx-400",
+        "Electric": "type-fx-cell type-fx-0",
+        "Grass": "type-fx-cell type-fx-100",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-100",
+        "Poison": "type-fx-cell type-fx-50",
+        "Ground": "type-fx-cell type-fx-200",
+        "Flying": "type-fx-cell type-fx-100",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-50",
+        "Rock": "type-fx-cell type-fx-100",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-50",
+        "Fairy": "type-fx-cell type-fx-50"
+    },
+    "description": "The magma in its body reaches 2,200 degrees Fahrenheit. Its hump gets smaller when it uses Fire-type moves.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "5",
+                "8",
+                "12",
+                "15",
+                "19",
+                "22",
+                "26",
+                "29",
+                "31",
+                "36",
+                "40",
+                "43",
+                "47"
+            ],
+            "Move": [
+                "Growl",
+                "Tackle",
+                "Ember",
+                "Magnitude",
+                "Focus Energy",
+                "Flame Burst",
+                "Amnesia",
+                "Lava Plume",
+                "Earth Power",
+                "Curse",
+                "Take Down",
+                "Yawn",
+                "Earthquake",
+                "Flamethrower",
+                "Double-Edge"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Fire",
+                "Ground",
+                "Normal",
+                "Fire",
+                "Psychic",
+                "Fire",
+                "Ground",
+                "Ghost",
+                "Normal",
+                "Normal",
+                "Ground",
+                "Fire",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical"
+            ],
+            "Power": [
+                "-",
+                "50",
+                "40",
+                "-",
+                "-",
+                "70",
+                "-",
+                "80",
+                "90",
+                "-",
+                "90",
+                "-",
+                "100",
+                "90",
+                "120"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "-",
+                "85",
+                "-",
+                "100",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Ancient Power",
+                "Body Slam",
+                "Defense Curl",
+                "Endure",
+                "Growth",
+                "Heat Wave",
+                "Howl",
+                "Iron Head",
+                "Mud Bomb",
+                "Rollout",
+                "Scary Face",
+                "Spit Up",
+                "Stockpile",
+                "Stomp",
+                "Swallow",
+                "Yawn"
+            ],
+            "Type": [
+                "Rock",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fire",
+                "Normal",
+                "Steel",
+                "Ground",
+                "Rock",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Status",
+                "Special",
+                "Status",
+                "Physical",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "60",
+                "85",
+                "-",
+                "-",
+                "-",
+                "95",
+                "-",
+                "80",
+                "65",
+                "30",
+                "-",
+                "-",
+                "-",
+                "65",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "-",
+                "-",
+                "90",
+                "-",
+                "100",
+                "85",
+                "90",
+                "100",
+                "100",
+                "-",
+                "100",
+                "-",
+                "-"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "4"
+            ],
+            "Move": [
+                "Strength"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "80"
+            ],
+            "Acc.": [
+                "100"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "10",
+                "11",
+                "17",
+                "21",
+                "26",
+                "27",
+                "28",
+                "32",
+                "35",
+                "37",
+                "38",
+                "39",
+                "42",
+                "43",
+                "44",
+                "45",
+                "48",
+                "49",
+                "50",
+                "59",
+                "61",
+                "78",
+                "80",
+                "87",
+                "88",
+                "90",
+                "94",
+                "96",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hidden Power",
+                "Sunny Day",
+                "Protect",
+                "Frustration",
+                "Earthquake",
+                "Return",
+                "Dig",
+                "Double Team",
+                "Flamethrower",
+                "Sandstorm",
+                "Fire Blast",
+                "Rock Tomb",
+                "Facade",
+                "Flame Charge",
+                "Rest",
+                "Attract",
+                "Round",
+                "Echoed Voice",
+                "Overheat",
+                "Incinerate",
+                "Will-O-Wisp",
+                "Bulldoze",
+                "Rock Slide",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Rock Smash",
+                "Nature Power",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Normal",
+                "Fire",
+                "Normal",
+                "Normal",
+                "Ground",
+                "Normal",
+                "Ground",
+                "Normal",
+                "Fire",
+                "Rock",
+                "Fire",
+                "Rock",
+                "Normal",
+                "Fire",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fire",
+                "Fire",
+                "Fire",
+                "Ground",
+                "Rock",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fighting",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Special",
+                "Special",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "-",
+                "-",
+                "-",
+                "100",
+                "-",
+                "80",
+                "-",
+                "90",
+                "-",
+                "110",
+                "60",
+                "70",
+                "50",
+                "-",
+                "-",
+                "60",
+                "40",
+                "130",
+                "60",
+                "-",
+                "60",
+                "75",
+                "-",
+                "-",
+                "-",
+                "40",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "-",
+                "85",
+                "95",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "90",
+                "100",
+                "85",
+                "100",
+                "90",
+                "90",
+                "-",
+                "-",
+                "100",
+                "-",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Mimic",
+                "Captivate",
+                "Natural Gift",
+                "Headbutt",
+                "Mud-Slap"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Ground"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "-",
+                "70",
+                "20"
+            ],
+            "Acc.": [
+                "-",
+                "100",
+                "100",
+                "100",
+                "100"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "RubySapphire": [
+                "Route 112",
+                "Fiery Path",
+                "Jagged Pass"
+            ],
+            "Emerald": [
+                "Route 112",
+                "Fiery Path",
+                "Jagged Pass"
+            ],
+            "DiamondPearl": [
+                "Route 227",
+                "Stark Mountain"
+            ],
+            "Platinum": [
+                "Route 227",
+                "Stark Mountain"
+            ],
+            "HeartGoldSoulSilver": [
+                "Ilex Forest",
+                "Viridian Forest"
+            ],
+            "Black 2White 2": [
+                "Reversal Mountain"
+            ],
+            "Omega RubyAlpha Sapphire": [
+                "Route 112",
+                "Fiery Path",
+                "Jagged Pass"
+            ]
+        }
+    ]
+}

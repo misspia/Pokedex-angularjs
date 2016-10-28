@@ -1,0 +1,604 @@
+{
+    "id": "030",
+    "National №": "030",
+    "Type": [
+        "Poison"
+    ],
+    "Species": "Poison Pin Pokémon",
+    "Height": "2′7″ (0.79m)",
+    "Weight": "44.1 lbs (20.0 kg)",
+    "Abilities": [
+        "Poison Point",
+        "Rivalry"
+    ],
+    "Local №": [],
+    "stats": {
+        "HP": {
+            "avg": "70",
+            "min": "250",
+            "max": "344"
+        },
+        "Attack": {
+            "avg": "62",
+            "min": "116",
+            "max": "245"
+        },
+        "Defense": {
+            "avg": "67",
+            "min": "125",
+            "max": "256"
+        },
+        "Sp. Atk": {
+            "avg": "55",
+            "min": "103",
+            "max": "229"
+        },
+        "Sp. Def": {
+            "avg": "55",
+            "min": "103",
+            "max": "229"
+        },
+        "Speed": {
+            "avg": "56",
+            "min": "105",
+            "max": "232"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-100",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-100",
+        "Grass": "type-fx-cell type-fx-50",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-50",
+        "Poison": "type-fx-cell type-fx-50",
+        "Ground": "type-fx-cell type-fx-200",
+        "Flying": "type-fx-cell type-fx-100",
+        "Psychic": "type-fx-cell type-fx-200",
+        "Bug": "type-fx-cell type-fx-50",
+        "Rock": "type-fx-cell type-fx-100",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-50"
+    },
+    "description": "When feeding its young, it first chews the food into a paste, then spits it out for the offspring.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "7",
+                "9",
+                "13",
+                "20",
+                "23",
+                "28",
+                "35",
+                "38",
+                "43",
+                "50",
+                "58"
+            ],
+            "Move": [
+                "Growl",
+                "Scratch",
+                "Tail Whip",
+                "Double Kick",
+                "Poison Sting",
+                "Fury Swipes",
+                "Bite",
+                "Helping Hand",
+                "Toxic Spikes",
+                "Flatter",
+                "Crunch",
+                "Captivate",
+                "Poison Fang"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Poison",
+                "Dark",
+                "Dark",
+                "Normal",
+                "Poison"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical"
+            ],
+            "Power": [
+                "-",
+                "40",
+                "-",
+                "30",
+                "15",
+                "18",
+                "60",
+                "-",
+                "-",
+                "-",
+                "80",
+                "-",
+                "50"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "80",
+                "100",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Beat Up",
+                "Charm",
+                "Chip Away",
+                "Counter",
+                "Disable",
+                "Endure",
+                "Focus Energy",
+                "Iron Tail",
+                "Poison Tail",
+                "Pursuit",
+                "Skull Bash",
+                "Supersonic",
+                "Take Down",
+                "Venom Drench"
+            ],
+            "Type": [
+                "Dark",
+                "Fairy",
+                "Normal",
+                "Fighting",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Steel",
+                "Poison",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Poison"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "70",
+                "-",
+                "-",
+                "-",
+                "-",
+                "100",
+                "50",
+                "40",
+                "130",
+                "-",
+                "90",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "-",
+                "75",
+                "100",
+                "100",
+                "100",
+                "55",
+                "85",
+                "100"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "1",
+                "4"
+            ],
+            "Move": [
+                "Cut",
+                "Strength"
+            ],
+            "Type": [
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical"
+            ],
+            "Power": [
+                "50",
+                "80"
+            ],
+            "Acc.": [
+                "95",
+                "100"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "1",
+                "6",
+                "9",
+                "10",
+                "11",
+                "13",
+                "14",
+                "17",
+                "18",
+                "21",
+                "24",
+                "25",
+                "27",
+                "28",
+                "32",
+                "36",
+                "40",
+                "42",
+                "44",
+                "45",
+                "46",
+                "48",
+                "49",
+                "65",
+                "84",
+                "87",
+                "88",
+                "90",
+                "94",
+                "100"
+            ],
+            "Move": [
+                "Hone Claws",
+                "Toxic",
+                "Venoshock",
+                "Hidden Power",
+                "Sunny Day",
+                "Ice Beam",
+                "Blizzard",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Thunderbolt",
+                "Thunder",
+                "Return",
+                "Dig",
+                "Double Team",
+                "Sludge Bomb",
+                "Aerial Ace",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Thief",
+                "Round",
+                "Echoed Voice",
+                "Shadow Claw",
+                "Poison Jab",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Rock Smash",
+                "Confide"
+            ],
+            "Type": [
+                "Dark",
+                "Poison",
+                "Poison",
+                "Normal",
+                "Fire",
+                "Ice",
+                "Ice",
+                "Normal",
+                "Water",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Normal",
+                "Ground",
+                "Normal",
+                "Poison",
+                "Flying",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Ghost",
+                "Poison",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fighting",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "65",
+                "60",
+                "-",
+                "90",
+                "110",
+                "-",
+                "-",
+                "-",
+                "90",
+                "110",
+                "-",
+                "80",
+                "-",
+                "90",
+                "60",
+                "70",
+                "-",
+                "-",
+                "60",
+                "60",
+                "40",
+                "70",
+                "80",
+                "-",
+                "-",
+                "-",
+                "40",
+                "-"
+            ],
+            "Acc.": [
+                "-",
+                "90",
+                "100",
+                "100",
+                "-",
+                "100",
+                "70",
+                "-",
+                "-",
+                "100",
+                "100",
+                "70",
+                "100",
+                "100",
+                "-",
+                "100",
+                "∞",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "-",
+                "-",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Body Slam",
+                "Defense Curl",
+                "Double-Edge",
+                "Mimic",
+                "Natural Gift",
+                "Headbutt",
+                "Mud-Slap"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Ground"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "85",
+                "-",
+                "120",
+                "-",
+                "-",
+                "70",
+                "20"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "RedBlue": [
+                "Route 11"
+            ],
+            "Yellow": [
+                "Route 9",
+                "23"
+            ],
+            "GoldSilver": [
+                "Route 13",
+                "14",
+                "15"
+            ],
+            "Crystal": [
+                "Route 13",
+                "14",
+                "15"
+            ],
+            "FireRedLeafGreen": [
+                "Route 11"
+            ],
+            "DiamondPearl": [
+                "Route 221",
+                "Valor Lakefront"
+            ],
+            "Platinum": [
+                "Route 221",
+                "Valor Lakefront"
+            ],
+            "HeartGoldSoulSilver": [
+                "Route 13",
+                "14",
+                "15"
+            ],
+            "XY": [
+                "Route 11 (Miroir Way)"
+            ]
+        }
+    ]
+}

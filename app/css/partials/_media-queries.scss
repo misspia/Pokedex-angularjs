@@ -1,0 +1,11 @@
+// _media-queries.scss
+@import 'variables';
+
+@media only screen and (max-height: 900px){
+	#sprite .container-main-sprite{
+		@include circle(9em);
+		img{
+			transform: scale(0.9);
+		}
+	}
+}

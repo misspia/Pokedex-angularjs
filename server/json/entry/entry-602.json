@@ -1,0 +1,174 @@
+{
+    "id": "602",
+    "National №": "602",
+    "Type": [
+        "Electric"
+    ],
+    "Species": "EleFish Pokémon",
+    "Height": "0′8″ (0.20m)",
+    "Weight": "0.7 lbs (0.3 kg)",
+    "Abilities": [
+        "Levitate"
+    ],
+    "Local №": [],
+    "Japanese": "Shibishirasu",
+    "stats": {
+        "HP": {
+            "avg": "35",
+            "min": "180",
+            "max": "274"
+        },
+        "Attack": {
+            "avg": "55",
+            "min": "103",
+            "max": "229"
+        },
+        "Defense": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        },
+        "Sp. Atk": {
+            "avg": "45",
+            "min": "85",
+            "max": "207"
+        },
+        "Sp. Def": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        },
+        "Speed": {
+            "avg": "60",
+            "min": "112",
+            "max": "240"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-100",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-50",
+        "Grass": "type-fx-cell type-fx-100",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-100",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-0",
+        "Flying": "type-fx-cell type-fx-50",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-100",
+        "Rock": "type-fx-cell type-fx-100",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-50",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "Move": [
+                "Charge Beam",
+                "Spark",
+                "Tackle",
+                "Thunder Wave"
+            ],
+            "Type": [
+                "Electric",
+                "Electric",
+                "Normal",
+                "Electric"
+            ],
+            "Cat.": [
+                "Special",
+                "Physical",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "50",
+                "65",
+                "50",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "set": []
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "set": []
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "57",
+                "73"
+            ],
+            "Move": [
+                "Charge Beam",
+                "Thunder Wave"
+            ],
+            "Type": [
+                "Electric",
+                "Electric"
+            ],
+            "Cat.": [
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "50",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        }
+    },
+    "locations": [
+        {
+            "BlackWhite": [
+                "Chargestone Cave"
+            ],
+            "Black 2White 2": [
+                "Chargestone Cave",
+                "Seaside Cave"
+            ],
+            "Omega RubyAlpha Sapphire": [
+                "Mirage Spots"
+            ]
+        }
+    ]
+}

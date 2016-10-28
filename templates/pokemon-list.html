@@ -1,0 +1,13 @@
+<ul id='pokemon-list' >
+	<li ng-repeat = "p in masterlist">
+		<ul class="row" ng-click = "getPkm(p.id, p.idStr, p.name, p.sprite)">
+			<li class= "diamond"></li>
+			<li class="container-sprite row center">
+				<span class = "sprite-icon pki n{{p.id}} " ng-class="p.spriteClass"></span>
+			</li>
+			<li>{{p.idStr}}</li>
+			<li>{{p.name | uppercase}} </li>
+			<li class="triangle"></li>			
+		</ul>
+	</li>
+</ul>

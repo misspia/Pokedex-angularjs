@@ -1,0 +1,551 @@
+{
+    "id": "172",
+    "National №": "172",
+    "Type": [
+        "Electric"
+    ],
+    "Species": "Tiny Mouse Pokémon",
+    "Height": "1′0″ (0.30m)",
+    "Weight": "4.4 lbs (2.0 kg)",
+    "Abilities": [
+        "Static"
+    ],
+    "Local №": [],
+    "stats": {
+        "HP": {
+            "avg": "20",
+            "min": "150",
+            "max": "244"
+        },
+        "Attack": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        },
+        "Defense": {
+            "avg": "15",
+            "min": "31",
+            "max": "141"
+        },
+        "Sp. Atk": {
+            "avg": "35",
+            "min": "67",
+            "max": "185"
+        },
+        "Sp. Def": {
+            "avg": "35",
+            "min": "67",
+            "max": "185"
+        },
+        "Speed": {
+            "avg": "60",
+            "min": "112",
+            "max": "240"
+        }
+    },
+    "typeDef": {},
+    "description": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "5",
+                "10",
+                "13",
+                "18"
+            ],
+            "Move": [
+                "Charm",
+                "Thunder Shock",
+                "Tail Whip",
+                "Sweet Kiss",
+                "Thunder Wave",
+                "Nasty Plot"
+            ],
+            "Type": [
+                "Fairy",
+                "Electric",
+                "Normal",
+                "Fairy",
+                "Electric",
+                "Dark"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "40",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "75",
+                "100",
+                "-"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Bestow",
+                "Bide",
+                "Charge",
+                "Disarming Voice",
+                "Double Slap",
+                "Encore",
+                "Endure",
+                "Fake Out",
+                "Flail",
+                "Lucky Chant",
+                "Present",
+                "Reversal",
+                "Thunder Punch",
+                "Tickle",
+                "Wish"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Electric",
+                "Fairy",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fighting",
+                "Electric",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Status",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "-",
+                "40",
+                "15",
+                "-",
+                "-",
+                "40",
+                "-",
+                "-",
+                "-",
+                "-",
+                "75",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "-",
+                "-",
+                "-",
+                "∞",
+                "85",
+                "100",
+                "-",
+                "100",
+                "100",
+                "-",
+                "90",
+                "100",
+                "100",
+                "100",
+                "-"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "set": []
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "10",
+                "16",
+                "17",
+                "18",
+                "21",
+                "24",
+                "25",
+                "27",
+                "32",
+                "42",
+                "44",
+                "45",
+                "48",
+                "49",
+                "56",
+                "57",
+                "70",
+                "72",
+                "73",
+                "86",
+                "87",
+                "88",
+                "90",
+                "93",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hidden Power",
+                "Light Screen",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Thunderbolt",
+                "Thunder",
+                "Return",
+                "Double Team",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Round",
+                "Echoed Voice",
+                "Fling",
+                "Charge Beam",
+                "Flash",
+                "Volt Switch",
+                "Thunder Wave",
+                "Grass Knot",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Wild Charge",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Water",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Dark",
+                "Electric",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Grass",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Electric",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Physical",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "-",
+                "-",
+                "-",
+                "-",
+                "90",
+                "110",
+                "-",
+                "-",
+                "70",
+                "-",
+                "-",
+                "60",
+                "40",
+                "-",
+                "50",
+                "-",
+                "70",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "90",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "-",
+                "-",
+                "-",
+                "100",
+                "100",
+                "70",
+                "100",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "-",
+                "-",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Special moves",
+            "Move": [
+                "Volt Tackle"
+            ],
+            "Type": [
+                "Electric"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "120"
+            ],
+            "Acc.": [
+                "100"
+            ],
+            "Details": [
+                "Breed Pikachu/Raichu holding Light Ball\n"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Details"
+            ]
+        },
+        "5": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Body Slam",
+                "Counter",
+                "Defense Curl",
+                "Double-Edge",
+                "Mega Kick",
+                "Mega Punch",
+                "Mimic",
+                "Seismic Toss",
+                "Captivate",
+                "Natural Gift",
+                "Headbutt",
+                "Mud-Slap",
+                "Rollout",
+                "Swift",
+                "Endeavor",
+                "Pain Split"
+            ],
+            "Type": [
+                "Normal",
+                "Fighting",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fighting",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Ground",
+                "Rock",
+                "Normal",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Special",
+                "Physical",
+                "Special",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "85",
+                "-",
+                "-",
+                "120",
+                "120",
+                "80",
+                "-",
+                "-",
+                "-",
+                "-",
+                "70",
+                "20",
+                "30",
+                "60",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "100",
+                "75",
+                "85",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "∞",
+                "100",
+                "-"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Special",
+                "Generation 4 — Special"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "Crystal": [
+                "Route 34"
+            ],
+            "DiamondPearl": [
+                "Trophy Garden"
+            ],
+            "Platinum": [
+                "Trophy Garden"
+            ],
+            "HeartGoldSoulSilver": [
+                "Ilex Forest"
+            ]
+        }
+    ]
+}

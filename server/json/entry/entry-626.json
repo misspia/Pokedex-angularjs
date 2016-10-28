@@ -1,0 +1,510 @@
+{
+    "id": "626",
+    "National №": "626",
+    "Type": [
+        "Normal"
+    ],
+    "Species": "Bash Buffalo Pokémon",
+    "Height": "5′3″ (1.60m)",
+    "Weight": "208.6 lbs (94.6 kg)",
+    "Abilities": [
+        "Reckless",
+        "Sap Sipper"
+    ],
+    "Local №": [],
+    "Japanese": "Baffuron",
+    "stats": {
+        "HP": {
+            "avg": "95",
+            "min": "300",
+            "max": "394"
+        },
+        "Attack": {
+            "avg": "110",
+            "min": "202",
+            "max": "350"
+        },
+        "Defense": {
+            "avg": "95",
+            "min": "175",
+            "max": "317"
+        },
+        "Sp. Atk": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        },
+        "Sp. Def": {
+            "avg": "95",
+            "min": "175",
+            "max": "317"
+        },
+        "Speed": {
+            "avg": "55",
+            "min": "103",
+            "max": "229"
+        }
+    },
+    "typeDef": {},
+    "description": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "6",
+                "11",
+                "16",
+                "21",
+                "26",
+                "31",
+                "36",
+                "41",
+                "46",
+                "50",
+                "56",
+                "61"
+            ],
+            "Move": [
+                "Leer",
+                "Pursuit",
+                "Rage",
+                "Fury Attack",
+                "Horn Attack",
+                "Scary Face",
+                "Revenge",
+                "Head Charge",
+                "Focus Energy",
+                "Megahorn",
+                "Reversal",
+                "Thrash",
+                "Swords Dance",
+                "Giga Impact"
+            ],
+            "Type": [
+                "Normal",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fighting",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Fighting",
+                "Normal",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical"
+            ],
+            "Power": [
+                "-",
+                "40",
+                "20",
+                "15",
+                "65",
+                "-",
+                "60",
+                "120",
+                "-",
+                "120",
+                "-",
+                "120",
+                "-",
+                "150"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "85",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "85",
+                "100",
+                "100",
+                "-",
+                "90"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Amnesia",
+                "Belch",
+                "Headbutt",
+                "Iron Head",
+                "Mud Shot",
+                "Mud-Slap",
+                "Rock Climb",
+                "Skull Bash",
+                "Stomp"
+            ],
+            "Type": [
+                "Psychic",
+                "Poison",
+                "Normal",
+                "Steel",
+                "Ground",
+                "Ground",
+                "Normal",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Physical",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Physical",
+                "Physical"
+            ],
+            "Power": [
+                "-",
+                "120",
+                "70",
+                "80",
+                "55",
+                "20",
+                "90",
+                "130",
+                "65"
+            ],
+            "Acc.": [
+                "-",
+                "90",
+                "100",
+                "100",
+                "95",
+                "100",
+                "85",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "1",
+                "3",
+                "4"
+            ],
+            "Move": [
+                "Cut",
+                "Surf",
+                "Strength"
+            ],
+            "Type": [
+                "Normal",
+                "Water",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Special",
+                "Physical"
+            ],
+            "Power": [
+                "50",
+                "90",
+                "80"
+            ],
+            "Acc.": [
+                "95",
+                "100",
+                "100"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "10",
+                "11",
+                "12",
+                "17",
+                "18",
+                "21",
+                "26",
+                "27",
+                "32",
+                "39",
+                "40",
+                "42",
+                "44",
+                "45",
+                "48",
+                "66",
+                "67",
+                "68",
+                "71",
+                "75",
+                "78",
+                "80",
+                "84",
+                "87",
+                "88",
+                "90",
+                "93",
+                "94",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hidden Power",
+                "Sunny Day",
+                "Taunt",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Earthquake",
+                "Return",
+                "Double Team",
+                "Rock Tomb",
+                "Aerial Ace",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Round",
+                "Payback",
+                "Retaliate",
+                "Giga Impact",
+                "Stone Edge",
+                "Swords Dance",
+                "Bulldoze",
+                "Rock Slide",
+                "Poison Jab",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Wild Charge",
+                "Rock Smash",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Normal",
+                "Fire",
+                "Dark",
+                "Normal",
+                "Water",
+                "Normal",
+                "Ground",
+                "Normal",
+                "Normal",
+                "Rock",
+                "Flying",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Rock",
+                "Normal",
+                "Ground",
+                "Rock",
+                "Poison",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "100",
+                "-",
+                "-",
+                "60",
+                "60",
+                "70",
+                "-",
+                "-",
+                "60",
+                "50",
+                "70",
+                "150",
+                "100",
+                "-",
+                "60",
+                "75",
+                "80",
+                "-",
+                "-",
+                "-",
+                "90",
+                "40",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "-",
+                "100",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "-",
+                "95",
+                "∞",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "80",
+                "-",
+                "100",
+                "90",
+                "100",
+                "90",
+                "-",
+                "-",
+                "100",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Work Up"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Status"
+            ],
+            "Power": [
+                "-"
+            ],
+            "Acc.": [
+                "-"
+            ],
+            "Method": [
+                "Generation 5 — TM"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "BlackWhite": [
+                "Route 10"
+            ],
+            "Black 2White 2": [
+                "Route 23"
+            ],
+            "Omega RubyAlpha Sapphire": [
+                "Route 113"
+            ]
+        }
+    ]
+}

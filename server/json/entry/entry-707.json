@@ -1,0 +1,474 @@
+{
+    "id": "707",
+    "National №": "707",
+    "Type": [
+        "Steel",
+        "Fairy"
+    ],
+    "Species": "Key Ring Pokémon",
+    "Height": "0′8″ (0.20m)",
+    "Weight": "6.6 lbs (3.0 kg)",
+    "Abilities": [
+        "Prankster"
+    ],
+    "Local №": [],
+    "Japanese": "Kureffi",
+    "stats": {
+        "HP": {
+            "avg": "57",
+            "min": "224",
+            "max": "318"
+        },
+        "Attack": {
+            "avg": "80",
+            "min": "148",
+            "max": "284"
+        },
+        "Defense": {
+            "avg": "91",
+            "min": "168",
+            "max": "309"
+        },
+        "Sp. Atk": {
+            "avg": "80",
+            "min": "148",
+            "max": "284"
+        },
+        "Sp. Def": {
+            "avg": "87",
+            "min": "161",
+            "max": "300"
+        },
+        "Speed": {
+            "avg": "75",
+            "min": "139",
+            "max": "273"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-50",
+        "Fire": "type-fx-cell type-fx-200",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-100",
+        "Grass": "type-fx-cell type-fx-50",
+        "Ice": "type-fx-cell type-fx-50",
+        "Fighting": "type-fx-cell type-fx-100",
+        "Poison": "type-fx-cell type-fx-0",
+        "Ground": "type-fx-cell type-fx-200",
+        "Flying": "type-fx-cell type-fx-50",
+        "Psychic": "type-fx-cell type-fx-50",
+        "Bug": "type-fx-cell type-fx-25",
+        "Rock": "type-fx-cell type-fx-50",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-0",
+        "Dark": "type-fx-cell type-fx-50",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-50"
+    },
+    "description": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "5",
+                "8",
+                "12",
+                "15",
+                "18",
+                "23",
+                "27",
+                "32",
+                "34",
+                "36",
+                "40",
+                "43",
+                "44",
+                "50"
+            ],
+            "Move": [
+                "Fairy Lock",
+                "Tackle",
+                "Fairy Wind",
+                "Astonish",
+                "Metal Sound",
+                "Spikes",
+                "Draining Kiss",
+                "Crafty Shield",
+                "Foul Play",
+                "Torment",
+                "Mirror Shot",
+                "Imprison",
+                "Recycle",
+                "Play Rough",
+                "Magic Room",
+                "Heal Block"
+            ],
+            "Type": [
+                "Fairy",
+                "Normal",
+                "Fairy",
+                "Ghost",
+                "Steel",
+                "Ground",
+                "Fairy",
+                "Fairy",
+                "Dark",
+                "Dark",
+                "Steel",
+                "Psychic",
+                "Normal",
+                "Fairy",
+                "Psychic",
+                "Psychic"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Physical",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "50",
+                "40",
+                "30",
+                "-",
+                "-",
+                "50",
+                "-",
+                "95",
+                "-",
+                "65",
+                "-",
+                "-",
+                "90",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "-",
+                "100",
+                "100",
+                "100",
+                "85",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "85",
+                "-",
+                "-",
+                "90",
+                "-",
+                "-"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Iron Defense",
+                "Lock-On",
+                "Switcheroo",
+                "Thief"
+            ],
+            "Type": [
+                "Steel",
+                "Normal",
+                "Dark",
+                "Dark"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Status",
+                "Physical"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "-",
+                "60"
+            ],
+            "Acc.": [
+                "-",
+                "-",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "1"
+            ],
+            "Move": [
+                "Cut"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "50"
+            ],
+            "Acc.": [
+                "95"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "3",
+                "4",
+                "6",
+                "10",
+                "11",
+                "15",
+                "16",
+                "17",
+                "18",
+                "20",
+                "21",
+                "27",
+                "29",
+                "32",
+                "33",
+                "41",
+                "42",
+                "44",
+                "45",
+                "46",
+                "48",
+                "68",
+                "73",
+                "77",
+                "87",
+                "88",
+                "90",
+                "91",
+                "99",
+                "100"
+            ],
+            "Move": [
+                "Psyshock",
+                "Calm Mind",
+                "Toxic",
+                "Hidden Power",
+                "Sunny Day",
+                "Hyper Beam",
+                "Light Screen",
+                "Protect",
+                "Rain Dance",
+                "Safeguard",
+                "Frustration",
+                "Return",
+                "Psychic",
+                "Double Team",
+                "Reflect",
+                "Torment",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Thief",
+                "Round",
+                "Giga Impact",
+                "Thunder Wave",
+                "Psych Up",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Flash Cannon",
+                "Dazzling Gleam",
+                "Confide"
+            ],
+            "Type": [
+                "Psychic",
+                "Psychic",
+                "Poison",
+                "Normal",
+                "Fire",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Water",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Psychic",
+                "Dark",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Electric",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Steel",
+                "Fairy",
+                "Normal"
+            ],
+            "Cat.": [
+                "Special",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "80",
+                "-",
+                "-",
+                "60",
+                "-",
+                "150",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "90",
+                "-",
+                "-",
+                "-",
+                "70",
+                "-",
+                "-",
+                "60",
+                "60",
+                "150",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "80",
+                "80",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "90",
+                "100",
+                "-",
+                "90",
+                "-",
+                "-",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "-",
+                "-",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "90",
+                "100",
+                "-",
+                "90",
+                "-",
+                "-",
+                "100",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        }
+    },
+    "locations": [
+        {
+            "XY": [
+                "Route 15 (Brun Way)",
+                "16 (Mélancolie Path)",
+                "Lost Hotel"
+            ],
+            "Omega RubyAlpha Sapphire": [
+                "Route 113"
+            ]
+        }
+    ]
+}

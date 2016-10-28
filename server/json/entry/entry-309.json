@@ -1,0 +1,547 @@
+{
+    "id": "309",
+    "National №": "309",
+    "Type": [
+        "Electric"
+    ],
+    "Species": "Lightning Pokémon",
+    "Height": "2′0″ (0.61m)",
+    "Weight": "33.5 lbs (15.2 kg)",
+    "Abilities": [
+        "Lightning Rod",
+        "Static"
+    ],
+    "Local №": [],
+    "Japanese": "Rakurai",
+    "stats": {
+        "HP": {
+            "avg": "40",
+            "min": "190",
+            "max": "284"
+        },
+        "Attack": {
+            "avg": "45",
+            "min": "85",
+            "max": "207"
+        },
+        "Defense": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        },
+        "Sp. Atk": {
+            "avg": "65",
+            "min": "121",
+            "max": "251"
+        },
+        "Sp. Def": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        },
+        "Speed": {
+            "avg": "65",
+            "min": "121",
+            "max": "251"
+        }
+    },
+    "typeDef": {},
+    "description": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "4",
+                "9",
+                "12",
+                "17",
+                "20",
+                "25",
+                "28",
+                "33",
+                "36",
+                "41",
+                "44",
+                "49",
+                "52"
+            ],
+            "Move": [
+                "Tackle",
+                "Thunder Wave",
+                "Leer",
+                "Howl",
+                "Quick Attack",
+                "Spark",
+                "Odor Sleuth",
+                "Bite",
+                "Thunder Fang",
+                "Roar",
+                "Discharge",
+                "Charge",
+                "Wild Charge",
+                "Thunder"
+            ],
+            "Type": [
+                "Normal",
+                "Electric",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Electric",
+                "Normal",
+                "Dark",
+                "Electric",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Electric",
+                "Electric"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Special",
+                "Status",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "50",
+                "-",
+                "-",
+                "-",
+                "40",
+                "65",
+                "-",
+                "60",
+                "65",
+                "-",
+                "80",
+                "-",
+                "90",
+                "110"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "-",
+                "100",
+                "95",
+                "-",
+                "100",
+                "-",
+                "100",
+                "70"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Crunch",
+                "Curse",
+                "Discharge",
+                "Eerie Impulse",
+                "Electro Ball",
+                "Fire Fang",
+                "Flame Burst",
+                "Headbutt",
+                "Ice Fang",
+                "Shock Wave",
+                "Swift",
+                "Switcheroo",
+                "Thunder Fang",
+                "Uproar"
+            ],
+            "Type": [
+                "Dark",
+                "Ghost",
+                "Electric",
+                "Electric",
+                "Electric",
+                "Fire",
+                "Fire",
+                "Normal",
+                "Ice",
+                "Electric",
+                "Normal",
+                "Dark",
+                "Electric",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Physical",
+                "Special",
+                "Physical",
+                "Physical",
+                "Special",
+                "Special",
+                "Status",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "80",
+                "-",
+                "80",
+                "-",
+                "-",
+                "65",
+                "70",
+                "70",
+                "65",
+                "60",
+                "60",
+                "-",
+                "65",
+                "90"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "95",
+                "100",
+                "100",
+                "95",
+                "∞",
+                "∞",
+                "100",
+                "95",
+                "100"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "4"
+            ],
+            "Move": [
+                "Strength"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "80"
+            ],
+            "Acc.": [
+                "100"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "5",
+                "6",
+                "10",
+                "16",
+                "17",
+                "18",
+                "21",
+                "24",
+                "25",
+                "27",
+                "32",
+                "35",
+                "42",
+                "44",
+                "45",
+                "46",
+                "48",
+                "57",
+                "70",
+                "72",
+                "73",
+                "87",
+                "88",
+                "90",
+                "93",
+                "95",
+                "100"
+            ],
+            "Move": [
+                "Roar",
+                "Toxic",
+                "Hidden Power",
+                "Light Screen",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Thunderbolt",
+                "Thunder",
+                "Return",
+                "Double Team",
+                "Flamethrower",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Thief",
+                "Round",
+                "Charge Beam",
+                "Flash",
+                "Volt Switch",
+                "Thunder Wave",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Wild Charge",
+                "Snarl",
+                "Confide"
+            ],
+            "Type": [
+                "Normal",
+                "Poison",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Water",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Normal",
+                "Normal",
+                "Fire",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Electric",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Electric",
+                "Dark",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Status",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "60",
+                "-",
+                "-",
+                "-",
+                "-",
+                "90",
+                "110",
+                "-",
+                "-",
+                "90",
+                "70",
+                "-",
+                "-",
+                "60",
+                "60",
+                "50",
+                "-",
+                "70",
+                "-",
+                "-",
+                "-",
+                "-",
+                "90",
+                "55",
+                "-"
+            ],
+            "Acc.": [
+                "-",
+                "90",
+                "100",
+                "-",
+                "-",
+                "-",
+                "100",
+                "100",
+                "70",
+                "100",
+                "-",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "90",
+                "100",
+                "100",
+                "100",
+                "90",
+                "-",
+                "-",
+                "100",
+                "95",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Body Slam",
+                "Double-Edge",
+                "Mimic",
+                "Captivate",
+                "Natural Gift",
+                "Mud-Slap"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Ground"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "85",
+                "120",
+                "-",
+                "-",
+                "-",
+                "20"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "RubySapphire": [
+                "Route 110",
+                "118"
+            ],
+            "Emerald": [
+                "Route 110",
+                "118"
+            ],
+            "DiamondPearl": [
+                "Valley Windworks"
+            ],
+            "Platinum": [
+                "Valley Windworks"
+            ],
+            "XY": [
+                "Route 10 (Menhir Trail)"
+            ],
+            "Omega RubyAlpha Sapphire": [
+                "Route 110",
+                "118"
+            ]
+        }
+    ]
+}

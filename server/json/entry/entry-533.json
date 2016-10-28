@@ -1,0 +1,573 @@
+{
+    "id": "533",
+    "National №": "533",
+    "Type": [
+        "Fighting"
+    ],
+    "Species": "Muscular Pokémon",
+    "Height": "3′11″ (1.19m)",
+    "Weight": "88.2 lbs (40.0 kg)",
+    "Abilities": [
+        "Guts",
+        "Sheer Force"
+    ],
+    "Local №": [],
+    "Japanese": "Dotekkotsu",
+    "stats": {
+        "HP": {
+            "avg": "85",
+            "min": "280",
+            "max": "374"
+        },
+        "Attack": {
+            "avg": "105",
+            "min": "193",
+            "max": "339"
+        },
+        "Defense": {
+            "avg": "85",
+            "min": "157",
+            "max": "295"
+        },
+        "Sp. Atk": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        },
+        "Sp. Def": {
+            "avg": "50",
+            "min": "94",
+            "max": "218"
+        },
+        "Speed": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-100",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-100",
+        "Grass": "type-fx-cell type-fx-100",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-100",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-100",
+        "Flying": "type-fx-cell type-fx-200",
+        "Psychic": "type-fx-cell type-fx-200",
+        "Bug": "type-fx-cell type-fx-50",
+        "Rock": "type-fx-cell type-fx-50",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-50",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-200"
+    },
+    "description": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "4",
+                "8",
+                "12",
+                "16",
+                "20",
+                "24",
+                "29",
+                "33",
+                "37",
+                "41",
+                "45",
+                "49",
+                "53",
+                "57"
+            ],
+            "Move": [
+                "Bide",
+                "Focus Energy",
+                "Leer",
+                "Pound",
+                "Focus Energy",
+                "Bide",
+                "Low Kick",
+                "Rock Throw",
+                "Wake-Up Slap",
+                "Chip Away",
+                "Bulk Up",
+                "Rock Slide",
+                "Dynamic Punch",
+                "Scary Face",
+                "Hammer Arm",
+                "Stone Edge",
+                "Focus Punch",
+                "Superpower"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fighting",
+                "Rock",
+                "Fighting",
+                "Normal",
+                "Fighting",
+                "Rock",
+                "Fighting",
+                "Normal",
+                "Fighting",
+                "Rock",
+                "Fighting",
+                "Fighting"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "-",
+                "40",
+                "-",
+                "-",
+                "-",
+                "50",
+                "70",
+                "70",
+                "-",
+                "75",
+                "100",
+                "-",
+                "100",
+                "100",
+                "150",
+                "120"
+            ],
+            "Acc.": [
+                "-",
+                "-",
+                "100",
+                "100",
+                "-",
+                "-",
+                "100",
+                "90",
+                "100",
+                "100",
+                "-",
+                "90",
+                "50",
+                "100",
+                "90",
+                "80",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Comet Punch",
+                "Counter",
+                "Detect",
+                "Drain Punch",
+                "Endure",
+                "Force Palm",
+                "Foresight",
+                "Mach Punch",
+                "Reversal",
+                "Smelling Salts",
+                "Wide Guard"
+            ],
+            "Type": [
+                "Normal",
+                "Fighting",
+                "Fighting",
+                "Fighting",
+                "Normal",
+                "Fighting",
+                "Normal",
+                "Fighting",
+                "Fighting",
+                "Normal",
+                "Rock"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "18",
+                "-",
+                "-",
+                "75",
+                "-",
+                "60",
+                "-",
+                "40",
+                "-",
+                "70",
+                "-"
+            ],
+            "Acc.": [
+                "85",
+                "100",
+                "-",
+                "100",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "-"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "4"
+            ],
+            "Move": [
+                "Strength"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "80"
+            ],
+            "Acc.": [
+                "100"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "8",
+                "10",
+                "11",
+                "12",
+                "17",
+                "18",
+                "21",
+                "23",
+                "27",
+                "28",
+                "31",
+                "32",
+                "39",
+                "42",
+                "44",
+                "45",
+                "47",
+                "48",
+                "52",
+                "56",
+                "66",
+                "67",
+                "71",
+                "80",
+                "84",
+                "86",
+                "87",
+                "88",
+                "90",
+                "94",
+                "98",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Bulk Up",
+                "Hidden Power",
+                "Sunny Day",
+                "Taunt",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Smack Down",
+                "Return",
+                "Dig",
+                "Brick Break",
+                "Double Team",
+                "Rock Tomb",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Low Sweep",
+                "Round",
+                "Focus Blast",
+                "Fling",
+                "Payback",
+                "Retaliate",
+                "Stone Edge",
+                "Rock Slide",
+                "Poison Jab",
+                "Grass Knot",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Rock Smash",
+                "Power-Up Punch",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Fighting",
+                "Normal",
+                "Fire",
+                "Dark",
+                "Normal",
+                "Water",
+                "Normal",
+                "Rock",
+                "Normal",
+                "Ground",
+                "Fighting",
+                "Normal",
+                "Rock",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Fighting",
+                "Normal",
+                "Fighting",
+                "Dark",
+                "Dark",
+                "Normal",
+                "Rock",
+                "Rock",
+                "Poison",
+                "Grass",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fighting",
+                "Fighting",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "60",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "50",
+                "-",
+                "80",
+                "75",
+                "-",
+                "60",
+                "70",
+                "-",
+                "-",
+                "65",
+                "60",
+                "120",
+                "-",
+                "50",
+                "70",
+                "100",
+                "75",
+                "80",
+                "-",
+                "-",
+                "-",
+                "-",
+                "40",
+                "40",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "-",
+                "100",
+                "-",
+                "100",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "95",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "70",
+                "100",
+                "100",
+                "100",
+                "80",
+                "90",
+                "100",
+                "100",
+                "90",
+                "-",
+                "-",
+                "100",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Work Up"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Status"
+            ],
+            "Power": [
+                "-"
+            ],
+            "Acc.": [
+                "-"
+            ],
+            "Method": [
+                "Generation 5 — TM"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "BlackWhite": [
+                "Twist Mountain"
+            ],
+            "Black 2White 2": [
+                "Twist Mountain",
+                "Victory Road",
+                "Pinwheel Forest",
+                "Relic Passage"
+            ],
+            "XY": [
+                "Route 18 (Vallée Étroite Way)",
+                "Victory Road"
+            ]
+        }
+    ]
+}

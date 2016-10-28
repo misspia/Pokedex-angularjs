@@ -1,0 +1,506 @@
+{
+    "id": "283",
+    "National №": "283",
+    "Type": [
+        "Bug",
+        "Water"
+    ],
+    "Species": "Pond Skater Pokémon",
+    "Height": "1′8″ (0.51m)",
+    "Weight": "3.7 lbs (1.7 kg)",
+    "Abilities": [
+        "Swift Swim"
+    ],
+    "Local №": [],
+    "Japanese": "Ametama",
+    "stats": {
+        "HP": {
+            "avg": "40",
+            "min": "190",
+            "max": "284"
+        },
+        "Attack": {
+            "avg": "30",
+            "min": "58",
+            "max": "174"
+        },
+        "Defense": {
+            "avg": "32",
+            "min": "62",
+            "max": "179"
+        },
+        "Sp. Atk": {
+            "avg": "50",
+            "min": "94",
+            "max": "218"
+        },
+        "Sp. Def": {
+            "avg": "52",
+            "min": "98",
+            "max": "223"
+        },
+        "Speed": {
+            "avg": "65",
+            "min": "121",
+            "max": "251"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-100",
+        "Water": "type-fx-cell type-fx-50",
+        "Electric": "type-fx-cell type-fx-200",
+        "Grass": "type-fx-cell type-fx-100",
+        "Ice": "type-fx-cell type-fx-50",
+        "Fighting": "type-fx-cell type-fx-50",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-50",
+        "Flying": "type-fx-cell type-fx-200",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-100",
+        "Rock": "type-fx-cell type-fx-200",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-50",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "7",
+                "13",
+                "19",
+                "25",
+                "31",
+                "37",
+                "37",
+                "43",
+                "46"
+            ],
+            "Move": [
+                "Bubble",
+                "Quick Attack",
+                "Sweet Scent",
+                "Water Sport",
+                "Bubble Beam",
+                "Agility",
+                "Haze",
+                "Mist",
+                "Baton Pass",
+                "Sticky Web"
+            ],
+            "Type": [
+                "Water",
+                "Normal",
+                "Normal",
+                "Water",
+                "Water",
+                "Psychic",
+                "Ice",
+                "Ice",
+                "Normal",
+                "Bug"
+            ],
+            "Cat.": [
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "40",
+                "40",
+                "-",
+                "-",
+                "65",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "-",
+                "100",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Aqua Jet",
+                "Bug Bite",
+                "Endure",
+                "Fell Stinger",
+                "Foresight",
+                "Hydro Pump",
+                "Mind Reader",
+                "Mud Shot",
+                "Power Split",
+                "Psybeam",
+                "Signal Beam"
+            ],
+            "Type": [
+                "Water",
+                "Bug",
+                "Normal",
+                "Bug",
+                "Normal",
+                "Water",
+                "Normal",
+                "Ground",
+                "Psychic",
+                "Psychic",
+                "Bug"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Special"
+            ],
+            "Power": [
+                "40",
+                "60",
+                "-",
+                "30",
+                "-",
+                "110",
+                "-",
+                "55",
+                "-",
+                "65",
+                "75"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "100",
+                "-",
+                "80",
+                "-",
+                "95",
+                "-",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "set": []
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "10",
+                "11",
+                "13",
+                "14",
+                "17",
+                "18",
+                "21",
+                "22",
+                "27",
+                "30",
+                "32",
+                "42",
+                "44",
+                "45",
+                "46",
+                "48",
+                "55",
+                "70",
+                "76",
+                "77",
+                "83",
+                "87",
+                "88",
+                "90",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hidden Power",
+                "Sunny Day",
+                "Ice Beam",
+                "Blizzard",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Solar Beam",
+                "Return",
+                "Shadow Ball",
+                "Double Team",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Thief",
+                "Round",
+                "Scald",
+                "Flash",
+                "Struggle Bug",
+                "Psych Up",
+                "Infestation",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Normal",
+                "Fire",
+                "Ice",
+                "Ice",
+                "Normal",
+                "Water",
+                "Normal",
+                "Grass",
+                "Normal",
+                "Ghost",
+                "Normal",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Water",
+                "Normal",
+                "Bug",
+                "Normal",
+                "Bug",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Special",
+                "Status",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "-",
+                "90",
+                "110",
+                "-",
+                "-",
+                "-",
+                "120",
+                "-",
+                "80",
+                "-",
+                "70",
+                "-",
+                "-",
+                "60",
+                "60",
+                "80",
+                "-",
+                "50",
+                "-",
+                "20",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "-",
+                "100",
+                "70",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "90",
+                "-",
+                "-",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Double-Edge",
+                "Mimic",
+                "Captivate",
+                "Natural Gift",
+                "Mud-Slap",
+                "String Shot",
+                "Swift"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Ground",
+                "Bug",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Status",
+                "Special"
+            ],
+            "Power": [
+                "120",
+                "-",
+                "-",
+                "-",
+                "20",
+                "-",
+                "60"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "95",
+                "∞"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "RubySapphire": [
+                "Route 102",
+                "111",
+                "114",
+                "117",
+                "120"
+            ],
+            "DiamondPearl": [
+                "Lake Verity"
+            ],
+            "Platinum": [
+                "Route 229"
+            ],
+            "BlackWhite": [
+                "White Forest"
+            ],
+            "Omega RubyAlpha Sapphire": [
+                "Route 102",
+                "111",
+                "114",
+                "117",
+                "120",
+                "123",
+                "Petalburg City"
+            ]
+        }
+    ]
+}

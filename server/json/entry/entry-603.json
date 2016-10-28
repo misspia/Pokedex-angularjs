@@ -1,0 +1,406 @@
+{
+    "id": "603",
+    "National №": "603",
+    "Type": [
+        "Electric"
+    ],
+    "Species": "EleFish Pokémon",
+    "Height": "3′11″ (1.19m)",
+    "Weight": "48.5 lbs (22.0 kg)",
+    "Abilities": [
+        "Levitate"
+    ],
+    "Local №": [],
+    "Japanese": "Shibibiru",
+    "stats": {
+        "HP": {
+            "avg": "65",
+            "min": "240",
+            "max": "334"
+        },
+        "Attack": {
+            "avg": "85",
+            "min": "157",
+            "max": "295"
+        },
+        "Defense": {
+            "avg": "70",
+            "min": "130",
+            "max": "262"
+        },
+        "Sp. Atk": {
+            "avg": "75",
+            "min": "139",
+            "max": "273"
+        },
+        "Sp. Def": {
+            "avg": "70",
+            "min": "130",
+            "max": "262"
+        },
+        "Speed": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-100",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-50",
+        "Grass": "type-fx-cell type-fx-100",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-100",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-0",
+        "Flying": "type-fx-cell type-fx-50",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-100",
+        "Rock": "type-fx-cell type-fx-100",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-50",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "9",
+                "19",
+                "29",
+                "39",
+                "44",
+                "49",
+                "54",
+                "59",
+                "64",
+                "69",
+                "74"
+            ],
+            "Move": [
+                "Charge Beam",
+                "Headbutt",
+                "Spark",
+                "Thunder Wave",
+                "Bind",
+                "Acid",
+                "Discharge",
+                "Crunch",
+                "Thunderbolt",
+                "Acid Spray",
+                "Coil",
+                "Wild Charge",
+                "Gastro Acid",
+                "Zap Cannon",
+                "Thrash"
+            ],
+            "Type": [
+                "Electric",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Normal",
+                "Poison",
+                "Electric",
+                "Dark",
+                "Electric",
+                "Poison",
+                "Poison",
+                "Electric",
+                "Poison",
+                "Electric",
+                "Normal"
+            ],
+            "Cat.": [
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Special",
+                "Special",
+                "Status",
+                "Physical",
+                "Status",
+                "Special",
+                "Physical"
+            ],
+            "Power": [
+                "50",
+                "70",
+                "65",
+                "-",
+                "15",
+                "40",
+                "80",
+                "80",
+                "90",
+                "40",
+                "-",
+                "90",
+                "-",
+                "120",
+                "120"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "100",
+                "100",
+                "85",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "50",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "set": []
+        },
+        "2": {
+            "title": "Pre-evolution moves",
+            "Move": [
+                "Tackle"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "50"
+            ],
+            "Acc.": [
+                "100"
+            ],
+            "Method": [
+                "Level up"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by HM",
+            "set": []
+        },
+        "4": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "10",
+                "16",
+                "17",
+                "18",
+                "21",
+                "24",
+                "25",
+                "27",
+                "32",
+                "42",
+                "44",
+                "45",
+                "48",
+                "57",
+                "62",
+                "70",
+                "72",
+                "73",
+                "87",
+                "88",
+                "89",
+                "90",
+                "91",
+                "93",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hidden Power",
+                "Light Screen",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Thunderbolt",
+                "Thunder",
+                "Return",
+                "Double Team",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Round",
+                "Charge Beam",
+                "Acrobatics",
+                "Flash",
+                "Volt Switch",
+                "Thunder Wave",
+                "Swagger",
+                "Sleep Talk",
+                "U-turn",
+                "Substitute",
+                "Flash Cannon",
+                "Wild Charge",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Water",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Electric",
+                "Flying",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Normal",
+                "Steel",
+                "Electric",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Physical",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Special",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "-",
+                "-",
+                "-",
+                "-",
+                "90",
+                "110",
+                "-",
+                "-",
+                "70",
+                "-",
+                "-",
+                "60",
+                "50",
+                "55",
+                "-",
+                "70",
+                "-",
+                "-",
+                "-",
+                "70",
+                "-",
+                "80",
+                "90",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "-",
+                "-",
+                "-",
+                "100",
+                "100",
+                "70",
+                "100",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "90",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        }
+    },
+    "locations": [
+        {
+            "Black 2White 2": [
+                "Seaside Cave"
+            ]
+        }
+    ]
+}

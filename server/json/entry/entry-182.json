@@ -1,0 +1,576 @@
+{
+    "id": "182",
+    "National №": "182",
+    "Type": [
+        "Grass"
+    ],
+    "Species": "Flower Pokémon",
+    "Height": "1′4″ (0.41m)",
+    "Weight": "12.8 lbs (5.8 kg)",
+    "Abilities": [
+        "Chlorophyll"
+    ],
+    "Local №": [],
+    "Japanese": "Kireihana",
+    "stats": {
+        "HP": {
+            "avg": "75",
+            "min": "260",
+            "max": "354"
+        },
+        "Attack": {
+            "avg": "80",
+            "min": "148",
+            "max": "284"
+        },
+        "Defense": {
+            "avg": "95",
+            "min": "175",
+            "max": "317"
+        },
+        "Sp. Atk": {
+            "avg": "90",
+            "min": "166",
+            "max": "306"
+        },
+        "Sp. Def": {
+            "avg": "100",
+            "min": "184",
+            "max": "328"
+        },
+        "Speed": {
+            "avg": "50",
+            "min": "94",
+            "max": "218"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-200",
+        "Water": "type-fx-cell type-fx-50",
+        "Electric": "type-fx-cell type-fx-50",
+        "Grass": "type-fx-cell type-fx-50",
+        "Ice": "type-fx-cell type-fx-200",
+        "Fighting": "type-fx-cell type-fx-100",
+        "Poison": "type-fx-cell type-fx-200",
+        "Ground": "type-fx-cell type-fx-50",
+        "Flying": "type-fx-cell type-fx-200",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-200",
+        "Rock": "type-fx-cell type-fx-100",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "23",
+                "50",
+                "53"
+            ],
+            "Move": [
+                "Leaf Blade",
+                "Leaf Storm",
+                "Mega Drain",
+                "Stun Spore",
+                "Sunny Day",
+                "Sweet Scent",
+                "Magical Leaf",
+                "Petal Blizzard",
+                "Leaf Storm"
+            ],
+            "Type": [
+                "Grass",
+                "Grass",
+                "Grass",
+                "Grass",
+                "Fire",
+                "Normal",
+                "Grass",
+                "Grass",
+                "Grass"
+            ],
+            "Cat.": [
+                "Physical",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Special",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "90",
+                "130",
+                "40",
+                "-",
+                "-",
+                "-",
+                "60",
+                "90",
+                "130"
+            ],
+            "Acc.": [
+                "100",
+                "90",
+                "100",
+                "75",
+                "-",
+                "-",
+                "∞",
+                "100",
+                "90"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "After You",
+                "Charm",
+                "Flail",
+                "Ingrain",
+                "Nature Power",
+                "Razor Leaf",
+                "Secret Power",
+                "Synthesis",
+                "Teeter Dance",
+                "Tickle"
+            ],
+            "Type": [
+                "Normal",
+                "Fairy",
+                "Normal",
+                "Grass",
+                "Normal",
+                "Grass",
+                "Normal",
+                "Grass",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "55",
+                "70",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "-",
+                "100",
+                "100",
+                "-",
+                "-",
+                "95",
+                "100",
+                "-",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Pre-evolution moves",
+            "Move": [
+                "Absorb",
+                "Acid",
+                "Giga Drain",
+                "Grassy Terrain",
+                "Lucky Chant",
+                "Moonlight",
+                "Natural Gift",
+                "Petal Dance",
+                "Poison Powder",
+                "Sleep Powder"
+            ],
+            "Type": [
+                "Grass",
+                "Poison",
+                "Grass",
+                "Grass",
+                "Normal",
+                "Fairy",
+                "Normal",
+                "Grass",
+                "Poison",
+                "Grass"
+            ],
+            "Cat.": [
+                "Special",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "20",
+                "40",
+                "75",
+                "-",
+                "-",
+                "-",
+                "-",
+                "120",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "-",
+                "-",
+                "-",
+                "100",
+                "100",
+                "75",
+                "75"
+            ],
+            "Method": [
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "1"
+            ],
+            "Move": [
+                "Cut"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "50"
+            ],
+            "Acc.": [
+                "95"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "9",
+                "10",
+                "11",
+                "15",
+                "17",
+                "20",
+                "21",
+                "22",
+                "27",
+                "32",
+                "36",
+                "42",
+                "44",
+                "45",
+                "48",
+                "53",
+                "56",
+                "68",
+                "70",
+                "75",
+                "83",
+                "86",
+                "87",
+                "88",
+                "90",
+                "96",
+                "99",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Venoshock",
+                "Hidden Power",
+                "Sunny Day",
+                "Hyper Beam",
+                "Protect",
+                "Safeguard",
+                "Frustration",
+                "Solar Beam",
+                "Return",
+                "Double Team",
+                "Sludge Bomb",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Round",
+                "Energy Ball",
+                "Fling",
+                "Giga Impact",
+                "Flash",
+                "Swords Dance",
+                "Infestation",
+                "Grass Knot",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Nature Power",
+                "Dazzling Gleam",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Poison",
+                "Normal",
+                "Fire",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Grass",
+                "Normal",
+                "Normal",
+                "Poison",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Grass",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Grass",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Fairy",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Status",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "65",
+                "60",
+                "-",
+                "150",
+                "-",
+                "-",
+                "-",
+                "120",
+                "-",
+                "-",
+                "90",
+                "70",
+                "-",
+                "-",
+                "60",
+                "90",
+                "-",
+                "150",
+                "-",
+                "-",
+                "20",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "80",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "100",
+                "-",
+                "90",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "100",
+                "-",
+                "100",
+                "100",
+                "90",
+                "-",
+                "-",
+                "-",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "5": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Double-Edge",
+                "Mimic",
+                "Bullet Seed",
+                "Captivate"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Grass",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "120",
+                "-",
+                "25",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "100",
+                "100"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        "We don't have any location data for Bellossom yet."
+    ]
+}

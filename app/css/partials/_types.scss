@@ -1,0 +1,349 @@
+@import 'variables';
+.type{
+	line-height:2.1em;
+	width:4.6em;
+	border: solid 0.1em;
+	display:inline-block;	
+	font-family:$font-type;
+	font-size:0.7em;
+	border-radius:5em;
+	padding: 0 0.5em;
+	color: darken($white, 5%);
+	box-shadow: inset 0em 0em 0.05em 0.15em #fff;
+	text-shadow:0px 0.1em $lblack;
+	text-align:center;
+	margin:0 0.2em;
+}
+.bug{background-color:$bug; border-color: $bug;}
+.dragon{background-color:$dragon;  border-color: $dragon;}
+.dark{background-color:$dark;  border-color:$dark;}
+.electric{background-color:$electric; border-color: $electric;}
+.fairy{background-color:$fairy; border-color:$fairy}
+.fire{background-color: $fire; border-color:$fire;}
+.flying{background-color: $flying; border-color:$flying;}
+.fighting{background-color:$fighting; border-color:$fighting;}
+.ghost{background-color:$ghost; border-color:$ghost;}
+.grass{background-color:$grass; border-color:$grass;}
+.ground{background-color:$ground; border-color:$ground;}
+.ice{background-color:$ice; border-color:$ice;} 
+.normal{background-color:$normal; border-color:$normal;} 
+.poison{background-color:$poison; border-color:$poison;}
+.psychic{background-color:$psychic; border-color:$psychic;}
+.rock{background-color:$rock; border-color:$rock;}
+.steel{background-color:$steel; border-color:$steel;}
+.water{background-color:$water; border-color:$water;}
+
+
+
+
+////BACKGROUND////
+// .bg.fairy{background-color:$fairy; background-image: url('../img/fairy.jpg'); }
+.bg.bug{background-color:$bug; }
+.bg.dragon{background-color:$dragon; }
+.bg.dark{background-color:$dark;}
+.bg.electric{background-color:$electric;}
+.bg.fairy{background-color:$fairy;}
+.bg.fire{background-color: $fire;}
+.bg.flying{background-color: $flying; }
+.bg.fighting{background-color:$fighting; }
+.bg.ghost{background-color:$ghost; }
+.bg.grass{background-color:$grass;}
+.bg.ground{background-color:$ground;}
+.bg.ice{background-color:$ice; } 
+.bg.normal{background-color:$normal; } 
+.bg.poison{background-color:$poison;}
+.bg.psychic{background-color:$psychic; }
+.bg.rock{background-color:$rock;}
+.bg.steel{background-color:$steel;}
+.bg.water{background-color:$water;}
+
+///FOREGROUND
+.fg{background-color:transparent;} ///////REVEAL BG
+.fg.bug{
+	#sprite{
+		.container-main-sprite{border-color: $bug;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$bug;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$bug;}
+			}
+		}
+	}
+}
+.fg.dragon{
+	#sprite{
+		.container-main-sprite{border-color: $dragon;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$dragon;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$dragon;}
+			}
+		}
+	}
+}
+.fg.dark{
+	#sprite{
+		.container-main-sprite{border-color: $dark;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$dark;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$dark;}
+			}
+		}
+	}
+}
+.fg.fairy{
+	#sprite{
+		.container-main-sprite{border-color: $fairy;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$fairy;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$fairy;}
+			}
+		}
+	}
+}
+.fg.electric{
+	#sprite{
+		.container-main-sprite{border-color: $electric;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$electric;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$electric;}
+			}
+		}
+	}
+}
+.fg.fire{
+	#sprite{
+		.container-main-sprite{border-color: $fire;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$fire;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$fire;}
+			}
+		}
+	}	
+}
+.fg.flying{
+	#sprite{
+		.container-main-sprite{border-color: $flying;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$flying;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$flying;}
+			}
+		}
+	}		
+}
+.fg.fighting{
+	#sprite{
+		.container-main-sprite{border-color: $fighting;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$fighting;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$fighting;}
+			}
+		}
+	}	
+}
+.fg.ghost{
+	#sprite{
+		.container-main-sprite{border-color: $ghost;}	
+	}	
+	#basic{
+		.general{
+			tbody{border-color:$ghost;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$ghost;}
+			}
+		}
+	}
+}
+.fg.grass{
+	#sprite{
+		.container-main-sprite{border-color: $grass;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$grass;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$grass;}
+			}
+		}
+	}	
+}
+.fg.ground{
+	#sprite{
+		.container-main-sprite{border-color: $ground;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$ground;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$ground;}
+			}
+		}
+	}	
+}
+.fg.ice{
+	#sprite{
+		.container-main-sprite{border-color: $ice;}	
+	}	
+	#basic{
+		.general{
+			tbody{border-color:$ice;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$ice;}
+			}
+		}
+	}
+} 
+.fg.normal{
+	#sprite{
+		.container-main-sprite{border-color: $normal;}	
+	}	
+	#basic{
+		.general{
+			tbody{border-color:$normal;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$normal;}
+			}
+		}
+	}
+} 
+.fg.poison{
+	#sprite{
+		.container-main-sprite{border-color: $poison;}	
+	}	
+	#basic{
+		.general{
+			tbody{border-color:$poison;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$poison;}
+			}
+		}
+	}	
+}
+.fg.psychic{
+	#sprite{
+		.container-main-sprite{border-color: $psychic;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$psychic;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$psychic;}
+			}
+		}
+	}	
+}
+.fg.rock{
+	#sprite{
+		.container-main-sprite{border-color: $rock;}	
+	}	
+	#basic{
+		.general{
+			tbody{border-color:$rock;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$rock;}
+			}
+		}
+	}
+}
+.fg.steel{
+	#sprite{
+		.container-main-sprite{border-color: $steel;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$steel;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$steel;}
+			}
+		}
+	}	
+}
+.fg.water{
+	#sprite{
+		.container-main-sprite{border-color: $water;}	
+	}
+	#basic{
+		.general{
+			tbody{border-color:$water;}
+		}
+		.stats{
+			.gauge{
+				div{background-color:$water;}
+			}
+		}
+	}
+}
+.moves-description{background-color:transparent;}
+.moves-description.dragon{color:$dragon;}
+.moves-description.dark{}
+.moves-description.electric{color:darken($electric,5%);}
+.moves-description.fairy{}
+.moves-description.fighting{}
+.moves-description.fire{}
+.moves-description.flying{}
+.moves-description.ghost{}
+.moves-description.grass{}
+.moves-description.ground{}
+.moves-description.ice{}
+.moves-description.normal{}
+.moves-description.poison{}
+.moves-description.psychic{}
+.moves-description.rock{}
+.moves-description.steel{}
+.moves-description.water{color:$water;}

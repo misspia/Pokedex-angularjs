@@ -1,0 +1,541 @@
+{
+    "id": "276",
+    "National №": "276",
+    "Type": [
+        "Normal",
+        "Flying"
+    ],
+    "Species": "TinySwallow Pokémon",
+    "Height": "1′0″ (0.30m)",
+    "Weight": "5.1 lbs (2.3 kg)",
+    "Abilities": [
+        "Guts"
+    ],
+    "Local №": [],
+    "Japanese": "Subame",
+    "stats": {
+        "HP": {
+            "avg": "40",
+            "min": "190",
+            "max": "284"
+        },
+        "Attack": {
+            "avg": "55",
+            "min": "103",
+            "max": "229"
+        },
+        "Defense": {
+            "avg": "30",
+            "min": "58",
+            "max": "174"
+        },
+        "Sp. Atk": {
+            "avg": "30",
+            "min": "58",
+            "max": "174"
+        },
+        "Sp. Def": {
+            "avg": "30",
+            "min": "58",
+            "max": "174"
+        },
+        "Speed": {
+            "avg": "85",
+            "min": "157",
+            "max": "295"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-100",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-200",
+        "Grass": "type-fx-cell type-fx-50",
+        "Ice": "type-fx-cell type-fx-200",
+        "Fighting": "type-fx-cell type-fx-100",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-0",
+        "Flying": "type-fx-cell type-fx-100",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-50",
+        "Rock": "type-fx-cell type-fx-200",
+        "Ghost": "type-fx-cell type-fx-0",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "4",
+                "7",
+                "13",
+                "19",
+                "26",
+                "34",
+                "43",
+                "53"
+            ],
+            "Move": [
+                "Growl",
+                "Peck",
+                "Focus Energy",
+                "Quick Attack",
+                "Wing Attack",
+                "Double Team",
+                "Endeavor",
+                "Aerial Ace",
+                "Agility",
+                "Air Slash"
+            ],
+            "Type": [
+                "Normal",
+                "Flying",
+                "Normal",
+                "Normal",
+                "Flying",
+                "Normal",
+                "Normal",
+                "Flying",
+                "Psychic",
+                "Flying"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Special"
+            ],
+            "Power": [
+                "-",
+                "35",
+                "-",
+                "40",
+                "60",
+                "-",
+                "-",
+                "60",
+                "-",
+                "75"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "-",
+                "100",
+                "∞",
+                "-",
+                "95"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Boomburst",
+                "Brave Bird",
+                "Defog",
+                "Mirror Move",
+                "Pursuit",
+                "Rage",
+                "Refresh",
+                "Roost",
+                "Sky Attack",
+                "Steel Wing",
+                "Supersonic",
+                "Whirlwind"
+            ],
+            "Type": [
+                "Normal",
+                "Flying",
+                "Flying",
+                "Flying",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Flying",
+                "Flying",
+                "Steel",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "140",
+                "120",
+                "-",
+                "-",
+                "40",
+                "20",
+                "-",
+                "-",
+                "140",
+                "70",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "-",
+                "100",
+                "100",
+                "-",
+                "-",
+                "90",
+                "90",
+                "55",
+                "-"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "2"
+            ],
+            "Move": [
+                "Fly"
+            ],
+            "Type": [
+                "Flying"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "90"
+            ],
+            "Acc.": [
+                "95"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "10",
+                "11",
+                "17",
+                "18",
+                "19",
+                "21",
+                "27",
+                "32",
+                "40",
+                "42",
+                "44",
+                "45",
+                "46",
+                "48",
+                "49",
+                "51",
+                "87",
+                "88",
+                "89",
+                "90",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hidden Power",
+                "Sunny Day",
+                "Protect",
+                "Rain Dance",
+                "Roost",
+                "Frustration",
+                "Return",
+                "Double Team",
+                "Aerial Ace",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Thief",
+                "Round",
+                "Echoed Voice",
+                "Steel Wing",
+                "Swagger",
+                "Sleep Talk",
+                "U-turn",
+                "Substitute",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Normal",
+                "Fire",
+                "Normal",
+                "Water",
+                "Flying",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Flying",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Steel",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "60",
+                "70",
+                "-",
+                "-",
+                "60",
+                "60",
+                "40",
+                "70",
+                "-",
+                "-",
+                "70",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "-",
+                "-",
+                "-",
+                "-",
+                "100",
+                "100",
+                "-",
+                "∞",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "90",
+                "-",
+                "100",
+                "-",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Counter",
+                "Double-Edge",
+                "Mimic",
+                "Captivate",
+                "Natural Gift",
+                "Air Cutter",
+                "Mud-Slap",
+                "Ominous Wind",
+                "Swift",
+                "Twister",
+                "Pluck",
+                "Work Up"
+            ],
+            "Type": [
+                "Fighting",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Flying",
+                "Ground",
+                "Ghost",
+                "Normal",
+                "Dragon",
+                "Flying",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Special",
+                "Special",
+                "Special",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "120",
+                "-",
+                "-",
+                "-",
+                "60",
+                "20",
+                "60",
+                "60",
+                "40",
+                "60",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "95",
+                "100",
+                "100",
+                "∞",
+                "100",
+                "100",
+                "-"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 5 — TM",
+                "Generation 5 — TM"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "RubySapphire": [
+                "Route 104",
+                "115",
+                "116",
+                "Petalburg Woods"
+            ],
+            "Emerald": [
+                "Route 104",
+                "115",
+                "116",
+                "Petalburg Woods"
+            ],
+            "HeartGoldSoulSilver": [
+                "Cherrygrove City"
+            ],
+            "XY": [
+                "Route 8 (Muraille Coast)"
+            ],
+            "Omega RubyAlpha Sapphire": [
+                "Route 104",
+                "115",
+                "116",
+                "Petalburg Woods"
+            ]
+        }
+    ]
+}

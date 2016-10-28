@@ -1,0 +1,597 @@
+{
+    "id": "457",
+    "National №": "457",
+    "Type": [
+        "Water"
+    ],
+    "Species": "Neon Pokémon",
+    "Height": "3′11″ (1.19m)",
+    "Weight": "52.9 lbs (24.0 kg)",
+    "Abilities": [
+        "Storm Drain",
+        "Swift Swim"
+    ],
+    "Local №": [],
+    "Japanese": "Neoranto",
+    "stats": {
+        "HP": {
+            "avg": "69",
+            "min": "248",
+            "max": "342"
+        },
+        "Attack": {
+            "avg": "69",
+            "min": "128",
+            "max": "260"
+        },
+        "Defense": {
+            "avg": "76",
+            "min": "141",
+            "max": "276"
+        },
+        "Sp. Atk": {
+            "avg": "69",
+            "min": "128",
+            "max": "260"
+        },
+        "Sp. Def": {
+            "avg": "86",
+            "min": "159",
+            "max": "298"
+        },
+        "Speed": {
+            "avg": "91",
+            "min": "168",
+            "max": "309"
+        }
+    },
+    "typeDef": {},
+    "description": "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "6",
+                "10",
+                "13",
+                "17",
+                "22",
+                "26",
+                "29",
+                "35",
+                "42",
+                "48",
+                "53",
+                "59",
+                "66"
+            ],
+            "Move": [
+                "Attract",
+                "Gust",
+                "Pound",
+                "Soak",
+                "Water Gun",
+                "Water Gun",
+                "Attract",
+                "Rain Dance",
+                "Gust",
+                "Water Pulse",
+                "Captivate",
+                "Safeguard",
+                "Aqua Ring",
+                "Whirlpool",
+                "U-turn",
+                "Bounce",
+                "Silver Wind",
+                "Soak"
+            ],
+            "Type": [
+                "Normal",
+                "Flying",
+                "Normal",
+                "Water",
+                "Water",
+                "Water",
+                "Normal",
+                "Water",
+                "Flying",
+                "Water",
+                "Normal",
+                "Normal",
+                "Water",
+                "Water",
+                "Bug",
+                "Flying",
+                "Bug",
+                "Water"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Physical",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Special",
+                "Physical",
+                "Physical",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "40",
+                "40",
+                "-",
+                "40",
+                "40",
+                "-",
+                "-",
+                "40",
+                "60",
+                "-",
+                "-",
+                "-",
+                "35",
+                "70",
+                "85",
+                "60",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "-",
+                "-",
+                "85",
+                "100",
+                "85",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Agility",
+                "Aqua Tail",
+                "Aurora Beam",
+                "Brine",
+                "Charm",
+                "Flail",
+                "Psybeam",
+                "Signal Beam",
+                "Splash",
+                "Sweet Kiss",
+                "Tickle"
+            ],
+            "Type": [
+                "Psychic",
+                "Water",
+                "Ice",
+                "Water",
+                "Fairy",
+                "Normal",
+                "Psychic",
+                "Bug",
+                "Normal",
+                "Fairy",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "90",
+                "65",
+                "65",
+                "-",
+                "-",
+                "65",
+                "75",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "-",
+                "90",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "75",
+                "100"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Pre-evolution moves",
+            "Move": [
+                "Nature Power"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Status"
+            ],
+            "Power": [
+                "-"
+            ],
+            "Acc.": [
+                "-"
+            ],
+            "Method": [
+                "TM"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "3",
+                "5"
+            ],
+            "Move": [
+                "Surf",
+                "Waterfall"
+            ],
+            "Type": [
+                "Water",
+                "Water"
+            ],
+            "Cat.": [
+                "Special",
+                "Physical"
+            ],
+            "Power": [
+                "90",
+                "80"
+            ],
+            "Acc.": [
+                "100",
+                "100"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "7",
+                "10",
+                "13",
+                "14",
+                "15",
+                "17",
+                "18",
+                "20",
+                "21",
+                "27",
+                "32",
+                "42",
+                "44",
+                "45",
+                "48",
+                "55",
+                "66",
+                "68",
+                "70",
+                "77",
+                "87",
+                "88",
+                "89",
+                "90",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hail",
+                "Hidden Power",
+                "Ice Beam",
+                "Blizzard",
+                "Hyper Beam",
+                "Protect",
+                "Rain Dance",
+                "Safeguard",
+                "Frustration",
+                "Return",
+                "Double Team",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Round",
+                "Scald",
+                "Payback",
+                "Giga Impact",
+                "Flash",
+                "Psych Up",
+                "Swagger",
+                "Sleep Talk",
+                "U-turn",
+                "Substitute",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Ice",
+                "Normal",
+                "Ice",
+                "Ice",
+                "Normal",
+                "Normal",
+                "Water",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Water",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "60",
+                "90",
+                "110",
+                "150",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "70",
+                "-",
+                "-",
+                "60",
+                "80",
+                "50",
+                "150",
+                "-",
+                "-",
+                "-",
+                "-",
+                "70",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "-",
+                "100",
+                "100",
+                "70",
+                "90",
+                "-",
+                "-",
+                "-",
+                "100",
+                "100",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "100",
+                "-",
+                "90",
+                "-",
+                "100",
+                "-",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "5": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Natural Gift",
+                "Defog",
+                "Air Cutter",
+                "Ominous Wind",
+                "Swift",
+                "Twister"
+            ],
+            "Type": [
+                "Normal",
+                "Flying",
+                "Flying",
+                "Ghost",
+                "Normal",
+                "Dragon"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Special",
+                "Special",
+                "Special",
+                "Special"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "60",
+                "60",
+                "60",
+                "40"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "95",
+                "100",
+                "∞",
+                "100"
+            ],
+            "Method": [
+                "Generation 4 — TM",
+                "Generation 4 — HM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "DiamondPearl": [
+                "Route 205",
+                "218",
+                "219",
+                "220",
+                "221",
+                "Canalave City",
+                "Fuego Ironworks",
+                "Iron Island",
+                "Valley Windworks"
+            ],
+            "Platinum": [
+                "Route 205",
+                "218",
+                "219",
+                "220",
+                "221",
+                "Canalave City",
+                "Fuego Ironworks",
+                "Iron Island",
+                "Valley Windworks"
+            ],
+            "BlackWhite": [
+                "P2 Laboratory"
+            ],
+            "Black 2White 2": [
+                "Route 4",
+                "17",
+                "18",
+                "P2 Laboratory",
+                "Virbank City",
+                "Virbank Complex"
+            ]
+        }
+    ]
+}

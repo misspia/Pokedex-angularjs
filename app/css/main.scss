@@ -1,45 +1,114 @@
 @import 'https://fonts.googleapis.com/css?family=Muli';
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+//Modules
 @import 'partials/variables';
 
-body{
-	font-family: 'Muli', sans-serif;
-}
-section{
-	padding:1em;
-	border:$border;
-}
-#pokemon-list{
-	flex:1 1;
-}
-#display{
-	list-style:none;
-	flex:3 1;
+//Partiallayout';
+@import 'layout';
+@import 'partials/sprite-icons';
+@import 'partials/sprite-main';
+@import 'partials/pkm-list';
+@import 'partials/display';
+@import 'partials/types';
+@import 'partials/nav';
+@import 'partials/media-queries';
 
-	.name{
-		text-align:center;
-	}
-	.image{
-		flex: 1 1;
-		div{
-			display:flex; justify-content:center;
-		}
-	}
-	.pokemon-description{
-		flex: 3 1;
-		table{
-			display:flex; justify-content:center;
-			td{
-				width:8em;
-				text-align:center;
-				border: $border;
+body{
+	font-family: $font;
+	margin:0;
+	overflow:hidden; 
+	background-color: $red;
+}
+
+.index{
+	width:100%;
+	height:100%;
+	position:absolute;
+}
+ng-include.ng-scope{
+	height:95%;
+}
+.text{text-align:center;}
+.name{
+	text-align:center;
+	font-size: 1.5em;
+	font-weight:bold;
+	letter-spacing: 1px;
+
+}
+#moves{
+	.moves-category-select{
+		flex:1;
+		.label{
+			padding: 0.5em;
+			border:$border;
+			cursor:pointer;
+			transition:all 0.2s;
+			&:hover{
+				background-color:$black;
+				color: $white;
+			}
+			&:active{
+				background-color:$lblack;
 			}
 		}
-		p{width:30em; align-self:center;}
 	}
+	.moves-select, .moves-description{
+		padding:0.5em;
+	}
+	.moves-description{
+		flex:2;
+	}
+	.moves-display{
+		flex:8;
+		width:100%;
+		ul.row{
+			flex:1;
+		}
+	}
+	.moves-select{
+		flex:1;
+		overflow-y:scroll;
+		li{
+			// border:$border;
+			height:2.5em;
+			margin-bottom:0.1em;
+			color:$white;
+			&:nth-child(even){
+				background-color:lighten($black, 5%);
+			}
+			&:nth-child(odd){
+				background-color:lighten($black, 15%);
+			}			
+		}
+		.move{
+			display: inline-block;
+			line-height:0;
+			height:2.5em;
+			width:0.5em;
+			border-radius: 0;
+		}
+		.move + span {padding:0 0 0 1em;}
+	}	
+}
 
-}
-#viz{
-  text-align:center;
-  height:100%; width:100%;
-  background-color:white;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

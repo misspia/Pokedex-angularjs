@@ -1,0 +1,9 @@
+// _sprite-main.scss
+#sprite{
+	padding: 1em 0;
+	.container-main-sprite{
+		@include circle(13em);
+		box-shadow: 0em 0em 0.9em 0.1em $gray;
+		border:solid 0.5em;
+	}
+}

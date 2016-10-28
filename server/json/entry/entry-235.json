@@ -1,0 +1,193 @@
+{
+    "id": "235",
+    "National №": "235",
+    "Type": [
+        "Normal"
+    ],
+    "Species": "Painter Pokémon",
+    "Height": "3′11″ (1.19m)",
+    "Weight": "127.9 lbs (58.0 kg)",
+    "Abilities": [
+        "Own Tempo",
+        "Technician"
+    ],
+    "Local №": [],
+    "Japanese": "Doburu",
+    "stats": {
+        "HP": {
+            "avg": "55",
+            "min": "220",
+            "max": "314"
+        },
+        "Attack": {
+            "avg": "20",
+            "min": "40",
+            "max": "152"
+        },
+        "Defense": {
+            "avg": "35",
+            "min": "67",
+            "max": "185"
+        },
+        "Sp. Atk": {
+            "avg": "20",
+            "min": "40",
+            "max": "152"
+        },
+        "Sp. Def": {
+            "avg": "45",
+            "min": "85",
+            "max": "207"
+        },
+        "Speed": {
+            "avg": "75",
+            "min": "139",
+            "max": "273"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-100",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-100",
+        "Grass": "type-fx-cell type-fx-100",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-200",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-100",
+        "Flying": "type-fx-cell type-fx-100",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-100",
+        "Rock": "type-fx-cell type-fx-100",
+        "Ghost": "type-fx-cell type-fx-0",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "11",
+                "21",
+                "31",
+                "41",
+                "51",
+                "61",
+                "71",
+                "81",
+                "91"
+            ],
+            "Move": [
+                "Sketch",
+                "Sketch",
+                "Sketch",
+                "Sketch",
+                "Sketch",
+                "Sketch",
+                "Sketch",
+                "Sketch",
+                "Sketch",
+                "Sketch"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "set": []
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "set": []
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "set": []
+        }
+    },
+    "locations": [
+        {
+            "GoldSilver": [
+                "Ruins of Alph"
+            ],
+            "Emerald": [
+                "Altering Cave",
+                "Artisan Cave"
+            ],
+            "DiamondPearl": [
+                "Route 212"
+            ],
+            "Platinum": [
+                "Route 208",
+                "212"
+            ],
+            "HeartGoldSoulSilver": [
+                "Ruins of Alph"
+            ],
+            "BlackWhite": [
+                "Route 5"
+            ],
+            "XY": [
+                "Route 7 (Rivière Walk)"
+            ]
+        }
+    ]
+}

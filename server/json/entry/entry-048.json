@@ -1,0 +1,533 @@
+{
+    "id": "048",
+    "National №": "048",
+    "Type": [
+        "Bug",
+        "Poison"
+    ],
+    "Species": "Insect Pokémon",
+    "Height": "3′3″ (0.99m)",
+    "Weight": "66.1 lbs (30.0 kg)",
+    "Abilities": [
+        "Compound Eyes",
+        "Tinted Lens"
+    ],
+    "Local №": [],
+    "Japanese": "Konpan",
+    "stats": {
+        "HP": {
+            "avg": "60",
+            "min": "230",
+            "max": "324"
+        },
+        "Attack": {
+            "avg": "55",
+            "min": "103",
+            "max": "229"
+        },
+        "Defense": {
+            "avg": "50",
+            "min": "94",
+            "max": "218"
+        },
+        "Sp. Atk": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        },
+        "Sp. Def": {
+            "avg": "55",
+            "min": "103",
+            "max": "229"
+        },
+        "Speed": {
+            "avg": "45",
+            "min": "85",
+            "max": "207"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-200",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-100",
+        "Grass": "type-fx-cell type-fx-25",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-25",
+        "Poison": "type-fx-cell type-fx-50",
+        "Ground": "type-fx-cell type-fx-100",
+        "Flying": "type-fx-cell type-fx-200",
+        "Psychic": "type-fx-cell type-fx-200",
+        "Bug": "type-fx-cell type-fx-50",
+        "Rock": "type-fx-cell type-fx-200",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-50"
+    },
+    "description": "Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "5",
+                "11",
+                "13",
+                "17",
+                "23",
+                "25",
+                "29",
+                "35",
+                "37",
+                "41",
+                "47"
+            ],
+            "Move": [
+                "Disable",
+                "Foresight",
+                "Tackle",
+                "Supersonic",
+                "Confusion",
+                "Poison Powder",
+                "Leech Life",
+                "Stun Spore",
+                "Psybeam",
+                "Sleep Powder",
+                "Signal Beam",
+                "Zen Headbutt",
+                "Poison Fang",
+                "Psychic"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Psychic",
+                "Poison",
+                "Bug",
+                "Grass",
+                "Psychic",
+                "Grass",
+                "Bug",
+                "Psychic",
+                "Poison",
+                "Psychic"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Special",
+                "Status",
+                "Physical",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Physical",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "50",
+                "-",
+                "50",
+                "-",
+                "20",
+                "-",
+                "65",
+                "-",
+                "75",
+                "80",
+                "50",
+                "90"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "100",
+                "55",
+                "100",
+                "75",
+                "100",
+                "75",
+                "100",
+                "75",
+                "100",
+                "90",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Agility",
+                "Baton Pass",
+                "Bug Bite",
+                "Giga Drain",
+                "Morning Sun",
+                "Rage Powder",
+                "Screech",
+                "Secret Power",
+                "Signal Beam",
+                "Skill Swap",
+                "Toxic Spikes"
+            ],
+            "Type": [
+                "Psychic",
+                "Normal",
+                "Bug",
+                "Grass",
+                "Normal",
+                "Bug",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Psychic",
+                "Poison"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "60",
+                "75",
+                "-",
+                "-",
+                "-",
+                "70",
+                "75",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "-",
+                "-",
+                "100",
+                "100",
+                "-",
+                "-",
+                "85",
+                "100",
+                "100",
+                "-",
+                "-"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "set": []
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "9",
+                "10",
+                "11",
+                "17",
+                "21",
+                "22",
+                "27",
+                "29",
+                "32",
+                "36",
+                "42",
+                "44",
+                "45",
+                "46",
+                "48",
+                "70",
+                "76",
+                "83",
+                "87",
+                "88",
+                "90",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Venoshock",
+                "Hidden Power",
+                "Sunny Day",
+                "Protect",
+                "Frustration",
+                "Solar Beam",
+                "Return",
+                "Psychic",
+                "Double Team",
+                "Sludge Bomb",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Thief",
+                "Round",
+                "Flash",
+                "Struggle Bug",
+                "Infestation",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Poison",
+                "Normal",
+                "Fire",
+                "Normal",
+                "Normal",
+                "Grass",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Poison",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Bug",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Special",
+                "Status",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "65",
+                "60",
+                "-",
+                "-",
+                "-",
+                "120",
+                "-",
+                "90",
+                "-",
+                "90",
+                "70",
+                "-",
+                "-",
+                "60",
+                "60",
+                "-",
+                "50",
+                "20",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "100",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "-",
+                "-",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Double-Edge",
+                "Mimic",
+                "Captivate",
+                "Natural Gift",
+                "String Shot",
+                "Swift"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Special"
+            ],
+            "Power": [
+                "120",
+                "-",
+                "-",
+                "-",
+                "-",
+                "60"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "100",
+                "100",
+                "95",
+                "∞"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "RedBlue": [
+                "Route 12",
+                "13",
+                "14",
+                "15"
+            ],
+            "Yellow": [
+                "Route 14",
+                "15",
+                "24",
+                "25"
+            ],
+            "GoldSilver": [
+                "Route 24",
+                "25",
+                "43",
+                "National Park"
+            ],
+            "Crystal": [
+                "Route 9",
+                "10",
+                "13",
+                "14",
+                "15",
+                "24",
+                "25",
+                "43",
+                "Ilex Forest",
+                "Lake of Rage"
+            ],
+            "FireRedLeafGreen": [
+                "Route 12",
+                "13",
+                "14",
+                "15",
+                "Berry Forest",
+                "Bond Bridge"
+            ],
+            "DiamondPearl": [
+                "Route 229"
+            ],
+            "Platinum": [
+                "Route 229"
+            ],
+            "HeartGoldSoulSilver": [
+                "Route 24",
+                "25",
+                "43",
+                "Lake of Rage",
+                "National Park"
+            ]
+        }
+    ]
+}

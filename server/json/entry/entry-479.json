@@ -1,0 +1,471 @@
+{
+    "id": "479",
+    "National №": "479",
+    "Type": [
+        "Electric",
+        "Ghost"
+    ],
+    "Species": "Plasma Pokémon",
+    "Height": "1′0″ (0.30m)",
+    "Weight": "0.7 lbs (0.3 kg)",
+    "Abilities": [
+        "Levitate"
+    ],
+    "Local №": [],
+    "Japanese": "Rotomu",
+    "stats": {
+        "HP": {
+            "avg": "50",
+            "min": "210",
+            "max": "304"
+        },
+        "Attack": {
+            "avg": "50",
+            "min": "94",
+            "max": "218"
+        },
+        "Defense": {
+            "avg": "77",
+            "min": "143",
+            "max": "278"
+        },
+        "Sp. Atk": {
+            "avg": "95",
+            "min": "175",
+            "max": "317"
+        },
+        "Sp. Def": {
+            "avg": "77",
+            "min": "143",
+            "max": "278"
+        },
+        "Speed": {
+            "avg": "91",
+            "min": "168",
+            "max": "309"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-0",
+        "Fire": "type-fx-cell type-fx-100",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-50",
+        "Grass": "type-fx-cell type-fx-100",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-0",
+        "Poison": "type-fx-cell type-fx-50",
+        "Ground": "type-fx-cell type-fx-0",
+        "Flying": "type-fx-cell type-fx-50",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-50",
+        "Rock": "type-fx-cell type-fx-100",
+        "Ghost": "type-fx-cell type-fx-200",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-200",
+        "Steel": "type-fx-cell type-fx-50",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "8",
+                "15",
+                "22",
+                "29",
+                "36",
+                "43",
+                "50",
+                "57",
+                "64"
+            ],
+            "Move": [
+                "Astonish",
+                "Charge",
+                "Confuse Ray",
+                "Discharge",
+                "Thunder Shock",
+                "Thunder Wave",
+                "Trick",
+                "Uproar",
+                "Double Team",
+                "Shock Wave",
+                "Ominous Wind",
+                "Substitute",
+                "Electro Ball",
+                "Hex",
+                "Charge",
+                "Discharge"
+            ],
+            "Type": [
+                "Ghost",
+                "Electric",
+                "Ghost",
+                "Electric",
+                "Electric",
+                "Electric",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Electric",
+                "Ghost",
+                "Normal",
+                "Electric",
+                "Ghost",
+                "Electric",
+                "Electric"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Special"
+            ],
+            "Power": [
+                "30",
+                "-",
+                "-",
+                "80",
+                "40",
+                "-",
+                "-",
+                "90",
+                "-",
+                "60",
+                "60",
+                "-",
+                "-",
+                "65",
+                "-",
+                "80"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "∞",
+                "100",
+                "-",
+                "100",
+                "100",
+                "-",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "set": []
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "set": []
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "10",
+                "11",
+                "16",
+                "17",
+                "18",
+                "21",
+                "24",
+                "25",
+                "27",
+                "30",
+                "32",
+                "33",
+                "42",
+                "44",
+                "46",
+                "48",
+                "57",
+                "61",
+                "70",
+                "72",
+                "73",
+                "77",
+                "85",
+                "87",
+                "88",
+                "90",
+                "97",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hidden Power",
+                "Sunny Day",
+                "Light Screen",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Thunderbolt",
+                "Thunder",
+                "Return",
+                "Shadow Ball",
+                "Double Team",
+                "Reflect",
+                "Facade",
+                "Rest",
+                "Thief",
+                "Round",
+                "Charge Beam",
+                "Will-O-Wisp",
+                "Flash",
+                "Volt Switch",
+                "Thunder Wave",
+                "Psych Up",
+                "Dream Eater",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Dark Pulse",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Normal",
+                "Fire",
+                "Psychic",
+                "Normal",
+                "Water",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Normal",
+                "Ghost",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Psychic",
+                "Dark",
+                "Normal",
+                "Electric",
+                "Fire",
+                "Normal",
+                "Electric",
+                "Electric",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Dark",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "90",
+                "110",
+                "-",
+                "80",
+                "-",
+                "-",
+                "70",
+                "-",
+                "60",
+                "60",
+                "50",
+                "-",
+                "-",
+                "70",
+                "-",
+                "-",
+                "100",
+                "-",
+                "-",
+                "-",
+                "80",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "-",
+                "-",
+                "-",
+                "-",
+                "100",
+                "100",
+                "70",
+                "100",
+                "100",
+                "-",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "90",
+                "85",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "90",
+                "-",
+                "-",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Special moves",
+            "set": []
+        },
+        "5": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Natural Gift",
+                "Mud-Slap",
+                "Sucker Punch",
+                "Swift",
+                "Telekinesis"
+            ],
+            "Type": [
+                "Normal",
+                "Ground",
+                "Dark",
+                "Normal",
+                "Psychic"
+            ],
+            "Cat.": [
+                "Physical",
+                "Special",
+                "Physical",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "20",
+                "80",
+                "60",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "∞",
+                "-"
+            ],
+            "Method": [
+                "Generation 4 — TM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 5 — TM"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "DiamondPearl": [
+                "Old Chateau"
+            ],
+            "Platinum": [
+                "Old Chateau"
+            ],
+            "BlackWhite": [
+                "Route 15"
+            ],
+            "Black 2White 2": [
+                "Route 15"
+            ],
+            "XY": [
+                "Lost Hotel"
+            ]
+        }
+    ]
+}

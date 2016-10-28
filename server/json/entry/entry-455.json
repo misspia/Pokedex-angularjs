@@ -1,0 +1,546 @@
+{
+    "id": "455",
+    "National №": "455",
+    "Type": [
+        "Grass"
+    ],
+    "Species": "Bug Catcher Pokémon",
+    "Height": "4′7″ (1.40m)",
+    "Weight": "59.5 lbs (27.0 kg)",
+    "Abilities": [
+        "Levitate"
+    ],
+    "Local №": [],
+    "Japanese": "Masukippa",
+    "stats": {
+        "HP": {
+            "avg": "74",
+            "min": "258",
+            "max": "352"
+        },
+        "Attack": {
+            "avg": "100",
+            "min": "184",
+            "max": "328"
+        },
+        "Defense": {
+            "avg": "72",
+            "min": "134",
+            "max": "267"
+        },
+        "Sp. Atk": {
+            "avg": "90",
+            "min": "166",
+            "max": "306"
+        },
+        "Sp. Def": {
+            "avg": "72",
+            "min": "134",
+            "max": "267"
+        },
+        "Speed": {
+            "avg": "46",
+            "min": "87",
+            "max": "210"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-200",
+        "Water": "type-fx-cell type-fx-50",
+        "Electric": "type-fx-cell type-fx-50",
+        "Grass": "type-fx-cell type-fx-50",
+        "Ice": "type-fx-cell type-fx-200",
+        "Fighting": "type-fx-cell type-fx-100",
+        "Poison": "type-fx-cell type-fx-200",
+        "Ground": "type-fx-cell type-fx-0",
+        "Flying": "type-fx-cell type-fx-200",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-200",
+        "Rock": "type-fx-cell type-fx-100",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "7",
+                "11",
+                "17",
+                "21",
+                "27",
+                "31",
+                "37",
+                "37",
+                "37",
+                "41",
+                "47",
+                "50"
+            ],
+            "Move": [
+                "Bind",
+                "Growth",
+                "Bite",
+                "Vine Whip",
+                "Sweet Scent",
+                "Ingrain",
+                "Feint Attack",
+                "Leaf Tornado",
+                "Spit Up",
+                "Stockpile",
+                "Swallow",
+                "Crunch",
+                "Wring Out",
+                "Power Whip"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Dark",
+                "Grass",
+                "Normal",
+                "Grass",
+                "Dark",
+                "Grass",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Grass"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical"
+            ],
+            "Power": [
+                "15",
+                "-",
+                "60",
+                "45",
+                "-",
+                "-",
+                "60",
+                "65",
+                "-",
+                "-",
+                "-",
+                "80",
+                "-",
+                "120"
+            ],
+            "Acc.": [
+                "85",
+                "-",
+                "100",
+                "100",
+                "-",
+                "-",
+                "∞",
+                "90",
+                "100",
+                "-",
+                "-",
+                "100",
+                "100",
+                "85"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Giga Drain",
+                "Grass Whistle",
+                "Leech Seed",
+                "Magical Leaf",
+                "Rage Powder",
+                "Razor Leaf",
+                "Slam",
+                "Sleep Powder",
+                "Stun Spore",
+                "Synthesis",
+                "Worry Seed"
+            ],
+            "Type": [
+                "Grass",
+                "Grass",
+                "Grass",
+                "Grass",
+                "Bug",
+                "Grass",
+                "Normal",
+                "Grass",
+                "Grass",
+                "Grass",
+                "Grass"
+            ],
+            "Cat.": [
+                "Special",
+                "Status",
+                "Status",
+                "Special",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "75",
+                "-",
+                "-",
+                "60",
+                "-",
+                "55",
+                "80",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "55",
+                "90",
+                "∞",
+                "-",
+                "95",
+                "75",
+                "75",
+                "75",
+                "-",
+                "100"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "1"
+            ],
+            "Move": [
+                "Cut"
+            ],
+            "Type": [
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "50"
+            ],
+            "Acc.": [
+                "95"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "10",
+                "11",
+                "15",
+                "17",
+                "21",
+                "22",
+                "27",
+                "32",
+                "36",
+                "42",
+                "44",
+                "45",
+                "46",
+                "48",
+                "53",
+                "56",
+                "66",
+                "68",
+                "70",
+                "75",
+                "83",
+                "86",
+                "87",
+                "88",
+                "90",
+                "96",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hidden Power",
+                "Sunny Day",
+                "Hyper Beam",
+                "Protect",
+                "Frustration",
+                "Solar Beam",
+                "Return",
+                "Double Team",
+                "Sludge Bomb",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Thief",
+                "Round",
+                "Energy Ball",
+                "Fling",
+                "Payback",
+                "Giga Impact",
+                "Flash",
+                "Swords Dance",
+                "Infestation",
+                "Grass Knot",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Nature Power",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Normal",
+                "Fire",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Grass",
+                "Normal",
+                "Normal",
+                "Poison",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Grass",
+                "Dark",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Grass",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Status",
+                "Special",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "-",
+                "150",
+                "-",
+                "-",
+                "120",
+                "-",
+                "-",
+                "90",
+                "70",
+                "-",
+                "-",
+                "60",
+                "60",
+                "90",
+                "-",
+                "50",
+                "150",
+                "-",
+                "-",
+                "20",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "-",
+                "90",
+                "-",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "100",
+                "-",
+                "100",
+                "100",
+                "90",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Bullet Seed",
+                "Captivate",
+                "Natural Gift",
+                "Fury Cutter",
+                "Mud-Slap"
+            ],
+            "Type": [
+                "Grass",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Ground"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "25",
+                "-",
+                "-",
+                "40",
+                "20"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "95",
+                "100"
+            ],
+            "Method": [
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "DiamondPearl": [
+                "Great Marsh"
+            ],
+            "Platinum": [
+                "Great Marsh"
+            ],
+            "HeartGoldSoulSilver": [
+                "Ilex Forest",
+                "Viridian Forest"
+            ],
+            "Black 2White 2": [
+                "Route 18"
+            ],
+            "XY": [
+                "Route 14 (Laverre Nature Trail)",
+                "19 (Grand Vallée Way)"
+            ]
+        }
+    ]
+}

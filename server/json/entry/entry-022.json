@@ -1,0 +1,630 @@
+{
+    "id": "022",
+    "National №": "022",
+    "Type": [
+        "Normal",
+        "Flying"
+    ],
+    "Species": "Beak Pokémon",
+    "Height": "3′11″ (1.19m)",
+    "Weight": "83.8 lbs (38.0 kg)",
+    "Abilities": [
+        "Keen Eye"
+    ],
+    "Local №": [],
+    "Japanese": "Onidoriru",
+    "stats": {
+        "HP": {
+            "avg": "65",
+            "min": "240",
+            "max": "334"
+        },
+        "Attack": {
+            "avg": "90",
+            "min": "166",
+            "max": "306"
+        },
+        "Defense": {
+            "avg": "65",
+            "min": "121",
+            "max": "251"
+        },
+        "Sp. Atk": {
+            "avg": "61",
+            "min": "114",
+            "max": "243"
+        },
+        "Sp. Def": {
+            "avg": "61",
+            "min": "114",
+            "max": "243"
+        },
+        "Speed": {
+            "avg": "100",
+            "min": "184",
+            "max": "328"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-100",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-200",
+        "Grass": "type-fx-cell type-fx-50",
+        "Ice": "type-fx-cell type-fx-200",
+        "Fighting": "type-fx-cell type-fx-100",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-0",
+        "Flying": "type-fx-cell type-fx-100",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-50",
+        "Rock": "type-fx-cell type-fx-200",
+        "Ghost": "type-fx-cell type-fx-0",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "5",
+                "9",
+                "13",
+                "17",
+                "23",
+                "29",
+                "35",
+                "41",
+                "47",
+                "53"
+            ],
+            "Move": [
+                "Drill Run",
+                "Fury Attack",
+                "Growl",
+                "Leer",
+                "Peck",
+                "Pluck",
+                "Leer",
+                "Fury Attack",
+                "Pursuit",
+                "Aerial Ace",
+                "Mirror Move",
+                "Agility",
+                "Assurance",
+                "Roost",
+                "Drill Peck",
+                "Drill Run"
+            ],
+            "Type": [
+                "Ground",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Flying",
+                "Flying",
+                "Normal",
+                "Normal",
+                "Dark",
+                "Flying",
+                "Flying",
+                "Psychic",
+                "Dark",
+                "Flying",
+                "Flying",
+                "Ground"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical"
+            ],
+            "Power": [
+                "80",
+                "15",
+                "-",
+                "-",
+                "35",
+                "60",
+                "-",
+                "15",
+                "40",
+                "60",
+                "-",
+                "-",
+                "60",
+                "-",
+                "80",
+                "80"
+            ],
+            "Acc.": [
+                "95",
+                "85",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "85",
+                "100",
+                "∞",
+                "-",
+                "-",
+                "100",
+                "-",
+                "100",
+                "95"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Astonish",
+                "Feather Dance",
+                "Feint Attack",
+                "Quick Attack",
+                "Razor Wind",
+                "Scary Face",
+                "Sky Attack",
+                "Steel Wing",
+                "Tri Attack",
+                "Uproar",
+                "Whirlwind"
+            ],
+            "Type": [
+                "Ghost",
+                "Flying",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Flying",
+                "Steel",
+                "Normal",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Special",
+                "Status",
+                "Physical",
+                "Physical",
+                "Special",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "30",
+                "-",
+                "60",
+                "40",
+                "80",
+                "-",
+                "140",
+                "70",
+                "80",
+                "90",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "∞",
+                "100",
+                "100",
+                "100",
+                "90",
+                "90",
+                "100",
+                "100",
+                "-"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "2"
+            ],
+            "Move": [
+                "Fly"
+            ],
+            "Type": [
+                "Flying"
+            ],
+            "Cat.": [
+                "Physical"
+            ],
+            "Power": [
+                "90"
+            ],
+            "Acc.": [
+                "95"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "10",
+                "11",
+                "15",
+                "17",
+                "18",
+                "19",
+                "21",
+                "27",
+                "32",
+                "40",
+                "42",
+                "44",
+                "45",
+                "46",
+                "48",
+                "49",
+                "51",
+                "54",
+                "68",
+                "87",
+                "88",
+                "89",
+                "90",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hidden Power",
+                "Sunny Day",
+                "Hyper Beam",
+                "Protect",
+                "Rain Dance",
+                "Roost",
+                "Frustration",
+                "Return",
+                "Double Team",
+                "Aerial Ace",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Thief",
+                "Round",
+                "Echoed Voice",
+                "Steel Wing",
+                "False Swipe",
+                "Giga Impact",
+                "Swagger",
+                "Sleep Talk",
+                "U-turn",
+                "Substitute",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Normal",
+                "Fire",
+                "Normal",
+                "Normal",
+                "Water",
+                "Flying",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Flying",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Dark",
+                "Normal",
+                "Normal",
+                "Steel",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "-",
+                "150",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "60",
+                "70",
+                "-",
+                "-",
+                "60",
+                "60",
+                "40",
+                "70",
+                "40",
+                "150",
+                "-",
+                "-",
+                "70",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "-",
+                "90",
+                "-",
+                "-",
+                "-",
+                "100",
+                "100",
+                "-",
+                "∞",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "90",
+                "100",
+                "90",
+                "90",
+                "-",
+                "100",
+                "-",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Double-Edge",
+                "Mimic",
+                "Captivate",
+                "Natural Gift",
+                "Defog",
+                "Air Cutter",
+                "Mud-Slap",
+                "Ominous Wind",
+                "Swift",
+                "Twister",
+                "Work Up"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Flying",
+                "Flying",
+                "Ground",
+                "Ghost",
+                "Normal",
+                "Dragon",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Special",
+                "Special",
+                "Special",
+                "Special",
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "120",
+                "-",
+                "-",
+                "-",
+                "-",
+                "60",
+                "20",
+                "60",
+                "60",
+                "40",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "100",
+                "100",
+                "-",
+                "95",
+                "100",
+                "100",
+                "∞",
+                "100",
+                "-"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — HM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 5 — TM"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "RedBlue": [
+                "Route 17",
+                "18",
+                "23"
+            ],
+            "Yellow": [
+                "Route 9",
+                "16",
+                "17",
+                "18",
+                "23"
+            ],
+            "GoldSilver": [
+                "Route 9",
+                "10",
+                "16",
+                "17",
+                "18",
+                "22"
+            ],
+            "Crystal": [
+                "Route 9",
+                "10",
+                "16",
+                "17",
+                "18",
+                "22",
+                "42"
+            ],
+            "FireRedLeafGreen": [
+                "Route 17",
+                "18",
+                "23",
+                "Canyon Entrance",
+                "Cape Brink",
+                "Kindle Road",
+                "Mt. Ember",
+                "Ruin Valley",
+                "Seavault Canyon",
+                "Treasure Beach",
+                "Water Path"
+            ],
+            "DiamondPearl": [
+                "Route 225",
+                "226",
+                "227",
+                "Stark Mountain"
+            ],
+            "Platinum": [
+                "Route 225",
+                "226",
+                "227",
+                "Stark Mountain"
+            ],
+            "HeartGoldSoulSilver": [
+                "Route 9",
+                "10",
+                "16",
+                "17",
+                "18",
+                "22",
+                "47",
+                "48"
+            ],
+            "BlackWhite": [
+                "Route 15"
+            ],
+            "XY": [
+                "Victory Road"
+            ]
+        }
+    ]
+}

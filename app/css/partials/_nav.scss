@@ -1,0 +1,22 @@
+@import 'variables';
+#nav{
+	padding:2em 0 0 0;
+	li{
+		margin:0.1em;
+		height: 1em; //3em
+		width:8em;
+		text-align:center;
+		font-size:1.1em;//1.5em
+		font-weight: 800;
+		background-color: $dblue;
+		color: darken($dblue, 15%);
+		border-radius:0.3em;
+		box-shadow: 0em 0.3em 0em 0em darken($dblue, 10%);
+		transition: all 0.3s;
+		&:active{
+			transform: translateY(0.2em);
+			box-shadow: 0em 0.1em 0em 0em darken($dblue, 10%); 
+		}
+
+	}
+}

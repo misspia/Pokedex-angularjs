@@ -1,0 +1,621 @@
+{
+    "id": "119",
+    "National №": "119",
+    "Type": [
+        "Water"
+    ],
+    "Species": "Goldfish Pokémon",
+    "Height": "4′3″ (1.30m)",
+    "Weight": "86 lbs (39.0 kg)",
+    "Abilities": [
+        "Swift Swim",
+        "Water Veil"
+    ],
+    "Local №": [],
+    "Japanese": "Azumao",
+    "stats": {
+        "HP": {
+            "avg": "80",
+            "min": "270",
+            "max": "364"
+        },
+        "Attack": {
+            "avg": "92",
+            "min": "170",
+            "max": "311"
+        },
+        "Defense": {
+            "avg": "65",
+            "min": "121",
+            "max": "251"
+        },
+        "Sp. Atk": {
+            "avg": "65",
+            "min": "121",
+            "max": "251"
+        },
+        "Sp. Def": {
+            "avg": "80",
+            "min": "148",
+            "max": "284"
+        },
+        "Speed": {
+            "avg": "68",
+            "min": "126",
+            "max": "258"
+        }
+    },
+    "typeDef": {},
+    "description": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "7",
+                "11",
+                "17",
+                "21",
+                "27",
+                "31",
+                "40",
+                "47",
+                "56",
+                "63",
+                "72"
+            ],
+            "Move": [
+                "Megahorn",
+                "Peck",
+                "Poison Jab",
+                "Supersonic",
+                "Tail Whip",
+                "Water Sport",
+                "Supersonic",
+                "Horn Attack",
+                "Water Pulse",
+                "Flail",
+                "Aqua Ring",
+                "Fury Attack",
+                "Waterfall",
+                "Horn Drill",
+                "Agility",
+                "Soak",
+                "Megahorn"
+            ],
+            "Type": [
+                "Bug",
+                "Flying",
+                "Poison",
+                "Normal",
+                "Normal",
+                "Water",
+                "Normal",
+                "Normal",
+                "Water",
+                "Normal",
+                "Water",
+                "Normal",
+                "Water",
+                "Normal",
+                "Psychic",
+                "Water",
+                "Bug"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Status",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical"
+            ],
+            "Power": [
+                "120",
+                "35",
+                "80",
+                "-",
+                "-",
+                "-",
+                "-",
+                "65",
+                "60",
+                "-",
+                "-",
+                "15",
+                "80",
+                "-",
+                "-",
+                "-",
+                "120"
+            ],
+            "Acc.": [
+                "85",
+                "100",
+                "100",
+                "55",
+                "100",
+                "-",
+                "55",
+                "100",
+                "100",
+                "100",
+                "-",
+                "85",
+                "100",
+                "-",
+                "-",
+                "100",
+                "85"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Aqua Tail",
+                "Body Slam",
+                "Haze",
+                "Hydro Pump",
+                "Mud Shot",
+                "Mud-Slap",
+                "Mud Sport",
+                "Psybeam",
+                "Signal Beam",
+                "Skull Bash",
+                "Sleep Talk"
+            ],
+            "Type": [
+                "Water",
+                "Normal",
+                "Ice",
+                "Water",
+                "Ground",
+                "Ground",
+                "Ground",
+                "Psychic",
+                "Bug",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Status",
+                "Special",
+                "Special",
+                "Special",
+                "Status",
+                "Special",
+                "Special",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "90",
+                "85",
+                "-",
+                "110",
+                "55",
+                "20",
+                "-",
+                "65",
+                "75",
+                "130",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "-",
+                "80",
+                "95",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "-"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "3",
+                "5"
+            ],
+            "Move": [
+                "Surf",
+                "Waterfall"
+            ],
+            "Type": [
+                "Water",
+                "Water"
+            ],
+            "Cat.": [
+                "Special",
+                "Physical"
+            ],
+            "Power": [
+                "90",
+                "80"
+            ],
+            "Acc.": [
+                "100",
+                "100"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "7",
+                "10",
+                "13",
+                "14",
+                "15",
+                "17",
+                "18",
+                "21",
+                "27",
+                "32",
+                "42",
+                "44",
+                "45",
+                "48",
+                "55",
+                "68",
+                "84",
+                "87",
+                "88",
+                "90",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hail",
+                "Hidden Power",
+                "Ice Beam",
+                "Blizzard",
+                "Hyper Beam",
+                "Protect",
+                "Rain Dance",
+                "Frustration",
+                "Return",
+                "Double Team",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Round",
+                "Scald",
+                "Giga Impact",
+                "Poison Jab",
+                "Swagger",
+                "Sleep Talk",
+                "Substitute",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Ice",
+                "Normal",
+                "Ice",
+                "Ice",
+                "Normal",
+                "Normal",
+                "Water",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Water",
+                "Normal",
+                "Poison",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Special",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "60",
+                "90",
+                "110",
+                "150",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "70",
+                "-",
+                "-",
+                "60",
+                "80",
+                "150",
+                "80",
+                "-",
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "-",
+                "100",
+                "100",
+                "70",
+                "90",
+                "-",
+                "-",
+                "100",
+                "100",
+                "-",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "90",
+                "100",
+                "90",
+                "-",
+                "-",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Double-Edge",
+                "Mimic",
+                "Captivate",
+                "Natural Gift",
+                "Whirlpool",
+                "Fury Cutter",
+                "Swift"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Water",
+                "Bug",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "120",
+                "-",
+                "-",
+                "-",
+                "35",
+                "40",
+                "60"
+            ],
+            "Acc.": [
+                "100",
+                "-",
+                "100",
+                "100",
+                "85",
+                "95",
+                "∞"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — HM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "RedBlue": [
+                "Route 23"
+            ],
+            "Yellow": [
+                "Route 24"
+            ],
+            "GoldSilver": [
+                "Route 4",
+                "9",
+                "10",
+                "24",
+                "25",
+                "42",
+                "Cerulean City",
+                "Dark Cave",
+                "Mt. Mortar",
+                "Mt. Silver",
+                "Slowpoke Well",
+                "Tohjo Falls",
+                "Union Cave"
+            ],
+            "Crystal": [
+                "Route 4",
+                "9",
+                "10",
+                "24",
+                "25",
+                "42",
+                "Tohjo Falls"
+            ],
+            "RubySapphire": [
+                "Safari Zone"
+            ],
+            "FireRedLeafGreen": [
+                "Berry Forest",
+                "Fuchsia City"
+            ],
+            "Emerald": [
+                "Safari Zone"
+            ],
+            "DiamondPearl": [
+                "Route 203",
+                "204",
+                "209",
+                "212",
+                "214",
+                "Lake Acuity",
+                "Lake Valor",
+                "Lake Verity",
+                "Resort Area",
+                "Sendoff Spring",
+                "Twinleaf Town"
+            ],
+            "Platinum": [
+                "Route 202",
+                "203",
+                "204",
+                "208",
+                "209",
+                "212",
+                "214",
+                "229",
+                "Celestic Town",
+                "Lake Acuity",
+                "Lake Valor",
+                "Lake Verity",
+                "Sendoff Spring",
+                "Twinleaf Town"
+            ],
+            "HeartGoldSoulSilver": [
+                "Route 9",
+                "10",
+                "24",
+                "25",
+                "42",
+                "Cerulean City",
+                "Dark Cave",
+                "Mt. Mortar",
+                "Mt. Silver",
+                "Slowpoke Well",
+                "Tohjo Falls",
+                "Union Cave"
+            ],
+            "BlackWhite": [
+                "Route 3",
+                "11",
+                "14",
+                "Abundant Shrine",
+                "Lostlorn Forest",
+                "Striaton City",
+                "Pinwheel Forest"
+            ],
+            "Black 2White 2": [
+                "Route 3",
+                "11",
+                "14",
+                "22",
+                "Abundant Shrine",
+                "Striaton City",
+                "Pinwheel Forest",
+                "Aspertia City"
+            ],
+            "XY": [
+                "Route 3 (Ouvert Way)",
+                "22 (Détourner Way)",
+                "Parfum Palace"
+            ],
+            "Omega RubyAlpha Sapphire": [
+                "Safari Zone"
+            ]
+        }
+    ]
+}

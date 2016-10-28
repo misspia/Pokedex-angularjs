@@ -1,0 +1,94 @@
+{
+    "id": "413",
+    "National №": "413",
+    "Type": [
+        "Bug",
+        "Grass"
+    ],
+    "Species": "Bagworm Pokémon",
+    "Height": "1′8″ (0.51m)",
+    "Weight": "14.3 lbs (6.5 kg)",
+    "Abilities": [
+        "Anticipation"
+    ],
+    "Local №": [],
+    "Japanese": "Minomadamu",
+    "stats": {
+        "HP": {
+            "avg": "60",
+            "min": "230",
+            "max": "324"
+        },
+        "Attack": {
+            "avg": "59",
+            "min": "110",
+            "max": "238"
+        },
+        "Defense": {
+            "avg": "85",
+            "min": "157",
+            "max": "295"
+        },
+        "Sp. Atk": {
+            "avg": "79",
+            "min": "146",
+            "max": "282"
+        },
+        "Sp. Def": {
+            "avg": "105",
+            "min": "193",
+            "max": "339"
+        },
+        "Speed": {
+            "avg": "36",
+            "min": "69",
+            "max": "188"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-400",
+        "Water": "type-fx-cell type-fx-50",
+        "Electric": "type-fx-cell type-fx-50",
+        "Grass": "type-fx-cell type-fx-25",
+        "Ice": "type-fx-cell type-fx-200",
+        "Fighting": "type-fx-cell type-fx-50",
+        "Poison": "type-fx-cell type-fx-200",
+        "Ground": "type-fx-cell type-fx-25",
+        "Flying": "type-fx-cell type-fx-400",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-200",
+        "Rock": "type-fx-cell type-fx-200",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "set": []
+        },
+        "1": {
+            "title": "Egg moves",
+            "set": []
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "set": []
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "set": []
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "set": []
+        }
+    },
+    "locations": [
+        "We don't have any location data for Wormadam yet."
+    ]
+}

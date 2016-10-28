@@ -1,0 +1,240 @@
+{
+    "id": "412",
+    "National №": "412",
+    "Type": [
+        "Bug"
+    ],
+    "Species": "Bagworm Pokémon",
+    "Height": "0′8″ (0.20m)",
+    "Weight": "7.5 lbs (3.4 kg)",
+    "Abilities": [
+        "Shed Skin"
+    ],
+    "Local №": [],
+    "Japanese": "Minomutchi",
+    "stats": {
+        "HP": {
+            "avg": "40",
+            "min": "190",
+            "max": "284"
+        },
+        "Attack": {
+            "avg": "29",
+            "min": "56",
+            "max": "172"
+        },
+        "Defense": {
+            "avg": "45",
+            "min": "85",
+            "max": "207"
+        },
+        "Sp. Atk": {
+            "avg": "29",
+            "min": "56",
+            "max": "172"
+        },
+        "Sp. Def": {
+            "avg": "45",
+            "min": "85",
+            "max": "207"
+        },
+        "Speed": {
+            "avg": "36",
+            "min": "69",
+            "max": "188"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-200",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-100",
+        "Grass": "type-fx-cell type-fx-50",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-50",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-50",
+        "Flying": "type-fx-cell type-fx-200",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-100",
+        "Rock": "type-fx-cell type-fx-200",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "10",
+                "15",
+                "20"
+            ],
+            "Move": [
+                "Protect",
+                "Tackle",
+                "Bug Bite",
+                "Hidden Power"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Bug",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "-",
+                "50",
+                "60",
+                "60"
+            ],
+            "Acc.": [
+                "-",
+                "100",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "set": []
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "set": []
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "10",
+                "17"
+            ],
+            "Move": [
+                "Hidden Power",
+                "Protect"
+            ],
+            "Type": [
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Special",
+                "Status"
+            ],
+            "Power": [
+                "60",
+                "-"
+            ],
+            "Acc.": [
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "4": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "String Shot"
+            ],
+            "Type": [
+                "Bug"
+            ],
+            "Cat.": [
+                "Status"
+            ],
+            "Power": [
+                "-"
+            ],
+            "Acc.": [
+                "95"
+            ],
+            "Method": [
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "DiamondPearl": [
+                "Route 205",
+                "206",
+                "207",
+                "208",
+                "209",
+                "210",
+                "211",
+                "212",
+                "213",
+                "214",
+                "215",
+                "218",
+                "221",
+                "222",
+                "Eterna Forest",
+                "Floaroma Meadow",
+                "Fuego Ironworks",
+                "Valley Windworks"
+            ],
+            "Platinum": [
+                "Route 205",
+                "206",
+                "207",
+                "208",
+                "209",
+                "210",
+                "211",
+                "212",
+                "213",
+                "214",
+                "215",
+                "218",
+                "221",
+                "222",
+                "Eterna Forest",
+                "Floaroma Meadow",
+                "Fuego Ironworks",
+                "Valley Windworks"
+            ],
+            "HeartGoldSoulSilver": [
+                "Route 38"
+            ],
+            "XY": [
+                "Route 3 (Ouvert Way)",
+                "7 (Rivière Walk)"
+            ]
+        }
+    ]
+}

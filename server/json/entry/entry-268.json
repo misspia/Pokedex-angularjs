@@ -1,0 +1,204 @@
+{
+    "id": "268",
+    "National №": "268",
+    "Type": [
+        "Bug"
+    ],
+    "Species": "Cocoon Pokémon",
+    "Height": "2′4″ (0.71m)",
+    "Weight": "25.4 lbs (11.5 kg)",
+    "Abilities": [
+        "Shed Skin"
+    ],
+    "Local №": [],
+    "Japanese": "Mayurudo",
+    "stats": {
+        "HP": {
+            "avg": "50",
+            "min": "210",
+            "max": "304"
+        },
+        "Attack": {
+            "avg": "35",
+            "min": "67",
+            "max": "185"
+        },
+        "Defense": {
+            "avg": "55",
+            "min": "103",
+            "max": "229"
+        },
+        "Sp. Atk": {
+            "avg": "25",
+            "min": "49",
+            "max": "163"
+        },
+        "Sp. Def": {
+            "avg": "25",
+            "min": "49",
+            "max": "163"
+        },
+        "Speed": {
+            "avg": "15",
+            "min": "31",
+            "max": "141"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-200",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-100",
+        "Grass": "type-fx-cell type-fx-50",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-50",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-50",
+        "Flying": "type-fx-cell type-fx-200",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-100",
+        "Rock": "type-fx-cell type-fx-200",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "7"
+            ],
+            "Move": [
+                "Harden",
+                "Harden"
+            ],
+            "Type": [
+                "Normal",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "-",
+                "-"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "set": []
+        },
+        "2": {
+            "title": "Pre-evolution moves",
+            "Move": [
+                "Bug Bite",
+                "Poison Sting",
+                "String Shot",
+                "Tackle"
+            ],
+            "Type": [
+                "Bug",
+                "Poison",
+                "Bug",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Status",
+                "Physical"
+            ],
+            "Power": [
+                "60",
+                "15",
+                "-",
+                "50"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "95",
+                "100"
+            ],
+            "Method": [
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        },
+        "3": {
+            "title": "Moves learnt by HM",
+            "set": []
+        },
+        "4": {
+            "title": "Moves learnt by TM",
+            "set": []
+        }
+    },
+    "locations": [
+        {
+            "RubySapphire": [
+                "Petalburg Woods"
+            ],
+            "Emerald": [
+                "Petalburg Woods"
+            ],
+            "DiamondPearl": [
+                "Route 205",
+                "206",
+                "207",
+                "208",
+                "209",
+                "210",
+                "211",
+                "212",
+                "213",
+                "214",
+                "215",
+                "218",
+                "221",
+                "222",
+                "Eterna Forest",
+                "Floaroma Meadow",
+                "Fuego Ironworks",
+                "Valley Windworks"
+            ],
+            "Platinum": [
+                "Route 205",
+                "Eterna Forest"
+            ],
+            "HeartGoldSoulSilver": [
+                "National Park"
+            ],
+            "Omega RubyAlpha Sapphire": [
+                "Petalburg Woods"
+            ]
+        }
+    ]
+}

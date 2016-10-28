@@ -1,0 +1,169 @@
+{
+    "id": "664",
+    "National №": "664",
+    "Type": [
+        "Bug"
+    ],
+    "Species": "Scatterdust Pokémon",
+    "Height": "1′0″ (0.30m)",
+    "Weight": "5.5 lbs (2.5 kg)",
+    "Abilities": [
+        "Compound Eyes",
+        "Shield Dust"
+    ],
+    "Local №": [],
+    "Japanese": "Kofukimushi",
+    "stats": {
+        "HP": {
+            "avg": "38",
+            "min": "186",
+            "max": "280"
+        },
+        "Attack": {
+            "avg": "35",
+            "min": "67",
+            "max": "185"
+        },
+        "Defense": {
+            "avg": "40",
+            "min": "76",
+            "max": "196"
+        },
+        "Sp. Atk": {
+            "avg": "27",
+            "min": "53",
+            "max": "168"
+        },
+        "Sp. Def": {
+            "avg": "25",
+            "min": "49",
+            "max": "163"
+        },
+        "Speed": {
+            "avg": "35",
+            "min": "67",
+            "max": "185"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-200",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-100",
+        "Grass": "type-fx-cell type-fx-50",
+        "Ice": "type-fx-cell type-fx-100",
+        "Fighting": "type-fx-cell type-fx-50",
+        "Poison": "type-fx-cell type-fx-100",
+        "Ground": "type-fx-cell type-fx-50",
+        "Flying": "type-fx-cell type-fx-200",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-100",
+        "Rock": "type-fx-cell type-fx-200",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-100",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-100"
+    },
+    "description": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "6",
+                "15"
+            ],
+            "Move": [
+                "String Shot",
+                "Tackle",
+                "Stun Spore",
+                "Bug Bite"
+            ],
+            "Type": [
+                "Bug",
+                "Normal",
+                "Grass",
+                "Bug"
+            ],
+            "Cat.": [
+                "Status",
+                "Physical",
+                "Status",
+                "Physical"
+            ],
+            "Power": [
+                "-",
+                "50",
+                "-",
+                "60"
+            ],
+            "Acc.": [
+                "95",
+                "100",
+                "75",
+                "100"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Poison Powder",
+                "Rage Powder",
+                "Stun Spore"
+            ],
+            "Type": [
+                "Poison",
+                "Bug",
+                "Grass"
+            ],
+            "Cat.": [
+                "Status",
+                "Status",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "-",
+                "-"
+            ],
+            "Acc.": [
+                "75",
+                "-",
+                "75"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Moves learnt by HM",
+            "set": []
+        },
+        "3": {
+            "title": "Moves learnt by TM",
+            "set": []
+        }
+    },
+    "locations": [
+        {
+            "XY": [
+                "Route 2 (Avance Trail)",
+                "Santalune Forest"
+            ]
+        }
+    ]
+}

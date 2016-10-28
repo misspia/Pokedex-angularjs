@@ -1,0 +1,687 @@
+{
+    "id": "329",
+    "National №": "329",
+    "Type": [
+        "Ground",
+        "Dragon"
+    ],
+    "Species": "Vibration Pokémon",
+    "Height": "3′7″ (1.09m)",
+    "Weight": "33.7 lbs (15.3 kg)",
+    "Abilities": [
+        "Levitate"
+    ],
+    "Local №": [],
+    "Japanese": "Biburaba",
+    "stats": {
+        "HP": {
+            "avg": "50",
+            "min": "210",
+            "max": "304"
+        },
+        "Attack": {
+            "avg": "70",
+            "min": "130",
+            "max": "262"
+        },
+        "Defense": {
+            "avg": "50",
+            "min": "94",
+            "max": "218"
+        },
+        "Sp. Atk": {
+            "avg": "50",
+            "min": "94",
+            "max": "218"
+        },
+        "Sp. Def": {
+            "avg": "50",
+            "min": "94",
+            "max": "218"
+        },
+        "Speed": {
+            "avg": "70",
+            "min": "130",
+            "max": "262"
+        }
+    },
+    "typeDef": {
+        "Normal": "type-fx-cell type-fx-100",
+        "Fire": "type-fx-cell type-fx-50",
+        "Water": "type-fx-cell type-fx-100",
+        "Electric": "type-fx-cell type-fx-0",
+        "Grass": "type-fx-cell type-fx-100",
+        "Ice": "type-fx-cell type-fx-400",
+        "Fighting": "type-fx-cell type-fx-100",
+        "Poison": "type-fx-cell type-fx-50",
+        "Ground": "type-fx-cell type-fx-0",
+        "Flying": "type-fx-cell type-fx-100",
+        "Psychic": "type-fx-cell type-fx-100",
+        "Bug": "type-fx-cell type-fx-100",
+        "Rock": "type-fx-cell type-fx-50",
+        "Ghost": "type-fx-cell type-fx-100",
+        "Dragon": "type-fx-cell type-fx-200",
+        "Dark": "type-fx-cell type-fx-100",
+        "Steel": "type-fx-cell type-fx-100",
+        "Fairy": "type-fx-cell type-fx-200"
+    },
+    "description": "It generates ultrasonic waves by violently flapping its wings. After making its prey faint, it melts the prey with acid.",
+    "moves": {
+        "0": {
+            "title": "Moves learnt by level up",
+            "Lv.": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "4",
+                "7",
+                "10",
+                "13",
+                "17",
+                "21",
+                "25",
+                "29",
+                "34",
+                "35",
+                "39",
+                "44",
+                "49"
+            ],
+            "Move": [
+                "Feint Attack",
+                "Sand Attack",
+                "Sand Tomb",
+                "Sonic Boom",
+                "Sand Attack",
+                "Feint Attack",
+                "Sand Tomb",
+                "Mud-Slap",
+                "Bide",
+                "Bulldoze",
+                "Rock Slide",
+                "Supersonic",
+                "Screech",
+                "Dragon Breath",
+                "Earth Power",
+                "Sandstorm",
+                "Hyper Beam"
+            ],
+            "Type": [
+                "Dark",
+                "Ground",
+                "Ground",
+                "Normal",
+                "Ground",
+                "Dark",
+                "Ground",
+                "Ground",
+                "Normal",
+                "Ground",
+                "Rock",
+                "Normal",
+                "Normal",
+                "Dragon",
+                "Ground",
+                "Rock",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Status",
+                "Physical",
+                "Special",
+                "Status",
+                "Physical",
+                "Physical",
+                "Special",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Special",
+                "Status",
+                "Special"
+            ],
+            "Power": [
+                "60",
+                "-",
+                "35",
+                "-",
+                "-",
+                "60",
+                "35",
+                "20",
+                "-",
+                "60",
+                "75",
+                "-",
+                "-",
+                "60",
+                "90",
+                "-",
+                "150"
+            ],
+            "Acc.": [
+                "∞",
+                "100",
+                "85",
+                "90",
+                "100",
+                "∞",
+                "85",
+                "100",
+                "-",
+                "100",
+                "90",
+                "55",
+                "85",
+                "100",
+                "100",
+                "-",
+                "90"
+            ],
+            "set": [
+                "Lv.",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "1": {
+            "title": "Egg moves",
+            "Move": [
+                "Bug Bite",
+                "Earth Power",
+                "Endure",
+                "Flail",
+                "Focus Energy",
+                "Fury Cutter",
+                "Gust",
+                "Mud Shot",
+                "Quick Attack",
+                "Signal Beam"
+            ],
+            "Type": [
+                "Bug",
+                "Ground",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Flying",
+                "Ground",
+                "Normal",
+                "Bug"
+            ],
+            "Cat.": [
+                "Physical",
+                "Special",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Special",
+                "Special",
+                "Physical",
+                "Special"
+            ],
+            "Power": [
+                "60",
+                "90",
+                "-",
+                "-",
+                "-",
+                "40",
+                "40",
+                "55",
+                "40",
+                "75"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "100",
+                "-",
+                "95",
+                "100",
+                "95",
+                "100",
+                "100"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "2": {
+            "title": "Move Tutor moves",
+            "Move": [
+                "Draco Meteor"
+            ],
+            "Type": [
+                "Dragon"
+            ],
+            "Cat.": [
+                "Special"
+            ],
+            "Power": [
+                "130"
+            ],
+            "Acc.": [
+                "90"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "3": {
+            "title": "Pre-evolution moves",
+            "Move": [
+                "Bite",
+                "Crunch",
+                "Dig",
+                "Earthquake",
+                "Feint",
+                "Fissure",
+                "Superpower"
+            ],
+            "Type": [
+                "Dark",
+                "Dark",
+                "Ground",
+                "Ground",
+                "Normal",
+                "Ground",
+                "Fighting"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Physical"
+            ],
+            "Power": [
+                "60",
+                "80",
+                "80",
+                "100",
+                "30",
+                "-",
+                "120"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "100"
+            ],
+            "Method": [
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up",
+                "Level up"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        },
+        "4": {
+            "title": "Moves learnt by HM",
+            "HM": [
+                "2",
+                "4"
+            ],
+            "Move": [
+                "Fly",
+                "Strength"
+            ],
+            "Type": [
+                "Flying",
+                "Normal"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical"
+            ],
+            "Power": [
+                "90",
+                "80"
+            ],
+            "Acc.": [
+                "95",
+                "100"
+            ],
+            "set": [
+                "HM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "5": {
+            "title": "Moves learnt by TM",
+            "TM": [
+                "6",
+                "10",
+                "11",
+                "15",
+                "17",
+                "19",
+                "21",
+                "22",
+                "26",
+                "27",
+                "28",
+                "32",
+                "37",
+                "39",
+                "42",
+                "44",
+                "45",
+                "48",
+                "51",
+                "76",
+                "78",
+                "80",
+                "87",
+                "88",
+                "89",
+                "90",
+                "94",
+                "100"
+            ],
+            "Move": [
+                "Toxic",
+                "Hidden Power",
+                "Sunny Day",
+                "Hyper Beam",
+                "Protect",
+                "Roost",
+                "Frustration",
+                "Solar Beam",
+                "Earthquake",
+                "Return",
+                "Dig",
+                "Double Team",
+                "Sandstorm",
+                "Rock Tomb",
+                "Facade",
+                "Rest",
+                "Attract",
+                "Round",
+                "Steel Wing",
+                "Struggle Bug",
+                "Bulldoze",
+                "Rock Slide",
+                "Swagger",
+                "Sleep Talk",
+                "U-turn",
+                "Substitute",
+                "Rock Smash",
+                "Confide"
+            ],
+            "Type": [
+                "Poison",
+                "Normal",
+                "Fire",
+                "Normal",
+                "Normal",
+                "Flying",
+                "Normal",
+                "Grass",
+                "Ground",
+                "Normal",
+                "Ground",
+                "Normal",
+                "Rock",
+                "Rock",
+                "Normal",
+                "Psychic",
+                "Normal",
+                "Normal",
+                "Steel",
+                "Bug",
+                "Ground",
+                "Rock",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Normal",
+                "Fighting",
+                "Normal"
+            ],
+            "Cat.": [
+                "Status",
+                "Special",
+                "Status",
+                "Special",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Physical",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Special",
+                "Physical",
+                "Special",
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Status",
+                "Physical",
+                "Status"
+            ],
+            "Power": [
+                "-",
+                "60",
+                "-",
+                "150",
+                "-",
+                "-",
+                "-",
+                "120",
+                "100",
+                "-",
+                "80",
+                "-",
+                "-",
+                "60",
+                "70",
+                "-",
+                "-",
+                "60",
+                "70",
+                "50",
+                "60",
+                "75",
+                "-",
+                "-",
+                "70",
+                "-",
+                "40",
+                "-"
+            ],
+            "Acc.": [
+                "90",
+                "100",
+                "-",
+                "90",
+                "-",
+                "-",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "-",
+                "-",
+                "95",
+                "100",
+                "-",
+                "100",
+                "100",
+                "90",
+                "100",
+                "100",
+                "90",
+                "90",
+                "-",
+                "100",
+                "-",
+                "100",
+                "-"
+            ],
+            "set": [
+                "TM",
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc."
+            ]
+        },
+        "6": {
+            "title": "Transfer-only moves",
+            "Move": [
+                "Body Slam",
+                "Double-Edge",
+                "Mimic",
+                "Captivate",
+                "Natural Gift",
+                "Silver Wind",
+                "Defog",
+                "Air Cutter",
+                "Headbutt",
+                "Ominous Wind",
+                "Swift",
+                "Twister"
+            ],
+            "Type": [
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Normal",
+                "Bug",
+                "Flying",
+                "Flying",
+                "Normal",
+                "Ghost",
+                "Normal",
+                "Dragon"
+            ],
+            "Cat.": [
+                "Physical",
+                "Physical",
+                "Status",
+                "Status",
+                "Physical",
+                "Special",
+                "Status",
+                "Special",
+                "Physical",
+                "Special",
+                "Special",
+                "Special"
+            ],
+            "Power": [
+                "85",
+                "120",
+                "-",
+                "-",
+                "-",
+                "60",
+                "-",
+                "60",
+                "70",
+                "60",
+                "60",
+                "40"
+            ],
+            "Acc.": [
+                "100",
+                "100",
+                "-",
+                "100",
+                "100",
+                "100",
+                "-",
+                "95",
+                "100",
+                "100",
+                "∞",
+                "100"
+            ],
+            "Method": [
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 3 — Move tutor",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — TM",
+                "Generation 4 — HM",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor",
+                "Generation 4 — Move tutor"
+            ],
+            "set": [
+                "Move",
+                "Type",
+                "Cat.",
+                "Power",
+                "Acc.",
+                "Method"
+            ]
+        }
+    },
+    "locations": [
+        {
+            "DiamondPearl": [
+                "Route 228"
+            ],
+            "Black 2White 2": [
+                "Reversal Mountain"
+            ]
+        }
+    ]
+}
