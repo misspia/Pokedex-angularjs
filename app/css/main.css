@@ -1575,6 +1575,9 @@ ul {
 .pki.n491 {
   background-position: -160px -992px; }
 
+.pki.n492 {
+  background-position: -192px -992px; }
+
 .pki.n492-land {
   background-position: -192px -992px; }
 
@@ -2592,14 +2595,20 @@ ul {
   width: 40px;
   margin-right: 5px !important; }
 
-#sprite {
-  padding: 1em 0; }
-  #sprite .container-main-sprite {
-    height: 13em;
-    width: 13em;
-    border-radius: 50%;
-    box-shadow: 0em 0em 0.9em 0.1em #afb3b5;
-    border: solid 0.5em; }
+#sprite .container-sprite,
+#evolution-1 .container-sprite {
+  width: 100%;
+  height: 14em;
+  border-radius: 1em;
+  background-color: #fff; }
+#sprite .container-main-sprite,
+#evolution-1 .container-main-sprite {
+  height: 13em;
+  width: 13em;
+  border-radius: 50%;
+  box-shadow: 0em 0em 0.9em 0.1em #afb3b5;
+  border: solid 0.5em;
+  transition: all 0.5s; }
 
 #section-pokemon-list {
   flex: 2; }
@@ -2617,7 +2626,8 @@ ul {
     letter-spacing: 0.1em;
     color: #8d8d89;
     transition: all 0.2s ease-in-out;
-    margin: 0.1em 0; }
+    margin: 0.1em 0;
+    cursor: pointer; }
     #pokemon-list li.ng-scope:hover li.ng-binding, #pokemon-list li.ng-scope:hover .container-sprite, #pokemon-list li.ng-scope:hover .triangle {
       transform: translateX(1em); }
     #pokemon-list li.ng-scope:hover .diamond {
@@ -2670,7 +2680,8 @@ ul {
   .stats .gauge div {
     height: 1em;
     border-radius: 0.1em;
-    background-color: #ed5f55; }
+    background-color: #ed5f55;
+    transition: all 0.5s; }
 
 #details {
   flex: 2; }
@@ -2680,45 +2691,6 @@ ul {
 #display {
   list-style: none;
   flex: 1; }
-  #display .container-light {
-    padding: 1em; }
-    #display .container-light .light {
-      height: 5em;
-      width: 5em;
-      border-radius: 50%;
-      border: #fff solid 1em;
-      background-color: #01a9da; }
-      #display .container-light .light:after {
-        content: '';
-        display: block;
-        height: 1em;
-        width: 1em;
-        border-radius: 50%;
-        background-color: #fff;
-        transform: translatey(0.5em) translatex(0.5em); }
-    #display .container-light .container-mini-light {
-      padding: 0 2em; }
-      #display .container-light .container-mini-light ul {
-        width: 8em; }
-        #display .container-light .container-mini-light ul li {
-          height: 1em;
-          width: 1em;
-          border-radius: 50%;
-          border: solid 0.3em; }
-          #display .container-light .container-mini-light ul li:nth-child(1) {
-            background-color: #f8604a;
-            border-color: #cd3a2d; }
-          #display .container-light .container-mini-light ul li:nth-child(2) {
-            background-color: #ffca1b;
-            border-color: #f3ab0b; }
-          #display .container-light .container-mini-light ul li:nth-child(3) {
-            background-color: #73e055;
-            border-color: #4b9e2f; }
-  #display .container-sprite {
-    width: 100%;
-    height: 14em;
-    border-radius: 1em;
-    background-color: #fff; }
   #display .pkm-description {
     flex: 3 1;
     padding: 1em;
@@ -2766,12 +2738,12 @@ ul {
   margin: 0 0.2em; }
 
 .bug {
-  background-color: #b0c151;
-  border-color: #b0c151; }
+  background-color: #bbc169;
+  border-color: #bbc169; }
 
 .dragon {
-  background-color: #51669f;
-  border-color: #51669f; }
+  background-color: #4e5573;
+  border-color: #4e5573; }
 
 .dark {
   background-color: #3f3f3f;
@@ -2818,8 +2790,8 @@ ul {
   border-color: #d4c197; }
 
 .poison {
-  background-color: #7277d5;
-  border-color: #7277d5; }
+  background-color: #ba597e;
+  border-color: #ba597e; }
 
 .psychic {
   background-color: #7277d5;
@@ -2834,14 +2806,17 @@ ul {
   border-color: #c5cbd4; }
 
 .water {
-  background-color: #5c9ded;
-  border-color: #5c9ded; }
+  background-color: #4c72a8;
+  border-color: #4c72a8; }
+
+.bg {
+  transition: all 0.5s; }
 
 .bg.bug {
-  background-color: #b0c151; }
+  background-color: #bbc169; }
 
 .bg.dragon {
-  background-color: #51669f; }
+  background-color: #4e5573; }
 
 .bg.dark {
   background-color: #3f3f3f; }
@@ -2877,7 +2852,7 @@ ul {
   background-color: #d4c197; }
 
 .bg.poison {
-  background-color: #7277d5; }
+  background-color: #ba597e; }
 
 .bg.psychic {
   background-color: #7277d5; }
@@ -2889,24 +2864,25 @@ ul {
   background-color: #c5cbd4; }
 
 .bg.water {
-  background-color: #5c9ded; }
+  background-color: #4c72a8; }
 
 .fg {
-  background-color: transparent; }
+  background-color: transparent;
+  transition: all 0.5s; }
 
 .fg.bug #sprite .container-main-sprite {
-  border-color: #b0c151; }
+  border-color: #bbc169; }
 .fg.bug #basic .general tbody {
-  border-color: #b0c151; }
+  border-color: #bbc169; }
 .fg.bug #basic .stats .gauge div {
-  background-color: #b0c151; }
+  background-color: #bbc169; }
 
 .fg.dragon #sprite .container-main-sprite {
-  border-color: #51669f; }
+  border-color: #4e5573; }
 .fg.dragon #basic .general tbody {
-  border-color: #51669f; }
+  border-color: #4e5573; }
 .fg.dragon #basic .stats .gauge div {
-  background-color: #51669f; }
+  background-color: #4e5573; }
 
 .fg.dark #sprite .container-main-sprite {
   border-color: #3f3f3f; }
@@ -2986,11 +2962,11 @@ ul {
   background-color: #d4c197; }
 
 .fg.poison #sprite .container-main-sprite {
-  border-color: #7277d5; }
+  border-color: #ba597e; }
 .fg.poison #basic .general tbody {
-  border-color: #7277d5; }
+  border-color: #ba597e; }
 .fg.poison #basic .stats .gauge div {
-  background-color: #7277d5; }
+  background-color: #ba597e; }
 
 .fg.psychic #sprite .container-main-sprite {
   border-color: #7277d5; }
@@ -3014,41 +2990,254 @@ ul {
   background-color: #c5cbd4; }
 
 .fg.water #sprite .container-main-sprite {
-  border-color: #5c9ded; }
+  border-color: #4c72a8; }
 .fg.water #basic .general tbody {
-  border-color: #5c9ded; }
+  border-color: #4c72a8; }
 .fg.water #basic .stats .gauge div {
-  background-color: #5c9ded; }
+  background-color: #4c72a8; }
 
 .moves-description {
   background-color: transparent; }
 
+.moves-description.bug {
+  color: #bbc169;
+  border-color: #bbc169; }
+  .moves-description.bug table {
+    border-color: #bbc169; }
+
 .moves-description.dragon {
-  color: #51669f; }
+  color: #4e5573;
+  border-color: #4e5573; }
+  .moves-description.dragon table {
+    border-color: #4e5573; }
+
+.moves-description.dark {
+  color: #3f3f3f;
+  border-color: #3f3f3f; }
+  .moves-description.dark table {
+    border-color: #3f3f3f; }
 
 .moves-description.electric {
-  color: #fcc73b; }
+  color: #fcc73b;
+  border-color: #fcc73b; }
+  .moves-description.electric table {
+    border-color: #fcc73b; }
+
+.moves-description.fairy {
+  color: #e99cb6;
+  border-color: #e99cb6; }
+  .moves-description.fairy table {
+    border-color: #e99cb6; }
+
+.moves-description.fighting {
+  color: #be3a31;
+  border-color: #be3a31; }
+  .moves-description.fighting table {
+    border-color: #be3a31; }
+
+.moves-description.fire {
+  color: #ed5f55;
+  border-color: #ed5f55; }
+  .moves-description.fire table {
+    border-color: #ed5f55; }
+
+.moves-description.flying {
+  color: #8fabe6;
+  border-color: #8fabe6; }
+  .moves-description.flying table {
+    border-color: #8fabe6; }
+
+.moves-description.ghost {
+  color: #35495d;
+  border-color: #35495d; }
+  .moves-description.ghost table {
+    border-color: #35495d; }
+
+.moves-description.grass {
+  color: #4bc470;
+  border-color: #4bc470; }
+  .moves-description.grass table {
+    border-color: arken(#5ECA7F, 5%); }
+
+.moves-description.ground {
+  color: #8d725f;
+  border-color: #8d725f; }
+  .moves-description.ground table {
+    border-color: #8d725f; }
+
+.moves-description.ice {
+  color: #38bae4;
+  border-color: #38bae4; }
+  .moves-description.ice table {
+    border-color: #38bae4; }
+
+.moves-description.normal {
+  color: #cdb685;
+  border-color: #cdb685; }
+  .moves-description.normal table {
+    border-color: #cdb685; }
+
+.moves-description.poison {
+  color: #ba597e;
+  border-color: #ba597e; }
+  .moves-description.poison table {
+    border-color: #ba597e; }
+
+.moves-description.psychic {
+  color: #7277d5;
+  border-color: #7277d5; }
+  .moves-description.psychic table {
+    border-color: #7277d5; }
+
+.moves-description.rock {
+  color: #b1a484;
+  border-color: #b1a484; }
+  .moves-description.rock table {
+    border-color: #b1a484; }
+
+.moves-description.steel {
+  color: #a8b1be;
+  border-color: #a8b1be; }
+  .moves-description.steel table {
+    border-color: #a8b1be; }
 
 .moves-description.water {
-  color: #5c9ded; }
+  color: #4c72a8;
+  border-color: #4c72a8; }
+  .moves-description.water table {
+    border-color: #4c72a8; }
+
+.name.bug {
+  color: #bbc169; }
+
+.name.dragon {
+  color: #4e5573; }
+
+.name.dark {
+  color: #3f3f3f; }
+
+.name.electric {
+  color: #fcce54; }
+
+.name.fairy {
+  color: #f2c6d5; }
+
+.name.fighting {
+  color: #be3a31; }
+
+.name.fire {
+  color: #ed5f55; }
+
+.name.flying {
+  color: #b9caef; }
+
+.name.ghost {
+  color: #35495d; }
+
+.name.grass {
+  color: #5ECA7F; }
+
+.name.ground {
+  color: #8d725f; }
+
+.name.ice {
+  color: #4ec2e7; }
+
+.name.normal {
+  color: #d4c197; }
+
+.name.poison {
+  color: #ba597e; }
+
+.name.psychic {
+  color: #7277d5; }
+
+.name.rock {
+  color: #b1a484; }
+
+.name.steel {
+  color: #c5cbd4; }
+
+.name.water {
+  color: #4c72a8; }
+
+.card {
+  box-shadow: 0em 0.3em 1em 0.2em; }
+
+.card.bug {
+  color: #969d41; }
+
+.card.dragon {
+  color: #2f3345; }
+
+.card.dark {
+  color: #191919; }
+
+.card.electric {
+  color: #fbb809; }
+
+.card.fairy {
+  color: #e488a7; }
+
+.card.fighting {
+  color: #812721; }
+
+.card.fire {
+  color: #de2518; }
+
+.card.flying {
+  color: #7b9be1; }
+
+.card.ghost {
+  color: #19232c; }
+
+.card.grass {
+  color: #36a558; }
+
+.card.ground {
+  color: #5f4d40; }
+
+.card.ice {
+  color: #1ca2cd; }
+
+.card.normal {
+  color: #bea161; }
+
+.card.poison {
+  color: #8c3a5a; }
+
+.card.psychic {
+  color: #3940c1; }
+
+.card.rock {
+  color: #8e7f5a; }
+
+.card.steel {
+  color: #99a4b3; }
+
+.card.water {
+  color: #344e73; }
 
 #nav {
-  padding: 2em 0 0 0; }
+  min-width: 25em;
+  max-width: 30em;
+  height: 4.5em;
+  background-color: #fff;
+  border-radius: 0.3em;
+  cursor: pointer; }
   #nav li {
-    margin: 0.1em;
-    height: 1em;
-    width: 8em;
+    width: 33.33%;
     text-align: center;
-    font-size: 1.1em;
+    font-size: 1em;
     font-weight: 800;
-    background-color: #3498db;
-    color: #1d6fa5;
-    border-radius: 0.3em;
-    box-shadow: 0em 0.3em 0em 0em #217dbb;
-    transition: all 0.3s; }
+    background-color: #fff;
+    transition: all 0.5s; }
     #nav li:active {
-      transform: translateY(0.2em);
-      box-shadow: 0em 0.1em 0em 0em #217dbb; }
+      background-color: #636363;
+      color: white; }
+  #nav .active {
+    background-color: #636363;
+    color: white; }
 
 @media only screen and (max-height: 900px) {
   #sprite .container-main-sprite {
@@ -3057,6 +3246,122 @@ ul {
     border-radius: 50%; }
     #sprite .container-main-sprite img {
       transform: scale(0.9); } }
+#moves .moves-category-select {
+  flex: 1;
+  background-color: transparent;
+  border-top-style: solid;
+  border-top-width: 0.1em; }
+  #moves .moves-category-select .label {
+    padding: 0.5em 1em;
+    cursor: pointer;
+    transition: all 0.5s;
+    border: solid 0.1em #fff;
+    color: #fff; }
+    #moves .moves-category-select .label:first-child {
+      border-bottom-left-radius: 2em; }
+    #moves .moves-category-select .label:last-child {
+      border-bottom-right-radius: 2em; }
+    #moves .moves-category-select .label:hover {
+      background-color: #363636; }
+    #moves .moves-category-select .label:active {
+      background-color: #636363; }
+#moves .name {
+  background-color: transparent; }
+#moves .moves-select, #moves .moves-description {
+  padding: 0.5em; }
+#moves .moves-description {
+  flex: 2; }
+  #moves .moves-description .table {
+    padding: 0.5em; }
+  #moves .moves-description table {
+    background-color: transparent; }
+    #moves .moves-description table tr th, #moves .moves-description table tr td {
+      padding: 0 0.5em; }
+    #moves .moves-description table tr th {
+      text-align: right; }
+  #moves .moves-description li:last-child {
+    padding: 1em; }
+#moves .moves-display {
+  flex: 8;
+  width: 100%; }
+  #moves .moves-display ul.row {
+    flex: 1; }
+#moves .moves-select {
+  flex: 1;
+  overflow-y: scroll; }
+  #moves .moves-select li {
+    cursor: pointer;
+    height: 2.5em;
+    margin-bottom: 0.1em;
+    color: #fff;
+    width: 95%;
+    transition: all 0.5s;
+    background-color: #5c5c5c; }
+    #moves .moves-select li:hover {
+      background-color: #707070;
+      transform: translatex(0.7em); }
+  #moves .moves-select .move {
+    display: inline-block;
+    line-height: 0;
+    height: 2.5em;
+    width: 0.5em;
+    border-radius: 0; }
+  #moves .moves-select .move + span {
+    padding: 0 0 0 1em; }
+
+#evolution-3 .stage,
+#evolution-2 .stage,
+#evolution-1 .stage,
+#evolution-eevee .stage {
+  flex: 1; }
+#evolution-3 .stage-item,
+#evolution-2 .stage-item,
+#evolution-1 .stage-item,
+#evolution-eevee .stage-item {
+  padding: 1em 0; }
+#evolution-3 .condition, #evolution-3 .evol-item,
+#evolution-2 .condition,
+#evolution-2 .evol-item,
+#evolution-1 .condition,
+#evolution-1 .evol-item,
+#evolution-eevee .condition,
+#evolution-eevee .evol-item {
+  flex: 1; }
+#evolution-3 .condition,
+#evolution-2 .condition,
+#evolution-1 .condition,
+#evolution-eevee .condition {
+  max-width: 7em; }
+  #evolution-3 .condition span,
+  #evolution-2 .condition span,
+  #evolution-1 .condition span,
+  #evolution-eevee .condition span {
+    font-size: 0.7em; }
+  #evolution-3 .condition i,
+  #evolution-2 .condition i,
+  #evolution-1 .condition i,
+  #evolution-eevee .condition i {
+    font-size: 2em; }
+#evolution-3 .evol-item span,
+#evolution-2 .evol-item span,
+#evolution-1 .evol-item span,
+#evolution-eevee .evol-item span {
+  display: inline-block;
+  line-height: 4em; }
+
+#evolution-2 .stage:nth-child(1) {
+  flex: 0.65; }
+
+#evolution-3 .stage:nth-child(1) {
+  flex: 0.6; }
+
+#evolution-eevee .group {
+  transform: scale(0.9); }
+#evolution-eevee .stage:nth-child(2) {
+  flex: 0.8; }
+#evolution-eevee .evol-item img {
+  transform: scale(0.8); }
+
 body {
   font-family: "Muli", sans-serif;
   margin: 0;
@@ -3079,46 +3384,5 @@ ng-include.ng-scope {
   font-size: 1.5em;
   font-weight: bold;
   letter-spacing: 1px; }
-
-#moves .moves-category-select {
-  flex: 1; }
-  #moves .moves-category-select .label {
-    padding: 0.5em;
-    border: solid 1px black;
-    cursor: pointer;
-    transition: all 0.2s; }
-    #moves .moves-category-select .label:hover {
-      background-color: #363636;
-      color: #fff; }
-    #moves .moves-category-select .label:active {
-      background-color: #636363; }
-#moves .moves-select, #moves .moves-description {
-  padding: 0.5em; }
-#moves .moves-description {
-  flex: 2; }
-#moves .moves-display {
-  flex: 8;
-  width: 100%; }
-  #moves .moves-display ul.row {
-    flex: 1; }
-#moves .moves-select {
-  flex: 1;
-  overflow-y: scroll; }
-  #moves .moves-select li {
-    height: 2.5em;
-    margin-bottom: 0.1em;
-    color: #fff; }
-    #moves .moves-select li:nth-child(even) {
-      background-color: #434343; }
-    #moves .moves-select li:nth-child(odd) {
-      background-color: #5c5c5c; }
-  #moves .moves-select .move {
-    display: inline-block;
-    line-height: 0;
-    height: 2.5em;
-    width: 0.5em;
-    border-radius: 0; }
-  #moves .moves-select .move + span {
-    padding: 0 0 0 1em; }
 
 /*# sourceMappingURL=main.css.map */

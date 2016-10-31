@@ -1,0 +1,85 @@
+// _moves.scss
+@import 'variables';
+
+#moves{
+	.moves-category-select{
+		flex:1;
+		background-color: transparent;
+		border-top-style: solid;
+		border-top-width:0.1em;
+		.label{
+			padding: 0.5em 1em;
+			cursor:pointer;
+			transition:$transition;
+			border:solid 0.1em $white;
+			color:$white;
+			&:first-child{border-bottom-left-radius: 2em;}
+			&:last-child{border-bottom-right-radius:2em;}
+			&:hover{
+				background-color:$black;
+			}
+			&:active{
+				background-color:$lblack;
+			}
+		}
+	}
+	.name{
+		background-color:transparent;
+	}
+	.moves-select, .moves-description{
+		padding:0.5em;
+	}
+	.moves-description{
+		flex:2;
+		.table{
+			padding:0.5em;
+		}
+		table{
+			background-color:transparent;
+			tr{
+				th, td { padding:0 0.5em;}
+				th{text-align:right;}
+
+			}
+		}
+		li{
+			&:last-child{
+				padding: 1em;
+			}
+		}
+	}
+	.moves-display{
+		flex:8;
+		width:100%;
+		ul.row{
+			flex:1;
+		}
+	}
+	.moves-select{
+		flex:1;
+		overflow-y:scroll;
+		// border:$border;
+		li{
+			cursor:pointer;
+			height:2.5em;
+			margin-bottom:0.1em;
+			color:$white;
+			width:95%;
+			transition: $transition;
+			background-color:lighten($black, 15%);		
+			&:hover{
+				background-color:lighten($lblack,5%);
+				transform: translatex(0.7em);
+			}
+		}
+		.move{
+			display: inline-block;
+			line-height:0;
+			height:2.5em;
+			width:0.5em;
+			border-radius: 0;
+		}
+		.move + span {padding:0 0 0 1em;}
+	}	
+}
+

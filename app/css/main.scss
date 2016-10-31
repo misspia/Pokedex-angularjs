@@ -13,6 +13,8 @@
 @import 'partials/types';
 @import 'partials/nav';
 @import 'partials/media-queries';
+@import 'partials/moves';
+@import 'partials/evolution';
 
 body{
 	font-family: $font;
@@ -35,72 +37,7 @@ ng-include.ng-scope{
 	font-size: 1.5em;
 	font-weight:bold;
 	letter-spacing: 1px;
-
 }
-#moves{
-	.moves-category-select{
-		flex:1;
-		.label{
-			padding: 0.5em;
-			border:$border;
-			cursor:pointer;
-			transition:all 0.2s;
-			&:hover{
-				background-color:$black;
-				color: $white;
-			}
-			&:active{
-				background-color:$lblack;
-			}
-		}
-	}
-	.moves-select, .moves-description{
-		padding:0.5em;
-	}
-	.moves-description{
-		flex:2;
-	}
-	.moves-display{
-		flex:8;
-		width:100%;
-		ul.row{
-			flex:1;
-		}
-	}
-	.moves-select{
-		flex:1;
-		overflow-y:scroll;
-		li{
-			// border:$border;
-			height:2.5em;
-			margin-bottom:0.1em;
-			color:$white;
-			&:nth-child(even){
-				background-color:lighten($black, 5%);
-			}
-			&:nth-child(odd){
-				background-color:lighten($black, 15%);
-			}			
-		}
-		.move{
-			display: inline-block;
-			line-height:0;
-			height:2.5em;
-			width:0.5em;
-			border-radius: 0;
-		}
-		.move + span {padding:0 0 0 1em;}
-	}	
-}
-
-
-
-
-
-
-
-
-
 
 
 

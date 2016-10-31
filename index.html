@@ -5,7 +5,9 @@
 	<link rel="stylesheet" type="text/css" href="app/css/main.css">
 </head>
 <body ng-controller="mainCtrl">
-	<ul class="index bg {{typeColor}}"></ul>
+	<ul class="index bg {{typeColor}}">
+		<ng-include src="'/templates/background.html'"></ng-include>
+	</ul>
 	<ul class="index fg {{typeColor}} row">
 		<li class='section' id='section-pokemon-list'>
 			<ng-include src="'/templates/pokemon-list.html'"></ng-include>
@@ -16,7 +18,7 @@
 					<ng-include src="'/templates/display.html'" class="col"></ng-include>
 				</li>
 				<li class="main"> 
-					<ng-include src="'/templates/nav.html'"></ng-include>	
+					<ng-include src="'/templates/nav.html'" class="row center"></ng-include>	
 				</li>
 			</ul>							
 		</li>

@@ -18,15 +18,14 @@ request(url, function(error, response, html){
 				id: parseInt(td.eq(0).text()),
 				idStr: td.eq(0).text().replace(/\s/g, ''),
 				name: td.eq(1).children('a').eq(0).text().replace(/\\/g, ''),
-				sprite: td.eq(1).children('a').eq(0).text().replace(/\\/g, '').replace(/'/g, '').replace(/é/g, 'e').replace(/♀/,'f').replace(/♂/,'m').toLowerCase(),
-				profileUrl: td.eq(1).children('a').attr('href'),
-				imgUrl: td.eq(1).children('a').attr('href').replace(/-/g, '_').replace('/pokedex/', ''),
-				spriteClass: "n" + parseInt(td.eq(0).text()) 
+				sprite: td.eq(1).children('a').eq(0).text().replace(/\\/g, '').replace(/'/g, '').replace(/é/g, 'e').replace(/♀/,'f').replace(/♂/,'m').replace('Mr. ', 'mr-').replace(' Jr.', '-jr').toLowerCase(),
+				profileUrl: td.eq(1).children('a').attr('href'),a
+				imgUrl: td.eq(1).children('a').attr('href').replace(/-/g, '_').replace('/pokedex/', '')
 			};
 			pokedex.push(pokemon);
 		});
 	};
-	// console.log(pokedex);
+	console.log(pokedex);
 	fs.writeFile('../json/list.json', JSON.stringify(pokedex, null, 4), function(error){
 		if (error) return console.log(error);
 	 		console.log('writing complete');

@@ -5,8 +5,7 @@
         "name": "Bulbasaur",
         "sprite": "bulbasaur",
         "profileUrl": "/pokedex/bulbasaur",
-        "imgUrl": "bulbasaur",
-        "spriteClass": "n1"
+        "imgUrl": "bulbasaur"
     },
     {
         "id": 2,
@@ -14,8 +13,7 @@
         "name": "Ivysaur",
         "sprite": "ivysaur",
         "profileUrl": "/pokedex/ivysaur",
-        "imgUrl": "ivysaur",
-        "spriteClass": "n2"
+        "imgUrl": "ivysaur"
     },
     {
         "id": 3,
@@ -23,8 +21,7 @@
         "name": "Venusaur",
         "sprite": "venusaur",
         "profileUrl": "/pokedex/venusaur",
-        "imgUrl": "venusaur",
-        "spriteClass": "n3"
+        "imgUrl": "venusaur"
     },
     {
         "id": 3,
@@ -32,8 +29,7 @@
         "name": "Venusaur",
         "sprite": "venusaur",
         "profileUrl": "/pokedex/venusaur",
-        "imgUrl": "venusaur",
-        "spriteClass": "n3"
+        "imgUrl": "venusaur"
     },
     {
         "id": 4,
@@ -41,8 +37,7 @@
         "name": "Charmander",
         "sprite": "charmander",
         "profileUrl": "/pokedex/charmander",
-        "imgUrl": "charmander",
-        "spriteClass": "n4"
+        "imgUrl": "charmander"
     },
     {
         "id": 5,
@@ -50,8 +45,7 @@
         "name": "Charmeleon",
         "sprite": "charmeleon",
         "profileUrl": "/pokedex/charmeleon",
-        "imgUrl": "charmeleon",
-        "spriteClass": "n5"
+        "imgUrl": "charmeleon"
     },
     {
         "id": 6,
@@ -59,8 +53,7 @@
         "name": "Charizard",
         "sprite": "charizard",
         "profileUrl": "/pokedex/charizard",
-        "imgUrl": "charizard",
-        "spriteClass": "n6"
+        "imgUrl": "charizard"
     },
     {
         "id": 6,
@@ -68,8 +61,7 @@
         "name": "Charizard",
         "sprite": "charizard",
         "profileUrl": "/pokedex/charizard",
-        "imgUrl": "charizard",
-        "spriteClass": "n6"
+        "imgUrl": "charizard"
     },
     {
         "id": 6,
@@ -77,8 +69,7 @@
         "name": "Charizard",
         "sprite": "charizard",
         "profileUrl": "/pokedex/charizard",
-        "imgUrl": "charizard",
-        "spriteClass": "n6"
+        "imgUrl": "charizard"
     },
     {
         "id": 7,
@@ -86,8 +77,7 @@
         "name": "Squirtle",
         "sprite": "squirtle",
         "profileUrl": "/pokedex/squirtle",
-        "imgUrl": "squirtle",
-        "spriteClass": "n7"
+        "imgUrl": "squirtle"
     },
     {
         "id": 8,
@@ -95,8 +85,7 @@
         "name": "Wartortle",
         "sprite": "wartortle",
         "profileUrl": "/pokedex/wartortle",
-        "imgUrl": "wartortle",
-        "spriteClass": "n8"
+        "imgUrl": "wartortle"
     },
     {
         "id": 9,
@@ -104,8 +93,7 @@
         "name": "Blastoise",
         "sprite": "blastoise",
         "profileUrl": "/pokedex/blastoise",
-        "imgUrl": "blastoise",
-        "spriteClass": "n9"
+        "imgUrl": "blastoise"
     },
     {
         "id": 9,
@@ -113,8 +101,7 @@
         "name": "Blastoise",
         "sprite": "blastoise",
         "profileUrl": "/pokedex/blastoise",
-        "imgUrl": "blastoise",
-        "spriteClass": "n9"
+        "imgUrl": "blastoise"
     },
     {
         "id": 10,
@@ -122,8 +109,7 @@
         "name": "Caterpie",
         "sprite": "caterpie",
         "profileUrl": "/pokedex/caterpie",
-        "imgUrl": "caterpie",
-        "spriteClass": "n10"
+        "imgUrl": "caterpie"
     },
     {
         "id": 11,
@@ -131,8 +117,7 @@
         "name": "Metapod",
         "sprite": "metapod",
         "profileUrl": "/pokedex/metapod",
-        "imgUrl": "metapod",
-        "spriteClass": "n11"
+        "imgUrl": "metapod"
     },
     {
         "id": 12,
@@ -140,8 +125,7 @@
         "name": "Butterfree",
         "sprite": "butterfree",
         "profileUrl": "/pokedex/butterfree",
-        "imgUrl": "butterfree",
-        "spriteClass": "n12"
+        "imgUrl": "butterfree"
     },
     {
         "id": 13,
@@ -149,8 +133,7 @@
         "name": "Weedle",
         "sprite": "weedle",
         "profileUrl": "/pokedex/weedle",
-        "imgUrl": "weedle",
-        "spriteClass": "n13"
+        "imgUrl": "weedle"
     },
     {
         "id": 14,
@@ -158,8 +141,7 @@
         "name": "Kakuna",
         "sprite": "kakuna",
         "profileUrl": "/pokedex/kakuna",
-        "imgUrl": "kakuna",
-        "spriteClass": "n14"
+        "imgUrl": "kakuna"
     },
     {
         "id": 15,
@@ -167,8 +149,7 @@
         "name": "Beedrill",
         "sprite": "beedrill",
         "profileUrl": "/pokedex/beedrill",
-        "imgUrl": "beedrill",
-        "spriteClass": "n15"
+        "imgUrl": "beedrill"
     },
     {
         "id": 15,
@@ -176,8 +157,7 @@
         "name": "Beedrill",
         "sprite": "beedrill",
         "profileUrl": "/pokedex/beedrill",
-        "imgUrl": "beedrill",
-        "spriteClass": "n15"
+        "imgUrl": "beedrill"
     },
     {
         "id": 16,
@@ -185,8 +165,7 @@
         "name": "Pidgey",
         "sprite": "pidgey",
         "profileUrl": "/pokedex/pidgey",
-        "imgUrl": "pidgey",
-        "spriteClass": "n16"
+        "imgUrl": "pidgey"
     },
     {
         "id": 17,
@@ -194,8 +173,7 @@
         "name": "Pidgeotto",
         "sprite": "pidgeotto",
         "profileUrl": "/pokedex/pidgeotto",
-        "imgUrl": "pidgeotto",
-        "spriteClass": "n17"
+        "imgUrl": "pidgeotto"
     },
     {
         "id": 18,
@@ -203,8 +181,7 @@
         "name": "Pidgeot",
         "sprite": "pidgeot",
         "profileUrl": "/pokedex/pidgeot",
-        "imgUrl": "pidgeot",
-        "spriteClass": "n18"
+        "imgUrl": "pidgeot"
     },
     {
         "id": 18,
@@ -212,8 +189,7 @@
         "name": "Pidgeot",
         "sprite": "pidgeot",
         "profileUrl": "/pokedex/pidgeot",
-        "imgUrl": "pidgeot",
-        "spriteClass": "n18"
+        "imgUrl": "pidgeot"
     },
     {
         "id": 19,
@@ -221,8 +197,7 @@
         "name": "Rattata",
         "sprite": "rattata",
         "profileUrl": "/pokedex/rattata",
-        "imgUrl": "rattata",
-        "spriteClass": "n19"
+        "imgUrl": "rattata"
     },
     {
         "id": 20,
@@ -230,8 +205,7 @@
         "name": "Raticate",
         "sprite": "raticate",
         "profileUrl": "/pokedex/raticate",
-        "imgUrl": "raticate",
-        "spriteClass": "n20"
+        "imgUrl": "raticate"
     },
     {
         "id": 21,
@@ -239,8 +213,7 @@
         "name": "Spearow",
         "sprite": "spearow",
         "profileUrl": "/pokedex/spearow",
-        "imgUrl": "spearow",
-        "spriteClass": "n21"
+        "imgUrl": "spearow"
     },
     {
         "id": 22,
@@ -248,8 +221,7 @@
         "name": "Fearow",
         "sprite": "fearow",
         "profileUrl": "/pokedex/fearow",
-        "imgUrl": "fearow",
-        "spriteClass": "n22"
+        "imgUrl": "fearow"
     },
     {
         "id": 23,
@@ -257,8 +229,7 @@
         "name": "Ekans",
         "sprite": "ekans",
         "profileUrl": "/pokedex/ekans",
-        "imgUrl": "ekans",
-        "spriteClass": "n23"
+        "imgUrl": "ekans"
     },
     {
         "id": 24,
@@ -266,8 +237,7 @@
         "name": "Arbok",
         "sprite": "arbok",
         "profileUrl": "/pokedex/arbok",
-        "imgUrl": "arbok",
-        "spriteClass": "n24"
+        "imgUrl": "arbok"
     },
     {
         "id": 25,
@@ -275,8 +245,7 @@
         "name": "Pikachu",
         "sprite": "pikachu",
         "profileUrl": "/pokedex/pikachu",
-        "imgUrl": "pikachu",
-        "spriteClass": "n25"
+        "imgUrl": "pikachu"
     },
     {
         "id": 26,
@@ -284,8 +253,7 @@
         "name": "Raichu",
         "sprite": "raichu",
         "profileUrl": "/pokedex/raichu",
-        "imgUrl": "raichu",
-        "spriteClass": "n26"
+        "imgUrl": "raichu"
     },
     {
         "id": 27,
@@ -293,8 +261,7 @@
         "name": "Sandshrew",
         "sprite": "sandshrew",
         "profileUrl": "/pokedex/sandshrew",
-        "imgUrl": "sandshrew",
-        "spriteClass": "n27"
+        "imgUrl": "sandshrew"
     },
     {
         "id": 28,
@@ -302,8 +269,7 @@
         "name": "Sandslash",
         "sprite": "sandslash",
         "profileUrl": "/pokedex/sandslash",
-        "imgUrl": "sandslash",
-        "spriteClass": "n28"
+        "imgUrl": "sandslash"
     },
     {
         "id": 29,
@@ -311,8 +277,7 @@
         "name": "Nidoran♀",
         "sprite": "nidoranf",
         "profileUrl": "/pokedex/nidoran-f",
-        "imgUrl": "nidoran_f",
-        "spriteClass": "n29"
+        "imgUrl": "nidoran_f"
     },
     {
         "id": 30,
@@ -320,8 +285,7 @@
         "name": "Nidorina",
         "sprite": "nidorina",
         "profileUrl": "/pokedex/nidorina",
-        "imgUrl": "nidorina",
-        "spriteClass": "n30"
+        "imgUrl": "nidorina"
     },
     {
         "id": 31,
@@ -329,8 +293,7 @@
         "name": "Nidoqueen",
         "sprite": "nidoqueen",
         "profileUrl": "/pokedex/nidoqueen",
-        "imgUrl": "nidoqueen",
-        "spriteClass": "n31"
+        "imgUrl": "nidoqueen"
     },
     {
         "id": 32,
@@ -338,8 +301,7 @@
         "name": "Nidoran♂",
         "sprite": "nidoranm",
         "profileUrl": "/pokedex/nidoran-m",
-        "imgUrl": "nidoran_m",
-        "spriteClass": "n32"
+        "imgUrl": "nidoran_m"
     },
     {
         "id": 33,
@@ -347,8 +309,7 @@
         "name": "Nidorino",
         "sprite": "nidorino",
         "profileUrl": "/pokedex/nidorino",
-        "imgUrl": "nidorino",
-        "spriteClass": "n33"
+        "imgUrl": "nidorino"
     },
     {
         "id": 34,
@@ -356,8 +317,7 @@
         "name": "Nidoking",
         "sprite": "nidoking",
         "profileUrl": "/pokedex/nidoking",
-        "imgUrl": "nidoking",
-        "spriteClass": "n34"
+        "imgUrl": "nidoking"
     },
     {
         "id": 35,
@@ -365,8 +325,7 @@
         "name": "Clefairy",
         "sprite": "clefairy",
         "profileUrl": "/pokedex/clefairy",
-        "imgUrl": "clefairy",
-        "spriteClass": "n35"
+        "imgUrl": "clefairy"
     },
     {
         "id": 36,
@@ -374,8 +333,7 @@
         "name": "Clefable",
         "sprite": "clefable",
         "profileUrl": "/pokedex/clefable",
-        "imgUrl": "clefable",
-        "spriteClass": "n36"
+        "imgUrl": "clefable"
     },
     {
         "id": 37,
@@ -383,8 +341,7 @@
         "name": "Vulpix",
         "sprite": "vulpix",
         "profileUrl": "/pokedex/vulpix",
-        "imgUrl": "vulpix",
-        "spriteClass": "n37"
+        "imgUrl": "vulpix"
     },
     {
         "id": 38,
@@ -392,8 +349,7 @@
         "name": "Ninetales",
         "sprite": "ninetales",
         "profileUrl": "/pokedex/ninetales",
-        "imgUrl": "ninetales",
-        "spriteClass": "n38"
+        "imgUrl": "ninetales"
     },
     {
         "id": 39,
@@ -401,8 +357,7 @@
         "name": "Jigglypuff",
         "sprite": "jigglypuff",
         "profileUrl": "/pokedex/jigglypuff",
-        "imgUrl": "jigglypuff",
-        "spriteClass": "n39"
+        "imgUrl": "jigglypuff"
     },
     {
         "id": 40,
@@ -410,8 +365,7 @@
         "name": "Wigglytuff",
         "sprite": "wigglytuff",
         "profileUrl": "/pokedex/wigglytuff",
-        "imgUrl": "wigglytuff",
-        "spriteClass": "n40"
+        "imgUrl": "wigglytuff"
     },
     {
         "id": 41,
@@ -419,8 +373,7 @@
         "name": "Zubat",
         "sprite": "zubat",
         "profileUrl": "/pokedex/zubat",
-        "imgUrl": "zubat",
-        "spriteClass": "n41"
+        "imgUrl": "zubat"
     },
     {
         "id": 42,
@@ -428,8 +381,7 @@
         "name": "Golbat",
         "sprite": "golbat",
         "profileUrl": "/pokedex/golbat",
-        "imgUrl": "golbat",
-        "spriteClass": "n42"
+        "imgUrl": "golbat"
     },
     {
         "id": 43,
@@ -437,8 +389,7 @@
         "name": "Oddish",
         "sprite": "oddish",
         "profileUrl": "/pokedex/oddish",
-        "imgUrl": "oddish",
-        "spriteClass": "n43"
+        "imgUrl": "oddish"
     },
     {
         "id": 44,
@@ -446,8 +397,7 @@
         "name": "Gloom",
         "sprite": "gloom",
         "profileUrl": "/pokedex/gloom",
-        "imgUrl": "gloom",
-        "spriteClass": "n44"
+        "imgUrl": "gloom"
     },
     {
         "id": 45,
@@ -455,8 +405,7 @@
         "name": "Vileplume",
         "sprite": "vileplume",
         "profileUrl": "/pokedex/vileplume",
-        "imgUrl": "vileplume",
-        "spriteClass": "n45"
+        "imgUrl": "vileplume"
     },
     {
         "id": 46,
@@ -464,8 +413,7 @@
         "name": "Paras",
         "sprite": "paras",
         "profileUrl": "/pokedex/paras",
-        "imgUrl": "paras",
-        "spriteClass": "n46"
+        "imgUrl": "paras"
     },
     {
         "id": 47,
@@ -473,8 +421,7 @@
         "name": "Parasect",
         "sprite": "parasect",
         "profileUrl": "/pokedex/parasect",
-        "imgUrl": "parasect",
-        "spriteClass": "n47"
+        "imgUrl": "parasect"
     },
     {
         "id": 48,
@@ -482,8 +429,7 @@
         "name": "Venonat",
         "sprite": "venonat",
         "profileUrl": "/pokedex/venonat",
-        "imgUrl": "venonat",
-        "spriteClass": "n48"
+        "imgUrl": "venonat"
     },
     {
         "id": 49,
@@ -491,8 +437,7 @@
         "name": "Venomoth",
         "sprite": "venomoth",
         "profileUrl": "/pokedex/venomoth",
-        "imgUrl": "venomoth",
-        "spriteClass": "n49"
+        "imgUrl": "venomoth"
     },
     {
         "id": 50,
@@ -500,8 +445,7 @@
         "name": "Diglett",
         "sprite": "diglett",
         "profileUrl": "/pokedex/diglett",
-        "imgUrl": "diglett",
-        "spriteClass": "n50"
+        "imgUrl": "diglett"
     },
     {
         "id": 51,
@@ -509,8 +453,7 @@
         "name": "Dugtrio",
         "sprite": "dugtrio",
         "profileUrl": "/pokedex/dugtrio",
-        "imgUrl": "dugtrio",
-        "spriteClass": "n51"
+        "imgUrl": "dugtrio"
     },
     {
         "id": 52,
@@ -518,8 +461,7 @@
         "name": "Meowth",
         "sprite": "meowth",
         "profileUrl": "/pokedex/meowth",
-        "imgUrl": "meowth",
-        "spriteClass": "n52"
+        "imgUrl": "meowth"
     },
     {
         "id": 53,
@@ -527,8 +469,7 @@
         "name": "Persian",
         "sprite": "persian",
         "profileUrl": "/pokedex/persian",
-        "imgUrl": "persian",
-        "spriteClass": "n53"
+        "imgUrl": "persian"
     },
     {
         "id": 54,
@@ -536,8 +477,7 @@
         "name": "Psyduck",
         "sprite": "psyduck",
         "profileUrl": "/pokedex/psyduck",
-        "imgUrl": "psyduck",
-        "spriteClass": "n54"
+        "imgUrl": "psyduck"
     },
     {
         "id": 55,
@@ -545,8 +485,7 @@
         "name": "Golduck",
         "sprite": "golduck",
         "profileUrl": "/pokedex/golduck",
-        "imgUrl": "golduck",
-        "spriteClass": "n55"
+        "imgUrl": "golduck"
     },
     {
         "id": 56,
@@ -554,8 +493,7 @@
         "name": "Mankey",
         "sprite": "mankey",
         "profileUrl": "/pokedex/mankey",
-        "imgUrl": "mankey",
-        "spriteClass": "n56"
+        "imgUrl": "mankey"
     },
     {
         "id": 57,
@@ -563,8 +501,7 @@
         "name": "Primeape",
         "sprite": "primeape",
         "profileUrl": "/pokedex/primeape",
-        "imgUrl": "primeape",
-        "spriteClass": "n57"
+        "imgUrl": "primeape"
     },
     {
         "id": 58,
@@ -572,8 +509,7 @@
         "name": "Growlithe",
         "sprite": "growlithe",
         "profileUrl": "/pokedex/growlithe",
-        "imgUrl": "growlithe",
-        "spriteClass": "n58"
+        "imgUrl": "growlithe"
     },
     {
         "id": 59,
@@ -581,8 +517,7 @@
         "name": "Arcanine",
         "sprite": "arcanine",
         "profileUrl": "/pokedex/arcanine",
-        "imgUrl": "arcanine",
-        "spriteClass": "n59"
+        "imgUrl": "arcanine"
     },
     {
         "id": 60,
@@ -590,8 +525,7 @@
         "name": "Poliwag",
         "sprite": "poliwag",
         "profileUrl": "/pokedex/poliwag",
-        "imgUrl": "poliwag",
-        "spriteClass": "n60"
+        "imgUrl": "poliwag"
     },
     {
         "id": 61,
@@ -599,8 +533,7 @@
         "name": "Poliwhirl",
         "sprite": "poliwhirl",
         "profileUrl": "/pokedex/poliwhirl",
-        "imgUrl": "poliwhirl",
-        "spriteClass": "n61"
+        "imgUrl": "poliwhirl"
     },
     {
         "id": 62,
@@ -608,8 +541,7 @@
         "name": "Poliwrath",
         "sprite": "poliwrath",
         "profileUrl": "/pokedex/poliwrath",
-        "imgUrl": "poliwrath",
-        "spriteClass": "n62"
+        "imgUrl": "poliwrath"
     },
     {
         "id": 63,
@@ -617,8 +549,7 @@
         "name": "Abra",
         "sprite": "abra",
         "profileUrl": "/pokedex/abra",
-        "imgUrl": "abra",
-        "spriteClass": "n63"
+        "imgUrl": "abra"
     },
     {
         "id": 64,
@@ -626,8 +557,7 @@
         "name": "Kadabra",
         "sprite": "kadabra",
         "profileUrl": "/pokedex/kadabra",
-        "imgUrl": "kadabra",
-        "spriteClass": "n64"
+        "imgUrl": "kadabra"
     },
     {
         "id": 65,
@@ -635,8 +565,7 @@
         "name": "Alakazam",
         "sprite": "alakazam",
         "profileUrl": "/pokedex/alakazam",
-        "imgUrl": "alakazam",
-        "spriteClass": "n65"
+        "imgUrl": "alakazam"
     },
     {
         "id": 65,
@@ -644,8 +573,7 @@
         "name": "Alakazam",
         "sprite": "alakazam",
         "profileUrl": "/pokedex/alakazam",
-        "imgUrl": "alakazam",
-        "spriteClass": "n65"
+        "imgUrl": "alakazam"
     },
     {
         "id": 66,
@@ -653,8 +581,7 @@
         "name": "Machop",
         "sprite": "machop",
         "profileUrl": "/pokedex/machop",
-        "imgUrl": "machop",
-        "spriteClass": "n66"
+        "imgUrl": "machop"
     },
     {
         "id": 67,
@@ -662,8 +589,7 @@
         "name": "Machoke",
         "sprite": "machoke",
         "profileUrl": "/pokedex/machoke",
-        "imgUrl": "machoke",
-        "spriteClass": "n67"
+        "imgUrl": "machoke"
     },
     {
         "id": 68,
@@ -671,8 +597,7 @@
         "name": "Machamp",
         "sprite": "machamp",
         "profileUrl": "/pokedex/machamp",
-        "imgUrl": "machamp",
-        "spriteClass": "n68"
+        "imgUrl": "machamp"
     },
     {
         "id": 69,
@@ -680,8 +605,7 @@
         "name": "Bellsprout",
         "sprite": "bellsprout",
         "profileUrl": "/pokedex/bellsprout",
-        "imgUrl": "bellsprout",
-        "spriteClass": "n69"
+        "imgUrl": "bellsprout"
     },
     {
         "id": 70,
@@ -689,8 +613,7 @@
         "name": "Weepinbell",
         "sprite": "weepinbell",
         "profileUrl": "/pokedex/weepinbell",
-        "imgUrl": "weepinbell",
-        "spriteClass": "n70"
+        "imgUrl": "weepinbell"
     },
     {
         "id": 71,
@@ -698,8 +621,7 @@
         "name": "Victreebel",
         "sprite": "victreebel",
         "profileUrl": "/pokedex/victreebel",
-        "imgUrl": "victreebel",
-        "spriteClass": "n71"
+        "imgUrl": "victreebel"
     },
     {
         "id": 72,
@@ -707,8 +629,7 @@
         "name": "Tentacool",
         "sprite": "tentacool",
         "profileUrl": "/pokedex/tentacool",
-        "imgUrl": "tentacool",
-        "spriteClass": "n72"
+        "imgUrl": "tentacool"
     },
     {
         "id": 73,
@@ -716,8 +637,7 @@
         "name": "Tentacruel",
         "sprite": "tentacruel",
         "profileUrl": "/pokedex/tentacruel",
-        "imgUrl": "tentacruel",
-        "spriteClass": "n73"
+        "imgUrl": "tentacruel"
     },
     {
         "id": 74,
@@ -725,8 +645,7 @@
         "name": "Geodude",
         "sprite": "geodude",
         "profileUrl": "/pokedex/geodude",
-        "imgUrl": "geodude",
-        "spriteClass": "n74"
+        "imgUrl": "geodude"
     },
     {
         "id": 75,
@@ -734,8 +653,7 @@
         "name": "Graveler",
         "sprite": "graveler",
         "profileUrl": "/pokedex/graveler",
-        "imgUrl": "graveler",
-        "spriteClass": "n75"
+        "imgUrl": "graveler"
     },
     {
         "id": 76,
@@ -743,8 +661,7 @@
         "name": "Golem",
         "sprite": "golem",
         "profileUrl": "/pokedex/golem",
-        "imgUrl": "golem",
-        "spriteClass": "n76"
+        "imgUrl": "golem"
     },
     {
         "id": 77,
@@ -752,8 +669,7 @@
         "name": "Ponyta",
         "sprite": "ponyta",
         "profileUrl": "/pokedex/ponyta",
-        "imgUrl": "ponyta",
-        "spriteClass": "n77"
+        "imgUrl": "ponyta"
     },
     {
         "id": 78,
@@ -761,8 +677,7 @@
         "name": "Rapidash",
         "sprite": "rapidash",
         "profileUrl": "/pokedex/rapidash",
-        "imgUrl": "rapidash",
-        "spriteClass": "n78"
+        "imgUrl": "rapidash"
     },
     {
         "id": 79,
@@ -770,8 +685,7 @@
         "name": "Slowpoke",
         "sprite": "slowpoke",
         "profileUrl": "/pokedex/slowpoke",
-        "imgUrl": "slowpoke",
-        "spriteClass": "n79"
+        "imgUrl": "slowpoke"
     },
     {
         "id": 80,
@@ -779,8 +693,7 @@
         "name": "Slowbro",
         "sprite": "slowbro",
         "profileUrl": "/pokedex/slowbro",
-        "imgUrl": "slowbro",
-        "spriteClass": "n80"
+        "imgUrl": "slowbro"
     },
     {
         "id": 80,
@@ -788,8 +701,7 @@
         "name": "Slowbro",
         "sprite": "slowbro",
         "profileUrl": "/pokedex/slowbro",
-        "imgUrl": "slowbro",
-        "spriteClass": "n80"
+        "imgUrl": "slowbro"
     },
     {
         "id": 81,
@@ -797,8 +709,7 @@
         "name": "Magnemite",
         "sprite": "magnemite",
         "profileUrl": "/pokedex/magnemite",
-        "imgUrl": "magnemite",
-        "spriteClass": "n81"
+        "imgUrl": "magnemite"
     },
     {
         "id": 82,
@@ -806,8 +717,7 @@
         "name": "Magneton",
         "sprite": "magneton",
         "profileUrl": "/pokedex/magneton",
-        "imgUrl": "magneton",
-        "spriteClass": "n82"
+        "imgUrl": "magneton"
     },
     {
         "id": 83,
@@ -815,8 +725,7 @@
         "name": "Farfetch'd",
         "sprite": "farfetchd",
         "profileUrl": "/pokedex/farfetchd",
-        "imgUrl": "farfetchd",
-        "spriteClass": "n83"
+        "imgUrl": "farfetchd"
     },
     {
         "id": 84,
@@ -824,8 +733,7 @@
         "name": "Doduo",
         "sprite": "doduo",
         "profileUrl": "/pokedex/doduo",
-        "imgUrl": "doduo",
-        "spriteClass": "n84"
+        "imgUrl": "doduo"
     },
     {
         "id": 85,
@@ -833,8 +741,7 @@
         "name": "Dodrio",
         "sprite": "dodrio",
         "profileUrl": "/pokedex/dodrio",
-        "imgUrl": "dodrio",
-        "spriteClass": "n85"
+        "imgUrl": "dodrio"
     },
     {
         "id": 86,
@@ -842,8 +749,7 @@
         "name": "Seel",
         "sprite": "seel",
         "profileUrl": "/pokedex/seel",
-        "imgUrl": "seel",
-        "spriteClass": "n86"
+        "imgUrl": "seel"
     },
     {
         "id": 87,
@@ -851,8 +757,7 @@
         "name": "Dewgong",
         "sprite": "dewgong",
         "profileUrl": "/pokedex/dewgong",
-        "imgUrl": "dewgong",
-        "spriteClass": "n87"
+        "imgUrl": "dewgong"
     },
     {
         "id": 88,
@@ -860,8 +765,7 @@
         "name": "Grimer",
         "sprite": "grimer",
         "profileUrl": "/pokedex/grimer",
-        "imgUrl": "grimer",
-        "spriteClass": "n88"
+        "imgUrl": "grimer"
     },
     {
         "id": 89,
@@ -869,8 +773,7 @@
         "name": "Muk",
         "sprite": "muk",
         "profileUrl": "/pokedex/muk",
-        "imgUrl": "muk",
-        "spriteClass": "n89"
+        "imgUrl": "muk"
     },
     {
         "id": 90,
@@ -878,8 +781,7 @@
         "name": "Shellder",
         "sprite": "shellder",
         "profileUrl": "/pokedex/shellder",
-        "imgUrl": "shellder",
-        "spriteClass": "n90"
+        "imgUrl": "shellder"
     },
     {
         "id": 91,
@@ -887,8 +789,7 @@
         "name": "Cloyster",
         "sprite": "cloyster",
         "profileUrl": "/pokedex/cloyster",
-        "imgUrl": "cloyster",
-        "spriteClass": "n91"
+        "imgUrl": "cloyster"
     },
     {
         "id": 92,
@@ -896,8 +797,7 @@
         "name": "Gastly",
         "sprite": "gastly",
         "profileUrl": "/pokedex/gastly",
-        "imgUrl": "gastly",
-        "spriteClass": "n92"
+        "imgUrl": "gastly"
     },
     {
         "id": 93,
@@ -905,8 +805,7 @@
         "name": "Haunter",
         "sprite": "haunter",
         "profileUrl": "/pokedex/haunter",
-        "imgUrl": "haunter",
-        "spriteClass": "n93"
+        "imgUrl": "haunter"
     },
     {
         "id": 94,
@@ -914,8 +813,7 @@
         "name": "Gengar",
         "sprite": "gengar",
         "profileUrl": "/pokedex/gengar",
-        "imgUrl": "gengar",
-        "spriteClass": "n94"
+        "imgUrl": "gengar"
     },
     {
         "id": 94,
@@ -923,8 +821,7 @@
         "name": "Gengar",
         "sprite": "gengar",
         "profileUrl": "/pokedex/gengar",
-        "imgUrl": "gengar",
-        "spriteClass": "n94"
+        "imgUrl": "gengar"
     },
     {
         "id": 95,
@@ -932,8 +829,7 @@
         "name": "Onix",
         "sprite": "onix",
         "profileUrl": "/pokedex/onix",
-        "imgUrl": "onix",
-        "spriteClass": "n95"
+        "imgUrl": "onix"
     },
     {
         "id": 96,
@@ -941,8 +837,7 @@
         "name": "Drowzee",
         "sprite": "drowzee",
         "profileUrl": "/pokedex/drowzee",
-        "imgUrl": "drowzee",
-        "spriteClass": "n96"
+        "imgUrl": "drowzee"
     },
     {
         "id": 97,
@@ -950,8 +845,7 @@
         "name": "Hypno",
         "sprite": "hypno",
         "profileUrl": "/pokedex/hypno",
-        "imgUrl": "hypno",
-        "spriteClass": "n97"
+        "imgUrl": "hypno"
     },
     {
         "id": 98,
@@ -959,8 +853,7 @@
         "name": "Krabby",
         "sprite": "krabby",
         "profileUrl": "/pokedex/krabby",
-        "imgUrl": "krabby",
-        "spriteClass": "n98"
+        "imgUrl": "krabby"
     },
     {
         "id": 99,
@@ -968,8 +861,7 @@
         "name": "Kingler",
         "sprite": "kingler",
         "profileUrl": "/pokedex/kingler",
-        "imgUrl": "kingler",
-        "spriteClass": "n99"
+        "imgUrl": "kingler"
     },
     {
         "id": 100,
@@ -977,8 +869,7 @@
         "name": "Voltorb",
         "sprite": "voltorb",
         "profileUrl": "/pokedex/voltorb",
-        "imgUrl": "voltorb",
-        "spriteClass": "n100"
+        "imgUrl": "voltorb"
     },
     {
         "id": 101,
@@ -986,8 +877,7 @@
         "name": "Electrode",
         "sprite": "electrode",
         "profileUrl": "/pokedex/electrode",
-        "imgUrl": "electrode",
-        "spriteClass": "n101"
+        "imgUrl": "electrode"
     },
     {
         "id": 102,
@@ -995,8 +885,7 @@
         "name": "Exeggcute",
         "sprite": "exeggcute",
         "profileUrl": "/pokedex/exeggcute",
-        "imgUrl": "exeggcute",
-        "spriteClass": "n102"
+        "imgUrl": "exeggcute"
     },
     {
         "id": 103,
@@ -1004,8 +893,7 @@
         "name": "Exeggutor",
         "sprite": "exeggutor",
         "profileUrl": "/pokedex/exeggutor",
-        "imgUrl": "exeggutor",
-        "spriteClass": "n103"
+        "imgUrl": "exeggutor"
     },
     {
         "id": 104,
@@ -1013,8 +901,7 @@
         "name": "Cubone",
         "sprite": "cubone",
         "profileUrl": "/pokedex/cubone",
-        "imgUrl": "cubone",
-        "spriteClass": "n104"
+        "imgUrl": "cubone"
     },
     {
         "id": 105,
@@ -1022,8 +909,7 @@
         "name": "Marowak",
         "sprite": "marowak",
         "profileUrl": "/pokedex/marowak",
-        "imgUrl": "marowak",
-        "spriteClass": "n105"
+        "imgUrl": "marowak"
     },
     {
         "id": 106,
@@ -1031,8 +917,7 @@
         "name": "Hitmonlee",
         "sprite": "hitmonlee",
         "profileUrl": "/pokedex/hitmonlee",
-        "imgUrl": "hitmonlee",
-        "spriteClass": "n106"
+        "imgUrl": "hitmonlee"
     },
     {
         "id": 107,
@@ -1040,8 +925,7 @@
         "name": "Hitmonchan",
         "sprite": "hitmonchan",
         "profileUrl": "/pokedex/hitmonchan",
-        "imgUrl": "hitmonchan",
-        "spriteClass": "n107"
+        "imgUrl": "hitmonchan"
     },
     {
         "id": 108,
@@ -1049,8 +933,7 @@
         "name": "Lickitung",
         "sprite": "lickitung",
         "profileUrl": "/pokedex/lickitung",
-        "imgUrl": "lickitung",
-        "spriteClass": "n108"
+        "imgUrl": "lickitung"
     },
     {
         "id": 109,
@@ -1058,8 +941,7 @@
         "name": "Koffing",
         "sprite": "koffing",
         "profileUrl": "/pokedex/koffing",
-        "imgUrl": "koffing",
-        "spriteClass": "n109"
+        "imgUrl": "koffing"
     },
     {
         "id": 110,
@@ -1067,8 +949,7 @@
         "name": "Weezing",
         "sprite": "weezing",
         "profileUrl": "/pokedex/weezing",
-        "imgUrl": "weezing",
-        "spriteClass": "n110"
+        "imgUrl": "weezing"
     },
     {
         "id": 111,
@@ -1076,8 +957,7 @@
         "name": "Rhyhorn",
         "sprite": "rhyhorn",
         "profileUrl": "/pokedex/rhyhorn",
-        "imgUrl": "rhyhorn",
-        "spriteClass": "n111"
+        "imgUrl": "rhyhorn"
     },
     {
         "id": 112,
@@ -1085,8 +965,7 @@
         "name": "Rhydon",
         "sprite": "rhydon",
         "profileUrl": "/pokedex/rhydon",
-        "imgUrl": "rhydon",
-        "spriteClass": "n112"
+        "imgUrl": "rhydon"
     },
     {
         "id": 113,
@@ -1094,8 +973,7 @@
         "name": "Chansey",
         "sprite": "chansey",
         "profileUrl": "/pokedex/chansey",
-        "imgUrl": "chansey",
-        "spriteClass": "n113"
+        "imgUrl": "chansey"
     },
     {
         "id": 114,
@@ -1103,8 +981,7 @@
         "name": "Tangela",
         "sprite": "tangela",
         "profileUrl": "/pokedex/tangela",
-        "imgUrl": "tangela",
-        "spriteClass": "n114"
+        "imgUrl": "tangela"
     },
     {
         "id": 115,
@@ -1112,8 +989,7 @@
         "name": "Kangaskhan",
         "sprite": "kangaskhan",
         "profileUrl": "/pokedex/kangaskhan",
-        "imgUrl": "kangaskhan",
-        "spriteClass": "n115"
+        "imgUrl": "kangaskhan"
     },
     {
         "id": 115,
@@ -1121,8 +997,7 @@
         "name": "Kangaskhan",
         "sprite": "kangaskhan",
         "profileUrl": "/pokedex/kangaskhan",
-        "imgUrl": "kangaskhan",
-        "spriteClass": "n115"
+        "imgUrl": "kangaskhan"
     },
     {
         "id": 116,
@@ -1130,8 +1005,7 @@
         "name": "Horsea",
         "sprite": "horsea",
         "profileUrl": "/pokedex/horsea",
-        "imgUrl": "horsea",
-        "spriteClass": "n116"
+        "imgUrl": "horsea"
     },
     {
         "id": 117,
@@ -1139,8 +1013,7 @@
         "name": "Seadra",
         "sprite": "seadra",
         "profileUrl": "/pokedex/seadra",
-        "imgUrl": "seadra",
-        "spriteClass": "n117"
+        "imgUrl": "seadra"
     },
     {
         "id": 118,
@@ -1148,8 +1021,7 @@
         "name": "Goldeen",
         "sprite": "goldeen",
         "profileUrl": "/pokedex/goldeen",
-        "imgUrl": "goldeen",
-        "spriteClass": "n118"
+        "imgUrl": "goldeen"
     },
     {
         "id": 119,
@@ -1157,8 +1029,7 @@
         "name": "Seaking",
         "sprite": "seaking",
         "profileUrl": "/pokedex/seaking",
-        "imgUrl": "seaking",
-        "spriteClass": "n119"
+        "imgUrl": "seaking"
     },
     {
         "id": 120,
@@ -1166,8 +1037,7 @@
         "name": "Staryu",
         "sprite": "staryu",
         "profileUrl": "/pokedex/staryu",
-        "imgUrl": "staryu",
-        "spriteClass": "n120"
+        "imgUrl": "staryu"
     },
     {
         "id": 121,
@@ -1175,17 +1045,15 @@
         "name": "Starmie",
         "sprite": "starmie",
         "profileUrl": "/pokedex/starmie",
-        "imgUrl": "starmie",
-        "spriteClass": "n121"
+        "imgUrl": "starmie"
     },
     {
         "id": 122,
         "idStr": "122",
         "name": "Mr. Mime",
-        "sprite": "mr. mime",
+        "sprite": "mr-mime",
         "profileUrl": "/pokedex/mr-mime",
-        "imgUrl": "mr_mime",
-        "spriteClass": "n122"
+        "imgUrl": "mr_mime"
     },
     {
         "id": 123,
@@ -1193,8 +1061,7 @@
         "name": "Scyther",
         "sprite": "scyther",
         "profileUrl": "/pokedex/scyther",
-        "imgUrl": "scyther",
-        "spriteClass": "n123"
+        "imgUrl": "scyther"
     },
     {
         "id": 124,
@@ -1202,8 +1069,7 @@
         "name": "Jynx",
         "sprite": "jynx",
         "profileUrl": "/pokedex/jynx",
-        "imgUrl": "jynx",
-        "spriteClass": "n124"
+        "imgUrl": "jynx"
     },
     {
         "id": 125,
@@ -1211,8 +1077,7 @@
         "name": "Electabuzz",
         "sprite": "electabuzz",
         "profileUrl": "/pokedex/electabuzz",
-        "imgUrl": "electabuzz",
-        "spriteClass": "n125"
+        "imgUrl": "electabuzz"
     },
     {
         "id": 126,
@@ -1220,8 +1085,7 @@
         "name": "Magmar",
         "sprite": "magmar",
         "profileUrl": "/pokedex/magmar",
-        "imgUrl": "magmar",
-        "spriteClass": "n126"
+        "imgUrl": "magmar"
     },
     {
         "id": 127,
@@ -1229,8 +1093,7 @@
         "name": "Pinsir",
         "sprite": "pinsir",
         "profileUrl": "/pokedex/pinsir",
-        "imgUrl": "pinsir",
-        "spriteClass": "n127"
+        "imgUrl": "pinsir"
     },
     {
         "id": 127,
@@ -1238,8 +1101,7 @@
         "name": "Pinsir",
         "sprite": "pinsir",
         "profileUrl": "/pokedex/pinsir",
-        "imgUrl": "pinsir",
-        "spriteClass": "n127"
+        "imgUrl": "pinsir"
     },
     {
         "id": 128,
@@ -1247,8 +1109,7 @@
         "name": "Tauros",
         "sprite": "tauros",
         "profileUrl": "/pokedex/tauros",
-        "imgUrl": "tauros",
-        "spriteClass": "n128"
+        "imgUrl": "tauros"
     },
     {
         "id": 129,
@@ -1256,8 +1117,7 @@
         "name": "Magikarp",
         "sprite": "magikarp",
         "profileUrl": "/pokedex/magikarp",
-        "imgUrl": "magikarp",
-        "spriteClass": "n129"
+        "imgUrl": "magikarp"
     },
     {
         "id": 130,
@@ -1265,8 +1125,7 @@
         "name": "Gyarados",
         "sprite": "gyarados",
         "profileUrl": "/pokedex/gyarados",
-        "imgUrl": "gyarados",
-        "spriteClass": "n130"
+        "imgUrl": "gyarados"
     },
     {
         "id": 130,
@@ -1274,8 +1133,7 @@
         "name": "Gyarados",
         "sprite": "gyarados",
         "profileUrl": "/pokedex/gyarados",
-        "imgUrl": "gyarados",
-        "spriteClass": "n130"
+        "imgUrl": "gyarados"
     },
     {
         "id": 131,
@@ -1283,8 +1141,7 @@
         "name": "Lapras",
         "sprite": "lapras",
         "profileUrl": "/pokedex/lapras",
-        "imgUrl": "lapras",
-        "spriteClass": "n131"
+        "imgUrl": "lapras"
     },
     {
         "id": 132,
@@ -1292,8 +1149,7 @@
         "name": "Ditto",
         "sprite": "ditto",
         "profileUrl": "/pokedex/ditto",
-        "imgUrl": "ditto",
-        "spriteClass": "n132"
+        "imgUrl": "ditto"
     },
     {
         "id": 133,
@@ -1301,8 +1157,7 @@
         "name": "Eevee",
         "sprite": "eevee",
         "profileUrl": "/pokedex/eevee",
-        "imgUrl": "eevee",
-        "spriteClass": "n133"
+        "imgUrl": "eevee"
     },
     {
         "id": 134,
@@ -1310,8 +1165,7 @@
         "name": "Vaporeon",
         "sprite": "vaporeon",
         "profileUrl": "/pokedex/vaporeon",
-        "imgUrl": "vaporeon",
-        "spriteClass": "n134"
+        "imgUrl": "vaporeon"
     },
     {
         "id": 135,
@@ -1319,8 +1173,7 @@
         "name": "Jolteon",
         "sprite": "jolteon",
         "profileUrl": "/pokedex/jolteon",
-        "imgUrl": "jolteon",
-        "spriteClass": "n135"
+        "imgUrl": "jolteon"
     },
     {
         "id": 136,
@@ -1328,8 +1181,7 @@
         "name": "Flareon",
         "sprite": "flareon",
         "profileUrl": "/pokedex/flareon",
-        "imgUrl": "flareon",
-        "spriteClass": "n136"
+        "imgUrl": "flareon"
     },
     {
         "id": 137,
@@ -1337,8 +1189,7 @@
         "name": "Porygon",
         "sprite": "porygon",
         "profileUrl": "/pokedex/porygon",
-        "imgUrl": "porygon",
-        "spriteClass": "n137"
+        "imgUrl": "porygon"
     },
     {
         "id": 138,
@@ -1346,8 +1197,7 @@
         "name": "Omanyte",
         "sprite": "omanyte",
         "profileUrl": "/pokedex/omanyte",
-        "imgUrl": "omanyte",
-        "spriteClass": "n138"
+        "imgUrl": "omanyte"
     },
     {
         "id": 139,
@@ -1355,8 +1205,7 @@
         "name": "Omastar",
         "sprite": "omastar",
         "profileUrl": "/pokedex/omastar",
-        "imgUrl": "omastar",
-        "spriteClass": "n139"
+        "imgUrl": "omastar"
     },
     {
         "id": 140,
@@ -1364,8 +1213,7 @@
         "name": "Kabuto",
         "sprite": "kabuto",
         "profileUrl": "/pokedex/kabuto",
-        "imgUrl": "kabuto",
-        "spriteClass": "n140"
+        "imgUrl": "kabuto"
     },
     {
         "id": 141,
@@ -1373,8 +1221,7 @@
         "name": "Kabutops",
         "sprite": "kabutops",
         "profileUrl": "/pokedex/kabutops",
-        "imgUrl": "kabutops",
-        "spriteClass": "n141"
+        "imgUrl": "kabutops"
     },
     {
         "id": 142,
@@ -1382,8 +1229,7 @@
         "name": "Aerodactyl",
         "sprite": "aerodactyl",
         "profileUrl": "/pokedex/aerodactyl",
-        "imgUrl": "aerodactyl",
-        "spriteClass": "n142"
+        "imgUrl": "aerodactyl"
     },
     {
         "id": 142,
@@ -1391,8 +1237,7 @@
         "name": "Aerodactyl",
         "sprite": "aerodactyl",
         "profileUrl": "/pokedex/aerodactyl",
-        "imgUrl": "aerodactyl",
-        "spriteClass": "n142"
+        "imgUrl": "aerodactyl"
     },
     {
         "id": 143,
@@ -1400,8 +1245,7 @@
         "name": "Snorlax",
         "sprite": "snorlax",
         "profileUrl": "/pokedex/snorlax",
-        "imgUrl": "snorlax",
-        "spriteClass": "n143"
+        "imgUrl": "snorlax"
     },
     {
         "id": 144,
@@ -1409,8 +1253,7 @@
         "name": "Articuno",
         "sprite": "articuno",
         "profileUrl": "/pokedex/articuno",
-        "imgUrl": "articuno",
-        "spriteClass": "n144"
+        "imgUrl": "articuno"
     },
     {
         "id": 145,
@@ -1418,8 +1261,7 @@
         "name": "Zapdos",
         "sprite": "zapdos",
         "profileUrl": "/pokedex/zapdos",
-        "imgUrl": "zapdos",
-        "spriteClass": "n145"
+        "imgUrl": "zapdos"
     },
     {
         "id": 146,
@@ -1427,8 +1269,7 @@
         "name": "Moltres",
         "sprite": "moltres",
         "profileUrl": "/pokedex/moltres",
-        "imgUrl": "moltres",
-        "spriteClass": "n146"
+        "imgUrl": "moltres"
     },
     {
         "id": 147,
@@ -1436,8 +1277,7 @@
         "name": "Dratini",
         "sprite": "dratini",
         "profileUrl": "/pokedex/dratini",
-        "imgUrl": "dratini",
-        "spriteClass": "n147"
+        "imgUrl": "dratini"
     },
     {
         "id": 148,
@@ -1445,8 +1285,7 @@
         "name": "Dragonair",
         "sprite": "dragonair",
         "profileUrl": "/pokedex/dragonair",
-        "imgUrl": "dragonair",
-        "spriteClass": "n148"
+        "imgUrl": "dragonair"
     },
     {
         "id": 149,
@@ -1454,8 +1293,7 @@
         "name": "Dragonite",
         "sprite": "dragonite",
         "profileUrl": "/pokedex/dragonite",
-        "imgUrl": "dragonite",
-        "spriteClass": "n149"
+        "imgUrl": "dragonite"
     },
     {
         "id": 150,
@@ -1463,8 +1301,7 @@
         "name": "Mewtwo",
         "sprite": "mewtwo",
         "profileUrl": "/pokedex/mewtwo",
-        "imgUrl": "mewtwo",
-        "spriteClass": "n150"
+        "imgUrl": "mewtwo"
     },
     {
         "id": 150,
@@ -1472,8 +1309,7 @@
         "name": "Mewtwo",
         "sprite": "mewtwo",
         "profileUrl": "/pokedex/mewtwo",
-        "imgUrl": "mewtwo",
-        "spriteClass": "n150"
+        "imgUrl": "mewtwo"
     },
     {
         "id": 150,
@@ -1481,8 +1317,7 @@
         "name": "Mewtwo",
         "sprite": "mewtwo",
         "profileUrl": "/pokedex/mewtwo",
-        "imgUrl": "mewtwo",
-        "spriteClass": "n150"
+        "imgUrl": "mewtwo"
     },
     {
         "id": 151,
@@ -1490,8 +1325,7 @@
         "name": "Mew",
         "sprite": "mew",
         "profileUrl": "/pokedex/mew",
-        "imgUrl": "mew",
-        "spriteClass": "n151"
+        "imgUrl": "mew"
     },
     {
         "id": 152,
@@ -1499,8 +1333,7 @@
         "name": "Chikorita",
         "sprite": "chikorita",
         "profileUrl": "/pokedex/chikorita",
-        "imgUrl": "chikorita",
-        "spriteClass": "n152"
+        "imgUrl": "chikorita"
     },
     {
         "id": 153,
@@ -1508,8 +1341,7 @@
         "name": "Bayleef",
         "sprite": "bayleef",
         "profileUrl": "/pokedex/bayleef",
-        "imgUrl": "bayleef",
-        "spriteClass": "n153"
+        "imgUrl": "bayleef"
     },
     {
         "id": 154,
@@ -1517,8 +1349,7 @@
         "name": "Meganium",
         "sprite": "meganium",
         "profileUrl": "/pokedex/meganium",
-        "imgUrl": "meganium",
-        "spriteClass": "n154"
+        "imgUrl": "meganium"
     },
     {
         "id": 155,
@@ -1526,8 +1357,7 @@
         "name": "Cyndaquil",
         "sprite": "cyndaquil",
         "profileUrl": "/pokedex/cyndaquil",
-        "imgUrl": "cyndaquil",
-        "spriteClass": "n155"
+        "imgUrl": "cyndaquil"
     },
     {
         "id": 156,
@@ -1535,8 +1365,7 @@
         "name": "Quilava",
         "sprite": "quilava",
         "profileUrl": "/pokedex/quilava",
-        "imgUrl": "quilava",
-        "spriteClass": "n156"
+        "imgUrl": "quilava"
     },
     {
         "id": 157,
@@ -1544,8 +1373,7 @@
         "name": "Typhlosion",
         "sprite": "typhlosion",
         "profileUrl": "/pokedex/typhlosion",
-        "imgUrl": "typhlosion",
-        "spriteClass": "n157"
+        "imgUrl": "typhlosion"
     },
     {
         "id": 158,
@@ -1553,8 +1381,7 @@
         "name": "Totodile",
         "sprite": "totodile",
         "profileUrl": "/pokedex/totodile",
-        "imgUrl": "totodile",
-        "spriteClass": "n158"
+        "imgUrl": "totodile"
     },
     {
         "id": 159,
@@ -1562,8 +1389,7 @@
         "name": "Croconaw",
         "sprite": "croconaw",
         "profileUrl": "/pokedex/croconaw",
-        "imgUrl": "croconaw",
-        "spriteClass": "n159"
+        "imgUrl": "croconaw"
     },
     {
         "id": 160,
@@ -1571,8 +1397,7 @@
         "name": "Feraligatr",
         "sprite": "feraligatr",
         "profileUrl": "/pokedex/feraligatr",
-        "imgUrl": "feraligatr",
-        "spriteClass": "n160"
+        "imgUrl": "feraligatr"
     },
     {
         "id": 161,
@@ -1580,8 +1405,7 @@
         "name": "Sentret",
         "sprite": "sentret",
         "profileUrl": "/pokedex/sentret",
-        "imgUrl": "sentret",
-        "spriteClass": "n161"
+        "imgUrl": "sentret"
     },
     {
         "id": 162,
@@ -1589,8 +1413,7 @@
         "name": "Furret",
         "sprite": "furret",
         "profileUrl": "/pokedex/furret",
-        "imgUrl": "furret",
-        "spriteClass": "n162"
+        "imgUrl": "furret"
     },
     {
         "id": 163,
@@ -1598,8 +1421,7 @@
         "name": "Hoothoot",
         "sprite": "hoothoot",
         "profileUrl": "/pokedex/hoothoot",
-        "imgUrl": "hoothoot",
-        "spriteClass": "n163"
+        "imgUrl": "hoothoot"
     },
     {
         "id": 164,
@@ -1607,8 +1429,7 @@
         "name": "Noctowl",
         "sprite": "noctowl",
         "profileUrl": "/pokedex/noctowl",
-        "imgUrl": "noctowl",
-        "spriteClass": "n164"
+        "imgUrl": "noctowl"
     },
     {
         "id": 165,
@@ -1616,8 +1437,7 @@
         "name": "Ledyba",
         "sprite": "ledyba",
         "profileUrl": "/pokedex/ledyba",
-        "imgUrl": "ledyba",
-        "spriteClass": "n165"
+        "imgUrl": "ledyba"
     },
     {
         "id": 166,
@@ -1625,8 +1445,7 @@
         "name": "Ledian",
         "sprite": "ledian",
         "profileUrl": "/pokedex/ledian",
-        "imgUrl": "ledian",
-        "spriteClass": "n166"
+        "imgUrl": "ledian"
     },
     {
         "id": 167,
@@ -1634,8 +1453,7 @@
         "name": "Spinarak",
         "sprite": "spinarak",
         "profileUrl": "/pokedex/spinarak",
-        "imgUrl": "spinarak",
-        "spriteClass": "n167"
+        "imgUrl": "spinarak"
     },
     {
         "id": 168,
@@ -1643,8 +1461,7 @@
         "name": "Ariados",
         "sprite": "ariados",
         "profileUrl": "/pokedex/ariados",
-        "imgUrl": "ariados",
-        "spriteClass": "n168"
+        "imgUrl": "ariados"
     },
     {
         "id": 169,
@@ -1652,8 +1469,7 @@
         "name": "Crobat",
         "sprite": "crobat",
         "profileUrl": "/pokedex/crobat",
-        "imgUrl": "crobat",
-        "spriteClass": "n169"
+        "imgUrl": "crobat"
     },
     {
         "id": 170,
@@ -1661,8 +1477,7 @@
         "name": "Chinchou",
         "sprite": "chinchou",
         "profileUrl": "/pokedex/chinchou",
-        "imgUrl": "chinchou",
-        "spriteClass": "n170"
+        "imgUrl": "chinchou"
     },
     {
         "id": 171,
@@ -1670,8 +1485,7 @@
         "name": "Lanturn",
         "sprite": "lanturn",
         "profileUrl": "/pokedex/lanturn",
-        "imgUrl": "lanturn",
-        "spriteClass": "n171"
+        "imgUrl": "lanturn"
     },
     {
         "id": 172,
@@ -1679,8 +1493,7 @@
         "name": "Pichu",
         "sprite": "pichu",
         "profileUrl": "/pokedex/pichu",
-        "imgUrl": "pichu",
-        "spriteClass": "n172"
+        "imgUrl": "pichu"
     },
     {
         "id": 173,
@@ -1688,8 +1501,7 @@
         "name": "Cleffa",
         "sprite": "cleffa",
         "profileUrl": "/pokedex/cleffa",
-        "imgUrl": "cleffa",
-        "spriteClass": "n173"
+        "imgUrl": "cleffa"
     },
     {
         "id": 174,
@@ -1697,8 +1509,7 @@
         "name": "Igglybuff",
         "sprite": "igglybuff",
         "profileUrl": "/pokedex/igglybuff",
-        "imgUrl": "igglybuff",
-        "spriteClass": "n174"
+        "imgUrl": "igglybuff"
     },
     {
         "id": 175,
@@ -1706,8 +1517,7 @@
         "name": "Togepi",
         "sprite": "togepi",
         "profileUrl": "/pokedex/togepi",
-        "imgUrl": "togepi",
-        "spriteClass": "n175"
+        "imgUrl": "togepi"
     },
     {
         "id": 176,
@@ -1715,8 +1525,7 @@
         "name": "Togetic",
         "sprite": "togetic",
         "profileUrl": "/pokedex/togetic",
-        "imgUrl": "togetic",
-        "spriteClass": "n176"
+        "imgUrl": "togetic"
     },
     {
         "id": 177,
@@ -1724,8 +1533,7 @@
         "name": "Natu",
         "sprite": "natu",
         "profileUrl": "/pokedex/natu",
-        "imgUrl": "natu",
-        "spriteClass": "n177"
+        "imgUrl": "natu"
     },
     {
         "id": 178,
@@ -1733,8 +1541,7 @@
         "name": "Xatu",
         "sprite": "xatu",
         "profileUrl": "/pokedex/xatu",
-        "imgUrl": "xatu",
-        "spriteClass": "n178"
+        "imgUrl": "xatu"
     },
     {
         "id": 179,
@@ -1742,8 +1549,7 @@
         "name": "Mareep",
         "sprite": "mareep",
         "profileUrl": "/pokedex/mareep",
-        "imgUrl": "mareep",
-        "spriteClass": "n179"
+        "imgUrl": "mareep"
     },
     {
         "id": 180,
@@ -1751,8 +1557,7 @@
         "name": "Flaaffy",
         "sprite": "flaaffy",
         "profileUrl": "/pokedex/flaaffy",
-        "imgUrl": "flaaffy",
-        "spriteClass": "n180"
+        "imgUrl": "flaaffy"
     },
     {
         "id": 181,
@@ -1760,8 +1565,7 @@
         "name": "Ampharos",
         "sprite": "ampharos",
         "profileUrl": "/pokedex/ampharos",
-        "imgUrl": "ampharos",
-        "spriteClass": "n181"
+        "imgUrl": "ampharos"
     },
     {
         "id": 181,
@@ -1769,8 +1573,7 @@
         "name": "Ampharos",
         "sprite": "ampharos",
         "profileUrl": "/pokedex/ampharos",
-        "imgUrl": "ampharos",
-        "spriteClass": "n181"
+        "imgUrl": "ampharos"
     },
     {
         "id": 182,
@@ -1778,8 +1581,7 @@
         "name": "Bellossom",
         "sprite": "bellossom",
         "profileUrl": "/pokedex/bellossom",
-        "imgUrl": "bellossom",
-        "spriteClass": "n182"
+        "imgUrl": "bellossom"
     },
     {
         "id": 183,
@@ -1787,8 +1589,7 @@
         "name": "Marill",
         "sprite": "marill",
         "profileUrl": "/pokedex/marill",
-        "imgUrl": "marill",
-        "spriteClass": "n183"
+        "imgUrl": "marill"
     },
     {
         "id": 184,
@@ -1796,8 +1597,7 @@
         "name": "Azumarill",
         "sprite": "azumarill",
         "profileUrl": "/pokedex/azumarill",
-        "imgUrl": "azumarill",
-        "spriteClass": "n184"
+        "imgUrl": "azumarill"
     },
     {
         "id": 185,
@@ -1805,8 +1605,7 @@
         "name": "Sudowoodo",
         "sprite": "sudowoodo",
         "profileUrl": "/pokedex/sudowoodo",
-        "imgUrl": "sudowoodo",
-        "spriteClass": "n185"
+        "imgUrl": "sudowoodo"
     },
     {
         "id": 186,
@@ -1814,8 +1613,7 @@
         "name": "Politoed",
         "sprite": "politoed",
         "profileUrl": "/pokedex/politoed",
-        "imgUrl": "politoed",
-        "spriteClass": "n186"
+        "imgUrl": "politoed"
     },
     {
         "id": 187,
@@ -1823,8 +1621,7 @@
         "name": "Hoppip",
         "sprite": "hoppip",
         "profileUrl": "/pokedex/hoppip",
-        "imgUrl": "hoppip",
-        "spriteClass": "n187"
+        "imgUrl": "hoppip"
     },
     {
         "id": 188,
@@ -1832,8 +1629,7 @@
         "name": "Skiploom",
         "sprite": "skiploom",
         "profileUrl": "/pokedex/skiploom",
-        "imgUrl": "skiploom",
-        "spriteClass": "n188"
+        "imgUrl": "skiploom"
     },
     {
         "id": 189,
@@ -1841,8 +1637,7 @@
         "name": "Jumpluff",
         "sprite": "jumpluff",
         "profileUrl": "/pokedex/jumpluff",
-        "imgUrl": "jumpluff",
-        "spriteClass": "n189"
+        "imgUrl": "jumpluff"
     },
     {
         "id": 190,
@@ -1850,8 +1645,7 @@
         "name": "Aipom",
         "sprite": "aipom",
         "profileUrl": "/pokedex/aipom",
-        "imgUrl": "aipom",
-        "spriteClass": "n190"
+        "imgUrl": "aipom"
     },
     {
         "id": 191,
@@ -1859,8 +1653,7 @@
         "name": "Sunkern",
         "sprite": "sunkern",
         "profileUrl": "/pokedex/sunkern",
-        "imgUrl": "sunkern",
-        "spriteClass": "n191"
+        "imgUrl": "sunkern"
     },
     {
         "id": 192,
@@ -1868,8 +1661,7 @@
         "name": "Sunflora",
         "sprite": "sunflora",
         "profileUrl": "/pokedex/sunflora",
-        "imgUrl": "sunflora",
-        "spriteClass": "n192"
+        "imgUrl": "sunflora"
     },
     {
         "id": 193,
@@ -1877,8 +1669,7 @@
         "name": "Yanma",
         "sprite": "yanma",
         "profileUrl": "/pokedex/yanma",
-        "imgUrl": "yanma",
-        "spriteClass": "n193"
+        "imgUrl": "yanma"
     },
     {
         "id": 194,
@@ -1886,8 +1677,7 @@
         "name": "Wooper",
         "sprite": "wooper",
         "profileUrl": "/pokedex/wooper",
-        "imgUrl": "wooper",
-        "spriteClass": "n194"
+        "imgUrl": "wooper"
     },
     {
         "id": 195,
@@ -1895,8 +1685,7 @@
         "name": "Quagsire",
         "sprite": "quagsire",
         "profileUrl": "/pokedex/quagsire",
-        "imgUrl": "quagsire",
-        "spriteClass": "n195"
+        "imgUrl": "quagsire"
     },
     {
         "id": 196,
@@ -1904,8 +1693,7 @@
         "name": "Espeon",
         "sprite": "espeon",
         "profileUrl": "/pokedex/espeon",
-        "imgUrl": "espeon",
-        "spriteClass": "n196"
+        "imgUrl": "espeon"
     },
     {
         "id": 197,
@@ -1913,8 +1701,7 @@
         "name": "Umbreon",
         "sprite": "umbreon",
         "profileUrl": "/pokedex/umbreon",
-        "imgUrl": "umbreon",
-        "spriteClass": "n197"
+        "imgUrl": "umbreon"
     },
     {
         "id": 198,
@@ -1922,8 +1709,7 @@
         "name": "Murkrow",
         "sprite": "murkrow",
         "profileUrl": "/pokedex/murkrow",
-        "imgUrl": "murkrow",
-        "spriteClass": "n198"
+        "imgUrl": "murkrow"
     },
     {
         "id": 199,
@@ -1931,8 +1717,7 @@
         "name": "Slowking",
         "sprite": "slowking",
         "profileUrl": "/pokedex/slowking",
-        "imgUrl": "slowking",
-        "spriteClass": "n199"
+        "imgUrl": "slowking"
     },
     {
         "id": 200,
@@ -1940,8 +1725,7 @@
         "name": "Misdreavus",
         "sprite": "misdreavus",
         "profileUrl": "/pokedex/misdreavus",
-        "imgUrl": "misdreavus",
-        "spriteClass": "n200"
+        "imgUrl": "misdreavus"
     },
     {
         "id": 201,
@@ -1949,8 +1733,7 @@
         "name": "Unown",
         "sprite": "unown",
         "profileUrl": "/pokedex/unown",
-        "imgUrl": "unown",
-        "spriteClass": "n201"
+        "imgUrl": "unown"
     },
     {
         "id": 202,
@@ -1958,8 +1741,7 @@
         "name": "Wobbuffet",
         "sprite": "wobbuffet",
         "profileUrl": "/pokedex/wobbuffet",
-        "imgUrl": "wobbuffet",
-        "spriteClass": "n202"
+        "imgUrl": "wobbuffet"
     },
     {
         "id": 203,
@@ -1967,8 +1749,7 @@
         "name": "Girafarig",
         "sprite": "girafarig",
         "profileUrl": "/pokedex/girafarig",
-        "imgUrl": "girafarig",
-        "spriteClass": "n203"
+        "imgUrl": "girafarig"
     },
     {
         "id": 204,
@@ -1976,8 +1757,7 @@
         "name": "Pineco",
         "sprite": "pineco",
         "profileUrl": "/pokedex/pineco",
-        "imgUrl": "pineco",
-        "spriteClass": "n204"
+        "imgUrl": "pineco"
     },
     {
         "id": 205,
@@ -1985,8 +1765,7 @@
         "name": "Forretress",
         "sprite": "forretress",
         "profileUrl": "/pokedex/forretress",
-        "imgUrl": "forretress",
-        "spriteClass": "n205"
+        "imgUrl": "forretress"
     },
     {
         "id": 206,
@@ -1994,8 +1773,7 @@
         "name": "Dunsparce",
         "sprite": "dunsparce",
         "profileUrl": "/pokedex/dunsparce",
-        "imgUrl": "dunsparce",
-        "spriteClass": "n206"
+        "imgUrl": "dunsparce"
     },
     {
         "id": 207,
@@ -2003,8 +1781,7 @@
         "name": "Gligar",
         "sprite": "gligar",
         "profileUrl": "/pokedex/gligar",
-        "imgUrl": "gligar",
-        "spriteClass": "n207"
+        "imgUrl": "gligar"
     },
     {
         "id": 208,
@@ -2012,8 +1789,7 @@
         "name": "Steelix",
         "sprite": "steelix",
         "profileUrl": "/pokedex/steelix",
-        "imgUrl": "steelix",
-        "spriteClass": "n208"
+        "imgUrl": "steelix"
     },
     {
         "id": 208,
@@ -2021,8 +1797,7 @@
         "name": "Steelix",
         "sprite": "steelix",
         "profileUrl": "/pokedex/steelix",
-        "imgUrl": "steelix",
-        "spriteClass": "n208"
+        "imgUrl": "steelix"
     },
     {
         "id": 209,
@@ -2030,8 +1805,7 @@
         "name": "Snubbull",
         "sprite": "snubbull",
         "profileUrl": "/pokedex/snubbull",
-        "imgUrl": "snubbull",
-        "spriteClass": "n209"
+        "imgUrl": "snubbull"
     },
     {
         "id": 210,
@@ -2039,8 +1813,7 @@
         "name": "Granbull",
         "sprite": "granbull",
         "profileUrl": "/pokedex/granbull",
-        "imgUrl": "granbull",
-        "spriteClass": "n210"
+        "imgUrl": "granbull"
     },
     {
         "id": 211,
@@ -2048,8 +1821,7 @@
         "name": "Qwilfish",
         "sprite": "qwilfish",
         "profileUrl": "/pokedex/qwilfish",
-        "imgUrl": "qwilfish",
-        "spriteClass": "n211"
+        "imgUrl": "qwilfish"
     },
     {
         "id": 212,
@@ -2057,8 +1829,7 @@
         "name": "Scizor",
         "sprite": "scizor",
         "profileUrl": "/pokedex/scizor",
-        "imgUrl": "scizor",
-        "spriteClass": "n212"
+        "imgUrl": "scizor"
     },
     {
         "id": 212,
@@ -2066,8 +1837,7 @@
         "name": "Scizor",
         "sprite": "scizor",
         "profileUrl": "/pokedex/scizor",
-        "imgUrl": "scizor",
-        "spriteClass": "n212"
+        "imgUrl": "scizor"
     },
     {
         "id": 213,
@@ -2075,8 +1845,7 @@
         "name": "Shuckle",
         "sprite": "shuckle",
         "profileUrl": "/pokedex/shuckle",
-        "imgUrl": "shuckle",
-        "spriteClass": "n213"
+        "imgUrl": "shuckle"
     },
     {
         "id": 214,
@@ -2084,8 +1853,7 @@
         "name": "Heracross",
         "sprite": "heracross",
         "profileUrl": "/pokedex/heracross",
-        "imgUrl": "heracross",
-        "spriteClass": "n214"
+        "imgUrl": "heracross"
     },
     {
         "id": 214,
@@ -2093,8 +1861,7 @@
         "name": "Heracross",
         "sprite": "heracross",
         "profileUrl": "/pokedex/heracross",
-        "imgUrl": "heracross",
-        "spriteClass": "n214"
+        "imgUrl": "heracross"
     },
     {
         "id": 215,
@@ -2102,8 +1869,7 @@
         "name": "Sneasel",
         "sprite": "sneasel",
         "profileUrl": "/pokedex/sneasel",
-        "imgUrl": "sneasel",
-        "spriteClass": "n215"
+        "imgUrl": "sneasel"
     },
     {
         "id": 216,
@@ -2111,8 +1877,7 @@
         "name": "Teddiursa",
         "sprite": "teddiursa",
         "profileUrl": "/pokedex/teddiursa",
-        "imgUrl": "teddiursa",
-        "spriteClass": "n216"
+        "imgUrl": "teddiursa"
     },
     {
         "id": 217,
@@ -2120,8 +1885,7 @@
         "name": "Ursaring",
         "sprite": "ursaring",
         "profileUrl": "/pokedex/ursaring",
-        "imgUrl": "ursaring",
-        "spriteClass": "n217"
+        "imgUrl": "ursaring"
     },
     {
         "id": 218,
@@ -2129,8 +1893,7 @@
         "name": "Slugma",
         "sprite": "slugma",
         "profileUrl": "/pokedex/slugma",
-        "imgUrl": "slugma",
-        "spriteClass": "n218"
+        "imgUrl": "slugma"
     },
     {
         "id": 219,
@@ -2138,8 +1901,7 @@
         "name": "Magcargo",
         "sprite": "magcargo",
         "profileUrl": "/pokedex/magcargo",
-        "imgUrl": "magcargo",
-        "spriteClass": "n219"
+        "imgUrl": "magcargo"
     },
     {
         "id": 220,
@@ -2147,8 +1909,7 @@
         "name": "Swinub",
         "sprite": "swinub",
         "profileUrl": "/pokedex/swinub",
-        "imgUrl": "swinub",
-        "spriteClass": "n220"
+        "imgUrl": "swinub"
     },
     {
         "id": 221,
@@ -2156,8 +1917,7 @@
         "name": "Piloswine",
         "sprite": "piloswine",
         "profileUrl": "/pokedex/piloswine",
-        "imgUrl": "piloswine",
-        "spriteClass": "n221"
+        "imgUrl": "piloswine"
     },
     {
         "id": 222,
@@ -2165,8 +1925,7 @@
         "name": "Corsola",
         "sprite": "corsola",
         "profileUrl": "/pokedex/corsola",
-        "imgUrl": "corsola",
-        "spriteClass": "n222"
+        "imgUrl": "corsola"
     },
     {
         "id": 223,
@@ -2174,8 +1933,7 @@
         "name": "Remoraid",
         "sprite": "remoraid",
         "profileUrl": "/pokedex/remoraid",
-        "imgUrl": "remoraid",
-        "spriteClass": "n223"
+        "imgUrl": "remoraid"
     },
     {
         "id": 224,
@@ -2183,8 +1941,7 @@
         "name": "Octillery",
         "sprite": "octillery",
         "profileUrl": "/pokedex/octillery",
-        "imgUrl": "octillery",
-        "spriteClass": "n224"
+        "imgUrl": "octillery"
     },
     {
         "id": 225,
@@ -2192,8 +1949,7 @@
         "name": "Delibird",
         "sprite": "delibird",
         "profileUrl": "/pokedex/delibird",
-        "imgUrl": "delibird",
-        "spriteClass": "n225"
+        "imgUrl": "delibird"
     },
     {
         "id": 226,
@@ -2201,8 +1957,7 @@
         "name": "Mantine",
         "sprite": "mantine",
         "profileUrl": "/pokedex/mantine",
-        "imgUrl": "mantine",
-        "spriteClass": "n226"
+        "imgUrl": "mantine"
     },
     {
         "id": 227,
@@ -2210,8 +1965,7 @@
         "name": "Skarmory",
         "sprite": "skarmory",
         "profileUrl": "/pokedex/skarmory",
-        "imgUrl": "skarmory",
-        "spriteClass": "n227"
+        "imgUrl": "skarmory"
     },
     {
         "id": 228,
@@ -2219,8 +1973,7 @@
         "name": "Houndour",
         "sprite": "houndour",
         "profileUrl": "/pokedex/houndour",
-        "imgUrl": "houndour",
-        "spriteClass": "n228"
+        "imgUrl": "houndour"
     },
     {
         "id": 229,
@@ -2228,8 +1981,7 @@
         "name": "Houndoom",
         "sprite": "houndoom",
         "profileUrl": "/pokedex/houndoom",
-        "imgUrl": "houndoom",
-        "spriteClass": "n229"
+        "imgUrl": "houndoom"
     },
     {
         "id": 229,
@@ -2237,8 +1989,7 @@
         "name": "Houndoom",
         "sprite": "houndoom",
         "profileUrl": "/pokedex/houndoom",
-        "imgUrl": "houndoom",
-        "spriteClass": "n229"
+        "imgUrl": "houndoom"
     },
     {
         "id": 230,
@@ -2246,8 +1997,7 @@
         "name": "Kingdra",
         "sprite": "kingdra",
         "profileUrl": "/pokedex/kingdra",
-        "imgUrl": "kingdra",
-        "spriteClass": "n230"
+        "imgUrl": "kingdra"
     },
     {
         "id": 231,
@@ -2255,8 +2005,7 @@
         "name": "Phanpy",
         "sprite": "phanpy",
         "profileUrl": "/pokedex/phanpy",
-        "imgUrl": "phanpy",
-        "spriteClass": "n231"
+        "imgUrl": "phanpy"
     },
     {
         "id": 232,
@@ -2264,8 +2013,7 @@
         "name": "Donphan",
         "sprite": "donphan",
         "profileUrl": "/pokedex/donphan",
-        "imgUrl": "donphan",
-        "spriteClass": "n232"
+        "imgUrl": "donphan"
     },
     {
         "id": 233,
@@ -2273,8 +2021,7 @@
         "name": "Porygon2",
         "sprite": "porygon2",
         "profileUrl": "/pokedex/porygon2",
-        "imgUrl": "porygon2",
-        "spriteClass": "n233"
+        "imgUrl": "porygon2"
     },
     {
         "id": 234,
@@ -2282,8 +2029,7 @@
         "name": "Stantler",
         "sprite": "stantler",
         "profileUrl": "/pokedex/stantler",
-        "imgUrl": "stantler",
-        "spriteClass": "n234"
+        "imgUrl": "stantler"
     },
     {
         "id": 235,
@@ -2291,8 +2037,7 @@
         "name": "Smeargle",
         "sprite": "smeargle",
         "profileUrl": "/pokedex/smeargle",
-        "imgUrl": "smeargle",
-        "spriteClass": "n235"
+        "imgUrl": "smeargle"
     },
     {
         "id": 236,
@@ -2300,8 +2045,7 @@
         "name": "Tyrogue",
         "sprite": "tyrogue",
         "profileUrl": "/pokedex/tyrogue",
-        "imgUrl": "tyrogue",
-        "spriteClass": "n236"
+        "imgUrl": "tyrogue"
     },
     {
         "id": 237,
@@ -2309,8 +2053,7 @@
         "name": "Hitmontop",
         "sprite": "hitmontop",
         "profileUrl": "/pokedex/hitmontop",
-        "imgUrl": "hitmontop",
-        "spriteClass": "n237"
+        "imgUrl": "hitmontop"
     },
     {
         "id": 238,
@@ -2318,8 +2061,7 @@
         "name": "Smoochum",
         "sprite": "smoochum",
         "profileUrl": "/pokedex/smoochum",
-        "imgUrl": "smoochum",
-        "spriteClass": "n238"
+        "imgUrl": "smoochum"
     },
     {
         "id": 239,
@@ -2327,8 +2069,7 @@
         "name": "Elekid",
         "sprite": "elekid",
         "profileUrl": "/pokedex/elekid",
-        "imgUrl": "elekid",
-        "spriteClass": "n239"
+        "imgUrl": "elekid"
     },
     {
         "id": 240,
@@ -2336,8 +2077,7 @@
         "name": "Magby",
         "sprite": "magby",
         "profileUrl": "/pokedex/magby",
-        "imgUrl": "magby",
-        "spriteClass": "n240"
+        "imgUrl": "magby"
     },
     {
         "id": 241,
@@ -2345,8 +2085,7 @@
         "name": "Miltank",
         "sprite": "miltank",
         "profileUrl": "/pokedex/miltank",
-        "imgUrl": "miltank",
-        "spriteClass": "n241"
+        "imgUrl": "miltank"
     },
     {
         "id": 242,
@@ -2354,8 +2093,7 @@
         "name": "Blissey",
         "sprite": "blissey",
         "profileUrl": "/pokedex/blissey",
-        "imgUrl": "blissey",
-        "spriteClass": "n242"
+        "imgUrl": "blissey"
     },
     {
         "id": 243,
@@ -2363,8 +2101,7 @@
         "name": "Raikou",
         "sprite": "raikou",
         "profileUrl": "/pokedex/raikou",
-        "imgUrl": "raikou",
-        "spriteClass": "n243"
+        "imgUrl": "raikou"
     },
     {
         "id": 244,
@@ -2372,8 +2109,7 @@
         "name": "Entei",
         "sprite": "entei",
         "profileUrl": "/pokedex/entei",
-        "imgUrl": "entei",
-        "spriteClass": "n244"
+        "imgUrl": "entei"
     },
     {
         "id": 245,
@@ -2381,8 +2117,7 @@
         "name": "Suicune",
         "sprite": "suicune",
         "profileUrl": "/pokedex/suicune",
-        "imgUrl": "suicune",
-        "spriteClass": "n245"
+        "imgUrl": "suicune"
     },
     {
         "id": 246,
@@ -2390,8 +2125,7 @@
         "name": "Larvitar",
         "sprite": "larvitar",
         "profileUrl": "/pokedex/larvitar",
-        "imgUrl": "larvitar",
-        "spriteClass": "n246"
+        "imgUrl": "larvitar"
     },
     {
         "id": 247,
@@ -2399,8 +2133,7 @@
         "name": "Pupitar",
         "sprite": "pupitar",
         "profileUrl": "/pokedex/pupitar",
-        "imgUrl": "pupitar",
-        "spriteClass": "n247"
+        "imgUrl": "pupitar"
     },
     {
         "id": 248,
@@ -2408,8 +2141,7 @@
         "name": "Tyranitar",
         "sprite": "tyranitar",
         "profileUrl": "/pokedex/tyranitar",
-        "imgUrl": "tyranitar",
-        "spriteClass": "n248"
+        "imgUrl": "tyranitar"
     },
     {
         "id": 248,
@@ -2417,8 +2149,7 @@
         "name": "Tyranitar",
         "sprite": "tyranitar",
         "profileUrl": "/pokedex/tyranitar",
-        "imgUrl": "tyranitar",
-        "spriteClass": "n248"
+        "imgUrl": "tyranitar"
     },
     {
         "id": 249,
@@ -2426,8 +2157,7 @@
         "name": "Lugia",
         "sprite": "lugia",
         "profileUrl": "/pokedex/lugia",
-        "imgUrl": "lugia",
-        "spriteClass": "n249"
+        "imgUrl": "lugia"
     },
     {
         "id": 250,
@@ -2435,8 +2165,7 @@
         "name": "Ho-oh",
         "sprite": "ho-oh",
         "profileUrl": "/pokedex/ho-oh",
-        "imgUrl": "ho_oh",
-        "spriteClass": "n250"
+        "imgUrl": "ho_oh"
     },
     {
         "id": 251,
@@ -2444,8 +2173,7 @@
         "name": "Celebi",
         "sprite": "celebi",
         "profileUrl": "/pokedex/celebi",
-        "imgUrl": "celebi",
-        "spriteClass": "n251"
+        "imgUrl": "celebi"
     },
     {
         "id": 252,
@@ -2453,8 +2181,7 @@
         "name": "Treecko",
         "sprite": "treecko",
         "profileUrl": "/pokedex/treecko",
-        "imgUrl": "treecko",
-        "spriteClass": "n252"
+        "imgUrl": "treecko"
     },
     {
         "id": 253,
@@ -2462,8 +2189,7 @@
         "name": "Grovyle",
         "sprite": "grovyle",
         "profileUrl": "/pokedex/grovyle",
-        "imgUrl": "grovyle",
-        "spriteClass": "n253"
+        "imgUrl": "grovyle"
     },
     {
         "id": 254,
@@ -2471,8 +2197,7 @@
         "name": "Sceptile",
         "sprite": "sceptile",
         "profileUrl": "/pokedex/sceptile",
-        "imgUrl": "sceptile",
-        "spriteClass": "n254"
+        "imgUrl": "sceptile"
     },
     {
         "id": 254,
@@ -2480,8 +2205,7 @@
         "name": "Sceptile",
         "sprite": "sceptile",
         "profileUrl": "/pokedex/sceptile",
-        "imgUrl": "sceptile",
-        "spriteClass": "n254"
+        "imgUrl": "sceptile"
     },
     {
         "id": 255,
@@ -2489,8 +2213,7 @@
         "name": "Torchic",
         "sprite": "torchic",
         "profileUrl": "/pokedex/torchic",
-        "imgUrl": "torchic",
-        "spriteClass": "n255"
+        "imgUrl": "torchic"
     },
     {
         "id": 256,
@@ -2498,8 +2221,7 @@
         "name": "Combusken",
         "sprite": "combusken",
         "profileUrl": "/pokedex/combusken",
-        "imgUrl": "combusken",
-        "spriteClass": "n256"
+        "imgUrl": "combusken"
     },
     {
         "id": 257,
@@ -2507,8 +2229,7 @@
         "name": "Blaziken",
         "sprite": "blaziken",
         "profileUrl": "/pokedex/blaziken",
-        "imgUrl": "blaziken",
-        "spriteClass": "n257"
+        "imgUrl": "blaziken"
     },
     {
         "id": 257,
@@ -2516,8 +2237,7 @@
         "name": "Blaziken",
         "sprite": "blaziken",
         "profileUrl": "/pokedex/blaziken",
-        "imgUrl": "blaziken",
-        "spriteClass": "n257"
+        "imgUrl": "blaziken"
     },
     {
         "id": 258,
@@ -2525,8 +2245,7 @@
         "name": "Mudkip",
         "sprite": "mudkip",
         "profileUrl": "/pokedex/mudkip",
-        "imgUrl": "mudkip",
-        "spriteClass": "n258"
+        "imgUrl": "mudkip"
     },
     {
         "id": 259,
@@ -2534,8 +2253,7 @@
         "name": "Marshtomp",
         "sprite": "marshtomp",
         "profileUrl": "/pokedex/marshtomp",
-        "imgUrl": "marshtomp",
-        "spriteClass": "n259"
+        "imgUrl": "marshtomp"
     },
     {
         "id": 260,
@@ -2543,8 +2261,7 @@
         "name": "Swampert",
         "sprite": "swampert",
         "profileUrl": "/pokedex/swampert",
-        "imgUrl": "swampert",
-        "spriteClass": "n260"
+        "imgUrl": "swampert"
     },
     {
         "id": 260,
@@ -2552,8 +2269,7 @@
         "name": "Swampert",
         "sprite": "swampert",
         "profileUrl": "/pokedex/swampert",
-        "imgUrl": "swampert",
-        "spriteClass": "n260"
+        "imgUrl": "swampert"
     },
     {
         "id": 261,
@@ -2561,8 +2277,7 @@
         "name": "Poochyena",
         "sprite": "poochyena",
         "profileUrl": "/pokedex/poochyena",
-        "imgUrl": "poochyena",
-        "spriteClass": "n261"
+        "imgUrl": "poochyena"
     },
     {
         "id": 262,
@@ -2570,8 +2285,7 @@
         "name": "Mightyena",
         "sprite": "mightyena",
         "profileUrl": "/pokedex/mightyena",
-        "imgUrl": "mightyena",
-        "spriteClass": "n262"
+        "imgUrl": "mightyena"
     },
     {
         "id": 263,
@@ -2579,8 +2293,7 @@
         "name": "Zigzagoon",
         "sprite": "zigzagoon",
         "profileUrl": "/pokedex/zigzagoon",
-        "imgUrl": "zigzagoon",
-        "spriteClass": "n263"
+        "imgUrl": "zigzagoon"
     },
     {
         "id": 264,
@@ -2588,8 +2301,7 @@
         "name": "Linoone",
         "sprite": "linoone",
         "profileUrl": "/pokedex/linoone",
-        "imgUrl": "linoone",
-        "spriteClass": "n264"
+        "imgUrl": "linoone"
     },
     {
         "id": 265,
@@ -2597,8 +2309,7 @@
         "name": "Wurmple",
         "sprite": "wurmple",
         "profileUrl": "/pokedex/wurmple",
-        "imgUrl": "wurmple",
-        "spriteClass": "n265"
+        "imgUrl": "wurmple"
     },
     {
         "id": 266,
@@ -2606,8 +2317,7 @@
         "name": "Silcoon",
         "sprite": "silcoon",
         "profileUrl": "/pokedex/silcoon",
-        "imgUrl": "silcoon",
-        "spriteClass": "n266"
+        "imgUrl": "silcoon"
     },
     {
         "id": 267,
@@ -2615,8 +2325,7 @@
         "name": "Beautifly",
         "sprite": "beautifly",
         "profileUrl": "/pokedex/beautifly",
-        "imgUrl": "beautifly",
-        "spriteClass": "n267"
+        "imgUrl": "beautifly"
     },
     {
         "id": 268,
@@ -2624,8 +2333,7 @@
         "name": "Cascoon",
         "sprite": "cascoon",
         "profileUrl": "/pokedex/cascoon",
-        "imgUrl": "cascoon",
-        "spriteClass": "n268"
+        "imgUrl": "cascoon"
     },
     {
         "id": 269,
@@ -2633,8 +2341,7 @@
         "name": "Dustox",
         "sprite": "dustox",
         "profileUrl": "/pokedex/dustox",
-        "imgUrl": "dustox",
-        "spriteClass": "n269"
+        "imgUrl": "dustox"
     },
     {
         "id": 270,
@@ -2642,8 +2349,7 @@
         "name": "Lotad",
         "sprite": "lotad",
         "profileUrl": "/pokedex/lotad",
-        "imgUrl": "lotad",
-        "spriteClass": "n270"
+        "imgUrl": "lotad"
     },
     {
         "id": 271,
@@ -2651,8 +2357,7 @@
         "name": "Lombre",
         "sprite": "lombre",
         "profileUrl": "/pokedex/lombre",
-        "imgUrl": "lombre",
-        "spriteClass": "n271"
+        "imgUrl": "lombre"
     },
     {
         "id": 272,
@@ -2660,8 +2365,7 @@
         "name": "Ludicolo",
         "sprite": "ludicolo",
         "profileUrl": "/pokedex/ludicolo",
-        "imgUrl": "ludicolo",
-        "spriteClass": "n272"
+        "imgUrl": "ludicolo"
     },
     {
         "id": 273,
@@ -2669,8 +2373,7 @@
         "name": "Seedot",
         "sprite": "seedot",
         "profileUrl": "/pokedex/seedot",
-        "imgUrl": "seedot",
-        "spriteClass": "n273"
+        "imgUrl": "seedot"
     },
     {
         "id": 274,
@@ -2678,8 +2381,7 @@
         "name": "Nuzleaf",
         "sprite": "nuzleaf",
         "profileUrl": "/pokedex/nuzleaf",
-        "imgUrl": "nuzleaf",
-        "spriteClass": "n274"
+        "imgUrl": "nuzleaf"
     },
     {
         "id": 275,
@@ -2687,8 +2389,7 @@
         "name": "Shiftry",
         "sprite": "shiftry",
         "profileUrl": "/pokedex/shiftry",
-        "imgUrl": "shiftry",
-        "spriteClass": "n275"
+        "imgUrl": "shiftry"
     },
     {
         "id": 276,
@@ -2696,8 +2397,7 @@
         "name": "Taillow",
         "sprite": "taillow",
         "profileUrl": "/pokedex/taillow",
-        "imgUrl": "taillow",
-        "spriteClass": "n276"
+        "imgUrl": "taillow"
     },
     {
         "id": 277,
@@ -2705,8 +2405,7 @@
         "name": "Swellow",
         "sprite": "swellow",
         "profileUrl": "/pokedex/swellow",
-        "imgUrl": "swellow",
-        "spriteClass": "n277"
+        "imgUrl": "swellow"
     },
     {
         "id": 278,
@@ -2714,8 +2413,7 @@
         "name": "Wingull",
         "sprite": "wingull",
         "profileUrl": "/pokedex/wingull",
-        "imgUrl": "wingull",
-        "spriteClass": "n278"
+        "imgUrl": "wingull"
     },
     {
         "id": 279,
@@ -2723,8 +2421,7 @@
         "name": "Pelipper",
         "sprite": "pelipper",
         "profileUrl": "/pokedex/pelipper",
-        "imgUrl": "pelipper",
-        "spriteClass": "n279"
+        "imgUrl": "pelipper"
     },
     {
         "id": 280,
@@ -2732,8 +2429,7 @@
         "name": "Ralts",
         "sprite": "ralts",
         "profileUrl": "/pokedex/ralts",
-        "imgUrl": "ralts",
-        "spriteClass": "n280"
+        "imgUrl": "ralts"
     },
     {
         "id": 281,
@@ -2741,8 +2437,7 @@
         "name": "Kirlia",
         "sprite": "kirlia",
         "profileUrl": "/pokedex/kirlia",
-        "imgUrl": "kirlia",
-        "spriteClass": "n281"
+        "imgUrl": "kirlia"
     },
     {
         "id": 282,
@@ -2750,8 +2445,7 @@
         "name": "Gardevoir",
         "sprite": "gardevoir",
         "profileUrl": "/pokedex/gardevoir",
-        "imgUrl": "gardevoir",
-        "spriteClass": "n282"
+        "imgUrl": "gardevoir"
     },
     {
         "id": 282,
@@ -2759,8 +2453,7 @@
         "name": "Gardevoir",
         "sprite": "gardevoir",
         "profileUrl": "/pokedex/gardevoir",
-        "imgUrl": "gardevoir",
-        "spriteClass": "n282"
+        "imgUrl": "gardevoir"
     },
     {
         "id": 283,
@@ -2768,8 +2461,7 @@
         "name": "Surskit",
         "sprite": "surskit",
         "profileUrl": "/pokedex/surskit",
-        "imgUrl": "surskit",
-        "spriteClass": "n283"
+        "imgUrl": "surskit"
     },
     {
         "id": 284,
@@ -2777,8 +2469,7 @@
         "name": "Masquerain",
         "sprite": "masquerain",
         "profileUrl": "/pokedex/masquerain",
-        "imgUrl": "masquerain",
-        "spriteClass": "n284"
+        "imgUrl": "masquerain"
     },
     {
         "id": 285,
@@ -2786,8 +2477,7 @@
         "name": "Shroomish",
         "sprite": "shroomish",
         "profileUrl": "/pokedex/shroomish",
-        "imgUrl": "shroomish",
-        "spriteClass": "n285"
+        "imgUrl": "shroomish"
     },
     {
         "id": 286,
@@ -2795,8 +2485,7 @@
         "name": "Breloom",
         "sprite": "breloom",
         "profileUrl": "/pokedex/breloom",
-        "imgUrl": "breloom",
-        "spriteClass": "n286"
+        "imgUrl": "breloom"
     },
     {
         "id": 287,
@@ -2804,8 +2493,7 @@
         "name": "Slakoth",
         "sprite": "slakoth",
         "profileUrl": "/pokedex/slakoth",
-        "imgUrl": "slakoth",
-        "spriteClass": "n287"
+        "imgUrl": "slakoth"
     },
     {
         "id": 288,
@@ -2813,8 +2501,7 @@
         "name": "Vigoroth",
         "sprite": "vigoroth",
         "profileUrl": "/pokedex/vigoroth",
-        "imgUrl": "vigoroth",
-        "spriteClass": "n288"
+        "imgUrl": "vigoroth"
     },
     {
         "id": 289,
@@ -2822,8 +2509,7 @@
         "name": "Slaking",
         "sprite": "slaking",
         "profileUrl": "/pokedex/slaking",
-        "imgUrl": "slaking",
-        "spriteClass": "n289"
+        "imgUrl": "slaking"
     },
     {
         "id": 290,
@@ -2831,8 +2517,7 @@
         "name": "Nincada",
         "sprite": "nincada",
         "profileUrl": "/pokedex/nincada",
-        "imgUrl": "nincada",
-        "spriteClass": "n290"
+        "imgUrl": "nincada"
     },
     {
         "id": 291,
@@ -2840,8 +2525,7 @@
         "name": "Ninjask",
         "sprite": "ninjask",
         "profileUrl": "/pokedex/ninjask",
-        "imgUrl": "ninjask",
-        "spriteClass": "n291"
+        "imgUrl": "ninjask"
     },
     {
         "id": 292,
@@ -2849,8 +2533,7 @@
         "name": "Shedinja",
         "sprite": "shedinja",
         "profileUrl": "/pokedex/shedinja",
-        "imgUrl": "shedinja",
-        "spriteClass": "n292"
+        "imgUrl": "shedinja"
     },
     {
         "id": 293,
@@ -2858,8 +2541,7 @@
         "name": "Whismur",
         "sprite": "whismur",
         "profileUrl": "/pokedex/whismur",
-        "imgUrl": "whismur",
-        "spriteClass": "n293"
+        "imgUrl": "whismur"
     },
     {
         "id": 294,
@@ -2867,8 +2549,7 @@
         "name": "Loudred",
         "sprite": "loudred",
         "profileUrl": "/pokedex/loudred",
-        "imgUrl": "loudred",
-        "spriteClass": "n294"
+        "imgUrl": "loudred"
     },
     {
         "id": 295,
@@ -2876,8 +2557,7 @@
         "name": "Exploud",
         "sprite": "exploud",
         "profileUrl": "/pokedex/exploud",
-        "imgUrl": "exploud",
-        "spriteClass": "n295"
+        "imgUrl": "exploud"
     },
     {
         "id": 296,
@@ -2885,8 +2565,7 @@
         "name": "Makuhita",
         "sprite": "makuhita",
         "profileUrl": "/pokedex/makuhita",
-        "imgUrl": "makuhita",
-        "spriteClass": "n296"
+        "imgUrl": "makuhita"
     },
     {
         "id": 297,
@@ -2894,8 +2573,7 @@
         "name": "Hariyama",
         "sprite": "hariyama",
         "profileUrl": "/pokedex/hariyama",
-        "imgUrl": "hariyama",
-        "spriteClass": "n297"
+        "imgUrl": "hariyama"
     },
     {
         "id": 298,
@@ -2903,8 +2581,7 @@
         "name": "Azurill",
         "sprite": "azurill",
         "profileUrl": "/pokedex/azurill",
-        "imgUrl": "azurill",
-        "spriteClass": "n298"
+        "imgUrl": "azurill"
     },
     {
         "id": 299,
@@ -2912,8 +2589,7 @@
         "name": "Nosepass",
         "sprite": "nosepass",
         "profileUrl": "/pokedex/nosepass",
-        "imgUrl": "nosepass",
-        "spriteClass": "n299"
+        "imgUrl": "nosepass"
     },
     {
         "id": 300,
@@ -2921,8 +2597,7 @@
         "name": "Skitty",
         "sprite": "skitty",
         "profileUrl": "/pokedex/skitty",
-        "imgUrl": "skitty",
-        "spriteClass": "n300"
+        "imgUrl": "skitty"
     },
     {
         "id": 301,
@@ -2930,8 +2605,7 @@
         "name": "Delcatty",
         "sprite": "delcatty",
         "profileUrl": "/pokedex/delcatty",
-        "imgUrl": "delcatty",
-        "spriteClass": "n301"
+        "imgUrl": "delcatty"
     },
     {
         "id": 302,
@@ -2939,8 +2613,7 @@
         "name": "Sableye",
         "sprite": "sableye",
         "profileUrl": "/pokedex/sableye",
-        "imgUrl": "sableye",
-        "spriteClass": "n302"
+        "imgUrl": "sableye"
     },
     {
         "id": 302,
@@ -2948,8 +2621,7 @@
         "name": "Sableye",
         "sprite": "sableye",
         "profileUrl": "/pokedex/sableye",
-        "imgUrl": "sableye",
-        "spriteClass": "n302"
+        "imgUrl": "sableye"
     },
     {
         "id": 303,
@@ -2957,8 +2629,7 @@
         "name": "Mawile",
         "sprite": "mawile",
         "profileUrl": "/pokedex/mawile",
-        "imgUrl": "mawile",
-        "spriteClass": "n303"
+        "imgUrl": "mawile"
     },
     {
         "id": 303,
@@ -2966,8 +2637,7 @@
         "name": "Mawile",
         "sprite": "mawile",
         "profileUrl": "/pokedex/mawile",
-        "imgUrl": "mawile",
-        "spriteClass": "n303"
+        "imgUrl": "mawile"
     },
     {
         "id": 304,
@@ -2975,8 +2645,7 @@
         "name": "Aron",
         "sprite": "aron",
         "profileUrl": "/pokedex/aron",
-        "imgUrl": "aron",
-        "spriteClass": "n304"
+        "imgUrl": "aron"
     },
     {
         "id": 305,
@@ -2984,8 +2653,7 @@
         "name": "Lairon",
         "sprite": "lairon",
         "profileUrl": "/pokedex/lairon",
-        "imgUrl": "lairon",
-        "spriteClass": "n305"
+        "imgUrl": "lairon"
     },
     {
         "id": 306,
@@ -2993,8 +2661,7 @@
         "name": "Aggron",
         "sprite": "aggron",
         "profileUrl": "/pokedex/aggron",
-        "imgUrl": "aggron",
-        "spriteClass": "n306"
+        "imgUrl": "aggron"
     },
     {
         "id": 306,
@@ -3002,8 +2669,7 @@
         "name": "Aggron",
         "sprite": "aggron",
         "profileUrl": "/pokedex/aggron",
-        "imgUrl": "aggron",
-        "spriteClass": "n306"
+        "imgUrl": "aggron"
     },
     {
         "id": 307,
@@ -3011,8 +2677,7 @@
         "name": "Meditite",
         "sprite": "meditite",
         "profileUrl": "/pokedex/meditite",
-        "imgUrl": "meditite",
-        "spriteClass": "n307"
+        "imgUrl": "meditite"
     },
     {
         "id": 308,
@@ -3020,8 +2685,7 @@
         "name": "Medicham",
         "sprite": "medicham",
         "profileUrl": "/pokedex/medicham",
-        "imgUrl": "medicham",
-        "spriteClass": "n308"
+        "imgUrl": "medicham"
     },
     {
         "id": 308,
@@ -3029,8 +2693,7 @@
         "name": "Medicham",
         "sprite": "medicham",
         "profileUrl": "/pokedex/medicham",
-        "imgUrl": "medicham",
-        "spriteClass": "n308"
+        "imgUrl": "medicham"
     },
     {
         "id": 309,
@@ -3038,8 +2701,7 @@
         "name": "Electrike",
         "sprite": "electrike",
         "profileUrl": "/pokedex/electrike",
-        "imgUrl": "electrike",
-        "spriteClass": "n309"
+        "imgUrl": "electrike"
     },
     {
         "id": 310,
@@ -3047,8 +2709,7 @@
         "name": "Manectric",
         "sprite": "manectric",
         "profileUrl": "/pokedex/manectric",
-        "imgUrl": "manectric",
-        "spriteClass": "n310"
+        "imgUrl": "manectric"
     },
     {
         "id": 310,
@@ -3056,8 +2717,7 @@
         "name": "Manectric",
         "sprite": "manectric",
         "profileUrl": "/pokedex/manectric",
-        "imgUrl": "manectric",
-        "spriteClass": "n310"
+        "imgUrl": "manectric"
     },
     {
         "id": 311,
@@ -3065,8 +2725,7 @@
         "name": "Plusle",
         "sprite": "plusle",
         "profileUrl": "/pokedex/plusle",
-        "imgUrl": "plusle",
-        "spriteClass": "n311"
+        "imgUrl": "plusle"
     },
     {
         "id": 312,
@@ -3074,8 +2733,7 @@
         "name": "Minun",
         "sprite": "minun",
         "profileUrl": "/pokedex/minun",
-        "imgUrl": "minun",
-        "spriteClass": "n312"
+        "imgUrl": "minun"
     },
     {
         "id": 313,
@@ -3083,8 +2741,7 @@
         "name": "Volbeat",
         "sprite": "volbeat",
         "profileUrl": "/pokedex/volbeat",
-        "imgUrl": "volbeat",
-        "spriteClass": "n313"
+        "imgUrl": "volbeat"
     },
     {
         "id": 314,
@@ -3092,8 +2749,7 @@
         "name": "Illumise",
         "sprite": "illumise",
         "profileUrl": "/pokedex/illumise",
-        "imgUrl": "illumise",
-        "spriteClass": "n314"
+        "imgUrl": "illumise"
     },
     {
         "id": 315,
@@ -3101,8 +2757,7 @@
         "name": "Roselia",
         "sprite": "roselia",
         "profileUrl": "/pokedex/roselia",
-        "imgUrl": "roselia",
-        "spriteClass": "n315"
+        "imgUrl": "roselia"
     },
     {
         "id": 316,
@@ -3110,8 +2765,7 @@
         "name": "Gulpin",
         "sprite": "gulpin",
         "profileUrl": "/pokedex/gulpin",
-        "imgUrl": "gulpin",
-        "spriteClass": "n316"
+        "imgUrl": "gulpin"
     },
     {
         "id": 317,
@@ -3119,8 +2773,7 @@
         "name": "Swalot",
         "sprite": "swalot",
         "profileUrl": "/pokedex/swalot",
-        "imgUrl": "swalot",
-        "spriteClass": "n317"
+        "imgUrl": "swalot"
     },
     {
         "id": 318,
@@ -3128,8 +2781,7 @@
         "name": "Carvanha",
         "sprite": "carvanha",
         "profileUrl": "/pokedex/carvanha",
-        "imgUrl": "carvanha",
-        "spriteClass": "n318"
+        "imgUrl": "carvanha"
     },
     {
         "id": 319,
@@ -3137,8 +2789,7 @@
         "name": "Sharpedo",
         "sprite": "sharpedo",
         "profileUrl": "/pokedex/sharpedo",
-        "imgUrl": "sharpedo",
-        "spriteClass": "n319"
+        "imgUrl": "sharpedo"
     },
     {
         "id": 319,
@@ -3146,8 +2797,7 @@
         "name": "Sharpedo",
         "sprite": "sharpedo",
         "profileUrl": "/pokedex/sharpedo",
-        "imgUrl": "sharpedo",
-        "spriteClass": "n319"
+        "imgUrl": "sharpedo"
     },
     {
         "id": 320,
@@ -3155,8 +2805,7 @@
         "name": "Wailmer",
         "sprite": "wailmer",
         "profileUrl": "/pokedex/wailmer",
-        "imgUrl": "wailmer",
-        "spriteClass": "n320"
+        "imgUrl": "wailmer"
     },
     {
         "id": 321,
@@ -3164,8 +2813,7 @@
         "name": "Wailord",
         "sprite": "wailord",
         "profileUrl": "/pokedex/wailord",
-        "imgUrl": "wailord",
-        "spriteClass": "n321"
+        "imgUrl": "wailord"
     },
     {
         "id": 322,
@@ -3173,8 +2821,7 @@
         "name": "Numel",
         "sprite": "numel",
         "profileUrl": "/pokedex/numel",
-        "imgUrl": "numel",
-        "spriteClass": "n322"
+        "imgUrl": "numel"
     },
     {
         "id": 323,
@@ -3182,8 +2829,7 @@
         "name": "Camerupt",
         "sprite": "camerupt",
         "profileUrl": "/pokedex/camerupt",
-        "imgUrl": "camerupt",
-        "spriteClass": "n323"
+        "imgUrl": "camerupt"
     },
     {
         "id": 323,
@@ -3191,8 +2837,7 @@
         "name": "Camerupt",
         "sprite": "camerupt",
         "profileUrl": "/pokedex/camerupt",
-        "imgUrl": "camerupt",
-        "spriteClass": "n323"
+        "imgUrl": "camerupt"
     },
     {
         "id": 324,
@@ -3200,8 +2845,7 @@
         "name": "Torkoal",
         "sprite": "torkoal",
         "profileUrl": "/pokedex/torkoal",
-        "imgUrl": "torkoal",
-        "spriteClass": "n324"
+        "imgUrl": "torkoal"
     },
     {
         "id": 325,
@@ -3209,8 +2853,7 @@
         "name": "Spoink",
         "sprite": "spoink",
         "profileUrl": "/pokedex/spoink",
-        "imgUrl": "spoink",
-        "spriteClass": "n325"
+        "imgUrl": "spoink"
     },
     {
         "id": 326,
@@ -3218,8 +2861,7 @@
         "name": "Grumpig",
         "sprite": "grumpig",
         "profileUrl": "/pokedex/grumpig",
-        "imgUrl": "grumpig",
-        "spriteClass": "n326"
+        "imgUrl": "grumpig"
     },
     {
         "id": 327,
@@ -3227,8 +2869,7 @@
         "name": "Spinda",
         "sprite": "spinda",
         "profileUrl": "/pokedex/spinda",
-        "imgUrl": "spinda",
-        "spriteClass": "n327"
+        "imgUrl": "spinda"
     },
     {
         "id": 328,
@@ -3236,8 +2877,7 @@
         "name": "Trapinch",
         "sprite": "trapinch",
         "profileUrl": "/pokedex/trapinch",
-        "imgUrl": "trapinch",
-        "spriteClass": "n328"
+        "imgUrl": "trapinch"
     },
     {
         "id": 329,
@@ -3245,8 +2885,7 @@
         "name": "Vibrava",
         "sprite": "vibrava",
         "profileUrl": "/pokedex/vibrava",
-        "imgUrl": "vibrava",
-        "spriteClass": "n329"
+        "imgUrl": "vibrava"
     },
     {
         "id": 330,
@@ -3254,8 +2893,7 @@
         "name": "Flygon",
         "sprite": "flygon",
         "profileUrl": "/pokedex/flygon",
-        "imgUrl": "flygon",
-        "spriteClass": "n330"
+        "imgUrl": "flygon"
     },
     {
         "id": 331,
@@ -3263,8 +2901,7 @@
         "name": "Cacnea",
         "sprite": "cacnea",
         "profileUrl": "/pokedex/cacnea",
-        "imgUrl": "cacnea",
-        "spriteClass": "n331"
+        "imgUrl": "cacnea"
     },
     {
         "id": 332,
@@ -3272,8 +2909,7 @@
         "name": "Cacturne",
         "sprite": "cacturne",
         "profileUrl": "/pokedex/cacturne",
-        "imgUrl": "cacturne",
-        "spriteClass": "n332"
+        "imgUrl": "cacturne"
     },
     {
         "id": 333,
@@ -3281,8 +2917,7 @@
         "name": "Swablu",
         "sprite": "swablu",
         "profileUrl": "/pokedex/swablu",
-        "imgUrl": "swablu",
-        "spriteClass": "n333"
+        "imgUrl": "swablu"
     },
     {
         "id": 334,
@@ -3290,8 +2925,7 @@
         "name": "Altaria",
         "sprite": "altaria",
         "profileUrl": "/pokedex/altaria",
-        "imgUrl": "altaria",
-        "spriteClass": "n334"
+        "imgUrl": "altaria"
     },
     {
         "id": 334,
@@ -3299,8 +2933,7 @@
         "name": "Altaria",
         "sprite": "altaria",
         "profileUrl": "/pokedex/altaria",
-        "imgUrl": "altaria",
-        "spriteClass": "n334"
+        "imgUrl": "altaria"
     },
     {
         "id": 335,
@@ -3308,8 +2941,7 @@
         "name": "Zangoose",
         "sprite": "zangoose",
         "profileUrl": "/pokedex/zangoose",
-        "imgUrl": "zangoose",
-        "spriteClass": "n335"
+        "imgUrl": "zangoose"
     },
     {
         "id": 336,
@@ -3317,8 +2949,7 @@
         "name": "Seviper",
         "sprite": "seviper",
         "profileUrl": "/pokedex/seviper",
-        "imgUrl": "seviper",
-        "spriteClass": "n336"
+        "imgUrl": "seviper"
     },
     {
         "id": 337,
@@ -3326,8 +2957,7 @@
         "name": "Lunatone",
         "sprite": "lunatone",
         "profileUrl": "/pokedex/lunatone",
-        "imgUrl": "lunatone",
-        "spriteClass": "n337"
+        "imgUrl": "lunatone"
     },
     {
         "id": 338,
@@ -3335,8 +2965,7 @@
         "name": "Solrock",
         "sprite": "solrock",
         "profileUrl": "/pokedex/solrock",
-        "imgUrl": "solrock",
-        "spriteClass": "n338"
+        "imgUrl": "solrock"
     },
     {
         "id": 339,
@@ -3344,8 +2973,7 @@
         "name": "Barboach",
         "sprite": "barboach",
         "profileUrl": "/pokedex/barboach",
-        "imgUrl": "barboach",
-        "spriteClass": "n339"
+        "imgUrl": "barboach"
     },
     {
         "id": 340,
@@ -3353,8 +2981,7 @@
         "name": "Whiscash",
         "sprite": "whiscash",
         "profileUrl": "/pokedex/whiscash",
-        "imgUrl": "whiscash",
-        "spriteClass": "n340"
+        "imgUrl": "whiscash"
     },
     {
         "id": 341,
@@ -3362,8 +2989,7 @@
         "name": "Corphish",
         "sprite": "corphish",
         "profileUrl": "/pokedex/corphish",
-        "imgUrl": "corphish",
-        "spriteClass": "n341"
+        "imgUrl": "corphish"
     },
     {
         "id": 342,
@@ -3371,8 +2997,7 @@
         "name": "Crawdaunt",
         "sprite": "crawdaunt",
         "profileUrl": "/pokedex/crawdaunt",
-        "imgUrl": "crawdaunt",
-        "spriteClass": "n342"
+        "imgUrl": "crawdaunt"
     },
     {
         "id": 343,
@@ -3380,8 +3005,7 @@
         "name": "Baltoy",
         "sprite": "baltoy",
         "profileUrl": "/pokedex/baltoy",
-        "imgUrl": "baltoy",
-        "spriteClass": "n343"
+        "imgUrl": "baltoy"
     },
     {
         "id": 344,
@@ -3389,8 +3013,7 @@
         "name": "Claydol",
         "sprite": "claydol",
         "profileUrl": "/pokedex/claydol",
-        "imgUrl": "claydol",
-        "spriteClass": "n344"
+        "imgUrl": "claydol"
     },
     {
         "id": 345,
@@ -3398,8 +3021,7 @@
         "name": "Lileep",
         "sprite": "lileep",
         "profileUrl": "/pokedex/lileep",
-        "imgUrl": "lileep",
-        "spriteClass": "n345"
+        "imgUrl": "lileep"
     },
     {
         "id": 346,
@@ -3407,8 +3029,7 @@
         "name": "Cradily",
         "sprite": "cradily",
         "profileUrl": "/pokedex/cradily",
-        "imgUrl": "cradily",
-        "spriteClass": "n346"
+        "imgUrl": "cradily"
     },
     {
         "id": 347,
@@ -3416,8 +3037,7 @@
         "name": "Anorith",
         "sprite": "anorith",
         "profileUrl": "/pokedex/anorith",
-        "imgUrl": "anorith",
-        "spriteClass": "n347"
+        "imgUrl": "anorith"
     },
     {
         "id": 348,
@@ -3425,8 +3045,7 @@
         "name": "Armaldo",
         "sprite": "armaldo",
         "profileUrl": "/pokedex/armaldo",
-        "imgUrl": "armaldo",
-        "spriteClass": "n348"
+        "imgUrl": "armaldo"
     },
     {
         "id": 349,
@@ -3434,8 +3053,7 @@
         "name": "Feebas",
         "sprite": "feebas",
         "profileUrl": "/pokedex/feebas",
-        "imgUrl": "feebas",
-        "spriteClass": "n349"
+        "imgUrl": "feebas"
     },
     {
         "id": 350,
@@ -3443,8 +3061,7 @@
         "name": "Milotic",
         "sprite": "milotic",
         "profileUrl": "/pokedex/milotic",
-        "imgUrl": "milotic",
-        "spriteClass": "n350"
+        "imgUrl": "milotic"
     },
     {
         "id": 351,
@@ -3452,8 +3069,7 @@
         "name": "Castform",
         "sprite": "castform",
         "profileUrl": "/pokedex/castform",
-        "imgUrl": "castform",
-        "spriteClass": "n351"
+        "imgUrl": "castform"
     },
     {
         "id": 352,
@@ -3461,8 +3077,7 @@
         "name": "Kecleon",
         "sprite": "kecleon",
         "profileUrl": "/pokedex/kecleon",
-        "imgUrl": "kecleon",
-        "spriteClass": "n352"
+        "imgUrl": "kecleon"
     },
     {
         "id": 353,
@@ -3470,8 +3085,7 @@
         "name": "Shuppet",
         "sprite": "shuppet",
         "profileUrl": "/pokedex/shuppet",
-        "imgUrl": "shuppet",
-        "spriteClass": "n353"
+        "imgUrl": "shuppet"
     },
     {
         "id": 354,
@@ -3479,8 +3093,7 @@
         "name": "Banette",
         "sprite": "banette",
         "profileUrl": "/pokedex/banette",
-        "imgUrl": "banette",
-        "spriteClass": "n354"
+        "imgUrl": "banette"
     },
     {
         "id": 354,
@@ -3488,8 +3101,7 @@
         "name": "Banette",
         "sprite": "banette",
         "profileUrl": "/pokedex/banette",
-        "imgUrl": "banette",
-        "spriteClass": "n354"
+        "imgUrl": "banette"
     },
     {
         "id": 355,
@@ -3497,8 +3109,7 @@
         "name": "Duskull",
         "sprite": "duskull",
         "profileUrl": "/pokedex/duskull",
-        "imgUrl": "duskull",
-        "spriteClass": "n355"
+        "imgUrl": "duskull"
     },
     {
         "id": 356,
@@ -3506,8 +3117,7 @@
         "name": "Dusclops",
         "sprite": "dusclops",
         "profileUrl": "/pokedex/dusclops",
-        "imgUrl": "dusclops",
-        "spriteClass": "n356"
+        "imgUrl": "dusclops"
     },
     {
         "id": 357,
@@ -3515,8 +3125,7 @@
         "name": "Tropius",
         "sprite": "tropius",
         "profileUrl": "/pokedex/tropius",
-        "imgUrl": "tropius",
-        "spriteClass": "n357"
+        "imgUrl": "tropius"
     },
     {
         "id": 358,
@@ -3524,8 +3133,7 @@
         "name": "Chimecho",
         "sprite": "chimecho",
         "profileUrl": "/pokedex/chimecho",
-        "imgUrl": "chimecho",
-        "spriteClass": "n358"
+        "imgUrl": "chimecho"
     },
     {
         "id": 359,
@@ -3533,8 +3141,7 @@
         "name": "Absol",
         "sprite": "absol",
         "profileUrl": "/pokedex/absol",
-        "imgUrl": "absol",
-        "spriteClass": "n359"
+        "imgUrl": "absol"
     },
     {
         "id": 359,
@@ -3542,8 +3149,7 @@
         "name": "Absol",
         "sprite": "absol",
         "profileUrl": "/pokedex/absol",
-        "imgUrl": "absol",
-        "spriteClass": "n359"
+        "imgUrl": "absol"
     },
     {
         "id": 360,
@@ -3551,8 +3157,7 @@
         "name": "Wynaut",
         "sprite": "wynaut",
         "profileUrl": "/pokedex/wynaut",
-        "imgUrl": "wynaut",
-        "spriteClass": "n360"
+        "imgUrl": "wynaut"
     },
     {
         "id": 361,
@@ -3560,8 +3165,7 @@
         "name": "Snorunt",
         "sprite": "snorunt",
         "profileUrl": "/pokedex/snorunt",
-        "imgUrl": "snorunt",
-        "spriteClass": "n361"
+        "imgUrl": "snorunt"
     },
     {
         "id": 362,
@@ -3569,8 +3173,7 @@
         "name": "Glalie",
         "sprite": "glalie",
         "profileUrl": "/pokedex/glalie",
-        "imgUrl": "glalie",
-        "spriteClass": "n362"
+        "imgUrl": "glalie"
     },
     {
         "id": 362,
@@ -3578,8 +3181,7 @@
         "name": "Glalie",
         "sprite": "glalie",
         "profileUrl": "/pokedex/glalie",
-        "imgUrl": "glalie",
-        "spriteClass": "n362"
+        "imgUrl": "glalie"
     },
     {
         "id": 363,
@@ -3587,8 +3189,7 @@
         "name": "Spheal",
         "sprite": "spheal",
         "profileUrl": "/pokedex/spheal",
-        "imgUrl": "spheal",
-        "spriteClass": "n363"
+        "imgUrl": "spheal"
     },
     {
         "id": 364,
@@ -3596,8 +3197,7 @@
         "name": "Sealeo",
         "sprite": "sealeo",
         "profileUrl": "/pokedex/sealeo",
-        "imgUrl": "sealeo",
-        "spriteClass": "n364"
+        "imgUrl": "sealeo"
     },
     {
         "id": 365,
@@ -3605,8 +3205,7 @@
         "name": "Walrein",
         "sprite": "walrein",
         "profileUrl": "/pokedex/walrein",
-        "imgUrl": "walrein",
-        "spriteClass": "n365"
+        "imgUrl": "walrein"
     },
     {
         "id": 366,
@@ -3614,8 +3213,7 @@
         "name": "Clamperl",
         "sprite": "clamperl",
         "profileUrl": "/pokedex/clamperl",
-        "imgUrl": "clamperl",
-        "spriteClass": "n366"
+        "imgUrl": "clamperl"
     },
     {
         "id": 367,
@@ -3623,8 +3221,7 @@
         "name": "Huntail",
         "sprite": "huntail",
         "profileUrl": "/pokedex/huntail",
-        "imgUrl": "huntail",
-        "spriteClass": "n367"
+        "imgUrl": "huntail"
     },
     {
         "id": 368,
@@ -3632,8 +3229,7 @@
         "name": "Gorebyss",
         "sprite": "gorebyss",
         "profileUrl": "/pokedex/gorebyss",
-        "imgUrl": "gorebyss",
-        "spriteClass": "n368"
+        "imgUrl": "gorebyss"
     },
     {
         "id": 369,
@@ -3641,8 +3237,7 @@
         "name": "Relicanth",
         "sprite": "relicanth",
         "profileUrl": "/pokedex/relicanth",
-        "imgUrl": "relicanth",
-        "spriteClass": "n369"
+        "imgUrl": "relicanth"
     },
     {
         "id": 370,
@@ -3650,8 +3245,7 @@
         "name": "Luvdisc",
         "sprite": "luvdisc",
         "profileUrl": "/pokedex/luvdisc",
-        "imgUrl": "luvdisc",
-        "spriteClass": "n370"
+        "imgUrl": "luvdisc"
     },
     {
         "id": 371,
@@ -3659,8 +3253,7 @@
         "name": "Bagon",
         "sprite": "bagon",
         "profileUrl": "/pokedex/bagon",
-        "imgUrl": "bagon",
-        "spriteClass": "n371"
+        "imgUrl": "bagon"
     },
     {
         "id": 372,
@@ -3668,8 +3261,7 @@
         "name": "Shelgon",
         "sprite": "shelgon",
         "profileUrl": "/pokedex/shelgon",
-        "imgUrl": "shelgon",
-        "spriteClass": "n372"
+        "imgUrl": "shelgon"
     },
     {
         "id": 373,
@@ -3677,8 +3269,7 @@
         "name": "Salamence",
         "sprite": "salamence",
         "profileUrl": "/pokedex/salamence",
-        "imgUrl": "salamence",
-        "spriteClass": "n373"
+        "imgUrl": "salamence"
     },
     {
         "id": 373,
@@ -3686,8 +3277,7 @@
         "name": "Salamence",
         "sprite": "salamence",
         "profileUrl": "/pokedex/salamence",
-        "imgUrl": "salamence",
-        "spriteClass": "n373"
+        "imgUrl": "salamence"
     },
     {
         "id": 374,
@@ -3695,8 +3285,7 @@
         "name": "Beldum",
         "sprite": "beldum",
         "profileUrl": "/pokedex/beldum",
-        "imgUrl": "beldum",
-        "spriteClass": "n374"
+        "imgUrl": "beldum"
     },
     {
         "id": 375,
@@ -3704,8 +3293,7 @@
         "name": "Metang",
         "sprite": "metang",
         "profileUrl": "/pokedex/metang",
-        "imgUrl": "metang",
-        "spriteClass": "n375"
+        "imgUrl": "metang"
     },
     {
         "id": 376,
@@ -3713,8 +3301,7 @@
         "name": "Metagross",
         "sprite": "metagross",
         "profileUrl": "/pokedex/metagross",
-        "imgUrl": "metagross",
-        "spriteClass": "n376"
+        "imgUrl": "metagross"
     },
     {
         "id": 376,
@@ -3722,8 +3309,7 @@
         "name": "Metagross",
         "sprite": "metagross",
         "profileUrl": "/pokedex/metagross",
-        "imgUrl": "metagross",
-        "spriteClass": "n376"
+        "imgUrl": "metagross"
     },
     {
         "id": 377,
@@ -3731,8 +3317,7 @@
         "name": "Regirock",
         "sprite": "regirock",
         "profileUrl": "/pokedex/regirock",
-        "imgUrl": "regirock",
-        "spriteClass": "n377"
+        "imgUrl": "regirock"
     },
     {
         "id": 378,
@@ -3740,8 +3325,7 @@
         "name": "Regice",
         "sprite": "regice",
         "profileUrl": "/pokedex/regice",
-        "imgUrl": "regice",
-        "spriteClass": "n378"
+        "imgUrl": "regice"
     },
     {
         "id": 379,
@@ -3749,8 +3333,7 @@
         "name": "Registeel",
         "sprite": "registeel",
         "profileUrl": "/pokedex/registeel",
-        "imgUrl": "registeel",
-        "spriteClass": "n379"
+        "imgUrl": "registeel"
     },
     {
         "id": 380,
@@ -3758,8 +3341,7 @@
         "name": "Latias",
         "sprite": "latias",
         "profileUrl": "/pokedex/latias",
-        "imgUrl": "latias",
-        "spriteClass": "n380"
+        "imgUrl": "latias"
     },
     {
         "id": 380,
@@ -3767,8 +3349,7 @@
         "name": "Latias",
         "sprite": "latias",
         "profileUrl": "/pokedex/latias",
-        "imgUrl": "latias",
-        "spriteClass": "n380"
+        "imgUrl": "latias"
     },
     {
         "id": 381,
@@ -3776,8 +3357,7 @@
         "name": "Latios",
         "sprite": "latios",
         "profileUrl": "/pokedex/latios",
-        "imgUrl": "latios",
-        "spriteClass": "n381"
+        "imgUrl": "latios"
     },
     {
         "id": 381,
@@ -3785,8 +3365,7 @@
         "name": "Latios",
         "sprite": "latios",
         "profileUrl": "/pokedex/latios",
-        "imgUrl": "latios",
-        "spriteClass": "n381"
+        "imgUrl": "latios"
     },
     {
         "id": 382,
@@ -3794,8 +3373,7 @@
         "name": "Kyogre",
         "sprite": "kyogre",
         "profileUrl": "/pokedex/kyogre",
-        "imgUrl": "kyogre",
-        "spriteClass": "n382"
+        "imgUrl": "kyogre"
     },
     {
         "id": 382,
@@ -3803,8 +3381,7 @@
         "name": "Kyogre",
         "sprite": "kyogre",
         "profileUrl": "/pokedex/kyogre",
-        "imgUrl": "kyogre",
-        "spriteClass": "n382"
+        "imgUrl": "kyogre"
     },
     {
         "id": 383,
@@ -3812,8 +3389,7 @@
         "name": "Groudon",
         "sprite": "groudon",
         "profileUrl": "/pokedex/groudon",
-        "imgUrl": "groudon",
-        "spriteClass": "n383"
+        "imgUrl": "groudon"
     },
     {
         "id": 383,
@@ -3821,8 +3397,7 @@
         "name": "Groudon",
         "sprite": "groudon",
         "profileUrl": "/pokedex/groudon",
-        "imgUrl": "groudon",
-        "spriteClass": "n383"
+        "imgUrl": "groudon"
     },
     {
         "id": 384,
@@ -3830,8 +3405,7 @@
         "name": "Rayquaza",
         "sprite": "rayquaza",
         "profileUrl": "/pokedex/rayquaza",
-        "imgUrl": "rayquaza",
-        "spriteClass": "n384"
+        "imgUrl": "rayquaza"
     },
     {
         "id": 384,
@@ -3839,8 +3413,7 @@
         "name": "Rayquaza",
         "sprite": "rayquaza",
         "profileUrl": "/pokedex/rayquaza",
-        "imgUrl": "rayquaza",
-        "spriteClass": "n384"
+        "imgUrl": "rayquaza"
     },
     {
         "id": 385,
@@ -3848,8 +3421,7 @@
         "name": "Jirachi",
         "sprite": "jirachi",
         "profileUrl": "/pokedex/jirachi",
-        "imgUrl": "jirachi",
-        "spriteClass": "n385"
+        "imgUrl": "jirachi"
     },
     {
         "id": 386,
@@ -3857,8 +3429,7 @@
         "name": "Deoxys",
         "sprite": "deoxys",
         "profileUrl": "/pokedex/deoxys",
-        "imgUrl": "deoxys",
-        "spriteClass": "n386"
+        "imgUrl": "deoxys"
     },
     {
         "id": 386,
@@ -3866,8 +3437,7 @@
         "name": "Deoxys",
         "sprite": "deoxys",
         "profileUrl": "/pokedex/deoxys",
-        "imgUrl": "deoxys",
-        "spriteClass": "n386"
+        "imgUrl": "deoxys"
     },
     {
         "id": 386,
@@ -3875,8 +3445,7 @@
         "name": "Deoxys",
         "sprite": "deoxys",
         "profileUrl": "/pokedex/deoxys",
-        "imgUrl": "deoxys",
-        "spriteClass": "n386"
+        "imgUrl": "deoxys"
     },
     {
         "id": 386,
@@ -3884,8 +3453,7 @@
         "name": "Deoxys",
         "sprite": "deoxys",
         "profileUrl": "/pokedex/deoxys",
-        "imgUrl": "deoxys",
-        "spriteClass": "n386"
+        "imgUrl": "deoxys"
     },
     {
         "id": 387,
@@ -3893,8 +3461,7 @@
         "name": "Turtwig",
         "sprite": "turtwig",
         "profileUrl": "/pokedex/turtwig",
-        "imgUrl": "turtwig",
-        "spriteClass": "n387"
+        "imgUrl": "turtwig"
     },
     {
         "id": 388,
@@ -3902,8 +3469,7 @@
         "name": "Grotle",
         "sprite": "grotle",
         "profileUrl": "/pokedex/grotle",
-        "imgUrl": "grotle",
-        "spriteClass": "n388"
+        "imgUrl": "grotle"
     },
     {
         "id": 389,
@@ -3911,8 +3477,7 @@
         "name": "Torterra",
         "sprite": "torterra",
         "profileUrl": "/pokedex/torterra",
-        "imgUrl": "torterra",
-        "spriteClass": "n389"
+        "imgUrl": "torterra"
     },
     {
         "id": 390,
@@ -3920,8 +3485,7 @@
         "name": "Chimchar",
         "sprite": "chimchar",
         "profileUrl": "/pokedex/chimchar",
-        "imgUrl": "chimchar",
-        "spriteClass": "n390"
+        "imgUrl": "chimchar"
     },
     {
         "id": 391,
@@ -3929,8 +3493,7 @@
         "name": "Monferno",
         "sprite": "monferno",
         "profileUrl": "/pokedex/monferno",
-        "imgUrl": "monferno",
-        "spriteClass": "n391"
+        "imgUrl": "monferno"
     },
     {
         "id": 392,
@@ -3938,8 +3501,7 @@
         "name": "Infernape",
         "sprite": "infernape",
         "profileUrl": "/pokedex/infernape",
-        "imgUrl": "infernape",
-        "spriteClass": "n392"
+        "imgUrl": "infernape"
     },
     {
         "id": 393,
@@ -3947,8 +3509,7 @@
         "name": "Piplup",
         "sprite": "piplup",
         "profileUrl": "/pokedex/piplup",
-        "imgUrl": "piplup",
-        "spriteClass": "n393"
+        "imgUrl": "piplup"
     },
     {
         "id": 394,
@@ -3956,8 +3517,7 @@
         "name": "Prinplup",
         "sprite": "prinplup",
         "profileUrl": "/pokedex/prinplup",
-        "imgUrl": "prinplup",
-        "spriteClass": "n394"
+        "imgUrl": "prinplup"
     },
     {
         "id": 395,
@@ -3965,8 +3525,7 @@
         "name": "Empoleon",
         "sprite": "empoleon",
         "profileUrl": "/pokedex/empoleon",
-        "imgUrl": "empoleon",
-        "spriteClass": "n395"
+        "imgUrl": "empoleon"
     },
     {
         "id": 396,
@@ -3974,8 +3533,7 @@
         "name": "Starly",
         "sprite": "starly",
         "profileUrl": "/pokedex/starly",
-        "imgUrl": "starly",
-        "spriteClass": "n396"
+        "imgUrl": "starly"
     },
     {
         "id": 397,
@@ -3983,8 +3541,7 @@
         "name": "Staravia",
         "sprite": "staravia",
         "profileUrl": "/pokedex/staravia",
-        "imgUrl": "staravia",
-        "spriteClass": "n397"
+        "imgUrl": "staravia"
     },
     {
         "id": 398,
@@ -3992,8 +3549,7 @@
         "name": "Staraptor",
         "sprite": "staraptor",
         "profileUrl": "/pokedex/staraptor",
-        "imgUrl": "staraptor",
-        "spriteClass": "n398"
+        "imgUrl": "staraptor"
     },
     {
         "id": 399,
@@ -4001,8 +3557,7 @@
         "name": "Bidoof",
         "sprite": "bidoof",
         "profileUrl": "/pokedex/bidoof",
-        "imgUrl": "bidoof",
-        "spriteClass": "n399"
+        "imgUrl": "bidoof"
     },
     {
         "id": 400,
@@ -4010,8 +3565,7 @@
         "name": "Bibarel",
         "sprite": "bibarel",
         "profileUrl": "/pokedex/bibarel",
-        "imgUrl": "bibarel",
-        "spriteClass": "n400"
+        "imgUrl": "bibarel"
     },
     {
         "id": 401,
@@ -4019,8 +3573,7 @@
         "name": "Kricketot",
         "sprite": "kricketot",
         "profileUrl": "/pokedex/kricketot",
-        "imgUrl": "kricketot",
-        "spriteClass": "n401"
+        "imgUrl": "kricketot"
     },
     {
         "id": 402,
@@ -4028,8 +3581,7 @@
         "name": "Kricketune",
         "sprite": "kricketune",
         "profileUrl": "/pokedex/kricketune",
-        "imgUrl": "kricketune",
-        "spriteClass": "n402"
+        "imgUrl": "kricketune"
     },
     {
         "id": 403,
@@ -4037,8 +3589,7 @@
         "name": "Shinx",
         "sprite": "shinx",
         "profileUrl": "/pokedex/shinx",
-        "imgUrl": "shinx",
-        "spriteClass": "n403"
+        "imgUrl": "shinx"
     },
     {
         "id": 404,
@@ -4046,8 +3597,7 @@
         "name": "Luxio",
         "sprite": "luxio",
         "profileUrl": "/pokedex/luxio",
-        "imgUrl": "luxio",
-        "spriteClass": "n404"
+        "imgUrl": "luxio"
     },
     {
         "id": 405,
@@ -4055,8 +3605,7 @@
         "name": "Luxray",
         "sprite": "luxray",
         "profileUrl": "/pokedex/luxray",
-        "imgUrl": "luxray",
-        "spriteClass": "n405"
+        "imgUrl": "luxray"
     },
     {
         "id": 406,
@@ -4064,8 +3613,7 @@
         "name": "Budew",
         "sprite": "budew",
         "profileUrl": "/pokedex/budew",
-        "imgUrl": "budew",
-        "spriteClass": "n406"
+        "imgUrl": "budew"
     },
     {
         "id": 407,
@@ -4073,8 +3621,7 @@
         "name": "Roserade",
         "sprite": "roserade",
         "profileUrl": "/pokedex/roserade",
-        "imgUrl": "roserade",
-        "spriteClass": "n407"
+        "imgUrl": "roserade"
     },
     {
         "id": 408,
@@ -4082,8 +3629,7 @@
         "name": "Cranidos",
         "sprite": "cranidos",
         "profileUrl": "/pokedex/cranidos",
-        "imgUrl": "cranidos",
-        "spriteClass": "n408"
+        "imgUrl": "cranidos"
     },
     {
         "id": 409,
@@ -4091,8 +3637,7 @@
         "name": "Rampardos",
         "sprite": "rampardos",
         "profileUrl": "/pokedex/rampardos",
-        "imgUrl": "rampardos",
-        "spriteClass": "n409"
+        "imgUrl": "rampardos"
     },
     {
         "id": 410,
@@ -4100,8 +3645,7 @@
         "name": "Shieldon",
         "sprite": "shieldon",
         "profileUrl": "/pokedex/shieldon",
-        "imgUrl": "shieldon",
-        "spriteClass": "n410"
+        "imgUrl": "shieldon"
     },
     {
         "id": 411,
@@ -4109,8 +3653,7 @@
         "name": "Bastiodon",
         "sprite": "bastiodon",
         "profileUrl": "/pokedex/bastiodon",
-        "imgUrl": "bastiodon",
-        "spriteClass": "n411"
+        "imgUrl": "bastiodon"
     },
     {
         "id": 412,
@@ -4118,8 +3661,7 @@
         "name": "Burmy",
         "sprite": "burmy",
         "profileUrl": "/pokedex/burmy",
-        "imgUrl": "burmy",
-        "spriteClass": "n412"
+        "imgUrl": "burmy"
     },
     {
         "id": 413,
@@ -4127,8 +3669,7 @@
         "name": "Wormadam",
         "sprite": "wormadam",
         "profileUrl": "/pokedex/wormadam",
-        "imgUrl": "wormadam",
-        "spriteClass": "n413"
+        "imgUrl": "wormadam"
     },
     {
         "id": 413,
@@ -4136,8 +3677,7 @@
         "name": "Wormadam",
         "sprite": "wormadam",
         "profileUrl": "/pokedex/wormadam",
-        "imgUrl": "wormadam",
-        "spriteClass": "n413"
+        "imgUrl": "wormadam"
     },
     {
         "id": 413,
@@ -4145,8 +3685,7 @@
         "name": "Wormadam",
         "sprite": "wormadam",
         "profileUrl": "/pokedex/wormadam",
-        "imgUrl": "wormadam",
-        "spriteClass": "n413"
+        "imgUrl": "wormadam"
     },
     {
         "id": 414,
@@ -4154,8 +3693,7 @@
         "name": "Mothim",
         "sprite": "mothim",
         "profileUrl": "/pokedex/mothim",
-        "imgUrl": "mothim",
-        "spriteClass": "n414"
+        "imgUrl": "mothim"
     },
     {
         "id": 415,
@@ -4163,8 +3701,7 @@
         "name": "Combee",
         "sprite": "combee",
         "profileUrl": "/pokedex/combee",
-        "imgUrl": "combee",
-        "spriteClass": "n415"
+        "imgUrl": "combee"
     },
     {
         "id": 416,
@@ -4172,8 +3709,7 @@
         "name": "Vespiquen",
         "sprite": "vespiquen",
         "profileUrl": "/pokedex/vespiquen",
-        "imgUrl": "vespiquen",
-        "spriteClass": "n416"
+        "imgUrl": "vespiquen"
     },
     {
         "id": 417,
@@ -4181,8 +3717,7 @@
         "name": "Pachirisu",
         "sprite": "pachirisu",
         "profileUrl": "/pokedex/pachirisu",
-        "imgUrl": "pachirisu",
-        "spriteClass": "n417"
+        "imgUrl": "pachirisu"
     },
     {
         "id": 418,
@@ -4190,8 +3725,7 @@
         "name": "Buizel",
         "sprite": "buizel",
         "profileUrl": "/pokedex/buizel",
-        "imgUrl": "buizel",
-        "spriteClass": "n418"
+        "imgUrl": "buizel"
     },
     {
         "id": 419,
@@ -4199,8 +3733,7 @@
         "name": "Floatzel",
         "sprite": "floatzel",
         "profileUrl": "/pokedex/floatzel",
-        "imgUrl": "floatzel",
-        "spriteClass": "n419"
+        "imgUrl": "floatzel"
     },
     {
         "id": 420,
@@ -4208,8 +3741,7 @@
         "name": "Cherubi",
         "sprite": "cherubi",
         "profileUrl": "/pokedex/cherubi",
-        "imgUrl": "cherubi",
-        "spriteClass": "n420"
+        "imgUrl": "cherubi"
     },
     {
         "id": 421,
@@ -4217,8 +3749,7 @@
         "name": "Cherrim",
         "sprite": "cherrim",
         "profileUrl": "/pokedex/cherrim",
-        "imgUrl": "cherrim",
-        "spriteClass": "n421"
+        "imgUrl": "cherrim"
     },
     {
         "id": 422,
@@ -4226,8 +3757,7 @@
         "name": "Shellos",
         "sprite": "shellos",
         "profileUrl": "/pokedex/shellos",
-        "imgUrl": "shellos",
-        "spriteClass": "n422"
+        "imgUrl": "shellos"
     },
     {
         "id": 423,
@@ -4235,8 +3765,7 @@
         "name": "Gastrodon",
         "sprite": "gastrodon",
         "profileUrl": "/pokedex/gastrodon",
-        "imgUrl": "gastrodon",
-        "spriteClass": "n423"
+        "imgUrl": "gastrodon"
     },
     {
         "id": 424,
@@ -4244,8 +3773,7 @@
         "name": "Ambipom",
         "sprite": "ambipom",
         "profileUrl": "/pokedex/ambipom",
-        "imgUrl": "ambipom",
-        "spriteClass": "n424"
+        "imgUrl": "ambipom"
     },
     {
         "id": 425,
@@ -4253,8 +3781,7 @@
         "name": "Drifloon",
         "sprite": "drifloon",
         "profileUrl": "/pokedex/drifloon",
-        "imgUrl": "drifloon",
-        "spriteClass": "n425"
+        "imgUrl": "drifloon"
     },
     {
         "id": 426,
@@ -4262,8 +3789,7 @@
         "name": "Drifblim",
         "sprite": "drifblim",
         "profileUrl": "/pokedex/drifblim",
-        "imgUrl": "drifblim",
-        "spriteClass": "n426"
+        "imgUrl": "drifblim"
     },
     {
         "id": 427,
@@ -4271,8 +3797,7 @@
         "name": "Buneary",
         "sprite": "buneary",
         "profileUrl": "/pokedex/buneary",
-        "imgUrl": "buneary",
-        "spriteClass": "n427"
+        "imgUrl": "buneary"
     },
     {
         "id": 428,
@@ -4280,8 +3805,7 @@
         "name": "Lopunny",
         "sprite": "lopunny",
         "profileUrl": "/pokedex/lopunny",
-        "imgUrl": "lopunny",
-        "spriteClass": "n428"
+        "imgUrl": "lopunny"
     },
     {
         "id": 428,
@@ -4289,8 +3813,7 @@
         "name": "Lopunny",
         "sprite": "lopunny",
         "profileUrl": "/pokedex/lopunny",
-        "imgUrl": "lopunny",
-        "spriteClass": "n428"
+        "imgUrl": "lopunny"
     },
     {
         "id": 429,
@@ -4298,8 +3821,7 @@
         "name": "Mismagius",
         "sprite": "mismagius",
         "profileUrl": "/pokedex/mismagius",
-        "imgUrl": "mismagius",
-        "spriteClass": "n429"
+        "imgUrl": "mismagius"
     },
     {
         "id": 430,
@@ -4307,8 +3829,7 @@
         "name": "Honchkrow",
         "sprite": "honchkrow",
         "profileUrl": "/pokedex/honchkrow",
-        "imgUrl": "honchkrow",
-        "spriteClass": "n430"
+        "imgUrl": "honchkrow"
     },
     {
         "id": 431,
@@ -4316,8 +3837,7 @@
         "name": "Glameow",
         "sprite": "glameow",
         "profileUrl": "/pokedex/glameow",
-        "imgUrl": "glameow",
-        "spriteClass": "n431"
+        "imgUrl": "glameow"
     },
     {
         "id": 432,
@@ -4325,8 +3845,7 @@
         "name": "Purugly",
         "sprite": "purugly",
         "profileUrl": "/pokedex/purugly",
-        "imgUrl": "purugly",
-        "spriteClass": "n432"
+        "imgUrl": "purugly"
     },
     {
         "id": 433,
@@ -4334,8 +3853,7 @@
         "name": "Chingling",
         "sprite": "chingling",
         "profileUrl": "/pokedex/chingling",
-        "imgUrl": "chingling",
-        "spriteClass": "n433"
+        "imgUrl": "chingling"
     },
     {
         "id": 434,
@@ -4343,8 +3861,7 @@
         "name": "Stunky",
         "sprite": "stunky",
         "profileUrl": "/pokedex/stunky",
-        "imgUrl": "stunky",
-        "spriteClass": "n434"
+        "imgUrl": "stunky"
     },
     {
         "id": 435,
@@ -4352,8 +3869,7 @@
         "name": "Skuntank",
         "sprite": "skuntank",
         "profileUrl": "/pokedex/skuntank",
-        "imgUrl": "skuntank",
-        "spriteClass": "n435"
+        "imgUrl": "skuntank"
     },
     {
         "id": 436,
@@ -4361,8 +3877,7 @@
         "name": "Bronzor",
         "sprite": "bronzor",
         "profileUrl": "/pokedex/bronzor",
-        "imgUrl": "bronzor",
-        "spriteClass": "n436"
+        "imgUrl": "bronzor"
     },
     {
         "id": 437,
@@ -4370,8 +3885,7 @@
         "name": "Bronzong",
         "sprite": "bronzong",
         "profileUrl": "/pokedex/bronzong",
-        "imgUrl": "bronzong",
-        "spriteClass": "n437"
+        "imgUrl": "bronzong"
     },
     {
         "id": 438,
@@ -4379,17 +3893,15 @@
         "name": "Bonsly",
         "sprite": "bonsly",
         "profileUrl": "/pokedex/bonsly",
-        "imgUrl": "bonsly",
-        "spriteClass": "n438"
+        "imgUrl": "bonsly"
     },
     {
         "id": 439,
         "idStr": "439",
         "name": "Mime Jr.",
-        "sprite": "mime jr.",
+        "sprite": "mime-jr",
         "profileUrl": "/pokedex/mime-jr",
-        "imgUrl": "mime_jr",
-        "spriteClass": "n439"
+        "imgUrl": "mime_jr"
     },
     {
         "id": 440,
@@ -4397,8 +3909,7 @@
         "name": "Happiny",
         "sprite": "happiny",
         "profileUrl": "/pokedex/happiny",
-        "imgUrl": "happiny",
-        "spriteClass": "n440"
+        "imgUrl": "happiny"
     },
     {
         "id": 441,
@@ -4406,8 +3917,7 @@
         "name": "Chatot",
         "sprite": "chatot",
         "profileUrl": "/pokedex/chatot",
-        "imgUrl": "chatot",
-        "spriteClass": "n441"
+        "imgUrl": "chatot"
     },
     {
         "id": 442,
@@ -4415,8 +3925,7 @@
         "name": "Spiritomb",
         "sprite": "spiritomb",
         "profileUrl": "/pokedex/spiritomb",
-        "imgUrl": "spiritomb",
-        "spriteClass": "n442"
+        "imgUrl": "spiritomb"
     },
     {
         "id": 443,
@@ -4424,8 +3933,7 @@
         "name": "Gible",
         "sprite": "gible",
         "profileUrl": "/pokedex/gible",
-        "imgUrl": "gible",
-        "spriteClass": "n443"
+        "imgUrl": "gible"
     },
     {
         "id": 444,
@@ -4433,8 +3941,7 @@
         "name": "Gabite",
         "sprite": "gabite",
         "profileUrl": "/pokedex/gabite",
-        "imgUrl": "gabite",
-        "spriteClass": "n444"
+        "imgUrl": "gabite"
     },
     {
         "id": 445,
@@ -4442,8 +3949,7 @@
         "name": "Garchomp",
         "sprite": "garchomp",
         "profileUrl": "/pokedex/garchomp",
-        "imgUrl": "garchomp",
-        "spriteClass": "n445"
+        "imgUrl": "garchomp"
     },
     {
         "id": 445,
@@ -4451,8 +3957,7 @@
         "name": "Garchomp",
         "sprite": "garchomp",
         "profileUrl": "/pokedex/garchomp",
-        "imgUrl": "garchomp",
-        "spriteClass": "n445"
+        "imgUrl": "garchomp"
     },
     {
         "id": 446,
@@ -4460,8 +3965,7 @@
         "name": "Munchlax",
         "sprite": "munchlax",
         "profileUrl": "/pokedex/munchlax",
-        "imgUrl": "munchlax",
-        "spriteClass": "n446"
+        "imgUrl": "munchlax"
     },
     {
         "id": 447,
@@ -4469,8 +3973,7 @@
         "name": "Riolu",
         "sprite": "riolu",
         "profileUrl": "/pokedex/riolu",
-        "imgUrl": "riolu",
-        "spriteClass": "n447"
+        "imgUrl": "riolu"
     },
     {
         "id": 448,
@@ -4478,8 +3981,7 @@
         "name": "Lucario",
         "sprite": "lucario",
         "profileUrl": "/pokedex/lucario",
-        "imgUrl": "lucario",
-        "spriteClass": "n448"
+        "imgUrl": "lucario"
     },
     {
         "id": 448,
@@ -4487,8 +3989,7 @@
         "name": "Lucario",
         "sprite": "lucario",
         "profileUrl": "/pokedex/lucario",
-        "imgUrl": "lucario",
-        "spriteClass": "n448"
+        "imgUrl": "lucario"
     },
     {
         "id": 449,
@@ -4496,8 +3997,7 @@
         "name": "Hippopotas",
         "sprite": "hippopotas",
         "profileUrl": "/pokedex/hippopotas",
-        "imgUrl": "hippopotas",
-        "spriteClass": "n449"
+        "imgUrl": "hippopotas"
     },
     {
         "id": 450,
@@ -4505,8 +4005,7 @@
         "name": "Hippowdon",
         "sprite": "hippowdon",
         "profileUrl": "/pokedex/hippowdon",
-        "imgUrl": "hippowdon",
-        "spriteClass": "n450"
+        "imgUrl": "hippowdon"
     },
     {
         "id": 451,
@@ -4514,8 +4013,7 @@
         "name": "Skorupi",
         "sprite": "skorupi",
         "profileUrl": "/pokedex/skorupi",
-        "imgUrl": "skorupi",
-        "spriteClass": "n451"
+        "imgUrl": "skorupi"
     },
     {
         "id": 452,
@@ -4523,8 +4021,7 @@
         "name": "Drapion",
         "sprite": "drapion",
         "profileUrl": "/pokedex/drapion",
-        "imgUrl": "drapion",
-        "spriteClass": "n452"
+        "imgUrl": "drapion"
     },
     {
         "id": 453,
@@ -4532,8 +4029,7 @@
         "name": "Croagunk",
         "sprite": "croagunk",
         "profileUrl": "/pokedex/croagunk",
-        "imgUrl": "croagunk",
-        "spriteClass": "n453"
+        "imgUrl": "croagunk"
     },
     {
         "id": 454,
@@ -4541,8 +4037,7 @@
         "name": "Toxicroak",
         "sprite": "toxicroak",
         "profileUrl": "/pokedex/toxicroak",
-        "imgUrl": "toxicroak",
-        "spriteClass": "n454"
+        "imgUrl": "toxicroak"
     },
     {
         "id": 455,
@@ -4550,8 +4045,7 @@
         "name": "Carnivine",
         "sprite": "carnivine",
         "profileUrl": "/pokedex/carnivine",
-        "imgUrl": "carnivine",
-        "spriteClass": "n455"
+        "imgUrl": "carnivine"
     },
     {
         "id": 456,
@@ -4559,8 +4053,7 @@
         "name": "Finneon",
         "sprite": "finneon",
         "profileUrl": "/pokedex/finneon",
-        "imgUrl": "finneon",
-        "spriteClass": "n456"
+        "imgUrl": "finneon"
     },
     {
         "id": 457,
@@ -4568,8 +4061,7 @@
         "name": "Lumineon",
         "sprite": "lumineon",
         "profileUrl": "/pokedex/lumineon",
-        "imgUrl": "lumineon",
-        "spriteClass": "n457"
+        "imgUrl": "lumineon"
     },
     {
         "id": 458,
@@ -4577,8 +4069,7 @@
         "name": "Mantyke",
         "sprite": "mantyke",
         "profileUrl": "/pokedex/mantyke",
-        "imgUrl": "mantyke",
-        "spriteClass": "n458"
+        "imgUrl": "mantyke"
     },
     {
         "id": 459,
@@ -4586,8 +4077,7 @@
         "name": "Snover",
         "sprite": "snover",
         "profileUrl": "/pokedex/snover",
-        "imgUrl": "snover",
-        "spriteClass": "n459"
+        "imgUrl": "snover"
     },
     {
         "id": 460,
@@ -4595,8 +4085,7 @@
         "name": "Abomasnow",
         "sprite": "abomasnow",
         "profileUrl": "/pokedex/abomasnow",
-        "imgUrl": "abomasnow",
-        "spriteClass": "n460"
+        "imgUrl": "abomasnow"
     },
     {
         "id": 460,
@@ -4604,8 +4093,7 @@
         "name": "Abomasnow",
         "sprite": "abomasnow",
         "profileUrl": "/pokedex/abomasnow",
-        "imgUrl": "abomasnow",
-        "spriteClass": "n460"
+        "imgUrl": "abomasnow"
     },
     {
         "id": 461,
@@ -4613,8 +4101,7 @@
         "name": "Weavile",
         "sprite": "weavile",
         "profileUrl": "/pokedex/weavile",
-        "imgUrl": "weavile",
-        "spriteClass": "n461"
+        "imgUrl": "weavile"
     },
     {
         "id": 462,
@@ -4622,8 +4109,7 @@
         "name": "Magnezone",
         "sprite": "magnezone",
         "profileUrl": "/pokedex/magnezone",
-        "imgUrl": "magnezone",
-        "spriteClass": "n462"
+        "imgUrl": "magnezone"
     },
     {
         "id": 463,
@@ -4631,8 +4117,7 @@
         "name": "Lickilicky",
         "sprite": "lickilicky",
         "profileUrl": "/pokedex/lickilicky",
-        "imgUrl": "lickilicky",
-        "spriteClass": "n463"
+        "imgUrl": "lickilicky"
     },
     {
         "id": 464,
@@ -4640,8 +4125,7 @@
         "name": "Rhyperior",
         "sprite": "rhyperior",
         "profileUrl": "/pokedex/rhyperior",
-        "imgUrl": "rhyperior",
-        "spriteClass": "n464"
+        "imgUrl": "rhyperior"
     },
     {
         "id": 465,
@@ -4649,8 +4133,7 @@
         "name": "Tangrowth",
         "sprite": "tangrowth",
         "profileUrl": "/pokedex/tangrowth",
-        "imgUrl": "tangrowth",
-        "spriteClass": "n465"
+        "imgUrl": "tangrowth"
     },
     {
         "id": 466,
@@ -4658,8 +4141,7 @@
         "name": "Electivire",
         "sprite": "electivire",
         "profileUrl": "/pokedex/electivire",
-        "imgUrl": "electivire",
-        "spriteClass": "n466"
+        "imgUrl": "electivire"
     },
     {
         "id": 467,
@@ -4667,8 +4149,7 @@
         "name": "Magmortar",
         "sprite": "magmortar",
         "profileUrl": "/pokedex/magmortar",
-        "imgUrl": "magmortar",
-        "spriteClass": "n467"
+        "imgUrl": "magmortar"
     },
     {
         "id": 468,
@@ -4676,8 +4157,7 @@
         "name": "Togekiss",
         "sprite": "togekiss",
         "profileUrl": "/pokedex/togekiss",
-        "imgUrl": "togekiss",
-        "spriteClass": "n468"
+        "imgUrl": "togekiss"
     },
     {
         "id": 469,
@@ -4685,8 +4165,7 @@
         "name": "Yanmega",
         "sprite": "yanmega",
         "profileUrl": "/pokedex/yanmega",
-        "imgUrl": "yanmega",
-        "spriteClass": "n469"
+        "imgUrl": "yanmega"
     },
     {
         "id": 470,
@@ -4694,8 +4173,7 @@
         "name": "Leafeon",
         "sprite": "leafeon",
         "profileUrl": "/pokedex/leafeon",
-        "imgUrl": "leafeon",
-        "spriteClass": "n470"
+        "imgUrl": "leafeon"
     },
     {
         "id": 471,
@@ -4703,8 +4181,7 @@
         "name": "Glaceon",
         "sprite": "glaceon",
         "profileUrl": "/pokedex/glaceon",
-        "imgUrl": "glaceon",
-        "spriteClass": "n471"
+        "imgUrl": "glaceon"
     },
     {
         "id": 472,
@@ -4712,8 +4189,7 @@
         "name": "Gliscor",
         "sprite": "gliscor",
         "profileUrl": "/pokedex/gliscor",
-        "imgUrl": "gliscor",
-        "spriteClass": "n472"
+        "imgUrl": "gliscor"
     },
     {
         "id": 473,
@@ -4721,8 +4197,7 @@
         "name": "Mamoswine",
         "sprite": "mamoswine",
         "profileUrl": "/pokedex/mamoswine",
-        "imgUrl": "mamoswine",
-        "spriteClass": "n473"
+        "imgUrl": "mamoswine"
     },
     {
         "id": 474,
@@ -4730,8 +4205,7 @@
         "name": "Porygon-Z",
         "sprite": "porygon-z",
         "profileUrl": "/pokedex/porygon-z",
-        "imgUrl": "porygon_z",
-        "spriteClass": "n474"
+        "imgUrl": "porygon_z"
     },
     {
         "id": 475,
@@ -4739,8 +4213,7 @@
         "name": "Gallade",
         "sprite": "gallade",
         "profileUrl": "/pokedex/gallade",
-        "imgUrl": "gallade",
-        "spriteClass": "n475"
+        "imgUrl": "gallade"
     },
     {
         "id": 475,
@@ -4748,8 +4221,7 @@
         "name": "Gallade",
         "sprite": "gallade",
         "profileUrl": "/pokedex/gallade",
-        "imgUrl": "gallade",
-        "spriteClass": "n475"
+        "imgUrl": "gallade"
     },
     {
         "id": 476,
@@ -4757,8 +4229,7 @@
         "name": "Probopass",
         "sprite": "probopass",
         "profileUrl": "/pokedex/probopass",
-        "imgUrl": "probopass",
-        "spriteClass": "n476"
+        "imgUrl": "probopass"
     },
     {
         "id": 477,
@@ -4766,8 +4237,7 @@
         "name": "Dusknoir",
         "sprite": "dusknoir",
         "profileUrl": "/pokedex/dusknoir",
-        "imgUrl": "dusknoir",
-        "spriteClass": "n477"
+        "imgUrl": "dusknoir"
     },
     {
         "id": 478,
@@ -4775,8 +4245,7 @@
         "name": "Froslass",
         "sprite": "froslass",
         "profileUrl": "/pokedex/froslass",
-        "imgUrl": "froslass",
-        "spriteClass": "n478"
+        "imgUrl": "froslass"
     },
     {
         "id": 479,
@@ -4784,8 +4253,7 @@
         "name": "Rotom",
         "sprite": "rotom",
         "profileUrl": "/pokedex/rotom",
-        "imgUrl": "rotom",
-        "spriteClass": "n479"
+        "imgUrl": "rotom"
     },
     {
         "id": 479,
@@ -4793,8 +4261,7 @@
         "name": "Rotom",
         "sprite": "rotom",
         "profileUrl": "/pokedex/rotom",
-        "imgUrl": "rotom",
-        "spriteClass": "n479"
+        "imgUrl": "rotom"
     },
     {
         "id": 479,
@@ -4802,8 +4269,7 @@
         "name": "Rotom",
         "sprite": "rotom",
         "profileUrl": "/pokedex/rotom",
-        "imgUrl": "rotom",
-        "spriteClass": "n479"
+        "imgUrl": "rotom"
     },
     {
         "id": 479,
@@ -4811,8 +4277,7 @@
         "name": "Rotom",
         "sprite": "rotom",
         "profileUrl": "/pokedex/rotom",
-        "imgUrl": "rotom",
-        "spriteClass": "n479"
+        "imgUrl": "rotom"
     },
     {
         "id": 479,
@@ -4820,8 +4285,7 @@
         "name": "Rotom",
         "sprite": "rotom",
         "profileUrl": "/pokedex/rotom",
-        "imgUrl": "rotom",
-        "spriteClass": "n479"
+        "imgUrl": "rotom"
     },
     {
         "id": 479,
@@ -4829,8 +4293,7 @@
         "name": "Rotom",
         "sprite": "rotom",
         "profileUrl": "/pokedex/rotom",
-        "imgUrl": "rotom",
-        "spriteClass": "n479"
+        "imgUrl": "rotom"
     },
     {
         "id": 480,
@@ -4838,8 +4301,7 @@
         "name": "Uxie",
         "sprite": "uxie",
         "profileUrl": "/pokedex/uxie",
-        "imgUrl": "uxie",
-        "spriteClass": "n480"
+        "imgUrl": "uxie"
     },
     {
         "id": 481,
@@ -4847,8 +4309,7 @@
         "name": "Mesprit",
         "sprite": "mesprit",
         "profileUrl": "/pokedex/mesprit",
-        "imgUrl": "mesprit",
-        "spriteClass": "n481"
+        "imgUrl": "mesprit"
     },
     {
         "id": 482,
@@ -4856,8 +4317,7 @@
         "name": "Azelf",
         "sprite": "azelf",
         "profileUrl": "/pokedex/azelf",
-        "imgUrl": "azelf",
-        "spriteClass": "n482"
+        "imgUrl": "azelf"
     },
     {
         "id": 483,
@@ -4865,8 +4325,7 @@
         "name": "Dialga",
         "sprite": "dialga",
         "profileUrl": "/pokedex/dialga",
-        "imgUrl": "dialga",
-        "spriteClass": "n483"
+        "imgUrl": "dialga"
     },
     {
         "id": 484,
@@ -4874,8 +4333,7 @@
         "name": "Palkia",
         "sprite": "palkia",
         "profileUrl": "/pokedex/palkia",
-        "imgUrl": "palkia",
-        "spriteClass": "n484"
+        "imgUrl": "palkia"
     },
     {
         "id": 485,
@@ -4883,8 +4341,7 @@
         "name": "Heatran",
         "sprite": "heatran",
         "profileUrl": "/pokedex/heatran",
-        "imgUrl": "heatran",
-        "spriteClass": "n485"
+        "imgUrl": "heatran"
     },
     {
         "id": 486,
@@ -4892,8 +4349,7 @@
         "name": "Regigigas",
         "sprite": "regigigas",
         "profileUrl": "/pokedex/regigigas",
-        "imgUrl": "regigigas",
-        "spriteClass": "n486"
+        "imgUrl": "regigigas"
     },
     {
         "id": 487,
@@ -4901,8 +4357,7 @@
         "name": "Giratina",
         "sprite": "giratina",
         "profileUrl": "/pokedex/giratina",
-        "imgUrl": "giratina",
-        "spriteClass": "n487"
+        "imgUrl": "giratina"
     },
     {
         "id": 487,
@@ -4910,8 +4365,7 @@
         "name": "Giratina",
         "sprite": "giratina",
         "profileUrl": "/pokedex/giratina",
-        "imgUrl": "giratina",
-        "spriteClass": "n487"
+        "imgUrl": "giratina"
     },
     {
         "id": 488,
@@ -4919,8 +4373,7 @@
         "name": "Cresselia",
         "sprite": "cresselia",
         "profileUrl": "/pokedex/cresselia",
-        "imgUrl": "cresselia",
-        "spriteClass": "n488"
+        "imgUrl": "cresselia"
     },
     {
         "id": 489,
@@ -4928,8 +4381,7 @@
         "name": "Phione",
         "sprite": "phione",
         "profileUrl": "/pokedex/phione",
-        "imgUrl": "phione",
-        "spriteClass": "n489"
+        "imgUrl": "phione"
     },
     {
         "id": 490,
@@ -4937,8 +4389,7 @@
         "name": "Manaphy",
         "sprite": "manaphy",
         "profileUrl": "/pokedex/manaphy",
-        "imgUrl": "manaphy",
-        "spriteClass": "n490"
+        "imgUrl": "manaphy"
     },
     {
         "id": 491,
@@ -4946,8 +4397,7 @@
         "name": "Darkrai",
         "sprite": "darkrai",
         "profileUrl": "/pokedex/darkrai",
-        "imgUrl": "darkrai",
-        "spriteClass": "n491"
+        "imgUrl": "darkrai"
     },
     {
         "id": 492,
@@ -4955,8 +4405,7 @@
         "name": "Shaymin",
         "sprite": "shaymin",
         "profileUrl": "/pokedex/shaymin",
-        "imgUrl": "shaymin",
-        "spriteClass": "n492"
+        "imgUrl": "shaymin"
     },
     {
         "id": 492,
@@ -4964,8 +4413,7 @@
         "name": "Shaymin",
         "sprite": "shaymin",
         "profileUrl": "/pokedex/shaymin",
-        "imgUrl": "shaymin",
-        "spriteClass": "n492"
+        "imgUrl": "shaymin"
     },
     {
         "id": 493,
@@ -4973,8 +4421,7 @@
         "name": "Arceus",
         "sprite": "arceus",
         "profileUrl": "/pokedex/arceus",
-        "imgUrl": "arceus",
-        "spriteClass": "n493"
+        "imgUrl": "arceus"
     },
     {
         "id": 494,
@@ -4982,8 +4429,7 @@
         "name": "Victini",
         "sprite": "victini",
         "profileUrl": "/pokedex/victini",
-        "imgUrl": "victini",
-        "spriteClass": "n494"
+        "imgUrl": "victini"
     },
     {
         "id": 495,
@@ -4991,8 +4437,7 @@
         "name": "Snivy",
         "sprite": "snivy",
         "profileUrl": "/pokedex/snivy",
-        "imgUrl": "snivy",
-        "spriteClass": "n495"
+        "imgUrl": "snivy"
     },
     {
         "id": 496,
@@ -5000,8 +4445,7 @@
         "name": "Servine",
         "sprite": "servine",
         "profileUrl": "/pokedex/servine",
-        "imgUrl": "servine",
-        "spriteClass": "n496"
+        "imgUrl": "servine"
     },
     {
         "id": 497,
@@ -5009,8 +4453,7 @@
         "name": "Serperior",
         "sprite": "serperior",
         "profileUrl": "/pokedex/serperior",
-        "imgUrl": "serperior",
-        "spriteClass": "n497"
+        "imgUrl": "serperior"
     },
     {
         "id": 498,
@@ -5018,8 +4461,7 @@
         "name": "Tepig",
         "sprite": "tepig",
         "profileUrl": "/pokedex/tepig",
-        "imgUrl": "tepig",
-        "spriteClass": "n498"
+        "imgUrl": "tepig"
     },
     {
         "id": 499,
@@ -5027,8 +4469,7 @@
         "name": "Pignite",
         "sprite": "pignite",
         "profileUrl": "/pokedex/pignite",
-        "imgUrl": "pignite",
-        "spriteClass": "n499"
+        "imgUrl": "pignite"
     },
     {
         "id": 500,
@@ -5036,8 +4477,7 @@
         "name": "Emboar",
         "sprite": "emboar",
         "profileUrl": "/pokedex/emboar",
-        "imgUrl": "emboar",
-        "spriteClass": "n500"
+        "imgUrl": "emboar"
     },
     {
         "id": 501,
@@ -5045,8 +4485,7 @@
         "name": "Oshawott",
         "sprite": "oshawott",
         "profileUrl": "/pokedex/oshawott",
-        "imgUrl": "oshawott",
-        "spriteClass": "n501"
+        "imgUrl": "oshawott"
     },
     {
         "id": 502,
@@ -5054,8 +4493,7 @@
         "name": "Dewott",
         "sprite": "dewott",
         "profileUrl": "/pokedex/dewott",
-        "imgUrl": "dewott",
-        "spriteClass": "n502"
+        "imgUrl": "dewott"
     },
     {
         "id": 503,
@@ -5063,8 +4501,7 @@
         "name": "Samurott",
         "sprite": "samurott",
         "profileUrl": "/pokedex/samurott",
-        "imgUrl": "samurott",
-        "spriteClass": "n503"
+        "imgUrl": "samurott"
     },
     {
         "id": 504,
@@ -5072,8 +4509,7 @@
         "name": "Patrat",
         "sprite": "patrat",
         "profileUrl": "/pokedex/patrat",
-        "imgUrl": "patrat",
-        "spriteClass": "n504"
+        "imgUrl": "patrat"
     },
     {
         "id": 505,
@@ -5081,8 +4517,7 @@
         "name": "Watchog",
         "sprite": "watchog",
         "profileUrl": "/pokedex/watchog",
-        "imgUrl": "watchog",
-        "spriteClass": "n505"
+        "imgUrl": "watchog"
     },
     {
         "id": 506,
@@ -5090,8 +4525,7 @@
         "name": "Lillipup",
         "sprite": "lillipup",
         "profileUrl": "/pokedex/lillipup",
-        "imgUrl": "lillipup",
-        "spriteClass": "n506"
+        "imgUrl": "lillipup"
     },
     {
         "id": 507,
@@ -5099,8 +4533,7 @@
         "name": "Herdier",
         "sprite": "herdier",
         "profileUrl": "/pokedex/herdier",
-        "imgUrl": "herdier",
-        "spriteClass": "n507"
+        "imgUrl": "herdier"
     },
     {
         "id": 508,
@@ -5108,8 +4541,7 @@
         "name": "Stoutland",
         "sprite": "stoutland",
         "profileUrl": "/pokedex/stoutland",
-        "imgUrl": "stoutland",
-        "spriteClass": "n508"
+        "imgUrl": "stoutland"
     },
     {
         "id": 509,
@@ -5117,8 +4549,7 @@
         "name": "Purrloin",
         "sprite": "purrloin",
         "profileUrl": "/pokedex/purrloin",
-        "imgUrl": "purrloin",
-        "spriteClass": "n509"
+        "imgUrl": "purrloin"
     },
     {
         "id": 510,
@@ -5126,8 +4557,7 @@
         "name": "Liepard",
         "sprite": "liepard",
         "profileUrl": "/pokedex/liepard",
-        "imgUrl": "liepard",
-        "spriteClass": "n510"
+        "imgUrl": "liepard"
     },
     {
         "id": 511,
@@ -5135,8 +4565,7 @@
         "name": "Pansage",
         "sprite": "pansage",
         "profileUrl": "/pokedex/pansage",
-        "imgUrl": "pansage",
-        "spriteClass": "n511"
+        "imgUrl": "pansage"
     },
     {
         "id": 512,
@@ -5144,8 +4573,7 @@
         "name": "Simisage",
         "sprite": "simisage",
         "profileUrl": "/pokedex/simisage",
-        "imgUrl": "simisage",
-        "spriteClass": "n512"
+        "imgUrl": "simisage"
     },
     {
         "id": 513,
@@ -5153,8 +4581,7 @@
         "name": "Pansear",
         "sprite": "pansear",
         "profileUrl": "/pokedex/pansear",
-        "imgUrl": "pansear",
-        "spriteClass": "n513"
+        "imgUrl": "pansear"
     },
     {
         "id": 514,
@@ -5162,8 +4589,7 @@
         "name": "Simisear",
         "sprite": "simisear",
         "profileUrl": "/pokedex/simisear",
-        "imgUrl": "simisear",
-        "spriteClass": "n514"
+        "imgUrl": "simisear"
     },
     {
         "id": 515,
@@ -5171,8 +4597,7 @@
         "name": "Panpour",
         "sprite": "panpour",
         "profileUrl": "/pokedex/panpour",
-        "imgUrl": "panpour",
-        "spriteClass": "n515"
+        "imgUrl": "panpour"
     },
     {
         "id": 516,
@@ -5180,8 +4605,7 @@
         "name": "Simipour",
         "sprite": "simipour",
         "profileUrl": "/pokedex/simipour",
-        "imgUrl": "simipour",
-        "spriteClass": "n516"
+        "imgUrl": "simipour"
     },
     {
         "id": 517,
@@ -5189,8 +4613,7 @@
         "name": "Munna",
         "sprite": "munna",
         "profileUrl": "/pokedex/munna",
-        "imgUrl": "munna",
-        "spriteClass": "n517"
+        "imgUrl": "munna"
     },
     {
         "id": 518,
@@ -5198,8 +4621,7 @@
         "name": "Musharna",
         "sprite": "musharna",
         "profileUrl": "/pokedex/musharna",
-        "imgUrl": "musharna",
-        "spriteClass": "n518"
+        "imgUrl": "musharna"
     },
     {
         "id": 519,
@@ -5207,8 +4629,7 @@
         "name": "Pidove",
         "sprite": "pidove",
         "profileUrl": "/pokedex/pidove",
-        "imgUrl": "pidove",
-        "spriteClass": "n519"
+        "imgUrl": "pidove"
     },
     {
         "id": 520,
@@ -5216,8 +4637,7 @@
         "name": "Tranquill",
         "sprite": "tranquill",
         "profileUrl": "/pokedex/tranquill",
-        "imgUrl": "tranquill",
-        "spriteClass": "n520"
+        "imgUrl": "tranquill"
     },
     {
         "id": 521,
@@ -5225,8 +4645,7 @@
         "name": "Unfezant",
         "sprite": "unfezant",
         "profileUrl": "/pokedex/unfezant",
-        "imgUrl": "unfezant",
-        "spriteClass": "n521"
+        "imgUrl": "unfezant"
     },
     {
         "id": 522,
@@ -5234,8 +4653,7 @@
         "name": "Blitzle",
         "sprite": "blitzle",
         "profileUrl": "/pokedex/blitzle",
-        "imgUrl": "blitzle",
-        "spriteClass": "n522"
+        "imgUrl": "blitzle"
     },
     {
         "id": 523,
@@ -5243,8 +4661,7 @@
         "name": "Zebstrika",
         "sprite": "zebstrika",
         "profileUrl": "/pokedex/zebstrika",
-        "imgUrl": "zebstrika",
-        "spriteClass": "n523"
+        "imgUrl": "zebstrika"
     },
     {
         "id": 524,
@@ -5252,8 +4669,7 @@
         "name": "Roggenrola",
         "sprite": "roggenrola",
         "profileUrl": "/pokedex/roggenrola",
-        "imgUrl": "roggenrola",
-        "spriteClass": "n524"
+        "imgUrl": "roggenrola"
     },
     {
         "id": 525,
@@ -5261,8 +4677,7 @@
         "name": "Boldore",
         "sprite": "boldore",
         "profileUrl": "/pokedex/boldore",
-        "imgUrl": "boldore",
-        "spriteClass": "n525"
+        "imgUrl": "boldore"
     },
     {
         "id": 526,
@@ -5270,8 +4685,7 @@
         "name": "Gigalith",
         "sprite": "gigalith",
         "profileUrl": "/pokedex/gigalith",
-        "imgUrl": "gigalith",
-        "spriteClass": "n526"
+        "imgUrl": "gigalith"
     },
     {
         "id": 527,
@@ -5279,8 +4693,7 @@
         "name": "Woobat",
         "sprite": "woobat",
         "profileUrl": "/pokedex/woobat",
-        "imgUrl": "woobat",
-        "spriteClass": "n527"
+        "imgUrl": "woobat"
     },
     {
         "id": 528,
@@ -5288,8 +4701,7 @@
         "name": "Swoobat",
         "sprite": "swoobat",
         "profileUrl": "/pokedex/swoobat",
-        "imgUrl": "swoobat",
-        "spriteClass": "n528"
+        "imgUrl": "swoobat"
     },
     {
         "id": 529,
@@ -5297,8 +4709,7 @@
         "name": "Drilbur",
         "sprite": "drilbur",
         "profileUrl": "/pokedex/drilbur",
-        "imgUrl": "drilbur",
-        "spriteClass": "n529"
+        "imgUrl": "drilbur"
     },
     {
         "id": 530,
@@ -5306,8 +4717,7 @@
         "name": "Excadrill",
         "sprite": "excadrill",
         "profileUrl": "/pokedex/excadrill",
-        "imgUrl": "excadrill",
-        "spriteClass": "n530"
+        "imgUrl": "excadrill"
     },
     {
         "id": 531,
@@ -5315,8 +4725,7 @@
         "name": "Audino",
         "sprite": "audino",
         "profileUrl": "/pokedex/audino",
-        "imgUrl": "audino",
-        "spriteClass": "n531"
+        "imgUrl": "audino"
     },
     {
         "id": 531,
@@ -5324,8 +4733,7 @@
         "name": "Audino",
         "sprite": "audino",
         "profileUrl": "/pokedex/audino",
-        "imgUrl": "audino",
-        "spriteClass": "n531"
+        "imgUrl": "audino"
     },
     {
         "id": 532,
@@ -5333,8 +4741,7 @@
         "name": "Timburr",
         "sprite": "timburr",
         "profileUrl": "/pokedex/timburr",
-        "imgUrl": "timburr",
-        "spriteClass": "n532"
+        "imgUrl": "timburr"
     },
     {
         "id": 533,
@@ -5342,8 +4749,7 @@
         "name": "Gurdurr",
         "sprite": "gurdurr",
         "profileUrl": "/pokedex/gurdurr",
-        "imgUrl": "gurdurr",
-        "spriteClass": "n533"
+        "imgUrl": "gurdurr"
     },
     {
         "id": 534,
@@ -5351,8 +4757,7 @@
         "name": "Conkeldurr",
         "sprite": "conkeldurr",
         "profileUrl": "/pokedex/conkeldurr",
-        "imgUrl": "conkeldurr",
-        "spriteClass": "n534"
+        "imgUrl": "conkeldurr"
     },
     {
         "id": 535,
@@ -5360,8 +4765,7 @@
         "name": "Tympole",
         "sprite": "tympole",
         "profileUrl": "/pokedex/tympole",
-        "imgUrl": "tympole",
-        "spriteClass": "n535"
+        "imgUrl": "tympole"
     },
     {
         "id": 536,
@@ -5369,8 +4773,7 @@
         "name": "Palpitoad",
         "sprite": "palpitoad",
         "profileUrl": "/pokedex/palpitoad",
-        "imgUrl": "palpitoad",
-        "spriteClass": "n536"
+        "imgUrl": "palpitoad"
     },
     {
         "id": 537,
@@ -5378,8 +4781,7 @@
         "name": "Seismitoad",
         "sprite": "seismitoad",
         "profileUrl": "/pokedex/seismitoad",
-        "imgUrl": "seismitoad",
-        "spriteClass": "n537"
+        "imgUrl": "seismitoad"
     },
     {
         "id": 538,
@@ -5387,8 +4789,7 @@
         "name": "Throh",
         "sprite": "throh",
         "profileUrl": "/pokedex/throh",
-        "imgUrl": "throh",
-        "spriteClass": "n538"
+        "imgUrl": "throh"
     },
     {
         "id": 539,
@@ -5396,8 +4797,7 @@
         "name": "Sawk",
         "sprite": "sawk",
         "profileUrl": "/pokedex/sawk",
-        "imgUrl": "sawk",
-        "spriteClass": "n539"
+        "imgUrl": "sawk"
     },
     {
         "id": 540,
@@ -5405,8 +4805,7 @@
         "name": "Sewaddle",
         "sprite": "sewaddle",
         "profileUrl": "/pokedex/sewaddle",
-        "imgUrl": "sewaddle",
-        "spriteClass": "n540"
+        "imgUrl": "sewaddle"
     },
     {
         "id": 541,
@@ -5414,8 +4813,7 @@
         "name": "Swadloon",
         "sprite": "swadloon",
         "profileUrl": "/pokedex/swadloon",
-        "imgUrl": "swadloon",
-        "spriteClass": "n541"
+        "imgUrl": "swadloon"
     },
     {
         "id": 542,
@@ -5423,8 +4821,7 @@
         "name": "Leavanny",
         "sprite": "leavanny",
         "profileUrl": "/pokedex/leavanny",
-        "imgUrl": "leavanny",
-        "spriteClass": "n542"
+        "imgUrl": "leavanny"
     },
     {
         "id": 543,
@@ -5432,8 +4829,7 @@
         "name": "Venipede",
         "sprite": "venipede",
         "profileUrl": "/pokedex/venipede",
-        "imgUrl": "venipede",
-        "spriteClass": "n543"
+        "imgUrl": "venipede"
     },
     {
         "id": 544,
@@ -5441,8 +4837,7 @@
         "name": "Whirlipede",
         "sprite": "whirlipede",
         "profileUrl": "/pokedex/whirlipede",
-        "imgUrl": "whirlipede",
-        "spriteClass": "n544"
+        "imgUrl": "whirlipede"
     },
     {
         "id": 545,
@@ -5450,8 +4845,7 @@
         "name": "Scolipede",
         "sprite": "scolipede",
         "profileUrl": "/pokedex/scolipede",
-        "imgUrl": "scolipede",
-        "spriteClass": "n545"
+        "imgUrl": "scolipede"
     },
     {
         "id": 546,
@@ -5459,8 +4853,7 @@
         "name": "Cottonee",
         "sprite": "cottonee",
         "profileUrl": "/pokedex/cottonee",
-        "imgUrl": "cottonee",
-        "spriteClass": "n546"
+        "imgUrl": "cottonee"
     },
     {
         "id": 547,
@@ -5468,8 +4861,7 @@
         "name": "Whimsicott",
         "sprite": "whimsicott",
         "profileUrl": "/pokedex/whimsicott",
-        "imgUrl": "whimsicott",
-        "spriteClass": "n547"
+        "imgUrl": "whimsicott"
     },
     {
         "id": 548,
@@ -5477,8 +4869,7 @@
         "name": "Petilil",
         "sprite": "petilil",
         "profileUrl": "/pokedex/petilil",
-        "imgUrl": "petilil",
-        "spriteClass": "n548"
+        "imgUrl": "petilil"
     },
     {
         "id": 549,
@@ -5486,8 +4877,7 @@
         "name": "Lilligant",
         "sprite": "lilligant",
         "profileUrl": "/pokedex/lilligant",
-        "imgUrl": "lilligant",
-        "spriteClass": "n549"
+        "imgUrl": "lilligant"
     },
     {
         "id": 550,
@@ -5495,8 +4885,7 @@
         "name": "Basculin",
         "sprite": "basculin",
         "profileUrl": "/pokedex/basculin",
-        "imgUrl": "basculin",
-        "spriteClass": "n550"
+        "imgUrl": "basculin"
     },
     {
         "id": 551,
@@ -5504,8 +4893,7 @@
         "name": "Sandile",
         "sprite": "sandile",
         "profileUrl": "/pokedex/sandile",
-        "imgUrl": "sandile",
-        "spriteClass": "n551"
+        "imgUrl": "sandile"
     },
     {
         "id": 552,
@@ -5513,8 +4901,7 @@
         "name": "Krokorok",
         "sprite": "krokorok",
         "profileUrl": "/pokedex/krokorok",
-        "imgUrl": "krokorok",
-        "spriteClass": "n552"
+        "imgUrl": "krokorok"
     },
     {
         "id": 553,
@@ -5522,8 +4909,7 @@
         "name": "Krookodile",
         "sprite": "krookodile",
         "profileUrl": "/pokedex/krookodile",
-        "imgUrl": "krookodile",
-        "spriteClass": "n553"
+        "imgUrl": "krookodile"
     },
     {
         "id": 554,
@@ -5531,8 +4917,7 @@
         "name": "Darumaka",
         "sprite": "darumaka",
         "profileUrl": "/pokedex/darumaka",
-        "imgUrl": "darumaka",
-        "spriteClass": "n554"
+        "imgUrl": "darumaka"
     },
     {
         "id": 555,
@@ -5540,8 +4925,7 @@
         "name": "Darmanitan",
         "sprite": "darmanitan",
         "profileUrl": "/pokedex/darmanitan",
-        "imgUrl": "darmanitan",
-        "spriteClass": "n555"
+        "imgUrl": "darmanitan"
     },
     {
         "id": 555,
@@ -5549,8 +4933,7 @@
         "name": "Darmanitan",
         "sprite": "darmanitan",
         "profileUrl": "/pokedex/darmanitan",
-        "imgUrl": "darmanitan",
-        "spriteClass": "n555"
+        "imgUrl": "darmanitan"
     },
     {
         "id": 556,
@@ -5558,8 +4941,7 @@
         "name": "Maractus",
         "sprite": "maractus",
         "profileUrl": "/pokedex/maractus",
-        "imgUrl": "maractus",
-        "spriteClass": "n556"
+        "imgUrl": "maractus"
     },
     {
         "id": 557,
@@ -5567,8 +4949,7 @@
         "name": "Dwebble",
         "sprite": "dwebble",
         "profileUrl": "/pokedex/dwebble",
-        "imgUrl": "dwebble",
-        "spriteClass": "n557"
+        "imgUrl": "dwebble"
     },
     {
         "id": 558,
@@ -5576,8 +4957,7 @@
         "name": "Crustle",
         "sprite": "crustle",
         "profileUrl": "/pokedex/crustle",
-        "imgUrl": "crustle",
-        "spriteClass": "n558"
+        "imgUrl": "crustle"
     },
     {
         "id": 559,
@@ -5585,8 +4965,7 @@
         "name": "Scraggy",
         "sprite": "scraggy",
         "profileUrl": "/pokedex/scraggy",
-        "imgUrl": "scraggy",
-        "spriteClass": "n559"
+        "imgUrl": "scraggy"
     },
     {
         "id": 560,
@@ -5594,8 +4973,7 @@
         "name": "Scrafty",
         "sprite": "scrafty",
         "profileUrl": "/pokedex/scrafty",
-        "imgUrl": "scrafty",
-        "spriteClass": "n560"
+        "imgUrl": "scrafty"
     },
     {
         "id": 561,
@@ -5603,8 +4981,7 @@
         "name": "Sigilyph",
         "sprite": "sigilyph",
         "profileUrl": "/pokedex/sigilyph",
-        "imgUrl": "sigilyph",
-        "spriteClass": "n561"
+        "imgUrl": "sigilyph"
     },
     {
         "id": 562,
@@ -5612,8 +4989,7 @@
         "name": "Yamask",
         "sprite": "yamask",
         "profileUrl": "/pokedex/yamask",
-        "imgUrl": "yamask",
-        "spriteClass": "n562"
+        "imgUrl": "yamask"
     },
     {
         "id": 563,
@@ -5621,8 +4997,7 @@
         "name": "Cofagrigus",
         "sprite": "cofagrigus",
         "profileUrl": "/pokedex/cofagrigus",
-        "imgUrl": "cofagrigus",
-        "spriteClass": "n563"
+        "imgUrl": "cofagrigus"
     },
     {
         "id": 564,
@@ -5630,8 +5005,7 @@
         "name": "Tirtouga",
         "sprite": "tirtouga",
         "profileUrl": "/pokedex/tirtouga",
-        "imgUrl": "tirtouga",
-        "spriteClass": "n564"
+        "imgUrl": "tirtouga"
     },
     {
         "id": 565,
@@ -5639,8 +5013,7 @@
         "name": "Carracosta",
         "sprite": "carracosta",
         "profileUrl": "/pokedex/carracosta",
-        "imgUrl": "carracosta",
-        "spriteClass": "n565"
+        "imgUrl": "carracosta"
     },
     {
         "id": 566,
@@ -5648,8 +5021,7 @@
         "name": "Archen",
         "sprite": "archen",
         "profileUrl": "/pokedex/archen",
-        "imgUrl": "archen",
-        "spriteClass": "n566"
+        "imgUrl": "archen"
     },
     {
         "id": 567,
@@ -5657,8 +5029,7 @@
         "name": "Archeops",
         "sprite": "archeops",
         "profileUrl": "/pokedex/archeops",
-        "imgUrl": "archeops",
-        "spriteClass": "n567"
+        "imgUrl": "archeops"
     },
     {
         "id": 568,
@@ -5666,8 +5037,7 @@
         "name": "Trubbish",
         "sprite": "trubbish",
         "profileUrl": "/pokedex/trubbish",
-        "imgUrl": "trubbish",
-        "spriteClass": "n568"
+        "imgUrl": "trubbish"
     },
     {
         "id": 569,
@@ -5675,8 +5045,7 @@
         "name": "Garbodor",
         "sprite": "garbodor",
         "profileUrl": "/pokedex/garbodor",
-        "imgUrl": "garbodor",
-        "spriteClass": "n569"
+        "imgUrl": "garbodor"
     },
     {
         "id": 570,
@@ -5684,8 +5053,7 @@
         "name": "Zorua",
         "sprite": "zorua",
         "profileUrl": "/pokedex/zorua",
-        "imgUrl": "zorua",
-        "spriteClass": "n570"
+        "imgUrl": "zorua"
     },
     {
         "id": 571,
@@ -5693,8 +5061,7 @@
         "name": "Zoroark",
         "sprite": "zoroark",
         "profileUrl": "/pokedex/zoroark",
-        "imgUrl": "zoroark",
-        "spriteClass": "n571"
+        "imgUrl": "zoroark"
     },
     {
         "id": 572,
@@ -5702,8 +5069,7 @@
         "name": "Minccino",
         "sprite": "minccino",
         "profileUrl": "/pokedex/minccino",
-        "imgUrl": "minccino",
-        "spriteClass": "n572"
+        "imgUrl": "minccino"
     },
     {
         "id": 573,
@@ -5711,8 +5077,7 @@
         "name": "Cinccino",
         "sprite": "cinccino",
         "profileUrl": "/pokedex/cinccino",
-        "imgUrl": "cinccino",
-        "spriteClass": "n573"
+        "imgUrl": "cinccino"
     },
     {
         "id": 574,
@@ -5720,8 +5085,7 @@
         "name": "Gothita",
         "sprite": "gothita",
         "profileUrl": "/pokedex/gothita",
-        "imgUrl": "gothita",
-        "spriteClass": "n574"
+        "imgUrl": "gothita"
     },
     {
         "id": 575,
@@ -5729,8 +5093,7 @@
         "name": "Gothorita",
         "sprite": "gothorita",
         "profileUrl": "/pokedex/gothorita",
-        "imgUrl": "gothorita",
-        "spriteClass": "n575"
+        "imgUrl": "gothorita"
     },
     {
         "id": 576,
@@ -5738,8 +5101,7 @@
         "name": "Gothitelle",
         "sprite": "gothitelle",
         "profileUrl": "/pokedex/gothitelle",
-        "imgUrl": "gothitelle",
-        "spriteClass": "n576"
+        "imgUrl": "gothitelle"
     },
     {
         "id": 577,
@@ -5747,8 +5109,7 @@
         "name": "Solosis",
         "sprite": "solosis",
         "profileUrl": "/pokedex/solosis",
-        "imgUrl": "solosis",
-        "spriteClass": "n577"
+        "imgUrl": "solosis"
     },
     {
         "id": 578,
@@ -5756,8 +5117,7 @@
         "name": "Duosion",
         "sprite": "duosion",
         "profileUrl": "/pokedex/duosion",
-        "imgUrl": "duosion",
-        "spriteClass": "n578"
+        "imgUrl": "duosion"
     },
     {
         "id": 579,
@@ -5765,8 +5125,7 @@
         "name": "Reuniclus",
         "sprite": "reuniclus",
         "profileUrl": "/pokedex/reuniclus",
-        "imgUrl": "reuniclus",
-        "spriteClass": "n579"
+        "imgUrl": "reuniclus"
     },
     {
         "id": 580,
@@ -5774,8 +5133,7 @@
         "name": "Ducklett",
         "sprite": "ducklett",
         "profileUrl": "/pokedex/ducklett",
-        "imgUrl": "ducklett",
-        "spriteClass": "n580"
+        "imgUrl": "ducklett"
     },
     {
         "id": 581,
@@ -5783,8 +5141,7 @@
         "name": "Swanna",
         "sprite": "swanna",
         "profileUrl": "/pokedex/swanna",
-        "imgUrl": "swanna",
-        "spriteClass": "n581"
+        "imgUrl": "swanna"
     },
     {
         "id": 582,
@@ -5792,8 +5149,7 @@
         "name": "Vanillite",
         "sprite": "vanillite",
         "profileUrl": "/pokedex/vanillite",
-        "imgUrl": "vanillite",
-        "spriteClass": "n582"
+        "imgUrl": "vanillite"
     },
     {
         "id": 583,
@@ -5801,8 +5157,7 @@
         "name": "Vanillish",
         "sprite": "vanillish",
         "profileUrl": "/pokedex/vanillish",
-        "imgUrl": "vanillish",
-        "spriteClass": "n583"
+        "imgUrl": "vanillish"
     },
     {
         "id": 584,
@@ -5810,8 +5165,7 @@
         "name": "Vanilluxe",
         "sprite": "vanilluxe",
         "profileUrl": "/pokedex/vanilluxe",
-        "imgUrl": "vanilluxe",
-        "spriteClass": "n584"
+        "imgUrl": "vanilluxe"
     },
     {
         "id": 585,
@@ -5819,8 +5173,7 @@
         "name": "Deerling",
         "sprite": "deerling",
         "profileUrl": "/pokedex/deerling",
-        "imgUrl": "deerling",
-        "spriteClass": "n585"
+        "imgUrl": "deerling"
     },
     {
         "id": 586,
@@ -5828,8 +5181,7 @@
         "name": "Sawsbuck",
         "sprite": "sawsbuck",
         "profileUrl": "/pokedex/sawsbuck",
-        "imgUrl": "sawsbuck",
-        "spriteClass": "n586"
+        "imgUrl": "sawsbuck"
     },
     {
         "id": 587,
@@ -5837,8 +5189,7 @@
         "name": "Emolga",
         "sprite": "emolga",
         "profileUrl": "/pokedex/emolga",
-        "imgUrl": "emolga",
-        "spriteClass": "n587"
+        "imgUrl": "emolga"
     },
     {
         "id": 588,
@@ -5846,8 +5197,7 @@
         "name": "Karrablast",
         "sprite": "karrablast",
         "profileUrl": "/pokedex/karrablast",
-        "imgUrl": "karrablast",
-        "spriteClass": "n588"
+        "imgUrl": "karrablast"
     },
     {
         "id": 589,
@@ -5855,8 +5205,7 @@
         "name": "Escavalier",
         "sprite": "escavalier",
         "profileUrl": "/pokedex/escavalier",
-        "imgUrl": "escavalier",
-        "spriteClass": "n589"
+        "imgUrl": "escavalier"
     },
     {
         "id": 590,
@@ -5864,8 +5213,7 @@
         "name": "Foongus",
         "sprite": "foongus",
         "profileUrl": "/pokedex/foongus",
-        "imgUrl": "foongus",
-        "spriteClass": "n590"
+        "imgUrl": "foongus"
     },
     {
         "id": 591,
@@ -5873,8 +5221,7 @@
         "name": "Amoonguss",
         "sprite": "amoonguss",
         "profileUrl": "/pokedex/amoonguss",
-        "imgUrl": "amoonguss",
-        "spriteClass": "n591"
+        "imgUrl": "amoonguss"
     },
     {
         "id": 592,
@@ -5882,8 +5229,7 @@
         "name": "Frillish",
         "sprite": "frillish",
         "profileUrl": "/pokedex/frillish",
-        "imgUrl": "frillish",
-        "spriteClass": "n592"
+        "imgUrl": "frillish"
     },
     {
         "id": 593,
@@ -5891,8 +5237,7 @@
         "name": "Jellicent",
         "sprite": "jellicent",
         "profileUrl": "/pokedex/jellicent",
-        "imgUrl": "jellicent",
-        "spriteClass": "n593"
+        "imgUrl": "jellicent"
     },
     {
         "id": 594,
@@ -5900,8 +5245,7 @@
         "name": "Alomomola",
         "sprite": "alomomola",
         "profileUrl": "/pokedex/alomomola",
-        "imgUrl": "alomomola",
-        "spriteClass": "n594"
+        "imgUrl": "alomomola"
     },
     {
         "id": 595,
@@ -5909,8 +5253,7 @@
         "name": "Joltik",
         "sprite": "joltik",
         "profileUrl": "/pokedex/joltik",
-        "imgUrl": "joltik",
-        "spriteClass": "n595"
+        "imgUrl": "joltik"
     },
     {
         "id": 596,
@@ -5918,8 +5261,7 @@
         "name": "Galvantula",
         "sprite": "galvantula",
         "profileUrl": "/pokedex/galvantula",
-        "imgUrl": "galvantula",
-        "spriteClass": "n596"
+        "imgUrl": "galvantula"
     },
     {
         "id": 597,
@@ -5927,8 +5269,7 @@
         "name": "Ferroseed",
         "sprite": "ferroseed",
         "profileUrl": "/pokedex/ferroseed",
-        "imgUrl": "ferroseed",
-        "spriteClass": "n597"
+        "imgUrl": "ferroseed"
     },
     {
         "id": 598,
@@ -5936,8 +5277,7 @@
         "name": "Ferrothorn",
         "sprite": "ferrothorn",
         "profileUrl": "/pokedex/ferrothorn",
-        "imgUrl": "ferrothorn",
-        "spriteClass": "n598"
+        "imgUrl": "ferrothorn"
     },
     {
         "id": 599,
@@ -5945,8 +5285,7 @@
         "name": "Klink",
         "sprite": "klink",
         "profileUrl": "/pokedex/klink",
-        "imgUrl": "klink",
-        "spriteClass": "n599"
+        "imgUrl": "klink"
     },
     {
         "id": 600,
@@ -5954,8 +5293,7 @@
         "name": "Klang",
         "sprite": "klang",
         "profileUrl": "/pokedex/klang",
-        "imgUrl": "klang",
-        "spriteClass": "n600"
+        "imgUrl": "klang"
     },
     {
         "id": 601,
@@ -5963,8 +5301,7 @@
         "name": "Klinklang",
         "sprite": "klinklang",
         "profileUrl": "/pokedex/klinklang",
-        "imgUrl": "klinklang",
-        "spriteClass": "n601"
+        "imgUrl": "klinklang"
     },
     {
         "id": 602,
@@ -5972,8 +5309,7 @@
         "name": "Tynamo",
         "sprite": "tynamo",
         "profileUrl": "/pokedex/tynamo",
-        "imgUrl": "tynamo",
-        "spriteClass": "n602"
+        "imgUrl": "tynamo"
     },
     {
         "id": 603,
@@ -5981,8 +5317,7 @@
         "name": "Eelektrik",
         "sprite": "eelektrik",
         "profileUrl": "/pokedex/eelektrik",
-        "imgUrl": "eelektrik",
-        "spriteClass": "n603"
+        "imgUrl": "eelektrik"
     },
     {
         "id": 604,
@@ -5990,8 +5325,7 @@
         "name": "Eelektross",
         "sprite": "eelektross",
         "profileUrl": "/pokedex/eelektross",
-        "imgUrl": "eelektross",
-        "spriteClass": "n604"
+        "imgUrl": "eelektross"
     },
     {
         "id": 605,
@@ -5999,8 +5333,7 @@
         "name": "Elgyem",
         "sprite": "elgyem",
         "profileUrl": "/pokedex/elgyem",
-        "imgUrl": "elgyem",
-        "spriteClass": "n605"
+        "imgUrl": "elgyem"
     },
     {
         "id": 606,
@@ -6008,8 +5341,7 @@
         "name": "Beheeyem",
         "sprite": "beheeyem",
         "profileUrl": "/pokedex/beheeyem",
-        "imgUrl": "beheeyem",
-        "spriteClass": "n606"
+        "imgUrl": "beheeyem"
     },
     {
         "id": 607,
@@ -6017,8 +5349,7 @@
         "name": "Litwick",
         "sprite": "litwick",
         "profileUrl": "/pokedex/litwick",
-        "imgUrl": "litwick",
-        "spriteClass": "n607"
+        "imgUrl": "litwick"
     },
     {
         "id": 608,
@@ -6026,8 +5357,7 @@
         "name": "Lampent",
         "sprite": "lampent",
         "profileUrl": "/pokedex/lampent",
-        "imgUrl": "lampent",
-        "spriteClass": "n608"
+        "imgUrl": "lampent"
     },
     {
         "id": 609,
@@ -6035,8 +5365,7 @@
         "name": "Chandelure",
         "sprite": "chandelure",
         "profileUrl": "/pokedex/chandelure",
-        "imgUrl": "chandelure",
-        "spriteClass": "n609"
+        "imgUrl": "chandelure"
     },
     {
         "id": 610,
@@ -6044,8 +5373,7 @@
         "name": "Axew",
         "sprite": "axew",
         "profileUrl": "/pokedex/axew",
-        "imgUrl": "axew",
-        "spriteClass": "n610"
+        "imgUrl": "axew"
     },
     {
         "id": 611,
@@ -6053,8 +5381,7 @@
         "name": "Fraxure",
         "sprite": "fraxure",
         "profileUrl": "/pokedex/fraxure",
-        "imgUrl": "fraxure",
-        "spriteClass": "n611"
+        "imgUrl": "fraxure"
     },
     {
         "id": 612,
@@ -6062,8 +5389,7 @@
         "name": "Haxorus",
         "sprite": "haxorus",
         "profileUrl": "/pokedex/haxorus",
-        "imgUrl": "haxorus",
-        "spriteClass": "n612"
+        "imgUrl": "haxorus"
     },
     {
         "id": 613,
@@ -6071,8 +5397,7 @@
         "name": "Cubchoo",
         "sprite": "cubchoo",
         "profileUrl": "/pokedex/cubchoo",
-        "imgUrl": "cubchoo",
-        "spriteClass": "n613"
+        "imgUrl": "cubchoo"
     },
     {
         "id": 614,
@@ -6080,8 +5405,7 @@
         "name": "Beartic",
         "sprite": "beartic",
         "profileUrl": "/pokedex/beartic",
-        "imgUrl": "beartic",
-        "spriteClass": "n614"
+        "imgUrl": "beartic"
     },
     {
         "id": 615,
@@ -6089,8 +5413,7 @@
         "name": "Cryogonal",
         "sprite": "cryogonal",
         "profileUrl": "/pokedex/cryogonal",
-        "imgUrl": "cryogonal",
-        "spriteClass": "n615"
+        "imgUrl": "cryogonal"
     },
     {
         "id": 616,
@@ -6098,8 +5421,7 @@
         "name": "Shelmet",
         "sprite": "shelmet",
         "profileUrl": "/pokedex/shelmet",
-        "imgUrl": "shelmet",
-        "spriteClass": "n616"
+        "imgUrl": "shelmet"
     },
     {
         "id": 617,
@@ -6107,8 +5429,7 @@
         "name": "Accelgor",
         "sprite": "accelgor",
         "profileUrl": "/pokedex/accelgor",
-        "imgUrl": "accelgor",
-        "spriteClass": "n617"
+        "imgUrl": "accelgor"
     },
     {
         "id": 618,
@@ -6116,8 +5437,7 @@
         "name": "Stunfisk",
         "sprite": "stunfisk",
         "profileUrl": "/pokedex/stunfisk",
-        "imgUrl": "stunfisk",
-        "spriteClass": "n618"
+        "imgUrl": "stunfisk"
     },
     {
         "id": 619,
@@ -6125,8 +5445,7 @@
         "name": "Mienfoo",
         "sprite": "mienfoo",
         "profileUrl": "/pokedex/mienfoo",
-        "imgUrl": "mienfoo",
-        "spriteClass": "n619"
+        "imgUrl": "mienfoo"
     },
     {
         "id": 620,
@@ -6134,8 +5453,7 @@
         "name": "Mienshao",
         "sprite": "mienshao",
         "profileUrl": "/pokedex/mienshao",
-        "imgUrl": "mienshao",
-        "spriteClass": "n620"
+        "imgUrl": "mienshao"
     },
     {
         "id": 621,
@@ -6143,8 +5461,7 @@
         "name": "Druddigon",
         "sprite": "druddigon",
         "profileUrl": "/pokedex/druddigon",
-        "imgUrl": "druddigon",
-        "spriteClass": "n621"
+        "imgUrl": "druddigon"
     },
     {
         "id": 622,
@@ -6152,8 +5469,7 @@
         "name": "Golett",
         "sprite": "golett",
         "profileUrl": "/pokedex/golett",
-        "imgUrl": "golett",
-        "spriteClass": "n622"
+        "imgUrl": "golett"
     },
     {
         "id": 623,
@@ -6161,8 +5477,7 @@
         "name": "Golurk",
         "sprite": "golurk",
         "profileUrl": "/pokedex/golurk",
-        "imgUrl": "golurk",
-        "spriteClass": "n623"
+        "imgUrl": "golurk"
     },
     {
         "id": 624,
@@ -6170,8 +5485,7 @@
         "name": "Pawniard",
         "sprite": "pawniard",
         "profileUrl": "/pokedex/pawniard",
-        "imgUrl": "pawniard",
-        "spriteClass": "n624"
+        "imgUrl": "pawniard"
     },
     {
         "id": 625,
@@ -6179,8 +5493,7 @@
         "name": "Bisharp",
         "sprite": "bisharp",
         "profileUrl": "/pokedex/bisharp",
-        "imgUrl": "bisharp",
-        "spriteClass": "n625"
+        "imgUrl": "bisharp"
     },
     {
         "id": 626,
@@ -6188,8 +5501,7 @@
         "name": "Bouffalant",
         "sprite": "bouffalant",
         "profileUrl": "/pokedex/bouffalant",
-        "imgUrl": "bouffalant",
-        "spriteClass": "n626"
+        "imgUrl": "bouffalant"
     },
     {
         "id": 627,
@@ -6197,8 +5509,7 @@
         "name": "Rufflet",
         "sprite": "rufflet",
         "profileUrl": "/pokedex/rufflet",
-        "imgUrl": "rufflet",
-        "spriteClass": "n627"
+        "imgUrl": "rufflet"
     },
     {
         "id": 628,
@@ -6206,8 +5517,7 @@
         "name": "Braviary",
         "sprite": "braviary",
         "profileUrl": "/pokedex/braviary",
-        "imgUrl": "braviary",
-        "spriteClass": "n628"
+        "imgUrl": "braviary"
     },
     {
         "id": 629,
@@ -6215,8 +5525,7 @@
         "name": "Vullaby",
         "sprite": "vullaby",
         "profileUrl": "/pokedex/vullaby",
-        "imgUrl": "vullaby",
-        "spriteClass": "n629"
+        "imgUrl": "vullaby"
     },
     {
         "id": 630,
@@ -6224,8 +5533,7 @@
         "name": "Mandibuzz",
         "sprite": "mandibuzz",
         "profileUrl": "/pokedex/mandibuzz",
-        "imgUrl": "mandibuzz",
-        "spriteClass": "n630"
+        "imgUrl": "mandibuzz"
     },
     {
         "id": 631,
@@ -6233,8 +5541,7 @@
         "name": "Heatmor",
         "sprite": "heatmor",
         "profileUrl": "/pokedex/heatmor",
-        "imgUrl": "heatmor",
-        "spriteClass": "n631"
+        "imgUrl": "heatmor"
     },
     {
         "id": 632,
@@ -6242,8 +5549,7 @@
         "name": "Durant",
         "sprite": "durant",
         "profileUrl": "/pokedex/durant",
-        "imgUrl": "durant",
-        "spriteClass": "n632"
+        "imgUrl": "durant"
     },
     {
         "id": 633,
@@ -6251,8 +5557,7 @@
         "name": "Deino",
         "sprite": "deino",
         "profileUrl": "/pokedex/deino",
-        "imgUrl": "deino",
-        "spriteClass": "n633"
+        "imgUrl": "deino"
     },
     {
         "id": 634,
@@ -6260,8 +5565,7 @@
         "name": "Zweilous",
         "sprite": "zweilous",
         "profileUrl": "/pokedex/zweilous",
-        "imgUrl": "zweilous",
-        "spriteClass": "n634"
+        "imgUrl": "zweilous"
     },
     {
         "id": 635,
@@ -6269,8 +5573,7 @@
         "name": "Hydreigon",
         "sprite": "hydreigon",
         "profileUrl": "/pokedex/hydreigon",
-        "imgUrl": "hydreigon",
-        "spriteClass": "n635"
+        "imgUrl": "hydreigon"
     },
     {
         "id": 636,
@@ -6278,8 +5581,7 @@
         "name": "Larvesta",
         "sprite": "larvesta",
         "profileUrl": "/pokedex/larvesta",
-        "imgUrl": "larvesta",
-        "spriteClass": "n636"
+        "imgUrl": "larvesta"
     },
     {
         "id": 637,
@@ -6287,8 +5589,7 @@
         "name": "Volcarona",
         "sprite": "volcarona",
         "profileUrl": "/pokedex/volcarona",
-        "imgUrl": "volcarona",
-        "spriteClass": "n637"
+        "imgUrl": "volcarona"
     },
     {
         "id": 638,
@@ -6296,8 +5597,7 @@
         "name": "Cobalion",
         "sprite": "cobalion",
         "profileUrl": "/pokedex/cobalion",
-        "imgUrl": "cobalion",
-        "spriteClass": "n638"
+        "imgUrl": "cobalion"
     },
     {
         "id": 639,
@@ -6305,8 +5605,7 @@
         "name": "Terrakion",
         "sprite": "terrakion",
         "profileUrl": "/pokedex/terrakion",
-        "imgUrl": "terrakion",
-        "spriteClass": "n639"
+        "imgUrl": "terrakion"
     },
     {
         "id": 640,
@@ -6314,8 +5613,7 @@
         "name": "Virizion",
         "sprite": "virizion",
         "profileUrl": "/pokedex/virizion",
-        "imgUrl": "virizion",
-        "spriteClass": "n640"
+        "imgUrl": "virizion"
     },
     {
         "id": 641,
@@ -6323,8 +5621,7 @@
         "name": "Tornadus",
         "sprite": "tornadus",
         "profileUrl": "/pokedex/tornadus",
-        "imgUrl": "tornadus",
-        "spriteClass": "n641"
+        "imgUrl": "tornadus"
     },
     {
         "id": 641,
@@ -6332,8 +5629,7 @@
         "name": "Tornadus",
         "sprite": "tornadus",
         "profileUrl": "/pokedex/tornadus",
-        "imgUrl": "tornadus",
-        "spriteClass": "n641"
+        "imgUrl": "tornadus"
     },
     {
         "id": 642,
@@ -6341,8 +5637,7 @@
         "name": "Thundurus",
         "sprite": "thundurus",
         "profileUrl": "/pokedex/thundurus",
-        "imgUrl": "thundurus",
-        "spriteClass": "n642"
+        "imgUrl": "thundurus"
     },
     {
         "id": 642,
@@ -6350,8 +5645,7 @@
         "name": "Thundurus",
         "sprite": "thundurus",
         "profileUrl": "/pokedex/thundurus",
-        "imgUrl": "thundurus",
-        "spriteClass": "n642"
+        "imgUrl": "thundurus"
     },
     {
         "id": 643,
@@ -6359,8 +5653,7 @@
         "name": "Reshiram",
         "sprite": "reshiram",
         "profileUrl": "/pokedex/reshiram",
-        "imgUrl": "reshiram",
-        "spriteClass": "n643"
+        "imgUrl": "reshiram"
     },
     {
         "id": 644,
@@ -6368,8 +5661,7 @@
         "name": "Zekrom",
         "sprite": "zekrom",
         "profileUrl": "/pokedex/zekrom",
-        "imgUrl": "zekrom",
-        "spriteClass": "n644"
+        "imgUrl": "zekrom"
     },
     {
         "id": 645,
@@ -6377,8 +5669,7 @@
         "name": "Landorus",
         "sprite": "landorus",
         "profileUrl": "/pokedex/landorus",
-        "imgUrl": "landorus",
-        "spriteClass": "n645"
+        "imgUrl": "landorus"
     },
     {
         "id": 645,
@@ -6386,8 +5677,7 @@
         "name": "Landorus",
         "sprite": "landorus",
         "profileUrl": "/pokedex/landorus",
-        "imgUrl": "landorus",
-        "spriteClass": "n645"
+        "imgUrl": "landorus"
     },
     {
         "id": 646,
@@ -6395,8 +5685,7 @@
         "name": "Kyurem",
         "sprite": "kyurem",
         "profileUrl": "/pokedex/kyurem",
-        "imgUrl": "kyurem",
-        "spriteClass": "n646"
+        "imgUrl": "kyurem"
     },
     {
         "id": 646,
@@ -6404,8 +5693,7 @@
         "name": "Kyurem",
         "sprite": "kyurem",
         "profileUrl": "/pokedex/kyurem",
-        "imgUrl": "kyurem",
-        "spriteClass": "n646"
+        "imgUrl": "kyurem"
     },
     {
         "id": 646,
@@ -6413,8 +5701,7 @@
         "name": "Kyurem",
         "sprite": "kyurem",
         "profileUrl": "/pokedex/kyurem",
-        "imgUrl": "kyurem",
-        "spriteClass": "n646"
+        "imgUrl": "kyurem"
     },
     {
         "id": 647,
@@ -6422,8 +5709,7 @@
         "name": "Keldeo",
         "sprite": "keldeo",
         "profileUrl": "/pokedex/keldeo",
-        "imgUrl": "keldeo",
-        "spriteClass": "n647"
+        "imgUrl": "keldeo"
     },
     {
         "id": 647,
@@ -6431,8 +5717,7 @@
         "name": "Keldeo",
         "sprite": "keldeo",
         "profileUrl": "/pokedex/keldeo",
-        "imgUrl": "keldeo",
-        "spriteClass": "n647"
+        "imgUrl": "keldeo"
     },
     {
         "id": 648,
@@ -6440,8 +5725,7 @@
         "name": "Meloetta",
         "sprite": "meloetta",
         "profileUrl": "/pokedex/meloetta",
-        "imgUrl": "meloetta",
-        "spriteClass": "n648"
+        "imgUrl": "meloetta"
     },
     {
         "id": 648,
@@ -6449,8 +5733,7 @@
         "name": "Meloetta",
         "sprite": "meloetta",
         "profileUrl": "/pokedex/meloetta",
-        "imgUrl": "meloetta",
-        "spriteClass": "n648"
+        "imgUrl": "meloetta"
     },
     {
         "id": 649,
@@ -6458,8 +5741,7 @@
         "name": "Genesect",
         "sprite": "genesect",
         "profileUrl": "/pokedex/genesect",
-        "imgUrl": "genesect",
-        "spriteClass": "n649"
+        "imgUrl": "genesect"
     },
     {
         "id": 650,
@@ -6467,8 +5749,7 @@
         "name": "Chespin",
         "sprite": "chespin",
         "profileUrl": "/pokedex/chespin",
-        "imgUrl": "chespin",
-        "spriteClass": "n650"
+        "imgUrl": "chespin"
     },
     {
         "id": 651,
@@ -6476,8 +5757,7 @@
         "name": "Quilladin",
         "sprite": "quilladin",
         "profileUrl": "/pokedex/quilladin",
-        "imgUrl": "quilladin",
-        "spriteClass": "n651"
+        "imgUrl": "quilladin"
     },
     {
         "id": 652,
@@ -6485,8 +5765,7 @@
         "name": "Chesnaught",
         "sprite": "chesnaught",
         "profileUrl": "/pokedex/chesnaught",
-        "imgUrl": "chesnaught",
-        "spriteClass": "n652"
+        "imgUrl": "chesnaught"
     },
     {
         "id": 653,
@@ -6494,8 +5773,7 @@
         "name": "Fennekin",
         "sprite": "fennekin",
         "profileUrl": "/pokedex/fennekin",
-        "imgUrl": "fennekin",
-        "spriteClass": "n653"
+        "imgUrl": "fennekin"
     },
     {
         "id": 654,
@@ -6503,8 +5781,7 @@
         "name": "Braixen",
         "sprite": "braixen",
         "profileUrl": "/pokedex/braixen",
-        "imgUrl": "braixen",
-        "spriteClass": "n654"
+        "imgUrl": "braixen"
     },
     {
         "id": 655,
@@ -6512,8 +5789,7 @@
         "name": "Delphox",
         "sprite": "delphox",
         "profileUrl": "/pokedex/delphox",
-        "imgUrl": "delphox",
-        "spriteClass": "n655"
+        "imgUrl": "delphox"
     },
     {
         "id": 656,
@@ -6521,8 +5797,7 @@
         "name": "Froakie",
         "sprite": "froakie",
         "profileUrl": "/pokedex/froakie",
-        "imgUrl": "froakie",
-        "spriteClass": "n656"
+        "imgUrl": "froakie"
     },
     {
         "id": 657,
@@ -6530,8 +5805,7 @@
         "name": "Frogadier",
         "sprite": "frogadier",
         "profileUrl": "/pokedex/frogadier",
-        "imgUrl": "frogadier",
-        "spriteClass": "n657"
+        "imgUrl": "frogadier"
     },
     {
         "id": 658,
@@ -6539,8 +5813,7 @@
         "name": "Greninja",
         "sprite": "greninja",
         "profileUrl": "/pokedex/greninja",
-        "imgUrl": "greninja",
-        "spriteClass": "n658"
+        "imgUrl": "greninja"
     },
     {
         "id": 659,
@@ -6548,8 +5821,7 @@
         "name": "Bunnelby",
         "sprite": "bunnelby",
         "profileUrl": "/pokedex/bunnelby",
-        "imgUrl": "bunnelby",
-        "spriteClass": "n659"
+        "imgUrl": "bunnelby"
     },
     {
         "id": 660,
@@ -6557,8 +5829,7 @@
         "name": "Diggersby",
         "sprite": "diggersby",
         "profileUrl": "/pokedex/diggersby",
-        "imgUrl": "diggersby",
-        "spriteClass": "n660"
+        "imgUrl": "diggersby"
     },
     {
         "id": 661,
@@ -6566,8 +5837,7 @@
         "name": "Fletchling",
         "sprite": "fletchling",
         "profileUrl": "/pokedex/fletchling",
-        "imgUrl": "fletchling",
-        "spriteClass": "n661"
+        "imgUrl": "fletchling"
     },
     {
         "id": 662,
@@ -6575,8 +5845,7 @@
         "name": "Fletchinder",
         "sprite": "fletchinder",
         "profileUrl": "/pokedex/fletchinder",
-        "imgUrl": "fletchinder",
-        "spriteClass": "n662"
+        "imgUrl": "fletchinder"
     },
     {
         "id": 663,
@@ -6584,8 +5853,7 @@
         "name": "Talonflame",
         "sprite": "talonflame",
         "profileUrl": "/pokedex/talonflame",
-        "imgUrl": "talonflame",
-        "spriteClass": "n663"
+        "imgUrl": "talonflame"
     },
     {
         "id": 664,
@@ -6593,8 +5861,7 @@
         "name": "Scatterbug",
         "sprite": "scatterbug",
         "profileUrl": "/pokedex/scatterbug",
-        "imgUrl": "scatterbug",
-        "spriteClass": "n664"
+        "imgUrl": "scatterbug"
     },
     {
         "id": 665,
@@ -6602,8 +5869,7 @@
         "name": "Spewpa",
         "sprite": "spewpa",
         "profileUrl": "/pokedex/spewpa",
-        "imgUrl": "spewpa",
-        "spriteClass": "n665"
+        "imgUrl": "spewpa"
     },
     {
         "id": 666,
@@ -6611,8 +5877,7 @@
         "name": "Vivillon",
         "sprite": "vivillon",
         "profileUrl": "/pokedex/vivillon",
-        "imgUrl": "vivillon",
-        "spriteClass": "n666"
+        "imgUrl": "vivillon"
     },
     {
         "id": 667,
@@ -6620,8 +5885,7 @@
         "name": "Litleo",
         "sprite": "litleo",
         "profileUrl": "/pokedex/litleo",
-        "imgUrl": "litleo",
-        "spriteClass": "n667"
+        "imgUrl": "litleo"
     },
     {
         "id": 668,
@@ -6629,8 +5893,7 @@
         "name": "Pyroar",
         "sprite": "pyroar",
         "profileUrl": "/pokedex/pyroar",
-        "imgUrl": "pyroar",
-        "spriteClass": "n668"
+        "imgUrl": "pyroar"
     },
     {
         "id": 669,
@@ -6638,8 +5901,7 @@
         "name": "Flabébé",
         "sprite": "flabebe",
         "profileUrl": "/pokedex/flabebe",
-        "imgUrl": "flabebe",
-        "spriteClass": "n669"
+        "imgUrl": "flabebe"
     },
     {
         "id": 670,
@@ -6647,8 +5909,7 @@
         "name": "Floette",
         "sprite": "floette",
         "profileUrl": "/pokedex/floette",
-        "imgUrl": "floette",
-        "spriteClass": "n670"
+        "imgUrl": "floette"
     },
     {
         "id": 671,
@@ -6656,8 +5917,7 @@
         "name": "Florges",
         "sprite": "florges",
         "profileUrl": "/pokedex/florges",
-        "imgUrl": "florges",
-        "spriteClass": "n671"
+        "imgUrl": "florges"
     },
     {
         "id": 672,
@@ -6665,8 +5925,7 @@
         "name": "Skiddo",
         "sprite": "skiddo",
         "profileUrl": "/pokedex/skiddo",
-        "imgUrl": "skiddo",
-        "spriteClass": "n672"
+        "imgUrl": "skiddo"
     },
     {
         "id": 673,
@@ -6674,8 +5933,7 @@
         "name": "Gogoat",
         "sprite": "gogoat",
         "profileUrl": "/pokedex/gogoat",
-        "imgUrl": "gogoat",
-        "spriteClass": "n673"
+        "imgUrl": "gogoat"
     },
     {
         "id": 674,
@@ -6683,8 +5941,7 @@
         "name": "Pancham",
         "sprite": "pancham",
         "profileUrl": "/pokedex/pancham",
-        "imgUrl": "pancham",
-        "spriteClass": "n674"
+        "imgUrl": "pancham"
     },
     {
         "id": 675,
@@ -6692,8 +5949,7 @@
         "name": "Pangoro",
         "sprite": "pangoro",
         "profileUrl": "/pokedex/pangoro",
-        "imgUrl": "pangoro",
-        "spriteClass": "n675"
+        "imgUrl": "pangoro"
     },
     {
         "id": 676,
@@ -6701,8 +5957,7 @@
         "name": "Furfrou",
         "sprite": "furfrou",
         "profileUrl": "/pokedex/furfrou",
-        "imgUrl": "furfrou",
-        "spriteClass": "n676"
+        "imgUrl": "furfrou"
     },
     {
         "id": 677,
@@ -6710,8 +5965,7 @@
         "name": "Espurr",
         "sprite": "espurr",
         "profileUrl": "/pokedex/espurr",
-        "imgUrl": "espurr",
-        "spriteClass": "n677"
+        "imgUrl": "espurr"
     },
     {
         "id": 678,
@@ -6719,8 +5973,7 @@
         "name": "Meowstic",
         "sprite": "meowstic",
         "profileUrl": "/pokedex/meowstic",
-        "imgUrl": "meowstic",
-        "spriteClass": "n678"
+        "imgUrl": "meowstic"
     },
     {
         "id": 678,
@@ -6728,8 +5981,7 @@
         "name": "Meowstic",
         "sprite": "meowstic",
         "profileUrl": "/pokedex/meowstic",
-        "imgUrl": "meowstic",
-        "spriteClass": "n678"
+        "imgUrl": "meowstic"
     },
     {
         "id": 679,
@@ -6737,8 +5989,7 @@
         "name": "Honedge",
         "sprite": "honedge",
         "profileUrl": "/pokedex/honedge",
-        "imgUrl": "honedge",
-        "spriteClass": "n679"
+        "imgUrl": "honedge"
     },
     {
         "id": 680,
@@ -6746,8 +5997,7 @@
         "name": "Doublade",
         "sprite": "doublade",
         "profileUrl": "/pokedex/doublade",
-        "imgUrl": "doublade",
-        "spriteClass": "n680"
+        "imgUrl": "doublade"
     },
     {
         "id": 681,
@@ -6755,8 +6005,7 @@
         "name": "Aegislash",
         "sprite": "aegislash",
         "profileUrl": "/pokedex/aegislash",
-        "imgUrl": "aegislash",
-        "spriteClass": "n681"
+        "imgUrl": "aegislash"
     },
     {
         "id": 681,
@@ -6764,8 +6013,7 @@
         "name": "Aegislash",
         "sprite": "aegislash",
         "profileUrl": "/pokedex/aegislash",
-        "imgUrl": "aegislash",
-        "spriteClass": "n681"
+        "imgUrl": "aegislash"
     },
     {
         "id": 682,
@@ -6773,8 +6021,7 @@
         "name": "Spritzee",
         "sprite": "spritzee",
         "profileUrl": "/pokedex/spritzee",
-        "imgUrl": "spritzee",
-        "spriteClass": "n682"
+        "imgUrl": "spritzee"
     },
     {
         "id": 683,
@@ -6782,8 +6029,7 @@
         "name": "Aromatisse",
         "sprite": "aromatisse",
         "profileUrl": "/pokedex/aromatisse",
-        "imgUrl": "aromatisse",
-        "spriteClass": "n683"
+        "imgUrl": "aromatisse"
     },
     {
         "id": 684,
@@ -6791,8 +6037,7 @@
         "name": "Swirlix",
         "sprite": "swirlix",
         "profileUrl": "/pokedex/swirlix",
-        "imgUrl": "swirlix",
-        "spriteClass": "n684"
+        "imgUrl": "swirlix"
     },
     {
         "id": 685,
@@ -6800,8 +6045,7 @@
         "name": "Slurpuff",
         "sprite": "slurpuff",
         "profileUrl": "/pokedex/slurpuff",
-        "imgUrl": "slurpuff",
-        "spriteClass": "n685"
+        "imgUrl": "slurpuff"
     },
     {
         "id": 686,
@@ -6809,8 +6053,7 @@
         "name": "Inkay",
         "sprite": "inkay",
         "profileUrl": "/pokedex/inkay",
-        "imgUrl": "inkay",
-        "spriteClass": "n686"
+        "imgUrl": "inkay"
     },
     {
         "id": 687,
@@ -6818,8 +6061,7 @@
         "name": "Malamar",
         "sprite": "malamar",
         "profileUrl": "/pokedex/malamar",
-        "imgUrl": "malamar",
-        "spriteClass": "n687"
+        "imgUrl": "malamar"
     },
     {
         "id": 688,
@@ -6827,8 +6069,7 @@
         "name": "Binacle",
         "sprite": "binacle",
         "profileUrl": "/pokedex/binacle",
-        "imgUrl": "binacle",
-        "spriteClass": "n688"
+        "imgUrl": "binacle"
     },
     {
         "id": 689,
@@ -6836,8 +6077,7 @@
         "name": "Barbaracle",
         "sprite": "barbaracle",
         "profileUrl": "/pokedex/barbaracle",
-        "imgUrl": "barbaracle",
-        "spriteClass": "n689"
+        "imgUrl": "barbaracle"
     },
     {
         "id": 690,
@@ -6845,8 +6085,7 @@
         "name": "Skrelp",
         "sprite": "skrelp",
         "profileUrl": "/pokedex/skrelp",
-        "imgUrl": "skrelp",
-        "spriteClass": "n690"
+        "imgUrl": "skrelp"
     },
     {
         "id": 691,
@@ -6854,8 +6093,7 @@
         "name": "Dragalge",
         "sprite": "dragalge",
         "profileUrl": "/pokedex/dragalge",
-        "imgUrl": "dragalge",
-        "spriteClass": "n691"
+        "imgUrl": "dragalge"
     },
     {
         "id": 692,
@@ -6863,8 +6101,7 @@
         "name": "Clauncher",
         "sprite": "clauncher",
         "profileUrl": "/pokedex/clauncher",
-        "imgUrl": "clauncher",
-        "spriteClass": "n692"
+        "imgUrl": "clauncher"
     },
     {
         "id": 693,
@@ -6872,8 +6109,7 @@
         "name": "Clawitzer",
         "sprite": "clawitzer",
         "profileUrl": "/pokedex/clawitzer",
-        "imgUrl": "clawitzer",
-        "spriteClass": "n693"
+        "imgUrl": "clawitzer"
     },
     {
         "id": 694,
@@ -6881,8 +6117,7 @@
         "name": "Helioptile",
         "sprite": "helioptile",
         "profileUrl": "/pokedex/helioptile",
-        "imgUrl": "helioptile",
-        "spriteClass": "n694"
+        "imgUrl": "helioptile"
     },
     {
         "id": 695,
@@ -6890,8 +6125,7 @@
         "name": "Heliolisk",
         "sprite": "heliolisk",
         "profileUrl": "/pokedex/heliolisk",
-        "imgUrl": "heliolisk",
-        "spriteClass": "n695"
+        "imgUrl": "heliolisk"
     },
     {
         "id": 696,
@@ -6899,8 +6133,7 @@
         "name": "Tyrunt",
         "sprite": "tyrunt",
         "profileUrl": "/pokedex/tyrunt",
-        "imgUrl": "tyrunt",
-        "spriteClass": "n696"
+        "imgUrl": "tyrunt"
     },
     {
         "id": 697,
@@ -6908,8 +6141,7 @@
         "name": "Tyrantrum",
         "sprite": "tyrantrum",
         "profileUrl": "/pokedex/tyrantrum",
-        "imgUrl": "tyrantrum",
-        "spriteClass": "n697"
+        "imgUrl": "tyrantrum"
     },
     {
         "id": 698,
@@ -6917,8 +6149,7 @@
         "name": "Amaura",
         "sprite": "amaura",
         "profileUrl": "/pokedex/amaura",
-        "imgUrl": "amaura",
-        "spriteClass": "n698"
+        "imgUrl": "amaura"
     },
     {
         "id": 699,
@@ -6926,8 +6157,7 @@
         "name": "Aurorus",
         "sprite": "aurorus",
         "profileUrl": "/pokedex/aurorus",
-        "imgUrl": "aurorus",
-        "spriteClass": "n699"
+        "imgUrl": "aurorus"
     },
     {
         "id": 700,
@@ -6935,8 +6165,7 @@
         "name": "Sylveon",
         "sprite": "sylveon",
         "profileUrl": "/pokedex/sylveon",
-        "imgUrl": "sylveon",
-        "spriteClass": "n700"
+        "imgUrl": "sylveon"
     },
     {
         "id": 701,
@@ -6944,8 +6173,7 @@
         "name": "Hawlucha",
         "sprite": "hawlucha",
         "profileUrl": "/pokedex/hawlucha",
-        "imgUrl": "hawlucha",
-        "spriteClass": "n701"
+        "imgUrl": "hawlucha"
     },
     {
         "id": 702,
@@ -6953,8 +6181,7 @@
         "name": "Dedenne",
         "sprite": "dedenne",
         "profileUrl": "/pokedex/dedenne",
-        "imgUrl": "dedenne",
-        "spriteClass": "n702"
+        "imgUrl": "dedenne"
     },
     {
         "id": 703,
@@ -6962,8 +6189,7 @@
         "name": "Carbink",
         "sprite": "carbink",
         "profileUrl": "/pokedex/carbink",
-        "imgUrl": "carbink",
-        "spriteClass": "n703"
+        "imgUrl": "carbink"
     },
     {
         "id": 704,
@@ -6971,8 +6197,7 @@
         "name": "Goomy",
         "sprite": "goomy",
         "profileUrl": "/pokedex/goomy",
-        "imgUrl": "goomy",
-        "spriteClass": "n704"
+        "imgUrl": "goomy"
     },
     {
         "id": 705,
@@ -6980,8 +6205,7 @@
         "name": "Sliggoo",
         "sprite": "sliggoo",
         "profileUrl": "/pokedex/sliggoo",
-        "imgUrl": "sliggoo",
-        "spriteClass": "n705"
+        "imgUrl": "sliggoo"
     },
     {
         "id": 706,
@@ -6989,8 +6213,7 @@
         "name": "Goodra",
         "sprite": "goodra",
         "profileUrl": "/pokedex/goodra",
-        "imgUrl": "goodra",
-        "spriteClass": "n706"
+        "imgUrl": "goodra"
     },
     {
         "id": 707,
@@ -6998,8 +6221,7 @@
         "name": "Klefki",
         "sprite": "klefki",
         "profileUrl": "/pokedex/klefki",
-        "imgUrl": "klefki",
-        "spriteClass": "n707"
+        "imgUrl": "klefki"
     },
     {
         "id": 708,
@@ -7007,8 +6229,7 @@
         "name": "Phantump",
         "sprite": "phantump",
         "profileUrl": "/pokedex/phantump",
-        "imgUrl": "phantump",
-        "spriteClass": "n708"
+        "imgUrl": "phantump"
     },
     {
         "id": 709,
@@ -7016,8 +6237,7 @@
         "name": "Trevenant",
         "sprite": "trevenant",
         "profileUrl": "/pokedex/trevenant",
-        "imgUrl": "trevenant",
-        "spriteClass": "n709"
+        "imgUrl": "trevenant"
     },
     {
         "id": 710,
@@ -7025,8 +6245,7 @@
         "name": "Pumpkaboo",
         "sprite": "pumpkaboo",
         "profileUrl": "/pokedex/pumpkaboo",
-        "imgUrl": "pumpkaboo",
-        "spriteClass": "n710"
+        "imgUrl": "pumpkaboo"
     },
     {
         "id": 710,
@@ -7034,8 +6253,7 @@
         "name": "Pumpkaboo",
         "sprite": "pumpkaboo",
         "profileUrl": "/pokedex/pumpkaboo",
-        "imgUrl": "pumpkaboo",
-        "spriteClass": "n710"
+        "imgUrl": "pumpkaboo"
     },
     {
         "id": 710,
@@ -7043,8 +6261,7 @@
         "name": "Pumpkaboo",
         "sprite": "pumpkaboo",
         "profileUrl": "/pokedex/pumpkaboo",
-        "imgUrl": "pumpkaboo",
-        "spriteClass": "n710"
+        "imgUrl": "pumpkaboo"
     },
     {
         "id": 710,
@@ -7052,8 +6269,7 @@
         "name": "Pumpkaboo",
         "sprite": "pumpkaboo",
         "profileUrl": "/pokedex/pumpkaboo",
-        "imgUrl": "pumpkaboo",
-        "spriteClass": "n710"
+        "imgUrl": "pumpkaboo"
     },
     {
         "id": 711,
@@ -7061,8 +6277,7 @@
         "name": "Gourgeist",
         "sprite": "gourgeist",
         "profileUrl": "/pokedex/gourgeist",
-        "imgUrl": "gourgeist",
-        "spriteClass": "n711"
+        "imgUrl": "gourgeist"
     },
     {
         "id": 711,
@@ -7070,8 +6285,7 @@
         "name": "Gourgeist",
         "sprite": "gourgeist",
         "profileUrl": "/pokedex/gourgeist",
-        "imgUrl": "gourgeist",
-        "spriteClass": "n711"
+        "imgUrl": "gourgeist"
     },
     {
         "id": 711,
@@ -7079,8 +6293,7 @@
         "name": "Gourgeist",
         "sprite": "gourgeist",
         "profileUrl": "/pokedex/gourgeist",
-        "imgUrl": "gourgeist",
-        "spriteClass": "n711"
+        "imgUrl": "gourgeist"
     },
     {
         "id": 711,
@@ -7088,8 +6301,7 @@
         "name": "Gourgeist",
         "sprite": "gourgeist",
         "profileUrl": "/pokedex/gourgeist",
-        "imgUrl": "gourgeist",
-        "spriteClass": "n711"
+        "imgUrl": "gourgeist"
     },
     {
         "id": 712,
@@ -7097,8 +6309,7 @@
         "name": "Bergmite",
         "sprite": "bergmite",
         "profileUrl": "/pokedex/bergmite",
-        "imgUrl": "bergmite",
-        "spriteClass": "n712"
+        "imgUrl": "bergmite"
     },
     {
         "id": 713,
@@ -7106,8 +6317,7 @@
         "name": "Avalugg",
         "sprite": "avalugg",
         "profileUrl": "/pokedex/avalugg",
-        "imgUrl": "avalugg",
-        "spriteClass": "n713"
+        "imgUrl": "avalugg"
     },
     {
         "id": 714,
@@ -7115,8 +6325,7 @@
         "name": "Noibat",
         "sprite": "noibat",
         "profileUrl": "/pokedex/noibat",
-        "imgUrl": "noibat",
-        "spriteClass": "n714"
+        "imgUrl": "noibat"
     },
     {
         "id": 715,
@@ -7124,8 +6333,7 @@
         "name": "Noivern",
         "sprite": "noivern",
         "profileUrl": "/pokedex/noivern",
-        "imgUrl": "noivern",
-        "spriteClass": "n715"
+        "imgUrl": "noivern"
     },
     {
         "id": 716,
@@ -7133,8 +6341,7 @@
         "name": "Xerneas",
         "sprite": "xerneas",
         "profileUrl": "/pokedex/xerneas",
-        "imgUrl": "xerneas",
-        "spriteClass": "n716"
+        "imgUrl": "xerneas"
     },
     {
         "id": 717,
@@ -7142,8 +6349,7 @@
         "name": "Yveltal",
         "sprite": "yveltal",
         "profileUrl": "/pokedex/yveltal",
-        "imgUrl": "yveltal",
-        "spriteClass": "n717"
+        "imgUrl": "yveltal"
     },
     {
         "id": 718,
@@ -7151,8 +6357,7 @@
         "name": "Zygarde",
         "sprite": "zygarde",
         "profileUrl": "/pokedex/zygarde",
-        "imgUrl": "zygarde",
-        "spriteClass": "n718"
+        "imgUrl": "zygarde"
     },
     {
         "id": 719,
@@ -7160,8 +6365,7 @@
         "name": "Diancie",
         "sprite": "diancie",
         "profileUrl": "/pokedex/diancie",
-        "imgUrl": "diancie",
-        "spriteClass": "n719"
+        "imgUrl": "diancie"
     },
     {
         "id": 719,
@@ -7169,8 +6373,7 @@
         "name": "Diancie",
         "sprite": "diancie",
         "profileUrl": "/pokedex/diancie",
-        "imgUrl": "diancie",
-        "spriteClass": "n719"
+        "imgUrl": "diancie"
     },
     {
         "id": 720,
@@ -7178,8 +6381,7 @@
         "name": "Hoopa",
         "sprite": "hoopa",
         "profileUrl": "/pokedex/hoopa",
-        "imgUrl": "hoopa",
-        "spriteClass": "n720"
+        "imgUrl": "hoopa"
     },
     {
         "id": 720,
@@ -7187,8 +6389,7 @@
         "name": "Hoopa",
         "sprite": "hoopa",
         "profileUrl": "/pokedex/hoopa",
-        "imgUrl": "hoopa",
-        "spriteClass": "n720"
+        "imgUrl": "hoopa"
     },
     {
         "id": 721,
@@ -7196,7 +6397,6 @@
         "name": "Volcanion",
         "sprite": "volcanion",
         "profileUrl": "/pokedex/volcanion",
-        "imgUrl": "volcanion",
-        "spriteClass": "n721"
+        "imgUrl": "volcanion"
     }
 ]

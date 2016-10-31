@@ -14,6 +14,7 @@
 	text-align:center;
 	margin:0 0.2em;
 }
+ 
 .bug{background-color:$bug; border-color: $bug;}
 .dragon{background-color:$dragon;  border-color: $dragon;}
 .dark{background-color:$dark;  border-color:$dark;}
@@ -38,6 +39,7 @@
 
 ////BACKGROUND////
 // .bg.fairy{background-color:$fairy; background-image: url('../img/fairy.jpg'); }
+.bg{transition: $transition;}
 .bg.bug{background-color:$bug; }
 .bg.dragon{background-color:$dragon; }
 .bg.dark{background-color:$dark;}
@@ -58,7 +60,10 @@
 .bg.water{background-color:$water;}
 
 ///FOREGROUND
-.fg{background-color:transparent;} ///////REVEAL BG
+.fg{
+	background-color:transparent; ///////REVEAL BG
+	transition: $transition;
+} 
 .fg.bug{
 	#sprite{
 		.container-main-sprite{border-color: $bug;}	
@@ -330,20 +335,74 @@
 	}
 }
 .moves-description{background-color:transparent;}
-.moves-description.dragon{color:$dragon;}
-.moves-description.dark{}
-.moves-description.electric{color:darken($electric,5%);}
-.moves-description.fairy{}
-.moves-description.fighting{}
-.moves-description.fire{}
-.moves-description.flying{}
-.moves-description.ghost{}
-.moves-description.grass{}
-.moves-description.ground{}
-.moves-description.ice{}
-.moves-description.normal{}
-.moves-description.poison{}
-.moves-description.psychic{}
-.moves-description.rock{}
-.moves-description.steel{}
-.moves-description.water{color:$water;}
+.moves-description.bug{color:$bug; border-color:$bug; table{border-color:$bug;}}
+.moves-description.dragon{color:$dragon; border-color:$dragon; table{border-color:$dragon;}}
+.moves-description.dark{color:$dark; border-color:$dark; table{border-color:$dark;}}
+.moves-description.electric{color:darken($electric,5%); border-color: darken($electric, 5%); table{border-color:darken($electric, 5%);}}
+.moves-description.fairy{color:darken($fairy, 10%); border-color:darken($fairy, 10%); table{border-color:darken($fairy, 10%);}}
+.moves-description.fighting{color:$fighting; border-color:$fighting; table{border-color:$fighting;}}
+.moves-description.fire{color:$fire; border-color:$fire; table{border-color:$fire;}}
+.moves-description.flying{color:darken($flying, 10%); border-color:darken($flying, 10%); table{border-color:darken($flying, 10%);}}
+.moves-description.ghost{color:$ghost; border-color:$ghost; table{border-color:$ghost;}}
+.moves-description.grass{color:darken($grass, 5%); border-color:darken($grass, 5%); table{border-color:arken($grass, 5%);}}
+.moves-description.ground{color:$ground; border-color:$ground; table{border-color:$ground;}}
+.moves-description.ice{color:darken($ice, 5%); border-color:darken($ice, 5%); table{border-color:darken($ice, 5%);}}
+.moves-description.normal{color:darken($normal, 5%); border-color:darken($normal, 5%); table{border-color: darken($normal, 5%);}}
+.moves-description.poison{color:$poison; border-color:$poison; table{border-color:$poison;}}
+.moves-description.psychic{color:$psychic; border-color:$psychic; table{border-color:$psychic;}}
+.moves-description.rock{color:$rock; border-color:$rock; table{border-color:$rock;}}
+.moves-description.steel{color:darken($steel, 10%); border-color:darken($steel, 10%); table{border-color:darken($steel, 10%);}}
+.moves-description.water{color:$water; border-color:$water; table{border-color:$water;}}
+
+.name.bug{color:$bug;}
+.name.dragon{color:$dragon;}
+.name.dark{color:$dark;}
+.name.electric{color:$electric;}
+.name.fairy{color:$fairy;}
+.name.fighting{color:$fighting;}
+.name.fire{color:$fire;}
+.name.flying{color:$flying;}
+.name.ghost{color:$ghost;}
+.name.grass{color:$grass;}
+.name.ground{color:$ground;}
+.name.ice{color:$ice;}
+.name.normal{color:$normal;}
+.name.poison{color:$poison;}
+.name.psychic{color:$psychic;}
+.name.rock{color:$rock;}
+.name.steel{color:$steel;}
+.name.water{color:$water;}
+
+.card{box-shadow:0em 0.3em 1em 0.2em;}
+.card.bug{color:darken($bug, 15%);}
+.card.dragon{color:darken($dragon, 15%);}
+.card.dark{color:darken($dark, 15%);}
+.card.electric{color:darken($electric, 15%);}
+.card.fairy{color:darken($fairy, 15%);}
+.card.fighting{color:darken($fighting, 15%);}
+.card.fire{color:darken($fire, 15%);}
+.card.flying{color:darken($flying, 15%);}
+.card.ghost{color:darken($ghost, 15%);}
+.card.grass{color:darken($grass, 15%);}
+.card.ground{color:darken($ground, 15%);}
+.card.ice{color:darken($ice, 15%);}
+.card.normal{color:darken($normal, 15%);}
+.card.poison{color:darken($poison, 15%);}
+.card.psychic{color:darken($psychic, 15%);}
+.card.rock{color:darken($rock, 15%);}
+.card.steel{color:darken($steel, 15%);}
+.card.water{color:darken($water, 15%);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -9,8 +9,14 @@ require('events').EventEmitter.defaultMaxListeners = Infinity;
 fs.readFile('../json/list.json', 'utf8', function (err, data) {
     if (err) throw err; 
     var obj = JSON.parse(data);
-	    for(i = 0; i < 1; i++){
-	    	download_gif(obj[40], 1);
+	    for(i = 0; i < obj.length; i++){
+	    	download_gif(obj[i], 1);
+	    	
+	    	if(i % 15 == 0 ){
+	    		sleepFor(5000);
+	    	} else{
+	    		sleepFor(1000);
+	    	}
 	    };	    	
     });
 
@@ -27,12 +33,11 @@ function download_gif(item, attempts) {
 		    	console.log("failed more than 3 times, not retrying");
 		    }
 		})
-		.pipe(fs.createWriteStream('../img/'+ item.sprite + ".gif"));
+		.pipe(fs.createWriteStream('../img/'+ item.name.toLowerCase() + ".gif"));
 }
 
-function pause(milliseconds) {
-	var dt = new Date();
-	while ((new Date()) - dt <= milliseconds) { /* Do nothing */ }
+function sleepFor( sleepDuration ){
+    var now = new Date().getTime();
+    while(new Date().getTime() < now + sleepDuration){ /* do nothing */ } 
 }
-
 

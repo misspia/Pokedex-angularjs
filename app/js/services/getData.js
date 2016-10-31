@@ -12,6 +12,9 @@ pkmApp.factory('getData', function($http){
     getDesc: function(){
       return $http.get(filepath + "moves.json");
     },
+    getEvol: function(){
+      return $http.get(filepath + "evolution.json");
+    },
     getDetail: function(move, type, index, displayMoves){
       moveDetail['move'] = move;
       moveDetail['type'] = type;
@@ -46,40 +49,105 @@ pkmApp.factory('manipulateString', function(){
     }
   };
 });
-pkmApp.factory('choose', function(){
+pkmApp.factory('choose', function(getData){
   var displayMoves = {};
+  var evolution = {};
   return{
     moveCategory: function(){
-      category = [
-          {label:"Level Up", value: 'moves learnt by level up'},
-          {label:"Egg", value:'egg moves'},
-          {label:"Tutor", value:'move tutor moves'},
-          {label:"HM", value:'moves learnt by hm'},
-          {label:"TM", value:'moves learnt by tm'},
-          {label:"Transfer-only", value:'transfer-only moves'},
-      ];
+      category = ["Level Up", "Egg", "Tutor", "HM", "TM", "Transfer-only"];
       return category;
     },
     chooseMoveSet: function(category, entry){
         switch(category.toLowerCase()){
-          case "moves learnt by level up":
-            return displayMoves = entry.moves[0];
+          case "level up":
+            if(entry.moves[0] == undefined){
+              return displayMoves = 'na';
+            } else{
+              return displayMoves = entry.moves[0];
+            }
             break;
-          case "egg moves":
-          return displayMoves = entry.moves[1];
+          case "egg":
+            if(entry.moves[1] == undefined){
+              return displayMoves = 'na';
+            } else{
+              return displayMoves = entry.moves[1];
+            }
             break;
-          case "move tutor moves":
-            return displayMoves = entry.moves[2];
+          case "tutor":
+            if(entry.moves[2] == undefined){
+              return displayMoves = 'na';
+            } else{
+              return displayMoves = entry.moves[2];
+            }
             break;
-          case "moves learnt by hm":
-            return displayMoves = entry.moves[3];
+          case "hm":
+            if(entry.moves[3] == undefined){
+              return displayMoves = 'na';
+            } else{
+              return displayMoves = entry.moves[3];
+            }
             break;
-          case "moves learnt by tm":
-            return displayMoves = entry.moves[4];
+          case "tm":
+            if(entry.moves[4] == undefined){
+              return displayMoves = 'na';
+            } else{
+              return displayMoves = entry.moves[4];
+            }
             break;
-          case "transfer-only moves":
-            return displayMoves = entry.moves[5];
+          case "transfer-only":   
+            if(entry.moves[5] == undefined){
+              return displayMoves = 'na';
+            } else{
+              return displayMoves = entry.moves[5];
+            }
       };
+    },
+    findEvolTree: function(member, treeLength, evolData){
+
+     if(member == 'eevee' || member == 'vaporeon' || member == 'jolteon' || member == 'flareon' || member == 'sylveon' || member == 'espeon' || member == 'umbreon' || member == 'leafeon' || member == 'glaceon') {
+                
+          return evolution = evolData;
+
+        } else if(treeLength == 3){
+          
+          return evolution = evolData;
+
+        } else if (treeLength == 2){
+
+          return evolution = evolData;
+        }
+
+    }, //findEvolTree end
+    evolState: function(name, treeLength){
+     if(member == 'eevee' || member == 'vaporeon' || member == 'jolteon' || member == 'flareon' || member == 'sylveon' || member == 'espeon' || member == 'umbreon' || member == 'leafeon' || member == 'glaceon') {
+                
+          return evolState = 'eevee';
+
+        } else if(treeLength == 3){
+          
+          return evolState = treeLength;
+
+        } else if (treeLength == 2){
+
+          return evolState = treeLength;
+        }      
     }
   }
+});
+pkmApp.factory('compute', function(){
+  return {
+    objectLength: function(obj){
+
+        var objLength = 0;
+        var k;
+        for (k in obj) {
+          if (obj.hasOwnProperty(k)) {
+              objLength++;
+          }
+        } 
+         
+        return objLength;   
+    }
+    
+  };
 });

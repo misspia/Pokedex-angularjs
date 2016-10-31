@@ -1,6 +1,7 @@
 $border: solid 1px black;
 $font: 'Muli', sans-serif;
 $font-type: 'Nunito', sans-serif;
+$transition: all 0.5s;
 $red: #f05c5f;
 $dred: #bf494c;
 $gray: #afb3b5;
@@ -12,8 +13,8 @@ $dblue: #3498db;
 $listcolor: #80807c;
 
 //TYPES
-$bug:#b0c151;
-$dragon:#51669f;
+$bug:#bbc169;
+$dragon:#4e5573;
 $dark:#3f3f3f;
 $electric:#fcce54; //#f8db65
 $fairy:#f2c6d5;
@@ -25,11 +26,11 @@ $grass:#5ECA7F;
 $ground:#8d725f;
 $ice:#4ec2e7;
 $normal:#d4c197;
-$poison:#7277d5;
+$poison:#ba597e;
 $psychic:#7277d5;
 $rock:#b1a484;
 $steel:#c5cbd4;
-$water:#5c9ded;
+$water:#4c72a8; //#4c72a8	#5c9ded
 
 
 //mixins
@@ -38,22 +39,3 @@ $water:#5c9ded;
 	width: $width;
 	border-radius: 50%;
 }
-
-// $types: (dragon, dark, electric, fairy, fighting, fire, flying, ghost, grass, ground, ice, normal, poison, psychic, rock, steel, water);
-// .dragon
-// .dark
-// .electric
-// .fairy
-// .fighting
-// .fire
-// .flying
-// .ghost
-// .grass
-// .ground
-// .ice
-// .normal
-// .poison
-// .psychic
-// .rock
-// .steel
-// .water

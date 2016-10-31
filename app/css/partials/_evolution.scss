@@ -1,0 +1,67 @@
+@import 'variables';
+
+#evolution-3,
+#evolution-2,
+#evolution-1,
+#evolution-eevee{
+	.stage{
+		flex:1;
+		// border:solid 0.1em $fire;
+	}
+	.stage-item{
+		padding:1em 0;
+	}
+	.condition, .evol-item{
+		flex:1;
+		// border: $border;
+	}
+	.condition{
+		max-width:7em;
+		span{
+			font-size:0.7em;
+		}
+		i{
+			font-size:2em;
+		}		
+	}
+	.evol-item{
+		span{
+			display:inline-block;
+			line-height:4em;
+		}
+	}
+}
+#evolution-1{
+	.evol-item{
+		// height:100%;
+	}
+}
+#evolution-2{
+	.stage{
+		&:nth-child(1){
+			flex:0.65;
+		}
+	}	
+}
+#evolution-3{
+	.stage{
+		&:nth-child(1){
+			flex:0.6;
+		}
+	}
+}
+#evolution-eevee{
+	.group{
+		transform:scale(0.9);
+	}
+	.stage{
+		&:nth-child(2){
+			flex:0.8;
+		}
+	}
+	.evol-item{
+		img{
+			transform:scale(0.8);
+		}
+	}
+}

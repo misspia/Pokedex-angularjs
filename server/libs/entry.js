@@ -11,7 +11,7 @@ fs.readFile('../json/list.json', 'utf8', function (err, data) {
     if (err) throw err; 
     var obj = JSON.parse(data);
 	    for(i = 0; i < 1; i++){
-	    	requestPkm(obj[13], 1);
+	    	requestPkm(obj[550], 1);
 	    	sleepFor(500);
 	    };	    	
    });
