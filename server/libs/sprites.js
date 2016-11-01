@@ -19,6 +19,8 @@ fs.readFile('../json/list.json', 'utf8', function (err, data) {
 	    	}
 	    };	    	
     });
+///////////////////////////////////fan art only for following megas:
+////////////////////////////////// swampert, sceptile, sableye, sharpedo, camerupt, altaria, metagross, rayquaza, lopunny, gallade, audino, diancie, slowbro, steelix
 
 function download_gif(item, attempts) {
 	console.log("current: " + item.sprite);
