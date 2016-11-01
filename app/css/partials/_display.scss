@@ -20,7 +20,13 @@
 			transition: $transition;
 		}
 	}
+	tr{
+		&:last-child{
+			font-size:0.5em;
+		}
+	}
 }
+
 #details{
 	flex:2;
 	ng-include{
@@ -49,7 +55,11 @@
 				&:nth-child(2){flex:2;}
 			}
 		}
-	
+		.species {
+			span{
+				padding: 0 0.5em;
+			}
+		}
 	}
 }
 #basic{

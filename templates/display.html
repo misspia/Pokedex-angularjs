@@ -1,7 +1,7 @@
 <ul id='display' class= 'col center'>
 	<li class='pkm-description col center card {{typeColor}} '>
 		<span class="row center name">{{id}} {{name | uppercase}}</span>
-		<span class="row center species">{{entry.Species | uppercase}}</span>
+		<span class="row center species">{{entry.Species | uppercase}}  <span ng-if = "form != '' "> | {{form |uppercase}}</span></span>
 		<ul class="row center" style="padding-bottom: 1em;">
 			<li ng-repeat = "t in entry.Type" ><span class="type {{t | lowercase}}">{{t | uppercase}}</span></li>
 		</ul>

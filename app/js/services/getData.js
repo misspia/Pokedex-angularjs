@@ -32,6 +32,8 @@ pkmApp.factory('getData', function($http){
     }
   }; 	
 });
+
+
 pkmApp.factory('manipulateString', function(){
   return{
     clearBracket: function(string){
@@ -49,6 +51,8 @@ pkmApp.factory('manipulateString', function(){
     }
   };
 });
+
+
 pkmApp.factory('choose', function(getData){
   var displayMoves = {};
   var evolution = {};
@@ -134,6 +138,8 @@ pkmApp.factory('choose', function(getData){
     }
   }
 });
+
+
 pkmApp.factory('compute', function(){
   return {
     objectLength: function(obj){

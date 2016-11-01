@@ -10,7 +10,8 @@
 	overflow-x:hidden;
 	background-color:transparent;
 	li.ng-scope{
-		line-height:3em;
+		line-height:2.9em;
+		height:3em;
 		padding: 0 1.5em;
 		font-weight: bolder;
 		letter-spacing: 0.1em;
@@ -55,6 +56,13 @@
 			border-style: solid;
 			border-width: 3em 1em 0 0;
 			border-color: $black transparent transparent transparent;
+		}
+		.sprite-name{
+			font-size:1em;
+			span{
+				font-size: 0.5em;
+				padding: 0 0 0 0.6em;
+			}
 		}
 		li.ng-binding{			
 			&:nth-child(2){flex:1 1;}

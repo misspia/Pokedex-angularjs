@@ -1,8 +1,7 @@
 'use strict';
 
 pkmApp.controller('mainCtrl', function($scope, getData, choose, manipulateString, compute) {
-  var eeveelution = ['eevee', 'vaporeon', 'jolteon', 'flareon', 'sylveon', 'espeon', 'umbreon', 'leafeon', 'glaceon'];
-  $scope.stateMain = 1;
+  $scope.stateMain = 0;
   $scope.moveCategory = choose.moveCategory();
   $scope.typeColor = 'dark';
 
@@ -12,10 +11,11 @@ pkmApp.controller('mainCtrl', function($scope, getData, choose, manipulateString
       $scope.masterlist = list;
   });
 
-  $scope.getPkm = function(id, idStr, name, sprite){
+  $scope.getPkm = function(id, idStr, name, sprite, form){
     $scope.id = idStr;
     $scope.name = name;
     $scope.sprite = sprite;
+    $scope.form = form;
 
     getData.getBasic(idStr).then(function(response){
       $scope.entry = response.data;    
