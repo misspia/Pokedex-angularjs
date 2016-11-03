@@ -2671,6 +2671,9 @@ ul {
     width: 3em;
     height: 3em; }
 
+display {
+  height: 90%; }
+
 #section-display {
   flex: 4;
   padding: 5em 0 0em 0; }
@@ -3279,6 +3282,8 @@ ul {
   background-color: transparent; }
 #moves .moves-select, #moves .moves-description {
   padding: 0.5em; }
+#moves moves-description {
+  flex: 2; }
 #moves .moves-description {
   flex: 2; }
   #moves .moves-description .table {
@@ -3296,28 +3301,34 @@ ul {
   width: 100%; }
   #moves .moves-display ul.row {
     flex: 1; }
-#moves .moves-select {
+#moves moves-select {
   flex: 1;
   overflow-y: scroll; }
-  #moves .moves-select li {
-    cursor: pointer;
-    height: 2.5em;
-    margin-bottom: 0.1em;
-    color: #fff;
-    width: 95%;
-    transition: all 0.5s;
-    background-color: #5c5c5c; }
-    #moves .moves-select li:hover {
-      background-color: #707070;
-      transform: translatex(0.7em); }
-  #moves .moves-select .move {
-    display: inline-block;
-    line-height: 0;
-    height: 2.5em;
-    width: 0.5em;
-    border-radius: 0; }
-  #moves .moves-select .move + span {
-    padding: 0 0 0 1em; }
+#moves .moves-select li {
+  cursor: pointer;
+  height: 2.5em;
+  margin-bottom: 0.1em;
+  color: #fff;
+  width: 95%;
+  transition: all 0.5s;
+  background-color: #5c5c5c; }
+  #moves .moves-select li:hover {
+    background-color: #707070;
+    transform: translatex(0.7em); }
+#moves .moves-select .move {
+  display: inline-block;
+  line-height: 0;
+  height: 2.5em;
+  width: 0.5em;
+  border-radius: 0; }
+#moves .moves-select .move + span {
+  padding: 0 0 0 1em; }
+
+evol-state3,
+evol-state2,
+evol-state1,
+evol-state-eevee {
+  width: 100%; }
 
 #evolution-3 .stage,
 #evolution-2 .stage,

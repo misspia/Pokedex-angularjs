@@ -1,35 +1,9 @@
 <li class="row center">
-	<table class="general row center text">
-		<tr>
-			<td>{{height}}</td>
-			<td>{{weight}}</td>
-			<td class = "col center"><span ng-repeat = "a in entry.Abilities">{{a}}</span></td>				
-		</tr>
-		<tr>
-			<th>HEIGHT</th>
-			<th>WEIGHT</th>
-			<th>ABILITIES</th>					
-		</tr>
-	</table>
+	<table-general></table-general>
 </li>
 <li class="row center text">
 	<span >{{entry.description}}</span>
 </li>
 <li class = "row">
-	<table class="stats">
-		<tr ng-repeat="(key, stat) in stats">
-			<th>{{key}}</th>
-			<td ng-init = "sumStat(stat.avg)" class = "text">{{stat.avg}} </td>
-			<td class="gauge  " ><div class = "{{typeColor}}" style = "width: {{stat.avg/260 *100 }}%;"></div></td>
-			<td class = "text">{{stat.min}} </td>
-			<td class = "text">{{stat.max}} </td>
-		</tr>
-		<tr class = "last">
-			<th></th>
-			<td class = "text"></td>
-			<td class= "gauge"></td>
-			<td class = "text">MIN</td>
-			<td class = "text">MAX</td>
-		</tr>
-	</table>
+	<table-stats></table-stats>
 </li>

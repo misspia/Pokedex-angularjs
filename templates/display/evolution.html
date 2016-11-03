@@ -1,45 +1,7 @@
-<li ng-if = "evolState == '3'" ng-repeat = "stage in evolution" class = "col center stage">
-	<ul >
-		<li ng-repeat="(name, condition) in stage" class="col center stage-item">
-			<ul class="row center">
-				<li ng-if ="condition != 'base'" class="col center condition">
-					<i class = "text">&rarr;</i>
-					<span class = "text">{{condition}} </span>
-				</li>
-				<li class="col evol-item">
-					<ul class = "row center">
-						<img src="server/img/{{name}}.gif">
-					</ul>					
-					<span class = "text">{{name | uppercase}} </span>
-				</li>
-			</ul>	
-		</li>
-	</ul>	
-</li>	
-<li ng-if = "evolState == '2'" ng-repeat = "stage in evolution" class = "col center stage">
-	<ul>
-		<li ng-repeat="(name, condition) in stage" class="col center stage-item">
-			<ul class="row center">
-				<li ng-if ="condition != 'base'" class="col center condition">
-					<i class = "text">&rarr;</i>
-					<span class = "text">{{condition}} </span>
-				</li>
-				<li class="col evol-item">
-					<ul class = "row center">
-						<img src="server/img/{{name}}.gif">
-					</ul>					
-					<span class = "text">{{name | uppercase}} </span>
-				</li>
-			</ul>	
-		</li>
-	</ul>	
-</li>
-<li ng-if = "evolState == '1'" class = "col center evol-item">
-	<ul class = "row center evol-state">
-		<ng-include src="'/templates/sprite-main.html'"></ng-include>
-	</ul>
-	<span class = "text">{{name}} does not evolve</span>		
-</li>
+<evol-state3 ng-if = "evolState == '3'" class = "row center"></evol-state3>
+<evol-state2 ng-if = "evolState == '2'" class = "row center"></evol-state2>
+<evol-state1 ng-if = "evolState == '1'" class = "row center"></evol-state1>
+
 <li ng-if = "evolState == 'eevee'"  ng-repeat="(stageNum, stage) in evolution" class = "col center stage">
 	<ul ng-if = "stageNum === 'stage1'" class = "group"> 
 		<li ng-repeat="(name, condition) in stage" class="col center">

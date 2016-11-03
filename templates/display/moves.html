@@ -1,34 +1,9 @@
-<li class = "moves-category-select {{typeColor}} ">
-	<ul class = "row center">
-		<li class="label {{typeColor}} " ng-repeat ="set in moveCategory" ng-click="choseMoveSet(set)"><span >{{set}}</span></li>
-	</ul>
-</li>
+<move-catagory-nav></move-catagory-nav>
 <li class= "row center name {{typeColor}}">{{selectedMoveCategory}}</li>
 <li ng-if = "displayMoves != 'na'" class="col center moves-display">
 	<ul class="row">
-		<li class = "moves-select">
-			<ul >
-				<li class = "col center" ng-repeat="(key, value) in displayMoves.Move track by $index" ng-click = "getDetail(value, displayMoves.Type[key], key)">
-					<span class="move {{displayMoves.Type[key] | lowercase}}"></span>
-					<span >{{value}}</span>
-				</li>
-			</ul>
-		</li>
-		<li class="moves-description col center {{moveDetail.type | lowercase}}">
-			<ul>
-				<li class="row center name">{{moveDetail.move}}</li>
-				<li class="row center"><span class = "type {{moveDetail.type | lowercase}} ">{{moveDetail.type | uppercase}}</span></li>
-				<li class="row center table">
-					<table rules = "cols" class = "{{typeColor}} ">
-						<tr ng-repeat="(key, value) in moveDetail.detail">
-							<th>{{key}} </th><td>{{value}} </td>
-						</tr>
-					</table>
-				</li>
-				<li>{{moveDetail.description}} </li>
-			</ul>
-			
-		</li>
+		<moves-select></moves-select>
+		<moves-description class = "col center"></moves-description>
 	</ul>
 </li>
 <li ng-if = "displayMoves == 'na'" class="col center moves-display text">

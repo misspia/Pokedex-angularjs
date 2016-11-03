@@ -5,20 +5,18 @@
 	<link rel="stylesheet" type="text/css" href="app/css/main.css">
 </head>
 <body ng-controller="mainCtrl">
-	<ul class="index bg {{typeColor}}">
-		<ng-include src="'/templates/background.html'"></ng-include>
-	</ul>
+	<background></background>
 	<ul class="index fg {{typeColor}} row">
 		<li class='section' id='section-pokemon-list'>
-			<ng-include src="'/templates/pokemon-list.html'"></ng-include>
+			<pokemon-list></pokemon-list>
 		</li>
 		<li class='section col center' id='section-display'>
 			<ul class="col center main-outer">
 				<li class="main">
-					<ng-include src="'/templates/display.html'" class="col"></ng-include>
+					<display class = "col"></display>
 				</li>
 				<li class="main"> 
-					<ng-include src="'/templates/nav.html'" class="row center"></ng-include>	
+					<main-nav class = "row center"></main-nav>
 				</li>
 			</ul>							
 		</li>
@@ -29,3 +27,4 @@
 <script type="text/javascript" src="app/js/app.js"></script>
 <script type="text/javascript" src="app/js/controllers/mainCrtl.js"></script>
 <script type="text/javascript" src="app/js/services/getData.js"></script>
+<script type="text/javascript" src = "app/js/directives/directives.js"></script>

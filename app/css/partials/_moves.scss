@@ -29,7 +29,10 @@
 	.moves-select, .moves-description{
 		padding:0.5em;
 	}
-	.moves-description{
+	moves-description{
+		flex:2;
+	}
+	.moves-description{		
 		flex:2;
 		.table{
 			padding:0.5em;
@@ -55,10 +58,12 @@
 			flex:1;
 		}
 	}
-	.moves-select{
+	moves-select{
 		flex:1;
 		overflow-y:scroll;
 		// border:$border;
+	}
+	.moves-select{
 		li{
 			cursor:pointer;
 			height:2.5em;
