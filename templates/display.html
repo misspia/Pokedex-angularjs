@@ -1,4 +1,9 @@
-<ul id='display' class= 'col center'>
+<ul ng-if = '!entry' id='display' class= 'col center'>
+	<li class='pkm-description col center card {{typeColor}}'>
+
+	</li>
+</ul>
+<ul ng-if = "entry" id='display' class= 'col center'>
 	<li class='pkm-description col center card {{typeColor}}'>
 
 		<display-title></display-title>
