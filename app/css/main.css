@@ -10,6 +10,9 @@
 .col {
   flex-direction: column; }
 
+.cover {
+  flex: 1; }
+
 .center {
   justify-content: center; }
 
@@ -40,8 +43,18 @@
 .align-base {
   align-items: baseline; }
 
-li {
-  padding: 0; }
+.self-end {
+  align-self: flex-end; }
+
+.wrap {
+  flex-wrap: wrap; }
+
+.wrap-reverse {
+  flex-wrap: wrap-reverse; }
+
+body, li {
+  padding: 0;
+  margin: 0; }
 
 ul {
   list-style: none;
@@ -2610,12 +2623,17 @@ ul {
   border: solid 0.5em;
   transition: all 0.5s; }
 
+pokemon-list {
+  height: 90%;
+  padding: 0.3em 0; }
+
 #section-pokemon-list {
   flex: 2; }
 
 #pokemon-list {
   height: 100vh;
   width: 100%;
+  min-width: 370px;
   overflow-y: scroll;
   overflow-x: hidden;
   background-color: transparent; }
@@ -2664,19 +2682,20 @@ ul {
     #pokemon-list li.ng-scope li.ng-binding:nth-child(2) {
       flex: 1 1; }
     #pokemon-list li.ng-scope li.ng-binding:nth-child(3) {
-      flex: 1; }
+      flex: 1;
+      height: 3em; }
     #pokemon-list li.ng-scope li.ng-binding:nth-child(4) {
-      flex: 4.5; }
+      flex: 4.5;
+      height: 3em; }
   #pokemon-list .container-sprite {
     width: 3em;
     height: 3em; }
 
 display {
-  height: 90%; }
+  height: 93%; }
 
 #section-display {
-  flex: 4;
-  padding: 3em 0 0em 0; }
+  flex: 4; }
   #section-display .main-outer {
     flex: 1; }
     #section-display .main-outer .main:nth-child(1) {
@@ -2707,6 +2726,7 @@ display {
     padding: 1em;
     border-radius: 0.6em;
     width: 80%;
+    min-width: 450px;
     height: 80vh;
     align-self: center;
     background-color: #fff; }
@@ -3258,6 +3278,9 @@ display {
     border-radius: 50%; }
     #sprite .container-main-sprite img {
       transform: scale(0.9); } }
+@media only screen and (max-width: 855px) {
+  body {
+    background-color: red; } }
 #moves .moves-category-select {
   flex: 1;
   background-color: transparent;
@@ -3404,5 +3427,39 @@ ng-include.ng-scope {
   font-size: 1.5em;
   font-weight: bold;
   letter-spacing: 1px; }
+
+input[type=text] {
+  outline: none;
+  width: 80%;
+  height: 5%;
+  border-radius: 2em;
+  border: none;
+  margin-top: 1em;
+  font-size: 0.8em; }
+
+.menu-exit-btn {
+  position: absolute;
+  color: white;
+  height: 3em;
+  width: 3em;
+  right: -3em;
+  background-color: #363636;
+  cursor: pointer;
+  font-size: 1em;
+  font-weight: 900; }
+
+@media only screen and (max-width: 855px) {
+  #section-pokemon-list.hide {
+    left: -50%; }
+
+  #section-pokemon-list {
+    position: fixed;
+    z-index: 1;
+    background-color: #363636; }
+    #section-pokemon-list input[type=text] {
+      height: 3em; }
+    #section-pokemon-list #pokemon-list li.ng-scope:hover {
+      background-color: #636363;
+      color: #80807c; } }
 
 /*# sourceMappingURL=main.css.map */

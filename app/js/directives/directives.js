@@ -1,8 +1,20 @@
+pkmApp.directive('selectOnClick', ['$window', function ($window) {
+    return {
+        restrict: 'A',
+        link: function (scope, element, attrs) {
+            element.on('click', function () {
+                if (!$window.getSelection().toString()) {
+                    this.setSelectionRange(0, this.value.length)
+                }
+            });
+        }
+    };
+}]);
 pkmApp.directive('pokemonList',  function(){
 	return {
 		restrict:'E',
 		 template: `<ul id='pokemon-list' >
-						<li ng-repeat = "p in masterlist">
+						<li ng-repeat = "p in masterlist | filter: searchPkm">
 							<ul class="row" ng-click = "getPkm(p.id, p.idStr, p.name, p.sprite, p.form)">
 								<li class= "diamond"></li>
 								<li class="container-sprite row center">

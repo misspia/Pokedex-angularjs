@@ -5,6 +5,8 @@
 .row{flex-direction:row;}
 .col{flex-direction:column;}
 
+.cover{flex:1;}
+
 ///////////////Justify Content///////////////
 .center{justify-content:center;}
 .flex-end{justify-content:flex-end;}
@@ -19,9 +21,18 @@
 .align-stretch{align-items:stretch;}
 .align-base{align-items:baseline;}
 
+///////////////Align Self///////////////
+.self-end{align-self:flex-end;}
+
+
+///////////////FLEX WRAP///////////////
+.wrap{flex-wrap:wrap;}
+.wrap-reverse{flex-wrap:wrap-reverse;}
+
 /////////Clear List Properties//////////
-li{
+body, li{
 	padding:0;
+	margin:0;
 }
 ul{
 	list-style:none; 

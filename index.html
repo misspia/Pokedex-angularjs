@@ -1,18 +1,23 @@
 <!DOCTYPE html>
 <html  ng-app="Pokedex">
 <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Pokedex</title>
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"/> -->
 	<link rel="stylesheet" type="text/css" href="app/css/main.css">
 </head>
 <body ng-controller="mainCtrl">
 	<background></background>
 	<ul class="index fg {{typeColor}} row">
-		<li class='section' id='section-pokemon-list'>
+		<li class='section col align-center' id='section-pokemon-list' ng-class = "{show: toggleState, hide: !toggleState}">
+			<span class = "menu-exit-btn text col center" ng-click = "pushMenuClick()" >X</span>
+			<input select-on-click type="text" ng-model = "searchPkm" class = "text" placeholder="Search">
 			<pokemon-list></pokemon-list>
+
 		</li>
 		<li class='section col center' id='section-display'>
 			<ul class="col center main-outer">
-				<li class="main">
+				<li class="main col center">
 					<display class = "col"></display>
 				</li>
 				<li class="main"> 

@@ -1,6 +1,6 @@
 'use strict';
 
-pkmApp.controller('mainCtrl', function($scope, getData, choose, manipulateString, compute) {
+pkmApp.controller('mainCtrl', function($scope, getData, choose, manipulateString, compute, menuToggle) {
   $scope.stateMain = 0;
   $scope.moveCategory = choose.moveCategory();
   $scope.typeColor = 'dark';
@@ -10,6 +10,13 @@ pkmApp.controller('mainCtrl', function($scope, getData, choose, manipulateString
       var list = response.data;
       $scope.masterlist = list;
   });
+
+  var toggleCounter = 0;
+  $scope.toggleState = false;
+  $scope.searchPkm = "";
+  $scope.pushMenuClick = function(){
+    $scope.toggleState = menuToggle.state(toggleCounter ++);
+  }
 
   $scope.getPkm = function(id, idStr, name, sprite, form){
     $scope.id = idStr;

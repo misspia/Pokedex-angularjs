@@ -138,8 +138,6 @@ pkmApp.factory('choose', function(getData){
     }
   }
 });
-
-
 pkmApp.factory('compute', function(){
   return {
     objectLength: function(obj){
@@ -157,3 +155,18 @@ pkmApp.factory('compute', function(){
     
   };
 });
+pkmApp.factory('menuToggle', function(){
+  return {
+    state: function(counter){
+      if(counter % 2 == 0){
+        return true;
+      } else {
+        return false;
+      }
+    }
+  };
+})
+
+
+
+

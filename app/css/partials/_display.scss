@@ -1,11 +1,10 @@
 @import 'variables';
 
 display{
-	height:90%;
+	height:93%;
 }
 #section-display{
 	flex:4;
-	padding: 3em 0 0em 0;
 	.main-outer{
 		flex:1;
 		.main{
@@ -45,6 +44,7 @@ display{
 		padding:1em;
 		border-radius:0.6em;
 		width:80%; 
+		min-width:450px;
 		height:80vh;
 		align-self:center;
 		background-color: $white;

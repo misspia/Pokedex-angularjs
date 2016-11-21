@@ -1,10 +1,15 @@
 @import 'variables';
+pokemon-list{
+	height:90%;
+	padding:0.3em 0;
+}
 #section-pokemon-list{
 	flex:2;
 }
 #pokemon-list{	
 	height:100vh;
 	width:100%;
+	min-width: 370px;
 	// border: $border;
 	overflow-y:scroll;
 	overflow-x:hidden;
@@ -66,8 +71,8 @@
 		}
 		li.ng-binding{			
 			&:nth-child(2){flex:1 1;}
-			&:nth-child(3){flex:1;}
-			&:nth-child(4){flex:4.5;}
+			&:nth-child(3){flex:1; height:3em;} //find better place to define height
+			&:nth-child(4){flex:4.5; height:3em;} //^^^
 		}
 	}
 	.container-sprite{
