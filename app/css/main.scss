@@ -51,17 +51,19 @@ input[type=text]{
 	position:absolute;
 	color:white;
 	height:3em; width:3em;
-	right:-3em;
-	background-color:$black;
+	border-radius:0.1em;
+	right:-3.5em; top: 0.5em;
+	background-color:$blue;
 	cursor: pointer;
 	font-size:1em; font-weight:900;
+	&:hover{
+		background-color:lighten($blue, 5%);
+	}
 }
 
 @media only screen and (max-width: 855px){
-	#section-pokemon-list.hide{left:-50%;}
-	#section-pokemon-list.show{}
 	#section-pokemon-list{
-		// transition:$transition;
+		transition:$transition;
 		position:fixed;
 		z-index:1;
 		background-color:$black;
@@ -76,14 +78,68 @@ input[type=text]{
 				}
 			}
 		}
+	}
+	#section-pokemon-list.hide{
+		transform: translateX(-390px);
+	}
+	#section-pokemon-list.show{
+		transform: translateX(0px);
+	}
+}
+@media only screen and (max-width: 450px) {
+	#display{
+		.pkm-description{
+			min-width:0;
+		}
+		#basic{
+			font-size:0.8em;
+		}
+	}
+	#nav{
+		min-width:0; width: 19em;
 
 	}
+	#section-pokemon-list{
+		input[type=text]{
+			width: 70%;
+		}
+		.menu-exit-btn.show{
+			transform:translateX(-3.8em);
+			background-color:transparent;
+			background-color:lighten($black, 5%);
+		}
+	}
+	#moves{
+		.moves-category-select{
+			.label{
+				padding:0.5em;
+				font-size:0.75em;
+				line-height:2em;
+			}
+		} 
+		.moves-select .move + span{
+				word-wrap: break-word;
+				width:4.5em;
+				font-size:0.8em;
+			}
+	}
+	#evolution-eevee{
+		transform:translatex(-1.1em) scale(0.8);
+		.stage{
+			&:nth-child(2){
+				flex:1;
+			}
+		}
+		.group{
+			&:nth-child(1), &:nth-child(3){position:absolute; width:10em;}
+		}	
+	}
+	evol-state3, evol-state2{
+	    flex-direction: column !important;
+		.stage{
+			transform:scale(0.9);
 
+		}
+	}
 }
-
-
-
-
-
-
 

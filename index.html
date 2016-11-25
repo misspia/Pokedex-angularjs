@@ -10,7 +10,7 @@
 	<background></background>
 	<ul class="index fg {{typeColor}} row">
 		<li class='section col align-center' id='section-pokemon-list' ng-class = "{show: toggleState, hide: !toggleState}">
-			<span class = "menu-exit-btn text col center" ng-click = "pushMenuClick()" >X</span>
+			<span class = "menu-exit-btn text col center" ng-click = "pushMenuClick()" ng-class = "{show: toggleState, hide: !toggleState}">X</span>
 			<input select-on-click type="text" ng-model = "searchPkm" class = "text" placeholder="Search">
 			<pokemon-list></pokemon-list>
 

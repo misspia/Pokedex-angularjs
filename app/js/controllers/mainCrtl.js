@@ -14,8 +14,9 @@ pkmApp.controller('mainCtrl', function($scope, getData, choose, manipulateString
   var toggleCounter = 0;
   $scope.toggleState = false;
   $scope.searchPkm = "";
+  $scope.toggleState = false;
   $scope.pushMenuClick = function(){
-    $scope.toggleState = menuToggle.state(toggleCounter ++);
+    $scope.toggleState = !$scope.toggleState;
   }
 
   $scope.getPkm = function(id, idStr, name, sprite, form){

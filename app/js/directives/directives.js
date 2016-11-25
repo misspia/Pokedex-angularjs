@@ -10,6 +10,7 @@ pkmApp.directive('selectOnClick', ['$window', function ($window) {
         }
     };
 }]);
+
 pkmApp.directive('pokemonList',  function(){
 	return {
 		restrict:'E',
@@ -225,6 +226,7 @@ pkmApp.directive('evolState1',  function(){
 					</li>`
 	};
 });
+
 
 
 
