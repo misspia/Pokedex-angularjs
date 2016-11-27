@@ -3459,7 +3459,8 @@ input[type=text] {
     z-index: 1;
     background-color: #363636; }
     #section-pokemon-list input[type=text] {
-      height: 3em; }
+      height: 3em;
+      margin-left: 1%; }
     #section-pokemon-list #pokemon-list li.ng-scope:hover {
       background-color: #636363;
       color: #80807c; }
@@ -3482,9 +3483,16 @@ input[type=text] {
   #section-pokemon-list input[type=text] {
     width: 70%; }
   #section-pokemon-list .menu-exit-btn.show {
-    transform: translateX(-3.8em);
+    position: absolute;
+    left: 1%;
     background-color: transparent;
     background-color: #434343; }
+
+  #section-pokemon-list.hide {
+    transform: translateX(-450px); }
+
+  #pokemon-list {
+    min-width: 450px; }
 
   #moves .moves-category-select .label {
     padding: 0.5em;
@@ -3507,5 +3515,62 @@ input[type=text] {
     flex-direction: column !important; }
     evol-state3 .stage, evol-state2 .stage {
       transform: scale(0.9); } }
+@media only screen and (max-width: 320px) {
+  display-title .name {
+    font-size: 1.2em; }
+  display-title .species {
+    font-size: 0.8em; }
+
+  display-type ul {
+    padding-bottom: 0.5em; }
+
+  #display #basic {
+    font-size: 0.6em; }
+
+  #sprite .container-main-sprite {
+    height: 7em;
+    width: 7em;
+    border-radius: 50%; }
+  #sprite img {
+    transform: scale(0.7) !important; }
+
+  #section-pokemon-list.hide {
+    transform: translateX(-320px); }
+
+  #pokemon-list {
+    min-width: 320px;
+    max-width: 320px; }
+    #pokemon-list li.ng-scope ul {
+      transform: translateX(-20px); }
+
+  #section-pokemon-list input[type=text] {
+    margin-left: 10%; }
+
+  #nav {
+    font-size: 0.9em; }
+
+  #moves .name {
+    font-size: 1.1em; }
+  #moves .moves-category-select .label {
+    font-size: 0.6em;
+    line-height: 3em; }
+  #moves moves-description .name {
+    font-size: 1em; }
+  #moves moves-description .type {
+    font-size: 0.5em; }
+  #moves .moves-description table, #moves .moves-description li:last-child {
+    font-size: 0.8em; }
+  #moves .moves-select li {
+    font-size: 0.9em;
+    width: 100%; }
+
+  #evolution-3 .stage-item, #evolution-2 .stage-item, #evolution-1 .stage-item, #evolution-eevee .stage-item {
+    padding: 0; }
+
+  evol-state3 .stage, evol-state2 .stage {
+    transform: scale(0.8); }
+
+  #evolution-eevee {
+    transform: translatex(-1.5em) scale(0.75); } }
 
 /*# sourceMappingURL=main.css.map */

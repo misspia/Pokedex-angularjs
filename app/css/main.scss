@@ -69,6 +69,7 @@ input[type=text]{
 		background-color:$black;
 		input[type=text]{
 			height:3em;
+			margin-left:1%;
 		}
 		#pokemon-list{
 			li.ng-scope{
@@ -97,17 +98,23 @@ input[type=text]{
 	}
 	#nav{
 		min-width:0; width: 19em;
-
 	}
 	#section-pokemon-list{
 		input[type=text]{
 			width: 70%;
 		}
 		.menu-exit-btn.show{
-			transform:translateX(-3.8em);
+			position:absolute;
+			left:1%;
 			background-color:transparent;
 			background-color:lighten($black, 5%);
 		}
+	}
+	#section-pokemon-list.hide{
+		transform: translateX(-450px);
+	}
+	#pokemon-list{
+		min-width:450px;
 	}
 	#moves{
 		.moves-category-select{
@@ -140,6 +147,83 @@ input[type=text]{
 			transform:scale(0.9);
 
 		}
+	}
+}
+@media only screen and (max-width: 320px){
+	display-title{
+		.name{
+			font-size: 1.2em;
+		}
+		.species{
+			font-size: 0.8em;
+		}
+	}
+	display-type{
+		ul{
+			padding-bottom: 0.5em;
+		}
+	}
+	#display{
+		#basic{
+			font-size:0.6em;
+		}
+	}
+	#sprite{
+		.container-main-sprite{
+			@include circle(7em);
+		}
+		img{
+			transform:scale(0.7) !important;
+		}
+	}
+	#section-pokemon-list.hide{
+		transform: translateX(-320px);
+	}
+	#pokemon-list{
+		min-width:320px;
+		max-width:320px;
+		li.ng-scope{
+			ul{
+				transform: translateX(-20px);
+			}
+		}
+	}
+	#section-pokemon-list{
+		input[type=text]{
+			margin-left:10%;
+		}
+	}	
+	#nav{
+		font-size:0.9em;
+	}
+	#moves {
+		.name{font-size:1.1em;}
+		.moves-category-select{
+			 .label{
+			 	font-size:0.6em;
+			 	line-height:3em;
+			 }
+		}
+		moves-description{
+			.name{font-size:1em;}
+			.type{font-size:0.5em;}
+		}
+		.moves-description{
+			table, li:last-child{font-size:0.8em;}
+		}
+		.moves-select li{
+			font-size:0.9em;
+			width:100%;
+		}
+	}
+	#evolution-3 .stage-item, #evolution-2 .stage-item, #evolution-1 .stage-item, #evolution-eevee .stage-item{
+		padding:0;
+	}
+	evol-state3 .stage, evol-state2 .stage{
+		transform:scale(0.8);
+	}
+	#evolution-eevee{
+		transform:translatex(-1.5em) scale(0.75);
 	}
 }
 
