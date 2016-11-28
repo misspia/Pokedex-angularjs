@@ -1,56 +1,89 @@
 @import 'https://fonts.googleapis.com/css?family=Muli';
 @import url("https://fonts.googleapis.com/css?family=Nunito");
 .row, .col {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap; }
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
 
 .row {
-  flex-direction: row; }
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row; }
 
 .col {
-  flex-direction: column; }
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; }
 
 .cover {
-  flex: 1; }
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1; }
 
 .center {
-  justify-content: center; }
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
 
 .flex-end {
-  justify-content: flex-end; }
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end; }
 
 .flex-start {
-  justify-content: flex-start; }
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start; }
 
 .space-around {
-  justify-content: space-around; }
+  -ms-flex-pack: distribute;
+      justify-content: space-around; }
 
 .space-between {
-  justify-content: space-between; }
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
 
 .align-center {
-  align-items: center; }
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
 
 .align-start {
-  align-items: flex-start; }
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start; }
 
 .align-end {
-  align-items: flex-end; }
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end; }
 
 .align-stretch {
-  align-items: stretch; }
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch; }
 
 .align-base {
-  align-items: baseline; }
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline; }
 
 .self-end {
-  align-self: flex-end; }
+  -ms-flex-item-align: end;
+      align-self: flex-end; }
 
 .wrap {
-  flex-wrap: wrap; }
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
 
 .wrap-reverse {
-  flex-wrap: wrap-reverse; }
+  -ms-flex-wrap: wrap-reverse;
+      flex-wrap: wrap-reverse; }
 
 body, li {
   padding: 0;
@@ -62,12 +95,14 @@ ul {
   margin: 0; }
 
 .sprite-icon {
-  background-image: url("../../../server/sprite-sheet/sprite-sheet.png");
+  background-image: url("../../app/img/sprite-sheet.png");
   height: 32px;
   width: 32px;
-  transform: scale(1.4);
+  -webkit-transform: scale(1.4);
+          transform: scale(1.4);
   display: inline-block;
   z-index: 1;
+  -webkit-transition: all 0.3s;
   transition: all 0.3s; }
 
 .pki.n1 {
@@ -2299,18 +2334,10 @@ ul {
 .pki.n709 {
   background-position: -256px -1440px; }
 
-.pki.n710,
-.pki.n710-average,
-.pki.n710-small,
-.pki.n710-large,
-.pki.n710-super {
+.pki.n710, .pki.n710-average, .pki.n710-small, .pki.n710-large, .pki.n710-super {
   background-position: -288px -1440px; }
 
-.pki.n711,
-.pki.n711-average,
-.pki.n711-small,
-.pki.n711-large,
-.pki.n711-super {
+.pki.n711, .pki.n711-average, .pki.n711-small, .pki.n711-large, .pki.n711-super {
   background-position: -320px -1440px; }
 
 .pki.n712 {
@@ -2331,15 +2358,13 @@ ul {
 .pki.n717 {
   background-position: 0 -1472px; }
 
-.pki.n718,
-.pki.n718-50 {
+.pki.n718, .pki.n718-50 {
   background-position: -32px -1472px; }
 
 .pki.n719 {
   background-position: -64px -1472px; }
 
-.pki.n720,
-.pki.n720-confined {
+.pki.n720, .pki.n720-confined {
   background-position: -96px -1472px; }
 
 .pki.n721 {
@@ -2608,20 +2633,19 @@ ul {
   width: 40px;
   margin-right: 5px !important; }
 
-#sprite .container-sprite,
-#evolution-1 .container-sprite {
+#sprite .container-sprite, #evolution-1 .container-sprite {
   width: 100%;
   height: 14em;
   border-radius: 1em;
   background-color: #fff; }
 
-#sprite .container-main-sprite,
-#evolution-1 .container-main-sprite {
+#sprite .container-main-sprite, #evolution-1 .container-main-sprite {
   height: 13em;
   width: 13em;
   border-radius: 50%;
   box-shadow: 0em 0em 0.9em 0.1em #afb3b5;
   border: solid 0.5em;
+  -webkit-transition: all 0.5s;
   transition: all 0.5s; }
 
 pokemon-list {
@@ -2629,7 +2653,9 @@ pokemon-list {
   padding: 0.3em 0; }
 
 #section-pokemon-list {
-  flex: 2; }
+  -webkit-box-flex: 2;
+      -ms-flex: 2;
+          flex: 2; }
 
 #pokemon-list {
   height: 100vh;
@@ -2645,26 +2671,27 @@ pokemon-list {
     font-weight: bolder;
     letter-spacing: 0.1em;
     color: #8d8d89;
+    -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
     margin: 0.1em 0;
     cursor: pointer; }
-    #pokemon-list li.ng-scope:hover li.ng-binding,
-    #pokemon-list li.ng-scope:hover .container-sprite,
-    #pokemon-list li.ng-scope:hover .triangle {
-      transform: translateX(1em); }
+    #pokemon-list li.ng-scope:hover li.ng-binding, #pokemon-list li.ng-scope:hover .container-sprite, #pokemon-list li.ng-scope:hover .triangle {
+      -webkit-transform: translateX(1em);
+              transform: translateX(1em); }
     #pokemon-list li.ng-scope:hover .diamond {
-      transform: translateX(2.05em) translatey(0.45em) rotate(45deg); }
-    #pokemon-list li.ng-scope:hover li.ng-binding,
-    #pokemon-list li.ng-scope:hover .container-sprite,
-    #pokemon-list li.ng-scope:hover .diamond {
+      -webkit-transform: translateX(2.05em) translatey(0.45em) rotate(45deg);
+              transform: translateX(2.05em) translatey(0.45em) rotate(45deg); }
+    #pokemon-list li.ng-scope:hover li.ng-binding, #pokemon-list li.ng-scope:hover .container-sprite, #pokemon-list li.ng-scope:hover .diamond {
       background-color: #636363;
       color: #80807c; }
     #pokemon-list li.ng-scope:hover .triangle {
       border-color: #636363 transparent transparent transparent;
       border-width: 3em 1.5em 0 0; }
     #pokemon-list li.ng-scope:hover .container-sprite .sprite-icon {
-      transform: scale(1.5); }
+      -webkit-transform: scale(1.5);
+              transform: scale(1.5); }
     #pokemon-list li.ng-scope li.ng-binding, #pokemon-list li.ng-scope .container-sprite, #pokemon-list li.ng-scope .diamond, #pokemon-list li.ng-scope .triangle {
+      -webkit-transition: all 0.2s;
       transition: all 0.2s; }
     #pokemon-list li.ng-scope li.ng-binding, #pokemon-list li.ng-scope .container-sprite, #pokemon-list li.ng-scope .diamond {
       background-color: #363636; }
@@ -2672,7 +2699,8 @@ pokemon-list {
       height: 2.1em;
       width: 2.1em;
       border-radius: 2px;
-      transform: translateX(1.05em) translatey(0.45em) rotate(45deg); }
+      -webkit-transform: translateX(1.05em) translatey(0.45em) rotate(45deg);
+              transform: translateX(1.05em) translatey(0.45em) rotate(45deg); }
     #pokemon-list li.ng-scope .triangle {
       width: 0;
       height: 0;
@@ -2685,12 +2713,18 @@ pokemon-list {
         font-size: 0.5em;
         padding: 0 0 0 0.6em; }
     #pokemon-list li.ng-scope li.ng-binding:nth-child(2) {
-      flex: 1 1; }
+      -webkit-box-flex: 1;
+          -ms-flex: 1 1;
+              flex: 1 1; }
     #pokemon-list li.ng-scope li.ng-binding:nth-child(3) {
-      flex: 1;
+      -webkit-box-flex: 1;
+          -ms-flex: 1;
+              flex: 1;
       height: 3em; }
     #pokemon-list li.ng-scope li.ng-binding:nth-child(4) {
-      flex: 4.5;
+      -webkit-box-flex: 4.5;
+          -ms-flex: 4.5;
+              flex: 4.5;
       height: 3em; }
   #pokemon-list .container-sprite {
     width: 3em;
@@ -2700,13 +2734,21 @@ display {
   height: 93%; }
 
 #section-display {
-  flex: 4; }
+  -webkit-box-flex: 4;
+      -ms-flex: 4;
+          flex: 4; }
   #section-display .main-outer {
-    flex: 1; }
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1; }
     #section-display .main-outer .main:nth-child(1) {
-      flex: 6; }
+      -webkit-box-flex: 6;
+          -ms-flex: 6;
+              flex: 6; }
     #section-display .main-outer .main:nth-child(2) {
-      flex: 1; }
+      -webkit-box-flex: 1;
+          -ms-flex: 1;
+              flex: 1; }
 
 .stats .gauge {
   width: 100%; }
@@ -2714,38 +2756,55 @@ display {
     height: 1em;
     border-radius: 0.1em;
     background-color: #ed5f55;
+    -webkit-transition: all 0.5s;
     transition: all 0.5s; }
 
 .stats tr:last-child {
   font-size: 0.5em; }
 
 #details {
-  flex: 2; }
+  -webkit-box-flex: 2;
+      -ms-flex: 2;
+          flex: 2; }
   #details ng-include {
     width: 100%; }
 
 #display {
   list-style: none;
-  flex: 1; }
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1; }
   #display .pkm-description {
-    flex: 3 1;
+    -webkit-box-flex: 3;
+        -ms-flex: 3 1;
+            flex: 3 1;
     padding: 1em;
     border-radius: 0.6em;
     width: 80%;
     min-width: 450px;
     height: 80vh;
-    align-self: center;
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
     background-color: #fff; }
     #display .pkm-description .pkm-description-inner {
       height: 100%; }
       #display .pkm-description .pkm-description-inner .sprite {
-        flex: 1; }
+        -webkit-box-flex: 1;
+            -ms-flex: 1;
+                flex: 1; }
       #display .pkm-description .pkm-description-inner .details {
-        flex: 2; }
+        -webkit-box-flex: 2;
+            -ms-flex: 2;
+                flex: 2; }
     #display .pkm-description .row .item:nth-child(1) {
-      flex: 1; }
+      -webkit-box-flex: 1;
+          -ms-flex: 1;
+              flex: 1; }
     #display .pkm-description .row .item:nth-child(2) {
-      flex: 2; }
+      -webkit-box-flex: 2;
+          -ms-flex: 2;
+              flex: 2; }
     #display .pkm-description .species span {
       padding: 0 0.5em; }
 
@@ -2848,6 +2907,7 @@ display {
   border-color: #4c72a8; }
 
 .bg {
+  -webkit-transition: all 0.5s;
   transition: all 0.5s; }
 
 .bg.bug {
@@ -2906,6 +2966,7 @@ display {
 
 .fg {
   background-color: transparent;
+  -webkit-transition: all 0.5s;
   transition: all 0.5s; }
 
 .fg.bug #sprite .container-main-sprite {
@@ -3305,6 +3366,7 @@ display {
     font-size: 1em;
     font-weight: 800;
     background-color: #fff;
+    -webkit-transition: all 0.5s;
     transition: all 0.5s; }
     #nav li:active {
       background-color: #636363;
@@ -3319,20 +3381,24 @@ display {
     width: 9em;
     border-radius: 50%; }
     #sprite .container-main-sprite img {
-      transform: scale(0.9); } }
+      -webkit-transform: scale(0.9);
+              transform: scale(0.9); } }
 
 @media only screen and (max-width: 855px) {
   body {
     background-color: red; } }
 
 #moves .moves-category-select {
-  flex: 1;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
   background-color: transparent;
   border-top-style: solid;
   border-top-width: 0.1em; }
   #moves .moves-category-select .label {
     padding: 0.5em 1em;
     cursor: pointer;
+    -webkit-transition: all 0.5s;
     transition: all 0.5s;
     border: solid 0.1em #fff;
     color: #fff; }
@@ -3352,10 +3418,14 @@ display {
   padding: 0.5em; }
 
 #moves moves-description {
-  flex: 2; }
+  -webkit-box-flex: 2;
+      -ms-flex: 2;
+          flex: 2; }
 
 #moves .moves-description {
-  flex: 2; }
+  -webkit-box-flex: 2;
+      -ms-flex: 2;
+          flex: 2; }
   #moves .moves-description .table {
     padding: 0.5em; }
   #moves .moves-description table {
@@ -3368,13 +3438,19 @@ display {
     padding: 1em; }
 
 #moves .moves-display {
-  flex: 8;
+  -webkit-box-flex: 8;
+      -ms-flex: 8;
+          flex: 8;
   width: 100%; }
   #moves .moves-display ul.row {
-    flex: 1; }
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1; }
 
 #moves moves-select {
-  flex: 1;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
   overflow-y: scroll; }
 
 #moves .moves-select li {
@@ -3383,11 +3459,13 @@ display {
   margin-bottom: 0.1em;
   color: #fff;
   width: 95%;
+  -webkit-transition: all 0.5s;
   transition: all 0.5s;
   background-color: #5c5c5c; }
   #moves .moves-select li:hover {
     background-color: #707070;
-    transform: translatex(0.7em); }
+    -webkit-transform: translatex(0.7em);
+            transform: translatex(0.7em); }
 
 #moves .moves-select .move {
   display: inline-block;
@@ -3399,70 +3477,55 @@ display {
 #moves .moves-select .move + span {
   padding: 0 0 0 1em; }
 
-evol-state3,
-evol-state2,
-evol-state1,
-evol-state-eevee {
+evol-state3, evol-state2, evol-state1, evol-state-eevee {
   width: 100%; }
 
-#evolution-3 .stage,
-#evolution-2 .stage,
-#evolution-1 .stage,
-#evolution-eevee .stage {
-  flex: 1; }
+#evolution-3 .stage, #evolution-2 .stage, #evolution-1 .stage, #evolution-eevee .stage {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1; }
 
-#evolution-3 .stage-item,
-#evolution-2 .stage-item,
-#evolution-1 .stage-item,
-#evolution-eevee .stage-item {
+#evolution-3 .stage-item, #evolution-2 .stage-item, #evolution-1 .stage-item, #evolution-eevee .stage-item {
   padding: 1em 0; }
 
-#evolution-3 .condition, #evolution-3 .evol-item,
-#evolution-2 .condition,
-#evolution-2 .evol-item,
-#evolution-1 .condition,
-#evolution-1 .evol-item,
-#evolution-eevee .condition,
-#evolution-eevee .evol-item {
-  flex: 1; }
+#evolution-3 .condition, #evolution-3 .evol-item, #evolution-2 .condition, #evolution-2 .evol-item, #evolution-1 .condition, #evolution-1 .evol-item, #evolution-eevee .condition, #evolution-eevee .evol-item {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1; }
 
-#evolution-3 .condition,
-#evolution-2 .condition,
-#evolution-1 .condition,
-#evolution-eevee .condition {
+#evolution-3 .condition, #evolution-2 .condition, #evolution-1 .condition, #evolution-eevee .condition {
   max-width: 7em; }
-  #evolution-3 .condition span,
-  #evolution-2 .condition span,
-  #evolution-1 .condition span,
-  #evolution-eevee .condition span {
+  #evolution-3 .condition span, #evolution-2 .condition span, #evolution-1 .condition span, #evolution-eevee .condition span {
     font-size: 0.7em; }
-  #evolution-3 .condition i,
-  #evolution-2 .condition i,
-  #evolution-1 .condition i,
-  #evolution-eevee .condition i {
+  #evolution-3 .condition i, #evolution-2 .condition i, #evolution-1 .condition i, #evolution-eevee .condition i {
     font-size: 2em; }
 
-#evolution-3 .evol-item span,
-#evolution-2 .evol-item span,
-#evolution-1 .evol-item span,
-#evolution-eevee .evol-item span {
+#evolution-3 .evol-item span, #evolution-2 .evol-item span, #evolution-1 .evol-item span, #evolution-eevee .evol-item span {
   display: inline-block;
   line-height: 4em; }
 
 #evolution-2 .stage:nth-child(1) {
-  flex: 0.65; }
+  -webkit-box-flex: 0.65;
+      -ms-flex: 0.65;
+          flex: 0.65; }
 
 #evolution-3 .stage:nth-child(1) {
-  flex: 0.6; }
+  -webkit-box-flex: 0.6;
+      -ms-flex: 0.6;
+          flex: 0.6; }
 
 #evolution-eevee .group {
-  transform: scale(0.9); }
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9); }
 
 #evolution-eevee .stage:nth-child(2) {
-  flex: 0.8; }
+  -webkit-box-flex: 0.8;
+      -ms-flex: 0.8;
+          flex: 0.8; }
 
 #evolution-eevee .evol-item img {
-  transform: scale(0.8); }
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8); }
 
 body {
   font-family: "Muli", sans-serif;
@@ -3513,6 +3576,7 @@ input[type=text] {
 
 @media only screen and (max-width: 855px) {
   #section-pokemon-list {
+    -webkit-transition: all 0.5s;
     transition: all 0.5s;
     position: fixed;
     z-index: 1;
@@ -3524,9 +3588,11 @@ input[type=text] {
       background-color: #636363;
       color: #80807c; }
   #section-pokemon-list.hide {
-    transform: translateX(-390px); }
+    -webkit-transform: translateX(-390px);
+            transform: translateX(-390px); }
   #section-pokemon-list.show {
-    transform: translateX(0px); } }
+    -webkit-transform: translateX(0px);
+            transform: translateX(0px); } }
 
 @media only screen and (max-width: 450px) {
   #display .pkm-description {
@@ -3544,7 +3610,8 @@ input[type=text] {
     background-color: transparent;
     background-color: #434343; }
   #section-pokemon-list.hide {
-    transform: translateX(-450px); }
+    -webkit-transform: translateX(-450px);
+            transform: translateX(-450px); }
   #pokemon-list {
     min-width: 450px; }
   #moves .moves-category-select .label {
@@ -3556,16 +3623,23 @@ input[type=text] {
     width: 4.5em;
     font-size: 0.8em; }
   #evolution-eevee {
-    transform: translatex(-1.1em) scale(0.8); }
+    -webkit-transform: translatex(-1.1em) scale(0.8);
+            transform: translatex(-1.1em) scale(0.8); }
     #evolution-eevee .stage:nth-child(2) {
-      flex: 1; }
+      -webkit-box-flex: 1;
+          -ms-flex: 1;
+              flex: 1; }
     #evolution-eevee .group:nth-child(1), #evolution-eevee .group:nth-child(3) {
       position: absolute;
       width: 10em; }
   evol-state3, evol-state2 {
-    flex-direction: column !important; }
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: column !important;
+            flex-direction: column !important; }
     evol-state3 .stage, evol-state2 .stage {
-      transform: scale(0.9); } }
+      -webkit-transform: scale(0.9);
+              transform: scale(0.9); } }
 
 @media only screen and (max-width: 320px) {
   display-title .name {
@@ -3581,14 +3655,17 @@ input[type=text] {
     width: 7em;
     border-radius: 50%; }
   #sprite img {
-    transform: scale(0.7) !important; }
+    -webkit-transform: scale(0.7) !important;
+            transform: scale(0.7) !important; }
   #section-pokemon-list.hide {
-    transform: translateX(-320px); }
+    -webkit-transform: translateX(-320px);
+            transform: translateX(-320px); }
   #pokemon-list {
     min-width: 320px;
     max-width: 320px; }
     #pokemon-list li.ng-scope ul {
-      transform: translateX(-20px); }
+      -webkit-transform: translateX(-20px);
+              transform: translateX(-20px); }
   #section-pokemon-list input[type=text] {
     margin-left: 10%; }
   #nav {
@@ -3610,6 +3687,8 @@ input[type=text] {
   #evolution-3 .stage-item, #evolution-2 .stage-item, #evolution-1 .stage-item, #evolution-eevee .stage-item {
     padding: 0; }
   evol-state3 .stage, evol-state2 .stage {
-    transform: scale(0.8); }
+    -webkit-transform: scale(0.8);
+            transform: scale(0.8); }
   #evolution-eevee {
-    transform: translatex(-1.5em) scale(0.75); } }
+    -webkit-transform: translatex(-1.5em) scale(0.75);
+            transform: translatex(-1.5em) scale(0.75); } }

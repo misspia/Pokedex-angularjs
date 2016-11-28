@@ -3,8 +3,11 @@
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Pokedex</title>
-	<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"/> -->
+
+	<!--build:css app/css/main.min.css -->
 	<link rel="stylesheet" type="text/css" href="app/css/main.css">
+	<!-- endbuild -->
+
 </head>
 <body ng-controller="mainCtrl">
 	<background></background>
@@ -29,7 +32,11 @@
 </body>
 </html>
 <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<!-- <script type="text/javascript" src = "node_modules/angular/angular.min.js"></script> -->
+
+<!--build:js app/js/app.min.js -->
 <script type="text/javascript" src="app/js/app.js"></script>
-<script type="text/javascript" src="app/js/controllers/mainCrtl.js"></script>
-<script type="text/javascript" src="app/js/services/getData.js"></script>
-<script type="text/javascript" src = "app/js/directives/directives.js"></script>
+<script type="text/javascript" src="app/js/controller.js"></script>
+<script type="text/javascript" src="app/js/services.js"></script>
+<script type="text/javascript" src = "app/js/directives.js"></script>
+<!-- endbuild -->

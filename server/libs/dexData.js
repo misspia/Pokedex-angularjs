@@ -32,7 +32,7 @@ function download_json(item, attempts) {
 			var raw = JSON.stringify(JSON.parse(body), null, 2);
 			// console.log(raw);
 			
-			fs.writeFile('../json/dex-data/pokemon-'+ item.id + '.json', raw, function(error){
+			fs.writeFile('../../app/json/dex-data/pokemon-'+ item.id + '.json', raw, function(error){
 				if (error) return console.log(error);
 				console.log('download complete');
 			});

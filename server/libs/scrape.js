@@ -111,7 +111,7 @@ request(url, function(error, response, html){
 		});
 	};
 	// console.log(pokedex);
-	fs.writeFile('../json/list.json', JSON.stringify(pokedex, null, 4), function(error){
+	fs.writeFile('../../app/json/list.json', JSON.stringify(pokedex, null, 4), function(error){
 		if (error) return console.log(error);
 	 		console.log('writing complete');
 	});

@@ -35,7 +35,7 @@ function download_gif(item, attempts) {
 		    	console.log("failed more than 3 times, not retrying");
 		    }
 		})
-		.pipe(fs.createWriteStream('../img/'+ item.sprite.toLowerCase() + ".gif"));
+		.pipe(fs.createWriteStream('../../app/img/'+ item.sprite.toLowerCase() + ".gif"));
 }
 
 function sleepFor( sleepDuration ){

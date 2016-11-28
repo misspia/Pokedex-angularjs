@@ -38,7 +38,7 @@ function getMove(moveUrl, index){
 			moves[moveName] = moveDescr;
 			console.log("wrote " + moveName + " from " + moveUrl + " index ------------ " + i);
 
-		fs.writeFile('../json/moves.json', JSON.stringify(moves, null, 4), function(error){
+		fs.writeFile('../../app/json/moves.json', JSON.stringify(moves, null, 4), function(error){
 			if (error) return console.log(error);
 		 		console.log('writing complete: ' + i);
 		});	

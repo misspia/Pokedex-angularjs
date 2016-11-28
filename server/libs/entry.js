@@ -65,7 +65,7 @@ function requestPkm(item, attempts){
 
 
 function writeEntry(entryObj, item){
-	fs.writeFile('../json/entry/entry' + "-" + item.idStr + '.json', 
+	fs.writeFile('../../app/json/entry/entry' + "-" + item.idStr + '.json', 
 				 JSON.stringify(entryObj, null, 4),
 				 function(error){		
 		if (error) return console.log(error);			

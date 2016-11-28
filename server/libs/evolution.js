@@ -80,7 +80,7 @@ function sleepFor( sleepDuration ){
     while(new Date().getTime() < now + sleepDuration){ /* do nothing */ } 
 }
 function write(families){
-	fs.writeFile('../json/evolution.json', JSON.stringify(families, null, 4), function(error){
+	fs.writeFile('../../app/json/evolution.json', JSON.stringify(families, null, 4), function(error){
 	if (error) return console.log(error);
  		console.log('writing complete');
 	});
@@ -116,32 +116,6 @@ function formatCondition(condition){
 	condition = condition.substring(0, condition.indexOf(')'));
 	condition = condition.replace('holding', 'holding ').replace(/\\/g, '');
 };
-
-
-/*
-
-families = 
-[
-	{
-		members: [1,2,3,4,5],
-		tree: {
-			stage0: {pkm: condition, pkm, condition},
-			stage1: {pkm: condition, pkm, condition},
-			stage2: {pkm: condition, pkm, condition}
-		}
-	},
-	{
-		members: [1,2,3,4,5],
-		tree: {
-			stage0: {pkm: condition, pkm, condition},
-			stage1: {pkm: condition, pkm, condition},
-			stage2: {pkm: condition, pkm, condition}
-		}
-	}	
-]
-
-
-*/
 
 
 
