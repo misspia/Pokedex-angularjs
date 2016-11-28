@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css?family=Muli";
+@import 'https://fonts.googleapis.com/css?family=Muli';
 @import url("https://fonts.googleapis.com/css?family=Nunito");
 .row, .col {
   display: flex;
@@ -2614,6 +2614,7 @@ ul {
   height: 14em;
   border-radius: 1em;
   background-color: #fff; }
+
 #sprite .container-main-sprite,
 #evolution-1 .container-main-sprite {
   height: 13em;
@@ -2647,11 +2648,15 @@ pokemon-list {
     transition: all 0.2s ease-in-out;
     margin: 0.1em 0;
     cursor: pointer; }
-    #pokemon-list li.ng-scope:hover li.ng-binding, #pokemon-list li.ng-scope:hover .container-sprite, #pokemon-list li.ng-scope:hover .triangle {
+    #pokemon-list li.ng-scope:hover li.ng-binding,
+    #pokemon-list li.ng-scope:hover .container-sprite,
+    #pokemon-list li.ng-scope:hover .triangle {
       transform: translateX(1em); }
     #pokemon-list li.ng-scope:hover .diamond {
       transform: translateX(2.05em) translatey(0.45em) rotate(45deg); }
-    #pokemon-list li.ng-scope:hover li.ng-binding, #pokemon-list li.ng-scope:hover .container-sprite, #pokemon-list li.ng-scope:hover .diamond {
+    #pokemon-list li.ng-scope:hover li.ng-binding,
+    #pokemon-list li.ng-scope:hover .container-sprite,
+    #pokemon-list li.ng-scope:hover .diamond {
       background-color: #636363;
       color: #80807c; }
     #pokemon-list li.ng-scope:hover .triangle {
@@ -2710,6 +2715,7 @@ display {
     border-radius: 0.1em;
     background-color: #ed5f55;
     transition: all 0.5s; }
+
 .stats tr:last-child {
   font-size: 0.5em; }
 
@@ -2904,127 +2910,163 @@ display {
 
 .fg.bug #sprite .container-main-sprite {
   border-color: #bbc169; }
+
 .fg.bug #basic .general tbody {
   border-color: #bbc169; }
+
 .fg.bug #basic .stats .gauge div {
   background-color: #bbc169; }
 
 .fg.dragon #sprite .container-main-sprite {
   border-color: #4e5573; }
+
 .fg.dragon #basic .general tbody {
   border-color: #4e5573; }
+
 .fg.dragon #basic .stats .gauge div {
   background-color: #4e5573; }
 
 .fg.dark #sprite .container-main-sprite {
   border-color: #3f3f3f; }
+
 .fg.dark #basic .general tbody {
   border-color: #3f3f3f; }
+
 .fg.dark #basic .stats .gauge div {
   background-color: #3f3f3f; }
 
 .fg.fairy #sprite .container-main-sprite {
   border-color: #f2c6d5; }
+
 .fg.fairy #basic .general tbody {
   border-color: #f2c6d5; }
+
 .fg.fairy #basic .stats .gauge div {
   background-color: #f2c6d5; }
 
 .fg.electric #sprite .container-main-sprite {
   border-color: #fcce54; }
+
 .fg.electric #basic .general tbody {
   border-color: #fcce54; }
+
 .fg.electric #basic .stats .gauge div {
   background-color: #fcce54; }
 
 .fg.fire #sprite .container-main-sprite {
   border-color: #ed5f55; }
+
 .fg.fire #basic .general tbody {
   border-color: #ed5f55; }
+
 .fg.fire #basic .stats .gauge div {
   background-color: #ed5f55; }
 
 .fg.flying #sprite .container-main-sprite {
   border-color: #b9caef; }
+
 .fg.flying #basic .general tbody {
   border-color: #b9caef; }
+
 .fg.flying #basic .stats .gauge div {
   background-color: #b9caef; }
 
 .fg.fighting #sprite .container-main-sprite {
   border-color: #be3a31; }
+
 .fg.fighting #basic .general tbody {
   border-color: #be3a31; }
+
 .fg.fighting #basic .stats .gauge div {
   background-color: #be3a31; }
 
 .fg.ghost #sprite .container-main-sprite {
   border-color: #35495d; }
+
 .fg.ghost #basic .general tbody {
   border-color: #35495d; }
+
 .fg.ghost #basic .stats .gauge div {
   background-color: #35495d; }
 
 .fg.grass #sprite .container-main-sprite {
   border-color: #5ECA7F; }
+
 .fg.grass #basic .general tbody {
   border-color: #5ECA7F; }
+
 .fg.grass #basic .stats .gauge div {
   background-color: #5ECA7F; }
 
 .fg.ground #sprite .container-main-sprite {
   border-color: #8d725f; }
+
 .fg.ground #basic .general tbody {
   border-color: #8d725f; }
+
 .fg.ground #basic .stats .gauge div {
   background-color: #8d725f; }
 
 .fg.ice #sprite .container-main-sprite {
   border-color: #4ec2e7; }
+
 .fg.ice #basic .general tbody {
   border-color: #4ec2e7; }
+
 .fg.ice #basic .stats .gauge div {
   background-color: #4ec2e7; }
 
 .fg.normal #sprite .container-main-sprite {
   border-color: #d4c197; }
+
 .fg.normal #basic .general tbody {
   border-color: #d4c197; }
+
 .fg.normal #basic .stats .gauge div {
   background-color: #d4c197; }
 
 .fg.poison #sprite .container-main-sprite {
   border-color: #ba597e; }
+
 .fg.poison #basic .general tbody {
   border-color: #ba597e; }
+
 .fg.poison #basic .stats .gauge div {
   background-color: #ba597e; }
 
 .fg.psychic #sprite .container-main-sprite {
   border-color: #7277d5; }
+
 .fg.psychic #basic .general tbody {
   border-color: #7277d5; }
+
 .fg.psychic #basic .stats .gauge div {
   background-color: #7277d5; }
 
 .fg.rock #sprite .container-main-sprite {
   border-color: #b1a484; }
+
 .fg.rock #basic .general tbody {
   border-color: #b1a484; }
+
 .fg.rock #basic .stats .gauge div {
   background-color: #b1a484; }
 
 .fg.steel #sprite .container-main-sprite {
   border-color: #c5cbd4; }
+
 .fg.steel #basic .general tbody {
   border-color: #c5cbd4; }
+
 .fg.steel #basic .stats .gauge div {
   background-color: #c5cbd4; }
 
 .fg.water #sprite .container-main-sprite {
   border-color: #4c72a8; }
+
 .fg.water #basic .general tbody {
   border-color: #4c72a8; }
+
 .fg.water #basic .stats .gauge div {
   background-color: #4c72a8; }
 
@@ -3278,9 +3320,11 @@ display {
     border-radius: 50%; }
     #sprite .container-main-sprite img {
       transform: scale(0.9); } }
+
 @media only screen and (max-width: 855px) {
   body {
     background-color: red; } }
+
 #moves .moves-category-select {
   flex: 1;
   background-color: transparent;
@@ -3300,12 +3344,16 @@ display {
       background-color: #363636; }
     #moves .moves-category-select .label:active {
       background-color: #636363; }
+
 #moves .name {
   background-color: transparent; }
+
 #moves .moves-select, #moves .moves-description {
   padding: 0.5em; }
+
 #moves moves-description {
   flex: 2; }
+
 #moves .moves-description {
   flex: 2; }
   #moves .moves-description .table {
@@ -3318,14 +3366,17 @@ display {
       text-align: right; }
   #moves .moves-description li:last-child {
     padding: 1em; }
+
 #moves .moves-display {
   flex: 8;
   width: 100%; }
   #moves .moves-display ul.row {
     flex: 1; }
+
 #moves moves-select {
   flex: 1;
   overflow-y: scroll; }
+
 #moves .moves-select li {
   cursor: pointer;
   height: 2.5em;
@@ -3337,12 +3388,14 @@ display {
   #moves .moves-select li:hover {
     background-color: #707070;
     transform: translatex(0.7em); }
+
 #moves .moves-select .move {
   display: inline-block;
   line-height: 0;
   height: 2.5em;
   width: 0.5em;
   border-radius: 0; }
+
 #moves .moves-select .move + span {
   padding: 0 0 0 1em; }
 
@@ -3357,11 +3410,13 @@ evol-state-eevee {
 #evolution-1 .stage,
 #evolution-eevee .stage {
   flex: 1; }
+
 #evolution-3 .stage-item,
 #evolution-2 .stage-item,
 #evolution-1 .stage-item,
 #evolution-eevee .stage-item {
   padding: 1em 0; }
+
 #evolution-3 .condition, #evolution-3 .evol-item,
 #evolution-2 .condition,
 #evolution-2 .evol-item,
@@ -3370,6 +3425,7 @@ evol-state-eevee {
 #evolution-eevee .condition,
 #evolution-eevee .evol-item {
   flex: 1; }
+
 #evolution-3 .condition,
 #evolution-2 .condition,
 #evolution-1 .condition,
@@ -3385,6 +3441,7 @@ evol-state-eevee {
   #evolution-1 .condition i,
   #evolution-eevee .condition i {
     font-size: 2em; }
+
 #evolution-3 .evol-item span,
 #evolution-2 .evol-item span,
 #evolution-1 .evol-item span,
@@ -3400,8 +3457,10 @@ evol-state-eevee {
 
 #evolution-eevee .group {
   transform: scale(0.9); }
+
 #evolution-eevee .stage:nth-child(2) {
   flex: 0.8; }
+
 #evolution-eevee .evol-item img {
   transform: scale(0.8); }
 
@@ -3464,22 +3523,19 @@ input[type=text] {
     #section-pokemon-list #pokemon-list li.ng-scope:hover {
       background-color: #636363;
       color: #80807c; }
-
   #section-pokemon-list.hide {
     transform: translateX(-390px); }
-
   #section-pokemon-list.show {
     transform: translateX(0px); } }
+
 @media only screen and (max-width: 450px) {
   #display .pkm-description {
     min-width: 0; }
   #display #basic {
     font-size: 0.8em; }
-
   #nav {
     min-width: 0;
     width: 19em; }
-
   #section-pokemon-list input[type=text] {
     width: 70%; }
   #section-pokemon-list .menu-exit-btn.show {
@@ -3487,13 +3543,10 @@ input[type=text] {
     left: 1%;
     background-color: transparent;
     background-color: #434343; }
-
   #section-pokemon-list.hide {
     transform: translateX(-450px); }
-
   #pokemon-list {
     min-width: 450px; }
-
   #moves .moves-category-select .label {
     padding: 0.5em;
     font-size: 0.75em;
@@ -3502,7 +3555,6 @@ input[type=text] {
     word-wrap: break-word;
     width: 4.5em;
     font-size: 0.8em; }
-
   #evolution-eevee {
     transform: translatex(-1.1em) scale(0.8); }
     #evolution-eevee .stage:nth-child(2) {
@@ -3510,45 +3562,37 @@ input[type=text] {
     #evolution-eevee .group:nth-child(1), #evolution-eevee .group:nth-child(3) {
       position: absolute;
       width: 10em; }
-
   evol-state3, evol-state2 {
     flex-direction: column !important; }
     evol-state3 .stage, evol-state2 .stage {
       transform: scale(0.9); } }
+
 @media only screen and (max-width: 320px) {
   display-title .name {
     font-size: 1.2em; }
   display-title .species {
     font-size: 0.8em; }
-
   display-type ul {
     padding-bottom: 0.5em; }
-
   #display #basic {
     font-size: 0.6em; }
-
   #sprite .container-main-sprite {
     height: 7em;
     width: 7em;
     border-radius: 50%; }
   #sprite img {
     transform: scale(0.7) !important; }
-
   #section-pokemon-list.hide {
     transform: translateX(-320px); }
-
   #pokemon-list {
     min-width: 320px;
     max-width: 320px; }
     #pokemon-list li.ng-scope ul {
       transform: translateX(-20px); }
-
   #section-pokemon-list input[type=text] {
     margin-left: 10%; }
-
   #nav {
     font-size: 0.9em; }
-
   #moves .name {
     font-size: 1.1em; }
   #moves .moves-category-select .label {
@@ -3563,14 +3607,9 @@ input[type=text] {
   #moves .moves-select li {
     font-size: 0.9em;
     width: 100%; }
-
   #evolution-3 .stage-item, #evolution-2 .stage-item, #evolution-1 .stage-item, #evolution-eevee .stage-item {
     padding: 0; }
-
   evol-state3 .stage, evol-state2 .stage {
     transform: scale(0.8); }
-
   #evolution-eevee {
     transform: translatex(-1.5em) scale(0.75); } }
-
-/*# sourceMappingURL=main.css.map */

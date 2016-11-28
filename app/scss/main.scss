@@ -1,0 +1,229 @@
+@import 'https://fonts.googleapis.com/css?family=Muli';
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+//Modules
+@import 'partials/variables';
+
+//Partiallayout';
+@import 'partials/layout';
+@import 'partials/sprite-icons';
+@import 'partials/sprite-main';
+@import 'partials/pkm-list';
+@import 'partials/display';
+@import 'partials/types';
+@import 'partials/nav';
+@import 'partials/media-queries';
+@import 'partials/moves';
+@import 'partials/evolution';
+
+body{
+	font-family: $font;
+	margin:0;
+	overflow:hidden; 
+	background-color: $red;
+}
+
+.index{
+	width:100%;
+	height:100%;
+	position:absolute;
+}
+ng-include.ng-scope{
+	height:95%;
+}
+.text{text-align:center;}
+.name{
+	text-align:center;
+	font-size: 1.5em;
+	font-weight:bold;
+	letter-spacing: 1px;
+}
+input[type=text]{
+	outline:none;
+	width:80%;
+	height:5%; 
+	border-radius: 2em;
+	border:none;
+	margin-top:1em;
+	font-size:0.8em;
+}
+.menu-exit-btn{
+	position:absolute;
+	color:white;
+	height:3em; width:3em;
+	border-radius:0.1em;
+	right:-3.5em; top: 0.5em;
+	background-color:$blue;
+	cursor: pointer;
+	font-size:1em; font-weight:900;
+	&:hover{
+		background-color:lighten($blue, 5%);
+	}
+}
+
+@media only screen and (max-width: 855px){
+	#section-pokemon-list{
+		transition:$transition;
+		position:fixed;
+		z-index:1;
+		background-color:$black;
+		input[type=text]{
+			height:3em;
+			margin-left:1%;
+		}
+		#pokemon-list{
+			li.ng-scope{
+				&:hover{
+					background-color: $lblack;
+					color:$listcolor;					
+				}
+			}
+		}
+	}
+	#section-pokemon-list.hide{
+		transform: translateX(-390px);
+	}
+	#section-pokemon-list.show{
+		transform: translateX(0px);
+	}
+}
+@media only screen and (max-width: 450px) {
+	#display{
+		.pkm-description{
+			min-width:0;
+		}
+		#basic{
+			font-size:0.8em;
+		}
+	}
+	#nav{
+		min-width:0; width: 19em;
+	}
+	#section-pokemon-list{
+		input[type=text]{
+			width: 70%;
+		}
+		.menu-exit-btn.show{
+			position:absolute;
+			left:1%;
+			background-color:transparent;
+			background-color:lighten($black, 5%);
+		}
+	}
+	#section-pokemon-list.hide{
+		transform: translateX(-450px);
+	}
+	#pokemon-list{
+		min-width:450px;
+	}
+	#moves{
+		.moves-category-select{
+			.label{
+				padding:0.5em;
+				font-size:0.75em;
+				line-height:2em;
+			}
+		} 
+		.moves-select .move + span{
+				word-wrap: break-word;
+				width:4.5em;
+				font-size:0.8em;
+			}
+	}
+	#evolution-eevee{
+		transform:translatex(-1.1em) scale(0.8);
+		.stage{
+			&:nth-child(2){
+				flex:1;
+			}
+		}
+		.group{
+			&:nth-child(1), &:nth-child(3){position:absolute; width:10em;}
+		}	
+	}
+	evol-state3, evol-state2{
+	    flex-direction: column !important;
+		.stage{
+			transform:scale(0.9);
+
+		}
+	}
+}
+@media only screen and (max-width: 320px){
+	display-title{
+		.name{
+			font-size: 1.2em;
+		}
+		.species{
+			font-size: 0.8em;
+		}
+	}
+	display-type{
+		ul{
+			padding-bottom: 0.5em;
+		}
+	}
+	#display{
+		#basic{
+			font-size:0.6em;
+		}
+	}
+	#sprite{
+		.container-main-sprite{
+			@include circle(7em);
+		}
+		img{
+			transform:scale(0.7) !important;
+		}
+	}
+	#section-pokemon-list.hide{
+		transform: translateX(-320px);
+	}
+	#pokemon-list{
+		min-width:320px;
+		max-width:320px;
+		li.ng-scope{
+			ul{
+				transform: translateX(-20px);
+			}
+		}
+	}
+	#section-pokemon-list{
+		input[type=text]{
+			margin-left:10%;
+		}
+	}	
+	#nav{
+		font-size:0.9em;
+	}
+	#moves {
+		.name{font-size:1.1em;}
+		.moves-category-select{
+			 .label{
+			 	font-size:0.6em;
+			 	line-height:3em;
+			 }
+		}
+		moves-description{
+			.name{font-size:1em;}
+			.type{font-size:0.5em;}
+		}
+		.moves-description{
+			table, li:last-child{font-size:0.8em;}
+		}
+		.moves-select li{
+			font-size:0.9em;
+			width:100%;
+		}
+	}
+	#evolution-3 .stage-item, #evolution-2 .stage-item, #evolution-1 .stage-item, #evolution-eevee .stage-item{
+		padding:0;
+	}
+	evol-state3 .stage, evol-state2 .stage{
+		transform:scale(0.8);
+	}
+	#evolution-eevee{
+		transform:translatex(-1.5em) scale(0.75);
+	}
+}
+
