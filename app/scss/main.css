@@ -3399,52 +3399,65 @@ display {
 #moves .moves-select .move + span {
   padding: 0 0 0 1em; }
 
-evol-state3 {
-  border: red solid 0.1em; }
+evol-state3,
+evol-state2,
+evol-state1,
+evol-state-eevee {
+  width: 100%; }
+  evol-state3 .stage,
+  evol-state2 .stage,
+  evol-state1 .stage,
+  evol-state-eevee .stage {
+    flex: 1; }
+  evol-state3 .stage-item,
+  evol-state2 .stage-item,
+  evol-state1 .stage-item,
+  evol-state-eevee .stage-item {
+    padding: 1em 0; }
+  evol-state3 .condition, evol-state3 .evol-item,
+  evol-state2 .condition,
+  evol-state2 .evol-item,
+  evol-state1 .condition,
+  evol-state1 .evol-item,
+  evol-state-eevee .condition,
+  evol-state-eevee .evol-item {
+    flex: 1; }
+  evol-state3 .condition,
+  evol-state2 .condition,
+  evol-state1 .condition,
+  evol-state-eevee .condition {
+    max-width: 7em; }
+    evol-state3 .condition span,
+    evol-state2 .condition span,
+    evol-state1 .condition span,
+    evol-state-eevee .condition span {
+      font-size: 0.7em; }
+    evol-state3 .condition i,
+    evol-state2 .condition i,
+    evol-state1 .condition i,
+    evol-state-eevee .condition i {
+      font-size: 2em; }
+  evol-state3 .evol-item span,
+  evol-state2 .evol-item span,
+  evol-state1 .evol-item span,
+  evol-state-eevee .evol-item span {
+    display: inline-block;
+    line-height: 4em; }
 
-evol-state3 .stage,
-evol-state2 .stage,
-evol-state1 .stage,
-evol-state-eevee .stage {
-  flex: 1; }
+evolution-2 .stage:nth-child(1) {
+  flex: 0.65; }
 
-evol-state3 .stage-item,
-evol-state2 .stage-item,
-evol-state1 .stage-item,
-evol-state-eevee .stage-item {
-  padding: 1em 0; }
+evolution-3 .stage:nth-child(1) {
+  flex: 0.6; }
 
-evol-state3 .condition, evol-state3 .evol-item,
-evol-state2 .condition,
-evol-state2 .evol-item,
-evol-state1 .condition,
-evol-state1 .evol-item,
-evol-state-eevee .condition,
-evol-state-eevee .evol-item {
-  flex: 1; }
+evolution-eevee .group {
+  transform: scale(0.9); }
 
-evol-state3 .condition,
-evol-state2 .condition,
-evol-state1 .condition,
-evol-state-eevee .condition {
-  max-width: 7em; }
-  evol-state3 .condition span,
-  evol-state2 .condition span,
-  evol-state1 .condition span,
-  evol-state-eevee .condition span {
-    font-size: 0.7em; }
-  evol-state3 .condition i,
-  evol-state2 .condition i,
-  evol-state1 .condition i,
-  evol-state-eevee .condition i {
-    font-size: 2em; }
+evolution-eevee .stage:nth-child(2) {
+  flex: 0.8; }
 
-evol-state3 .evol-item span,
-evol-state2 .evol-item span,
-evol-state1 .evol-item span,
-evol-state-eevee .evol-item span {
-  display: inline-block;
-  line-height: 4em; }
+evolution-eevee .evol-item img {
+  transform: scale(0.8); }
 
 #evolution-3 .stage,
 #evolution-2 .stage,

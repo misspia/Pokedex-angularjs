@@ -38,7 +38,7 @@ gulp.task('browserSync', function() {
 gulp.task('sass', function(){
   return gulp.src('app/scss/main.scss')
     .pipe(sass()) 
-    .pipe(gulp.dest('app/css'))
+    .pipe(gulp.dest('app/scss'))
     .pipe(browserSync.reload({
       stream: true
     }))
@@ -52,6 +52,7 @@ gulp.task('vendor-prefix', function () {
 	];
     return gulp.src('app/css/main.css')
         .pipe(postcss(processors))
+        .pipe(cssnano())
         .pipe(gulp.dest('app/css'));
 });
 
@@ -64,12 +65,6 @@ gulp.task('json', function(){
   return gulp.src('app/json/**/*.json')
   .pipe(jsonminify())
   .pipe(gulp.dest('dist/app/json'))
-});
-
-gulp.task('copy_packages', function() {
-      gulp
-         .src('node_modules/**/*.*')
-         .pipe(gulp.dest('dist/node_modules'));
 });
 
 gulp.task('copyDependencies', function() {
