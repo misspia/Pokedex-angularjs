@@ -50,7 +50,7 @@ pkmApp.directive('mainNav',  function(){
 pkmApp.directive('display',  function(){
 	return {
 		restrict:'E',
-		 templateUrl: '/templates/display.html'
+		 templateUrl: 'app/templates/display.html'
 	};
 });
 pkmApp.directive('background',  function(){

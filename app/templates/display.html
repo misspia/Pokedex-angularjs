@@ -11,9 +11,9 @@
 			<sprite-main ng-show="stateMain==0"></sprite-main>
 		</ul>
 		<ul id="details" class="basic pkm-description-inner row center">
-			<ng-include ng-show="stateMain==0" id ="basic"  class="col space-around" src="'/templates/display/basic.html'"></ng-include>
-			<ng-include ng-show="stateMain==1" id ="moves" class="col center" src="'/templates/display/moves.html'"></ng-include>
-			<ng-include ng-show="stateMain==2" id ="evolution-{{evolState}} " class="row center" src="'/templates/display/evolution.html'"></ng-include>	
+			<ng-include ng-show="stateMain==0" id ="basic"  class="col space-around" src="'app/templates/display/basic.html'"></ng-include>
+			<ng-include ng-show="stateMain==1" id ="moves" class="col center" src="'app/templates/display/moves.html'"></ng-include>
+			<ng-include ng-show="stateMain==2" id ="evolution-{{evolState}} " class="row center" src="'app/templates/display/evolution.html'"></ng-include>	
 		</ul>		
 	</li>	
 </ul>
