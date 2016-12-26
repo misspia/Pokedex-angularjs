@@ -1,5 +1,5 @@
 pkmApp.factory('getData', function($http){
-  var filepath = '../../app/json/';
+  var filepath = 'app/json/';
 	var pkmID = 6;
   var moveDetail = {};
   return{

@@ -1,5 +1,3 @@
-// https://css-tricks.com/gulp-for-beginners/
-
 var gulp = require('gulp');
 var browserSync = require('browser-sync').create();
 
@@ -50,10 +48,10 @@ gulp.task('vendor-prefix', function () {
 	  cssnext,
 	  precss
 	];
-    return gulp.src('app/css/main.css')
+    return gulp.src('app/scss/main.css')
         .pipe(postcss(processors))
         .pipe(cssnano())
-        .pipe(gulp.dest('app/css'));
+        .pipe(gulp.dest('app/scss'));
 });
 
 gulp.task('images', function(){
