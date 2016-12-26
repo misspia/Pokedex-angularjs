@@ -3,10 +3,17 @@
 #evolution-3,
 #evolution-2,
 #evolution-1,
+evol-state3,
+evol-state2,
+evol-state1{
+	width:100%;
+}
+evol-state3,
+evol-state2,
+evol-state1,
 #evolution-eevee{
 	.stage{
 		flex:1;
-		// border:solid 0.1em $fire;
 	}
 	.stage-item{
 		padding:1em 0;
