@@ -22,11 +22,10 @@
   "devDependencies": {
     "browser-sync": "^2.18.2",
     "cssnext": "^1.8.4",
+    "events": "^1.1.1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
-    "gulp-cache": "^0.4.5",
     "gulp-imagemin": "^3.1.1",
-    "gulp-jsonminify": "^1.0.0",
     "gulp-postcss": "^6.2.0",
     "gulp-sass": "^2.3.2",
     "gulp-uglify": "^2.0.0",

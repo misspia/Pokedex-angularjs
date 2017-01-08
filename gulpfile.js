@@ -7,17 +7,15 @@ var uglify = require('gulp-uglify');
 var gulpIf = require('gulp-if');
 var cssnano = require('gulp-cssnano');
 
-var jsonminify = require('gulp-jsonminify');
-var imagemin = require('gulp-imagemin');
-var cache = require('gulp-cache');
-
 var postcss = require('gulp-postcss');
 var autoprefixer = require('autoprefixer');
 var cssnext = require('cssnext');
 var precss = require('precss');
 
+imagemin = require('gulp-imagemin');
+require('events').EventEmitter.prototype._maxListeners = 100;
+
 var runSequence = require('run-sequence');
-var gnf = require('gulp-npm-files');
 
 gulp.task('watch', ['browserSync', 'sass'], function (){
   gulp.watch('app/scss/**/*.scss', ['sass']); 
@@ -54,20 +52,11 @@ gulp.task('vendor-prefix', function () {
         .pipe(gulp.dest('app/scss'));
 });
 
-gulp.task('images', function(){
-  return gulp.src('app/img/*.+(png|gif)')
-  .pipe(gulp.dest('dist/app/img'))
-});
-
-gulp.task('json', function(){
-  return gulp.src('app/json/**/*.json')
-  .pipe(jsonminify())
-  .pipe(gulp.dest('dist/app/json'))
-});
-
-gulp.task('copyDependencies', function() {
-  gulp.src(gnf(), {base:'./'}).pipe(gulp.dest('./dist'));
-});
+gulp.task('minify-images', function() {
+    return gulp.src('app/img/*')
+        .pipe(imagemin())
+        .pipe(gulp.dest('app/img'))
+})
 
 
 gulp.task('autoprefix', function(){
