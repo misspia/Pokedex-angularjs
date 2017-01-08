@@ -1,7 +1,6 @@
 @import 'variables';
-#sprite{
-	// padding: 1em 0;
-}
+
+
 #sprite,
 #evolution-1{
 	.container-sprite{
@@ -11,7 +10,7 @@
 		background-color: $white;
 	}	
 	.container-main-sprite{
-		@include circle(13em);
+		@include circle(12em);
 		box-shadow: 0em 0em 0.9em 0.1em $gray;
 		border:solid 0.5em;
 		transition: all 0.5s;
