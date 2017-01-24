@@ -3573,7 +3573,8 @@ body {
   font-family: "Muli", sans-serif;
   margin: 0;
   overflow: hidden;
-  background-color: #f05c5f; }
+  background-color: #f05c5f;
+  font-size: 0.9em; }
 
 .index {
   width: 100%;
